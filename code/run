@@ -1,17 +1,8 @@
 #!/bin/bash
 set -e
-if [[ $# -ne 1 ]]
-then
-	echo "Usage: run DIR" >&2
-	echo "  DIR = directory where the list of archives (in a git repository) is located" >&2
-	exit 1
-fi
-
-scriptDir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-targetDir="$(cd "$1" && pwd)"
-python3 "${scriptDir}/update.py" "${targetDir}" 2> >(tee "${targetDir}/update.log" >&2)
-scriptRev="$(cd "${scriptDir}" && git rev-parse HEAD)"
-pushd "${targetDir}"
+repoDir="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+python3 "${repoDir}/code/update.py" "${repoDir}/archives/" 2> >(tee "${repoDir}/archives/update.log" >&2)
+pushd "${repoDir}"
 git add .
-git commit -m "Automatic commit by run at ${scriptRev}"
+git commit -m "Automatic commit by run"
 git push
