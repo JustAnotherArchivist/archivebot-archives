@@ -4,6 +4,7 @@ import logging
 import logging.config
 import os
 import re
+import sys
 import time
 
 
@@ -19,6 +20,12 @@ def write_last_update_file(attemptDate, successDate):
 		fp.write(attemptDate + '\n')
 		fp.write('Date of last successful update:\n')
 		fp.write(successDate + '\n')
+
+
+if len(sys.argv) != 2:
+	print('Usage: update.py DIR', file = sys.stderr)
+	print('  DIR = directory where the list of archives is located', file = sys.stderr)
+	sys.exit(1)
 
 
 logging.Formatter.converter = time.gmtime
@@ -47,7 +54,7 @@ logging.config.dictConfig(
 )
 
 
-dataDir = os.path.normpath(os.path.join(os.path.dirname(os.path.realpath(__file__)), '../data/'))
+dataDir = os.path.abspath(sys.argv[1])
 fnPattern = re.compile(r'^.+(-(inf|shallow))?-\d{8}-\d{6}(-\w{5})?.*(\.warc\.gz|\.warc\.os\.cdx\.gz|\.json|-urls\.txt)$') # Based on the one used by the ArchiveBot viewer
 	# The identifier part (\w{5}) was not present in the first few items in the collection, so it's optional.
 	# Similarly, there are some WARCs in the very first item of the collection (archiveteam_archivebot_go_001) which did not include -inf/shallow, and which used the job ID instead of the domain at the beginning.
