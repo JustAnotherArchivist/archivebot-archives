@@ -114,7 +114,7 @@ for i in internetarchive.search_items(query, request_kwargs = {'timeout': 60}).i
 						size = int(f['size'])
 				if 'mtime' not in f: # As above
 					logging.error('Mtime of {} is missing'.format(f['name']))
-					size = None
+					mtime = None
 				else:
 					if not f['mtime'].isdigit():
 						logging.error('Mtime of {} invalid: {!r} is not a positive integer'.format(f['name'], f['mtime']))
