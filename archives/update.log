@@ -1,211 +1,41 @@
-2017-11-11 12:00:01,642 DEBU root Last attempt: 2017-11-11T06:00:02Z
-2017-11-11 12:00:01,642 DEBU root Last success: 2017-11-11T06:00:02Z
-2017-11-11 12:00:01,643 INFO root Writing last-update file
-2017-11-11 12:00:01,643 INFO root Query: 'collection:archivebot oai_updatedate:[2017-11-11T06:00:02Z TO null]'
-2017-11-11 12:00:04,003 INFO root Processing item archiveteam_archivebot_go_20171111030001
-2017-11-11 12:00:04,004 ERRO root Size of addons.mozilla.org-inf-20170829-025732-4aa66-00228.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,004 ERRO root Mtime of addons.mozilla.org-inf-20170829-025732-4aa66-00228.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,004 INFO root Skipping archiveteam_archivebot_go_20171111030001_archive.torrent
-2017-11-11 12:00:04,004 INFO root Skipping archiveteam_archivebot_go_20171111030001_files.xml
-2017-11-11 12:00:04,004 INFO root Skipping archiveteam_archivebot_go_20171111030001_meta.sqlite
-2017-11-11 12:00:04,004 INFO root Skipping archiveteam_archivebot_go_20171111030001_meta.xml
-2017-11-11 12:00:04,004 ERRO root Size of buchanan.org-inf-20171110-112142-6suhc-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,004 ERRO root Mtime of buchanan.org-inf-20171110-112142-6suhc-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,004 ERRO root Size of buchanan.org-inf-20171110-112142-6suhc-00001.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,005 ERRO root Mtime of buchanan.org-inf-20171110-112142-6suhc-00001.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,005 ERRO root Size of buchanan.org-inf-20171110-112142-6suhc-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,005 ERRO root Mtime of buchanan.org-inf-20171110-112142-6suhc-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,005 ERRO root Size of chicagoist.com-inf-20171104-145621-czl4j-00023.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,005 ERRO root Mtime of chicagoist.com-inf-20171104-145621-czl4j-00023.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,005 ERRO root Size of cocolapinedesign.com-inf-20171110-133431-9zcym-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,005 ERRO root Mtime of cocolapinedesign.com-inf-20171110-133431-9zcym-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,005 ERRO root Size of en.metapedia.org-inf-20171107-163822-6xgc1-00005.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,005 ERRO root Mtime of en.metapedia.org-inf-20171107-163822-6xgc1-00005.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,005 ERRO root Size of ftp.linux-magazine.com-inf-20171110-193018-7lni8-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,006 ERRO root Mtime of ftp.linux-magazine.com-inf-20171110-193018-7lni8-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,006 ERRO root Size of ftp.linux-magazine.com-inf-20171110-193018-7lni8-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,006 ERRO root Mtime of ftp.linux-magazine.com-inf-20171110-193018-7lni8-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,006 ERRO root Size of github.com-inf-20171110-205756-2i0yj-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,006 ERRO root Mtime of github.com-inf-20171110-205756-2i0yj-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,006 ERRO root Size of github.com-inf-20171110-205756-2i0yj-00001.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,006 ERRO root Mtime of github.com-inf-20171110-205756-2i0yj-00001.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,006 ERRO root Size of github.com-inf-20171110-205756-2i0yj-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,006 ERRO root Mtime of github.com-inf-20171110-205756-2i0yj-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,006 ERRO root Size of gizmodo.com-shallow-20171110-141812-9r1po-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,006 ERRO root Mtime of gizmodo.com-shallow-20171110-141812-9r1po-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,006 ERRO root Size of gizmodo.com-shallow-20171110-141812-9r1po-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,007 ERRO root Mtime of gizmodo.com-shallow-20171110-141812-9r1po-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,007 ERRO root Size of oeis.org-inf-20171109-033953-dl2sr-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,007 ERRO root Mtime of oeis.org-inf-20171109-033953-dl2sr-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,007 ERRO root Size of orgsync.com-inf-20171111-005959-dof8t-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,007 ERRO root Mtime of orgsync.com-inf-20171111-005959-dof8t-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,007 ERRO root Size of orgsync.com-inf-20171111-005959-dof8t-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,007 ERRO root Mtime of orgsync.com-inf-20171111-005959-dof8t-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,007 ERRO root Size of savvyhomeblog.com-inf-20171110-141515-ewaos-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,008 ERRO root Mtime of savvyhomeblog.com-inf-20171110-141515-ewaos-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,008 ERRO root Size of skillclient.com-inf-20171110-205651-865aj-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,008 ERRO root Mtime of skillclient.com-inf-20171110-205651-865aj-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,008 ERRO root Size of skillclient.com-inf-20171110-205651-865aj-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,008 ERRO root Mtime of skillclient.com-inf-20171110-205651-865aj-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,008 ERRO root Size of twitter.com-inf-20171110-122158-c5nmh-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,008 ERRO root Mtime of twitter.com-inf-20171110-122158-c5nmh-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,008 ERRO root Size of twitter.com-inf-20171110-122158-c5nmh-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,008 ERRO root Mtime of twitter.com-inf-20171110-122158-c5nmh-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,008 ERRO root Size of twitter.com-inf-20171110-125550-67vuf-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,008 ERRO root Mtime of twitter.com-inf-20171110-125550-67vuf-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,008 ERRO root Size of twitter.com-inf-20171110-125550-67vuf-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,008 ERRO root Mtime of twitter.com-inf-20171110-125550-67vuf-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,008 ERRO root Size of twitter.com-inf-20171110-130105-ahuu9-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,008 ERRO root Mtime of twitter.com-inf-20171110-130105-ahuu9-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,009 ERRO root Size of twitter.com-inf-20171110-130105-ahuu9-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,009 ERRO root Mtime of twitter.com-inf-20171110-130105-ahuu9-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,009 ERRO root Size of twitter.com-inf-20171110-130331-3jrzl-aborted-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,009 ERRO root Mtime of twitter.com-inf-20171110-130331-3jrzl-aborted-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,009 ERRO root Size of twitter.com-inf-20171110-130459-3psem-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,009 ERRO root Mtime of twitter.com-inf-20171110-130459-3psem-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,009 ERRO root Size of twitter.com-inf-20171110-130459-3psem-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,009 ERRO root Mtime of twitter.com-inf-20171110-130459-3psem-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,010 ERRO root Size of twitter.com-inf-20171110-132134-61ty7-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,010 ERRO root Mtime of twitter.com-inf-20171110-132134-61ty7-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,010 ERRO root Size of twitter.com-inf-20171110-132134-61ty7-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,010 ERRO root Mtime of twitter.com-inf-20171110-132134-61ty7-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,010 ERRO root Size of twitter.com-inf-20171110-135034-5paz6-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,010 ERRO root Mtime of twitter.com-inf-20171110-135034-5paz6-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,010 ERRO root Size of twitter.com-inf-20171110-135034-5paz6-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,010 ERRO root Mtime of twitter.com-inf-20171110-135034-5paz6-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,010 ERRO root Size of twitter.com-inf-20171110-135559-ch67q-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,010 ERRO root Mtime of twitter.com-inf-20171110-135559-ch67q-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,010 ERRO root Size of twitter.com-inf-20171110-135559-ch67q-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,010 ERRO root Mtime of twitter.com-inf-20171110-135559-ch67q-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,011 ERRO root Size of twitter.com-inf-20171110-140557-9vx3z-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,011 ERRO root Mtime of twitter.com-inf-20171110-140557-9vx3z-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,011 ERRO root Size of twitter.com-inf-20171110-140557-9vx3z-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,011 ERRO root Mtime of twitter.com-inf-20171110-140557-9vx3z-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,011 ERRO root Size of twitter.com-inf-20171110-190201-bae5h-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,011 ERRO root Mtime of twitter.com-inf-20171110-190201-bae5h-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,011 ERRO root Size of twitter.com-inf-20171110-190201-bae5h-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,011 ERRO root Mtime of twitter.com-inf-20171110-190201-bae5h-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,011 ERRO root Size of twitter.com-inf-20171110-212143-b959d-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,011 ERRO root Mtime of twitter.com-inf-20171110-212143-b959d-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,011 ERRO root Size of twitter.com-inf-20171110-212143-b959d-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,011 ERRO root Mtime of twitter.com-inf-20171110-212143-b959d-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,011 ERRO root Size of twitter.com-inf-20171110-214549-c0sdu-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,011 ERRO root Mtime of twitter.com-inf-20171110-214549-c0sdu-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,011 ERRO root Size of twitter.com-inf-20171110-214549-c0sdu-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,011 ERRO root Mtime of twitter.com-inf-20171110-214549-c0sdu-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,012 ERRO root Size of twitter.com-inf-20171110-215615-6e3ac-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,012 ERRO root Mtime of twitter.com-inf-20171110-215615-6e3ac-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,012 ERRO root Size of twitter.com-inf-20171110-215615-6e3ac-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,012 ERRO root Mtime of twitter.com-inf-20171110-215615-6e3ac-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,012 ERRO root Size of twitter.com-inf-20171110-220237-3kkg6-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,012 ERRO root Mtime of twitter.com-inf-20171110-220237-3kkg6-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,012 ERRO root Size of twitter.com-inf-20171110-220237-3kkg6-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,012 ERRO root Mtime of twitter.com-inf-20171110-220237-3kkg6-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,012 ERRO root Size of twitter.com-shallow-20171111-013844-3oa9q-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,012 ERRO root Mtime of twitter.com-shallow-20171111-013844-3oa9q-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,013 ERRO root Size of twitter.com-shallow-20171111-013844-3oa9q-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,013 ERRO root Mtime of twitter.com-shallow-20171111-013844-3oa9q-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,013 ERRO root Size of twitter.com-shallow-20171111-013900-34rw5-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,013 ERRO root Mtime of twitter.com-shallow-20171111-013900-34rw5-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,013 ERRO root Size of twitter.com-shallow-20171111-013900-34rw5-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,013 ERRO root Mtime of twitter.com-shallow-20171111-013900-34rw5-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,013 ERRO root Size of urls-a.uguu.se-qjA3zn0eZe00_nn.txt-shallow-20171110-163359-3o40z-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,013 ERRO root Mtime of urls-a.uguu.se-qjA3zn0eZe00_nn.txt-shallow-20171110-163359-3o40z-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,014 ERRO root Size of urls-a.uguu.se-qjA3zn0eZe00_nn.txt-shallow-20171110-163359-3o40z-00001.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,014 ERRO root Mtime of urls-a.uguu.se-qjA3zn0eZe00_nn.txt-shallow-20171110-163359-3o40z-00001.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,014 ERRO root Size of urls-a.uguu.se-qjA3zn0eZe00_nn.txt-shallow-20171110-163359-3o40z-00002.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,014 ERRO root Mtime of urls-a.uguu.se-qjA3zn0eZe00_nn.txt-shallow-20171110-163359-3o40z-00002.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,014 ERRO root Size of urls-a.uguu.se-qjA3zn0eZe00_nn.txt-shallow-20171110-163359-3o40z-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,014 ERRO root Mtime of urls-a.uguu.se-qjA3zn0eZe00_nn.txt-shallow-20171110-163359-3o40z-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,014 ERRO root Size of webwork.asu.edu-inf-20171110-130108-cnumt-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,014 ERRO root Mtime of webwork.asu.edu-inf-20171110-130108-cnumt-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,015 ERRO root Size of webwork.asu.edu-inf-20171110-130108-cnumt-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,015 ERRO root Mtime of webwork.asu.edu-inf-20171110-130108-cnumt-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,015 ERRO root Size of webwork.augustana.edu-inf-20171110-192024-a7djx-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,015 ERRO root Mtime of webwork.augustana.edu-inf-20171110-192024-a7djx-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,015 ERRO root Size of webwork.augustana.edu-inf-20171110-192024-a7djx-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,015 ERRO root Mtime of webwork.augustana.edu-inf-20171110-192024-a7djx-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,015 ERRO root Size of webwork.collegeofidaho.edu-inf-20171110-130339-48ldt-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,015 ERRO root Mtime of webwork.collegeofidaho.edu-inf-20171110-130339-48ldt-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,015 ERRO root Size of webwork.collegeofidaho.edu-inf-20171110-130339-48ldt-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,016 ERRO root Mtime of webwork.collegeofidaho.edu-inf-20171110-130339-48ldt-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,016 ERRO root Size of webwork.kwc.edu-inf-20171110-191236-80zve-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,016 ERRO root Mtime of webwork.kwc.edu-inf-20171110-191236-80zve-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,016 ERRO root Size of webwork.kwc.edu-inf-20171110-191236-80zve-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,016 ERRO root Mtime of webwork.kwc.edu-inf-20171110-191236-80zve-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,016 ERRO root Size of webwork.pcc.edu-inf-20171110-142217-6roj2-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,016 ERRO root Mtime of webwork.pcc.edu-inf-20171110-142217-6roj2-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,016 ERRO root Size of webwork.pcc.edu-inf-20171110-142217-6roj2-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,016 ERRO root Mtime of webwork.pcc.edu-inf-20171110-142217-6roj2-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,016 ERRO root Size of webwork.smith.edu-inf-20171110-153444-9t4m5-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,016 ERRO root Mtime of webwork.smith.edu-inf-20171110-153444-9t4m5-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,016 ERRO root Size of webwork.smith.edu-inf-20171110-153444-9t4m5-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,016 ERRO root Mtime of webwork.smith.edu-inf-20171110-153444-9t4m5-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,016 ERRO root Size of webwork.uwyo.edu-inf-20171110-141622-4prwk-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,016 ERRO root Mtime of webwork.uwyo.edu-inf-20171110-141622-4prwk-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,016 ERRO root Size of webwork.uwyo.edu-inf-20171110-141622-4prwk-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,016 ERRO root Mtime of webwork.uwyo.edu-inf-20171110-141622-4prwk-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,016 ERRO root Size of wikileaks.org-shallow-20171110-120328-2tsje-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,017 ERRO root Mtime of wikileaks.org-shallow-20171110-120328-2tsje-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,017 ERRO root Size of wtop.com-shallow-20171110-230901-c7oc9-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,017 ERRO root Mtime of wtop.com-shallow-20171110-230901-c7oc9-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,017 ERRO root Size of wtop.com-shallow-20171110-230901-c7oc9-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,017 ERRO root Mtime of wtop.com-shallow-20171110-230901-c7oc9-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,017 ERRO root Size of www.accessnow.org-inf-20171109-034005-bkrlp-00004.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,017 ERRO root Mtime of www.accessnow.org-inf-20171109-034005-bkrlp-00004.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,018 ERRO root Size of www.accessnow.org-inf-20171109-034005-bkrlp-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,018 ERRO root Mtime of www.accessnow.org-inf-20171109-034005-bkrlp-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,018 ERRO root Size of www.animalliberationfront.com-inf-20171106-113435-ags5u-00022.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,018 ERRO root Mtime of www.animalliberationfront.com-inf-20171106-113435-ags5u-00022.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,018 ERRO root Size of www.animalliberationfront.com-inf-20171106-113435-ags5u-00023.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,018 ERRO root Mtime of www.animalliberationfront.com-inf-20171106-113435-ags5u-00023.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,018 ERRO root Size of www.archives.nyc-inf-20171110-101534-1h9aq-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,018 ERRO root Mtime of www.archives.nyc-inf-20171110-101534-1h9aq-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,018 ERRO root Size of www.businessinsider.com-shallow-20171110-134011-1a6r4-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,018 ERRO root Mtime of www.businessinsider.com-shallow-20171110-134011-1a6r4-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,018 ERRO root Size of www.businessinsider.com-shallow-20171110-134011-1a6r4-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,018 ERRO root Mtime of www.businessinsider.com-shallow-20171110-134011-1a6r4-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,018 ERRO root Size of www.citypaper.com-inf-20171102-233207-at569-00037.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,018 ERRO root Mtime of www.citypaper.com-inf-20171102-233207-at569-00037.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,018 ERRO root Size of www.citypaper.com-inf-20171102-233207-at569-00038.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,018 ERRO root Mtime of www.citypaper.com-inf-20171102-233207-at569-00038.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,019 ERRO root Size of www.citypaper.com-inf-20171102-233207-at569-00039.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,019 ERRO root Mtime of www.citypaper.com-inf-20171102-233207-at569-00039.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,019 ERRO root Size of www.docnow.io-inf-20171110-223040-71gh0-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,019 ERRO root Mtime of www.docnow.io-inf-20171110-223040-71gh0-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,019 ERRO root Size of www.docnow.io-inf-20171110-223040-71gh0-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,019 ERRO root Mtime of www.docnow.io-inf-20171110-223040-71gh0-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,019 ERRO root Size of www.facebook.com-shallow-20171111-014042-btjkw-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,019 ERRO root Mtime of www.facebook.com-shallow-20171111-014042-btjkw-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,019 ERRO root Size of www.facebook.com-shallow-20171111-014042-btjkw-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,020 ERRO root Mtime of www.facebook.com-shallow-20171111-014042-btjkw-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,020 ERRO root Size of www.gofundme.com-shallow-20171110-203043-9xp4g-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,020 ERRO root Mtime of www.gofundme.com-shallow-20171110-203043-9xp4g-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,020 ERRO root Size of www.gofundme.com-shallow-20171110-203043-9xp4g-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,020 ERRO root Mtime of www.gofundme.com-shallow-20171110-203043-9xp4g-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,020 ERRO root Size of www.naciodigital.cat-inf-20170919-214300-247yw-00090.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,020 ERRO root Mtime of www.naciodigital.cat-inf-20170919-214300-247yw-00090.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,020 ERRO root Size of www.naphsis.org-inf-20171110-204123-4rz3s-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,020 ERRO root Mtime of www.naphsis.org-inf-20171110-204123-4rz3s-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,020 ERRO root Size of www.naphsis.org-inf-20171110-204123-4rz3s-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,020 ERRO root Mtime of www.naphsis.org-inf-20171110-204123-4rz3s-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,020 ERRO root Size of www.northkoreatech.org-inf-20171110-012017-2al2o-00001.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,020 ERRO root Mtime of www.northkoreatech.org-inf-20171110-012017-2al2o-00001.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,020 ERRO root Size of www.northkoreatech.org-inf-20171110-012017-2al2o-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,020 ERRO root Mtime of www.northkoreatech.org-inf-20171110-012017-2al2o-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,020 ERRO root Size of www.npr.org-shallow-20171111-003832-3vg2t-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,020 ERRO root Mtime of www.npr.org-shallow-20171111-003832-3vg2t-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,021 ERRO root Size of www.npr.org-shallow-20171111-003832-3vg2t-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,021 ERRO root Mtime of www.npr.org-shallow-20171111-003832-3vg2t-meta.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,021 ERRO root Size of www.oldbrandnew.com-inf-20171110-140735-clbm3-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,021 ERRO root Mtime of www.oldbrandnew.com-inf-20171110-140735-clbm3-00000.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,021 ERRO root Size of www.oldbrandnew.com-inf-20171110-140735-clbm3-00001.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,021 ERRO root Mtime of www.oldbrandnew.com-inf-20171110-140735-clbm3-00001.warc.os.cdx.gz is missing
-2017-11-11 12:00:04,238 INFO root Processing item astrid_archivebot_ispydiy_com_20171109
-2017-11-11 12:00:04,239 INFO root Skipping astrid_archivebot_ispydiy_com_20171109.cdx.idx
-2017-11-11 12:00:04,239 INFO root Skipping astrid_archivebot_ispydiy_com_20171109_archive.torrent
-2017-11-11 12:00:04,239 INFO root Skipping astrid_archivebot_ispydiy_com_20171109_files.xml
-2017-11-11 12:00:04,239 INFO root Skipping astrid_archivebot_ispydiy_com_20171109_meta.sqlite
-2017-11-11 12:00:04,239 INFO root Skipping astrid_archivebot_ispydiy_com_20171109_meta.xml
-2017-11-11 12:00:04,239 INFO root Writing last-update file
-2017-11-11 12:00:04,240 INFO root Done
+2017-11-11 18:00:02,118 DEBU root Last attempt: 2017-11-11T12:00:01Z
+2017-11-11 18:00:02,118 DEBU root Last success: 2017-11-11T12:00:01Z
+2017-11-11 18:00:02,118 INFO root Writing last-update file
+2017-11-11 18:00:02,118 INFO root Query: 'collection:archivebot oai_updatedate:[2017-11-11T12:00:01Z TO null]'
+2017-11-11 18:00:04,041 INFO root Processing item archiveteam_archivebot_go_20171111030001
+2017-11-11 18:00:04,041 INFO root Skipping archiveteam_archivebot_go_20171111030001.cdx.idx
+2017-11-11 18:00:04,042 INFO root Skipping archiveteam_archivebot_go_20171111030001_archive.torrent
+2017-11-11 18:00:04,042 INFO root Skipping archiveteam_archivebot_go_20171111030001_files.xml
+2017-11-11 18:00:04,042 INFO root Skipping archiveteam_archivebot_go_20171111030001_meta.sqlite
+2017-11-11 18:00:04,042 INFO root Skipping archiveteam_archivebot_go_20171111030001_meta.xml
+2017-11-11 18:00:04,277 INFO root Processing item archiveteam_archivebot_go_20171111160001
+2017-11-11 18:00:04,278 INFO root Skipping archiveteam_archivebot_go_20171111160001_archive.torrent
+2017-11-11 18:00:04,278 INFO root Skipping archiveteam_archivebot_go_20171111160001_files.xml
+2017-11-11 18:00:04,278 INFO root Skipping archiveteam_archivebot_go_20171111160001_meta.sqlite
+2017-11-11 18:00:04,278 INFO root Skipping archiveteam_archivebot_go_20171111160001_meta.xml
+2017-11-11 18:00:04,510 INFO root Processing item astrid_archivebot_ispydiy_com_20171109
+2017-11-11 18:00:04,512 INFO root Skipping astrid_archivebot_ispydiy_com_20171109.cdx.idx
+2017-11-11 18:00:04,512 INFO root Skipping astrid_archivebot_ispydiy_com_20171109_archive.torrent
+2017-11-11 18:00:04,512 INFO root Skipping astrid_archivebot_ispydiy_com_20171109_files.xml
+2017-11-11 18:00:04,512 INFO root Skipping astrid_archivebot_ispydiy_com_20171109_meta.sqlite
+2017-11-11 18:00:04,512 INFO root Skipping astrid_archivebot_ispydiy_com_20171109_meta.xml
+2017-11-11 18:00:04,912 INFO root Processing item falconk_archivebot_argentina_indymedia_org_20170827
+2017-11-11 18:00:04,915 INFO root Skipping falconk_archivebot_argentina_indymedia_org_20170827.cdx.idx
+2017-11-11 18:00:04,916 INFO root Skipping falconk_archivebot_argentina_indymedia_org_20170827_archive.torrent
+2017-11-11 18:00:04,916 INFO root Skipping falconk_archivebot_argentina_indymedia_org_20170827_files.xml
+2017-11-11 18:00:04,916 INFO root Skipping falconk_archivebot_argentina_indymedia_org_20170827_meta.sqlite
+2017-11-11 18:00:04,916 INFO root Skipping falconk_archivebot_argentina_indymedia_org_20170827_meta.xml
+2017-11-11 18:00:05,137 INFO root Processing item falconk_archivebot_www_msfn_org_20170824
+2017-11-11 18:00:05,140 INFO root Skipping falconk_archivebot_www_msfn_org_20170824.cdx.idx
+2017-11-11 18:00:05,141 INFO root Skipping falconk_archivebot_www_msfn_org_20170824_archive.torrent
+2017-11-11 18:00:05,141 INFO root Skipping falconk_archivebot_www_msfn_org_20170824_files.xml
+2017-11-11 18:00:05,141 INFO root Skipping falconk_archivebot_www_msfn_org_20170824_meta.sqlite
+2017-11-11 18:00:05,141 INFO root Skipping falconk_archivebot_www_msfn_org_20170824_meta.xml
+2017-11-11 18:00:05,590 INFO root Processing item falconk_archivebot_www_uppsatser_se_20170829
+2017-11-11 18:00:05,590 INFO root Skipping falconk_archivebot_www_uppsatser_se_20170829.cdx.idx
+2017-11-11 18:00:05,590 INFO root Skipping falconk_archivebot_www_uppsatser_se_20170829_archive.torrent
+2017-11-11 18:00:05,590 INFO root Skipping falconk_archivebot_www_uppsatser_se_20170829_files.xml
+2017-11-11 18:00:05,590 INFO root Skipping falconk_archivebot_www_uppsatser_se_20170829_meta.sqlite
+2017-11-11 18:00:05,590 INFO root Skipping falconk_archivebot_www_uppsatser_se_20170829_meta.xml
+2017-11-11 18:00:05,592 INFO root Writing last-update file
+2017-11-11 18:00:05,592 INFO root Done
