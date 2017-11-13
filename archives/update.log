@@ -1,41 +1,43 @@
-2017-11-12 18:00:01,777 DEBU root Last attempt: 2017-11-12T12:00:01Z
-2017-11-12 18:00:01,777 DEBU root Last success: 2017-11-12T12:00:01Z
-2017-11-12 18:00:01,777 INFO root Writing last-update file
-2017-11-12 18:00:01,778 INFO root Query: 'collection:archivebot oai_updatedate:[2017-11-12T12:00:01Z TO null]'
-2017-11-12 18:00:04,006 INFO root Processing item archiveteam_archivebot_go_20171112090001
-2017-11-12 18:00:04,006 INFO root Skipping archiveteam_archivebot_go_20171112090001_archive.torrent
-2017-11-12 18:00:04,006 INFO root Skipping archiveteam_archivebot_go_20171112090001_files.xml
-2017-11-12 18:00:04,006 INFO root Skipping archiveteam_archivebot_go_20171112090001_meta.sqlite
-2017-11-12 18:00:04,006 INFO root Skipping archiveteam_archivebot_go_20171112090001_meta.xml
-2017-11-12 18:00:04,233 INFO root Processing item astrid_archivebot_ispydiy_com_20171109
-2017-11-12 18:00:04,234 INFO root Skipping astrid_archivebot_ispydiy_com_20171109.cdx.idx
-2017-11-12 18:00:04,234 INFO root Skipping astrid_archivebot_ispydiy_com_20171109_archive.torrent
-2017-11-12 18:00:04,234 INFO root Skipping astrid_archivebot_ispydiy_com_20171109_files.xml
-2017-11-12 18:00:04,234 INFO root Skipping astrid_archivebot_ispydiy_com_20171109_meta.sqlite
-2017-11-12 18:00:04,234 INFO root Skipping astrid_archivebot_ispydiy_com_20171109_meta.xml
-2017-11-12 18:00:04,457 INFO root Processing item astrid_archivebot_laisifinwen_wz_cz_20171112
-2017-11-12 18:00:04,457 INFO root Skipping astrid_archivebot_laisifinwen_wz_cz_20171112.cdx.idx
-2017-11-12 18:00:04,457 INFO root Skipping astrid_archivebot_laisifinwen_wz_cz_20171112_archive.torrent
-2017-11-12 18:00:04,457 INFO root Skipping astrid_archivebot_laisifinwen_wz_cz_20171112_files.xml
-2017-11-12 18:00:04,457 INFO root Skipping astrid_archivebot_laisifinwen_wz_cz_20171112_meta.sqlite
-2017-11-12 18:00:04,458 INFO root Skipping astrid_archivebot_laisifinwen_wz_cz_20171112_meta.xml
-2017-11-12 18:00:04,687 INFO root Processing item astrid_archivebot_spot_pcc_edu_20171112
-2017-11-12 18:00:04,688 INFO root Skipping astrid_archivebot_spot_pcc_edu_20171112.cdx.idx
-2017-11-12 18:00:04,688 INFO root Skipping astrid_archivebot_spot_pcc_edu_20171112_archive.torrent
-2017-11-12 18:00:04,688 INFO root Skipping astrid_archivebot_spot_pcc_edu_20171112_files.xml
-2017-11-12 18:00:04,688 INFO root Skipping astrid_archivebot_spot_pcc_edu_20171112_meta.sqlite
-2017-11-12 18:00:04,688 INFO root Skipping astrid_archivebot_spot_pcc_edu_20171112_meta.xml
-2017-11-12 18:00:04,918 INFO root Processing item astrid_archivebot_stavarisro_wz_cz_20171112
-2017-11-12 18:00:04,919 INFO root Skipping astrid_archivebot_stavarisro_wz_cz_20171112.cdx.idx
-2017-11-12 18:00:04,919 INFO root Skipping astrid_archivebot_stavarisro_wz_cz_20171112_archive.torrent
-2017-11-12 18:00:04,919 INFO root Skipping astrid_archivebot_stavarisro_wz_cz_20171112_files.xml
-2017-11-12 18:00:04,919 INFO root Skipping astrid_archivebot_stavarisro_wz_cz_20171112_meta.sqlite
-2017-11-12 18:00:04,919 INFO root Skipping astrid_archivebot_stavarisro_wz_cz_20171112_meta.xml
-2017-11-12 18:00:05,126 INFO root Processing item falconk_archivebot_www_uppsatser_se_20170829
-2017-11-12 18:00:05,127 INFO root Skipping falconk_archivebot_www_uppsatser_se_20170829.cdx.idx
-2017-11-12 18:00:05,127 INFO root Skipping falconk_archivebot_www_uppsatser_se_20170829_archive.torrent
-2017-11-12 18:00:05,127 INFO root Skipping falconk_archivebot_www_uppsatser_se_20170829_files.xml
-2017-11-12 18:00:05,127 INFO root Skipping falconk_archivebot_www_uppsatser_se_20170829_meta.sqlite
-2017-11-12 18:00:05,127 INFO root Skipping falconk_archivebot_www_uppsatser_se_20170829_meta.xml
-2017-11-12 18:00:05,129 INFO root Writing last-update file
-2017-11-12 18:00:05,129 INFO root Done
+2017-11-13 00:00:01,465 DEBU root Last attempt: 2017-11-12T18:00:01Z
+2017-11-13 00:00:01,466 DEBU root Last success: 2017-11-12T18:00:01Z
+2017-11-13 00:00:01,466 INFO root Writing last-update file
+2017-11-13 00:00:01,466 INFO root Query: 'collection:archivebot oai_updatedate:[2017-11-12T18:00:01Z TO null]'
+2017-11-13 00:00:04,281 INFO root Processing item archiveteam_archivebot_go_20171112190001
+2017-11-13 00:00:04,281 ERRO root Size of adams.dm.unipi.it-inf-20171112-073742-4l14d-00000.warc.os.cdx.gz is missing
+2017-11-13 00:00:04,282 ERRO root Mtime of adams.dm.unipi.it-inf-20171112-073742-4l14d-00000.warc.os.cdx.gz is missing
+2017-11-13 00:00:04,282 INFO root Skipping archiveteam_archivebot_go_20171112190001_archive.torrent
+2017-11-13 00:00:04,282 INFO root Skipping archiveteam_archivebot_go_20171112190001_files.xml
+2017-11-13 00:00:04,282 INFO root Skipping archiveteam_archivebot_go_20171112190001_meta.sqlite
+2017-11-13 00:00:04,282 INFO root Skipping archiveteam_archivebot_go_20171112190001_meta.xml
+2017-11-13 00:00:04,282 ERRO root Size of bbs.vslib.cz-inf-20171112-080106-1016q-00000.warc.os.cdx.gz is missing
+2017-11-13 00:00:04,282 ERRO root Mtime of bbs.vslib.cz-inf-20171112-080106-1016q-00000.warc.os.cdx.gz is missing
+2017-11-13 00:00:04,282 ERRO root Size of bbs.vslib.cz-inf-20171112-080106-1016q-meta.warc.os.cdx.gz is missing
+2017-11-13 00:00:04,282 ERRO root Mtime of bbs.vslib.cz-inf-20171112-080106-1016q-meta.warc.os.cdx.gz is missing
+2017-11-13 00:00:04,282 ERRO root Size of canberravege.blogspot.com-inf-20171112-092652-e9h5m-meta.warc.os.cdx.gz is missing
+2017-11-13 00:00:04,282 ERRO root Mtime of canberravege.blogspot.com-inf-20171112-092652-e9h5m-meta.warc.os.cdx.gz is missing
+2017-11-13 00:00:04,666 INFO root Processing item astrid_archivebot_rannisedmicka_wz_cz_20171112
+2017-11-13 00:00:04,671 INFO root Skipping astrid_archivebot_rannisedmicka_wz_cz_20171112.cdx.idx
+2017-11-13 00:00:04,671 INFO root Skipping astrid_archivebot_rannisedmicka_wz_cz_20171112_archive.torrent
+2017-11-13 00:00:04,671 INFO root Skipping astrid_archivebot_rannisedmicka_wz_cz_20171112_files.xml
+2017-11-13 00:00:04,671 INFO root Skipping astrid_archivebot_rannisedmicka_wz_cz_20171112_meta.sqlite
+2017-11-13 00:00:04,671 INFO root Skipping astrid_archivebot_rannisedmicka_wz_cz_20171112_meta.xml
+2017-11-13 00:00:05,774 INFO root Processing item astrid_archivebot_www_sephardic_pt_20171112
+2017-11-13 00:00:05,774 INFO root Skipping astrid_archivebot_www_sephardic_pt_20171112.cdx.idx
+2017-11-13 00:00:05,774 INFO root Skipping astrid_archivebot_www_sephardic_pt_20171112_archive.torrent
+2017-11-13 00:00:05,775 INFO root Skipping astrid_archivebot_www_sephardic_pt_20171112_files.xml
+2017-11-13 00:00:05,775 INFO root Skipping astrid_archivebot_www_sephardic_pt_20171112_meta.sqlite
+2017-11-13 00:00:05,775 INFO root Skipping astrid_archivebot_www_sephardic_pt_20171112_meta.xml
+2017-11-13 00:00:06,167 INFO root Processing item falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714
+2017-11-13 00:00:06,167 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714.cdx.idx
+2017-11-13 00:00:06,167 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_archive.torrent
+2017-11-13 00:00:06,167 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_files.xml
+2017-11-13 00:00:06,167 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_meta.sqlite
+2017-11-13 00:00:06,167 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_meta.xml
+2017-11-13 00:00:06,770 INFO root Processing item falconk_archivebot_www_vilaweb_cat_20170919
+2017-11-13 00:00:06,771 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919.cdx.idx
+2017-11-13 00:00:06,771 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919_archive.torrent
+2017-11-13 00:00:06,771 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919_files.xml
+2017-11-13 00:00:06,771 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919_meta.sqlite
+2017-11-13 00:00:06,771 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919_meta.xml
+2017-11-13 00:00:06,776 INFO root Writing last-update file
+2017-11-13 00:00:06,777 INFO root Done
