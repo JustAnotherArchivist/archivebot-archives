@@ -1,18 +1,208 @@
-2017-11-22 18:00:01,596 DEBU root Last attempt: 2017-11-22T12:00:01Z
-2017-11-22 18:00:01,598 DEBU root Last success: 2017-11-22T12:00:01Z
-2017-11-22 18:00:01,598 INFO root Writing last-update file
-2017-11-22 18:00:01,598 INFO root Query: 'collection:archivebot oai_updatedate:[2017-11-22T12:00:01Z TO null]'
-2017-11-22 18:00:04,201 INFO root Processing item falconk_archivebot_argentina_indymedia_org_20170827
-2017-11-22 18:00:04,204 INFO root Skipping falconk_archivebot_argentina_indymedia_org_20170827.cdx.idx
-2017-11-22 18:00:04,204 INFO root Skipping falconk_archivebot_argentina_indymedia_org_20170827_archive.torrent
-2017-11-22 18:00:04,204 INFO root Skipping falconk_archivebot_argentina_indymedia_org_20170827_files.xml
-2017-11-22 18:00:04,205 INFO root Skipping falconk_archivebot_argentina_indymedia_org_20170827_meta.sqlite
-2017-11-22 18:00:04,205 INFO root Skipping falconk_archivebot_argentina_indymedia_org_20170827_meta.xml
-2017-11-22 18:00:04,425 INFO root Processing item falconk_archivebot_www_vilaweb_cat_20170919
-2017-11-22 18:00:04,425 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919.cdx.idx
-2017-11-22 18:00:04,425 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919_archive.torrent
-2017-11-22 18:00:04,425 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919_files.xml
-2017-11-22 18:00:04,426 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919_meta.sqlite
-2017-11-22 18:00:04,426 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919_meta.xml
-2017-11-22 18:00:04,429 INFO root Writing last-update file
-2017-11-22 18:00:04,429 INFO root Done
+2017-11-23 00:00:02,169 DEBU root Last attempt: 2017-11-22T18:00:01Z
+2017-11-23 00:00:02,169 DEBU root Last success: 2017-11-22T18:00:01Z
+2017-11-23 00:00:02,169 INFO root Writing last-update file
+2017-11-23 00:00:02,170 INFO root Query: 'collection:archivebot oai_updatedate:[2017-11-22T18:00:01Z TO null]'
+2017-11-23 00:00:04,350 INFO root Processing item archiveteam_archivebot_go_20171119130002
+2017-11-23 00:00:04,351 INFO root Skipping archiveteam_archivebot_go_20171119130002_archive.torrent
+2017-11-23 00:00:04,351 INFO root Skipping archiveteam_archivebot_go_20171119130002_files.xml
+2017-11-23 00:00:04,351 INFO root Skipping archiveteam_archivebot_go_20171119130002_meta.sqlite
+2017-11-23 00:00:04,351 INFO root Skipping archiveteam_archivebot_go_20171119130002_meta.xml
+2017-11-23 00:00:04,707 INFO root Processing item astrid_archivebot_andymarkup_github_io_20171119
+2017-11-23 00:00:04,708 INFO root Skipping astrid_archivebot_andymarkup_github_io_20171119.cdx.idx
+2017-11-23 00:00:04,708 INFO root Skipping astrid_archivebot_andymarkup_github_io_20171119_archive.torrent
+2017-11-23 00:00:04,708 INFO root Skipping astrid_archivebot_andymarkup_github_io_20171119_files.xml
+2017-11-23 00:00:04,708 INFO root Skipping astrid_archivebot_andymarkup_github_io_20171119_meta.sqlite
+2017-11-23 00:00:04,708 INFO root Skipping astrid_archivebot_andymarkup_github_io_20171119_meta.xml
+2017-11-23 00:00:04,894 INFO root Processing item astrid_archivebot_arcanetimes_com_20171117
+2017-11-23 00:00:04,895 INFO root Skipping astrid_archivebot_arcanetimes_com_20171117.cdx.idx
+2017-11-23 00:00:04,895 INFO root Skipping astrid_archivebot_arcanetimes_com_20171117_archive.torrent
+2017-11-23 00:00:04,895 INFO root Skipping astrid_archivebot_arcanetimes_com_20171117_files.xml
+2017-11-23 00:00:04,895 INFO root Skipping astrid_archivebot_arcanetimes_com_20171117_meta.sqlite
+2017-11-23 00:00:04,895 INFO root Skipping astrid_archivebot_arcanetimes_com_20171117_meta.xml
+2017-11-23 00:00:05,092 INFO root Processing item astrid_archivebot_birdsnest_club_20171120
+2017-11-23 00:00:05,093 INFO root Skipping astrid_archivebot_birdsnest_club_20171120.cdx.idx
+2017-11-23 00:00:05,093 INFO root Skipping astrid_archivebot_birdsnest_club_20171120_archive.torrent
+2017-11-23 00:00:05,093 INFO root Skipping astrid_archivebot_birdsnest_club_20171120_files.xml
+2017-11-23 00:00:05,093 INFO root Skipping astrid_archivebot_birdsnest_club_20171120_meta.sqlite
+2017-11-23 00:00:05,093 INFO root Skipping astrid_archivebot_birdsnest_club_20171120_meta.xml
+2017-11-23 00:00:05,414 INFO root Processing item astrid_archivebot_blog_linitx_com_20171118
+2017-11-23 00:00:05,415 INFO root Skipping astrid_archivebot_blog_linitx_com_20171118.cdx.idx
+2017-11-23 00:00:05,415 INFO root Skipping astrid_archivebot_blog_linitx_com_20171118_archive.torrent
+2017-11-23 00:00:05,415 INFO root Skipping astrid_archivebot_blog_linitx_com_20171118_files.xml
+2017-11-23 00:00:05,415 INFO root Skipping astrid_archivebot_blog_linitx_com_20171118_meta.sqlite
+2017-11-23 00:00:05,415 INFO root Skipping astrid_archivebot_blog_linitx_com_20171118_meta.xml
+2017-11-23 00:00:05,605 INFO root Processing item astrid_archivebot_blog_tafkas_net_20171118
+2017-11-23 00:00:05,606 INFO root Skipping astrid_archivebot_blog_tafkas_net_20171118.cdx.idx
+2017-11-23 00:00:05,606 INFO root Skipping astrid_archivebot_blog_tafkas_net_20171118_archive.torrent
+2017-11-23 00:00:05,606 INFO root Skipping astrid_archivebot_blog_tafkas_net_20171118_files.xml
+2017-11-23 00:00:05,606 INFO root Skipping astrid_archivebot_blog_tafkas_net_20171118_meta.sqlite
+2017-11-23 00:00:05,606 INFO root Skipping astrid_archivebot_blog_tafkas_net_20171118_meta.xml
+2017-11-23 00:00:06,193 INFO root Processing item astrid_archivebot_forum_giga_de_20170928
+2017-11-23 00:00:06,193 INFO root Skipping astrid_archivebot_forum_giga_de_20170928.cdx.idx
+2017-11-23 00:00:06,193 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_archive.torrent
+2017-11-23 00:00:06,193 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_files.xml
+2017-11-23 00:00:06,193 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.sqlite
+2017-11-23 00:00:06,193 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.xml
+2017-11-23 00:00:06,388 INFO root Processing item astrid_archivebot_frcdiscord_github_io_20171119
+2017-11-23 00:00:06,388 INFO root Skipping astrid_archivebot_frcdiscord_github_io_20171119.cdx.idx
+2017-11-23 00:00:06,388 INFO root Skipping astrid_archivebot_frcdiscord_github_io_20171119_archive.torrent
+2017-11-23 00:00:06,388 INFO root Skipping astrid_archivebot_frcdiscord_github_io_20171119_files.xml
+2017-11-23 00:00:06,388 INFO root Skipping astrid_archivebot_frcdiscord_github_io_20171119_meta.sqlite
+2017-11-23 00:00:06,388 INFO root Skipping astrid_archivebot_frcdiscord_github_io_20171119_meta.xml
+2017-11-23 00:00:06,581 INFO root Processing item astrid_archivebot_github_com_20171119
+2017-11-23 00:00:06,582 INFO root Skipping astrid_archivebot_github_com_20171119.cdx.idx
+2017-11-23 00:00:06,582 INFO root Skipping astrid_archivebot_github_com_20171119_archive.torrent
+2017-11-23 00:00:06,582 INFO root Skipping astrid_archivebot_github_com_20171119_files.xml
+2017-11-23 00:00:06,582 INFO root Skipping astrid_archivebot_github_com_20171119_meta.sqlite
+2017-11-23 00:00:06,582 INFO root Skipping astrid_archivebot_github_com_20171119_meta.xml
+2017-11-23 00:00:06,907 INFO root Processing item astrid_archivebot_homepages_ihug_co_nz_20171118
+2017-11-23 00:00:07,845 INFO root Skipping astrid_archivebot_homepages_ihug_co_nz_20171118.cdx.idx
+2017-11-23 00:00:07,846 INFO root Skipping astrid_archivebot_homepages_ihug_co_nz_20171118_archive.torrent
+2017-11-23 00:00:07,846 INFO root Skipping astrid_archivebot_homepages_ihug_co_nz_20171118_files.xml
+2017-11-23 00:00:07,846 INFO root Skipping astrid_archivebot_homepages_ihug_co_nz_20171118_meta.sqlite
+2017-11-23 00:00:07,846 INFO root Skipping astrid_archivebot_homepages_ihug_co_nz_20171118_meta.xml
+2017-11-23 00:00:08,787 INFO root Processing item astrid_archivebot_kalismeme_com_20171120
+2017-11-23 00:00:08,787 INFO root Skipping astrid_archivebot_kalismeme_com_20171120.cdx.idx
+2017-11-23 00:00:08,787 INFO root Skipping astrid_archivebot_kalismeme_com_20171120_archive.torrent
+2017-11-23 00:00:08,787 INFO root Skipping astrid_archivebot_kalismeme_com_20171120_files.xml
+2017-11-23 00:00:08,788 INFO root Skipping astrid_archivebot_kalismeme_com_20171120_meta.sqlite
+2017-11-23 00:00:08,788 INFO root Skipping astrid_archivebot_kalismeme_com_20171120_meta.xml
+2017-11-23 00:00:09,018 INFO root Processing item astrid_archivebot_openenergymonitor_org_20171118
+2017-11-23 00:00:09,018 INFO root Skipping astrid_archivebot_openenergymonitor_org_20171118.cdx.idx
+2017-11-23 00:00:09,018 INFO root Skipping astrid_archivebot_openenergymonitor_org_20171118_archive.torrent
+2017-11-23 00:00:09,018 INFO root Skipping astrid_archivebot_openenergymonitor_org_20171118_files.xml
+2017-11-23 00:00:09,018 INFO root Skipping astrid_archivebot_openenergymonitor_org_20171118_meta.sqlite
+2017-11-23 00:00:09,018 INFO root Skipping astrid_archivebot_openenergymonitor_org_20171118_meta.xml
+2017-11-23 00:00:09,206 INFO root Processing item astrid_archivebot_r4tr_org_20171118
+2017-11-23 00:00:09,207 INFO root Skipping astrid_archivebot_r4tr_org_20171118.cdx.idx
+2017-11-23 00:00:09,207 INFO root Skipping astrid_archivebot_r4tr_org_20171118_archive.torrent
+2017-11-23 00:00:09,207 INFO root Skipping astrid_archivebot_r4tr_org_20171118_files.xml
+2017-11-23 00:00:09,207 INFO root Skipping astrid_archivebot_r4tr_org_20171118_meta.sqlite
+2017-11-23 00:00:09,207 INFO root Skipping astrid_archivebot_r4tr_org_20171118_meta.xml
+2017-11-23 00:00:09,422 INFO root Processing item astrid_archivebot_static-1_namx_org_20171122
+2017-11-23 00:00:09,422 INFO root Skipping astrid_archivebot_static-1_namx_org_20171122.cdx.idx
+2017-11-23 00:00:09,422 INFO root Skipping astrid_archivebot_static-1_namx_org_20171122_archive.torrent
+2017-11-23 00:00:09,422 INFO root Skipping astrid_archivebot_static-1_namx_org_20171122_files.xml
+2017-11-23 00:00:09,423 INFO root Skipping astrid_archivebot_static-1_namx_org_20171122_meta.sqlite
+2017-11-23 00:00:09,423 INFO root Skipping astrid_archivebot_static-1_namx_org_20171122_meta.xml
+2017-11-23 00:00:09,620 INFO root Processing item astrid_archivebot_status_discordapp_com_20171117
+2017-11-23 00:00:09,620 INFO root Skipping astrid_archivebot_status_discordapp_com_20171117.cdx.idx
+2017-11-23 00:00:09,621 INFO root Skipping astrid_archivebot_status_discordapp_com_20171117_archive.torrent
+2017-11-23 00:00:09,621 INFO root Skipping astrid_archivebot_status_discordapp_com_20171117_files.xml
+2017-11-23 00:00:09,621 INFO root Skipping astrid_archivebot_status_discordapp_com_20171117_meta.sqlite
+2017-11-23 00:00:09,621 INFO root Skipping astrid_archivebot_status_discordapp_com_20171117_meta.xml
+2017-11-23 00:00:09,820 INFO root Processing item astrid_archivebot_tekhead_it_20171118
+2017-11-23 00:00:09,820 INFO root Skipping astrid_archivebot_tekhead_it_20171118.cdx.idx
+2017-11-23 00:00:09,820 INFO root Skipping astrid_archivebot_tekhead_it_20171118_archive.torrent
+2017-11-23 00:00:09,820 INFO root Skipping astrid_archivebot_tekhead_it_20171118_files.xml
+2017-11-23 00:00:09,820 INFO root Skipping astrid_archivebot_tekhead_it_20171118_meta.sqlite
+2017-11-23 00:00:09,820 INFO root Skipping astrid_archivebot_tekhead_it_20171118_meta.xml
+2017-11-23 00:00:10,011 INFO root Processing item astrid_archivebot_twitter_com_20171119
+2017-11-23 00:00:10,012 INFO root Skipping astrid_archivebot_twitter_com_20171119.cdx.idx
+2017-11-23 00:00:10,012 INFO root Skipping astrid_archivebot_twitter_com_20171119_archive.torrent
+2017-11-23 00:00:10,012 INFO root Skipping astrid_archivebot_twitter_com_20171119_files.xml
+2017-11-23 00:00:10,012 INFO root Skipping astrid_archivebot_twitter_com_20171119_meta.sqlite
+2017-11-23 00:00:10,012 INFO root Skipping astrid_archivebot_twitter_com_20171119_meta.xml
+2017-11-23 00:00:10,208 INFO root Processing item astrid_archivebot_twitter_com_20171122
+2017-11-23 00:00:10,208 INFO root Skipping astrid_archivebot_twitter_com_20171122.cdx.idx
+2017-11-23 00:00:10,208 INFO root Skipping astrid_archivebot_twitter_com_20171122_archive.torrent
+2017-11-23 00:00:10,208 INFO root Skipping astrid_archivebot_twitter_com_20171122_files.xml
+2017-11-23 00:00:10,208 INFO root Skipping astrid_archivebot_twitter_com_20171122_meta.sqlite
+2017-11-23 00:00:10,208 INFO root Skipping astrid_archivebot_twitter_com_20171122_meta.xml
+2017-11-23 00:00:10,398 INFO root Processing item astrid_archivebot_unifiedrobotics_org_20171119
+2017-11-23 00:00:10,399 INFO root Skipping astrid_archivebot_unifiedrobotics_org_20171119.cdx.idx
+2017-11-23 00:00:10,399 INFO root Skipping astrid_archivebot_unifiedrobotics_org_20171119_archive.torrent
+2017-11-23 00:00:10,399 INFO root Skipping astrid_archivebot_unifiedrobotics_org_20171119_files.xml
+2017-11-23 00:00:10,399 INFO root Skipping astrid_archivebot_unifiedrobotics_org_20171119_meta.sqlite
+2017-11-23 00:00:10,399 INFO root Skipping astrid_archivebot_unifiedrobotics_org_20171119_meta.xml
+2017-11-23 00:00:10,597 INFO root Processing item astrid_archivebot_wurb_com_20171122
+2017-11-23 00:00:10,597 INFO root Skipping astrid_archivebot_wurb_com_20171122.cdx.idx
+2017-11-23 00:00:10,597 INFO root Skipping astrid_archivebot_wurb_com_20171122_archive.torrent
+2017-11-23 00:00:10,597 INFO root Skipping astrid_archivebot_wurb_com_20171122_files.xml
+2017-11-23 00:00:10,597 INFO root Skipping astrid_archivebot_wurb_com_20171122_meta.sqlite
+2017-11-23 00:00:10,597 INFO root Skipping astrid_archivebot_wurb_com_20171122_meta.xml
+2017-11-23 00:00:10,798 INFO root Processing item astrid_archivebot_www3_nhk_or_jp_20171119
+2017-11-23 00:00:10,798 INFO root Skipping astrid_archivebot_www3_nhk_or_jp_20171119.cdx.idx
+2017-11-23 00:00:10,798 INFO root Skipping astrid_archivebot_www3_nhk_or_jp_20171119_archive.torrent
+2017-11-23 00:00:10,798 INFO root Skipping astrid_archivebot_www3_nhk_or_jp_20171119_files.xml
+2017-11-23 00:00:10,798 INFO root Skipping astrid_archivebot_www3_nhk_or_jp_20171119_meta.sqlite
+2017-11-23 00:00:10,798 INFO root Skipping astrid_archivebot_www3_nhk_or_jp_20171119_meta.xml
+2017-11-23 00:00:10,992 INFO root Processing item astrid_archivebot_www_certbibles_com_20171117
+2017-11-23 00:00:10,992 INFO root Skipping astrid_archivebot_www_certbibles_com_20171117.cdx.idx
+2017-11-23 00:00:10,993 INFO root Skipping astrid_archivebot_www_certbibles_com_20171117_archive.torrent
+2017-11-23 00:00:10,993 INFO root Skipping astrid_archivebot_www_certbibles_com_20171117_files.xml
+2017-11-23 00:00:10,993 INFO root Skipping astrid_archivebot_www_certbibles_com_20171117_meta.sqlite
+2017-11-23 00:00:10,993 INFO root Skipping astrid_archivebot_www_certbibles_com_20171117_meta.xml
+2017-11-23 00:00:11,184 INFO root Processing item astrid_archivebot_www_cheshire_k12_ct_us_20171119
+2017-11-23 00:00:11,184 INFO root Skipping astrid_archivebot_www_cheshire_k12_ct_us_20171119.cdx.idx
+2017-11-23 00:00:11,184 INFO root Skipping astrid_archivebot_www_cheshire_k12_ct_us_20171119_archive.torrent
+2017-11-23 00:00:11,184 INFO root Skipping astrid_archivebot_www_cheshire_k12_ct_us_20171119_files.xml
+2017-11-23 00:00:11,184 INFO root Skipping astrid_archivebot_www_cheshire_k12_ct_us_20171119_meta.sqlite
+2017-11-23 00:00:11,185 INFO root Skipping astrid_archivebot_www_cheshire_k12_ct_us_20171119_meta.xml
+2017-11-23 00:00:11,546 INFO root Processing item astrid_archivebot_www_dnainfo_com_20171106
+2017-11-23 00:00:11,547 INFO root Skipping astrid_archivebot_www_dnainfo_com_20171106.cdx.idx
+2017-11-23 00:00:11,547 INFO root Skipping astrid_archivebot_www_dnainfo_com_20171106_archive.torrent
+2017-11-23 00:00:11,547 INFO root Skipping astrid_archivebot_www_dnainfo_com_20171106_files.xml
+2017-11-23 00:00:11,547 INFO root Skipping astrid_archivebot_www_dnainfo_com_20171106_meta.sqlite
+2017-11-23 00:00:11,547 INFO root Skipping astrid_archivebot_www_dnainfo_com_20171106_meta.xml
+2017-11-23 00:00:11,752 INFO root Processing item astrid_archivebot_www_girlgeniusonline_com_20171117
+2017-11-23 00:00:11,752 INFO root Skipping astrid_archivebot_www_girlgeniusonline_com_20171117.cdx.idx
+2017-11-23 00:00:11,752 INFO root Skipping astrid_archivebot_www_girlgeniusonline_com_20171117_archive.torrent
+2017-11-23 00:00:11,752 INFO root Skipping astrid_archivebot_www_girlgeniusonline_com_20171117_files.xml
+2017-11-23 00:00:11,752 INFO root Skipping astrid_archivebot_www_girlgeniusonline_com_20171117_meta.sqlite
+2017-11-23 00:00:11,753 INFO root Skipping astrid_archivebot_www_girlgeniusonline_com_20171117_meta.xml
+2017-11-23 00:00:11,959 INFO root Processing item astrid_archivebot_www_hoodjeans_co_uk_20171119
+2017-11-23 00:00:11,963 INFO root Skipping astrid_archivebot_www_hoodjeans_co_uk_20171119.cdx.idx
+2017-11-23 00:00:11,963 INFO root Skipping astrid_archivebot_www_hoodjeans_co_uk_20171119_archive.torrent
+2017-11-23 00:00:11,963 INFO root Skipping astrid_archivebot_www_hoodjeans_co_uk_20171119_files.xml
+2017-11-23 00:00:11,963 INFO root Skipping astrid_archivebot_www_hoodjeans_co_uk_20171119_meta.sqlite
+2017-11-23 00:00:11,963 INFO root Skipping astrid_archivebot_www_hoodjeans_co_uk_20171119_meta.xml
+2017-11-23 00:00:12,158 INFO root Processing item astrid_archivebot_www_instagram_com_20171117
+2017-11-23 00:00:12,159 INFO root Skipping astrid_archivebot_www_instagram_com_20171117.cdx.idx
+2017-11-23 00:00:12,159 INFO root Skipping astrid_archivebot_www_instagram_com_20171117_archive.torrent
+2017-11-23 00:00:12,159 INFO root Skipping astrid_archivebot_www_instagram_com_20171117_files.xml
+2017-11-23 00:00:12,159 INFO root Skipping astrid_archivebot_www_instagram_com_20171117_meta.sqlite
+2017-11-23 00:00:12,159 INFO root Skipping astrid_archivebot_www_instagram_com_20171117_meta.xml
+2017-11-23 00:00:12,351 INFO root Processing item astrid_archivebot_www_network-node_com_20171120
+2017-11-23 00:00:12,352 INFO root Skipping astrid_archivebot_www_network-node_com_20171120.cdx.idx
+2017-11-23 00:00:12,352 INFO root Skipping astrid_archivebot_www_network-node_com_20171120_archive.torrent
+2017-11-23 00:00:12,352 INFO root Skipping astrid_archivebot_www_network-node_com_20171120_files.xml
+2017-11-23 00:00:12,352 INFO root Skipping astrid_archivebot_www_network-node_com_20171120_meta.sqlite
+2017-11-23 00:00:12,352 INFO root Skipping astrid_archivebot_www_network-node_com_20171120_meta.xml
+2017-11-23 00:00:12,556 INFO root Processing item astrid_archivebot_www_redbull_com_20171118
+2017-11-23 00:00:12,556 INFO root Skipping astrid_archivebot_www_redbull_com_20171118.cdx.idx
+2017-11-23 00:00:12,556 INFO root Skipping astrid_archivebot_www_redbull_com_20171118_archive.torrent
+2017-11-23 00:00:12,556 INFO root Skipping astrid_archivebot_www_redbull_com_20171118_files.xml
+2017-11-23 00:00:12,556 INFO root Skipping astrid_archivebot_www_redbull_com_20171118_meta.sqlite
+2017-11-23 00:00:12,556 INFO root Skipping astrid_archivebot_www_redbull_com_20171118_meta.xml
+2017-11-23 00:00:12,748 INFO root Processing item astrid_archivebot_www_reuters_com_20171117
+2017-11-23 00:00:12,748 INFO root Skipping astrid_archivebot_www_reuters_com_20171117.cdx.idx
+2017-11-23 00:00:12,748 INFO root Skipping astrid_archivebot_www_reuters_com_20171117_archive.torrent
+2017-11-23 00:00:12,748 INFO root Skipping astrid_archivebot_www_reuters_com_20171117_files.xml
+2017-11-23 00:00:12,748 INFO root Skipping astrid_archivebot_www_reuters_com_20171117_meta.sqlite
+2017-11-23 00:00:12,748 INFO root Skipping astrid_archivebot_www_reuters_com_20171117_meta.xml
+2017-11-23 00:00:12,965 INFO root Processing item astrid_archivebot_www_ucc_ie_20171119
+2017-11-23 00:00:12,966 INFO root Skipping astrid_archivebot_www_ucc_ie_20171119_archive.torrent
+2017-11-23 00:00:12,966 INFO root Skipping astrid_archivebot_www_ucc_ie_20171119_files.xml
+2017-11-23 00:00:12,966 INFO root Skipping astrid_archivebot_www_ucc_ie_20171119_meta.sqlite
+2017-11-23 00:00:12,966 INFO root Skipping astrid_archivebot_www_ucc_ie_20171119_meta.xml
+2017-11-23 00:00:13,168 INFO root Processing item astrid_archivebot_www_vmware_com_20171120
+2017-11-23 00:00:13,169 INFO root Skipping astrid_archivebot_www_vmware_com_20171120.cdx.idx
+2017-11-23 00:00:13,169 INFO root Skipping astrid_archivebot_www_vmware_com_20171120_archive.torrent
+2017-11-23 00:00:13,169 INFO root Skipping astrid_archivebot_www_vmware_com_20171120_files.xml
+2017-11-23 00:00:13,169 INFO root Skipping astrid_archivebot_www_vmware_com_20171120_meta.sqlite
+2017-11-23 00:00:13,169 INFO root Skipping astrid_archivebot_www_vmware_com_20171120_meta.xml
+2017-11-23 00:00:13,371 INFO root Processing item astrid_archivebot_www_wesgoodman_com_20171118
+2017-11-23 00:00:13,371 INFO root Skipping astrid_archivebot_www_wesgoodman_com_20171118.cdx.idx
+2017-11-23 00:00:13,371 INFO root Skipping astrid_archivebot_www_wesgoodman_com_20171118_archive.torrent
+2017-11-23 00:00:13,372 INFO root Skipping astrid_archivebot_www_wesgoodman_com_20171118_files.xml
+2017-11-23 00:00:13,372 INFO root Skipping astrid_archivebot_www_wesgoodman_com_20171118_meta.sqlite
+2017-11-23 00:00:13,372 INFO root Skipping astrid_archivebot_www_wesgoodman_com_20171118_meta.xml
+2017-11-23 00:00:13,739 INFO root Processing item falconk_archivebot_www_vilaweb_cat_20170919
+2017-11-23 00:00:13,740 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919.cdx.idx
+2017-11-23 00:00:13,740 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919_archive.torrent
+2017-11-23 00:00:13,740 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919_files.xml
+2017-11-23 00:00:13,740 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919_meta.sqlite
+2017-11-23 00:00:13,740 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919_meta.xml
+2017-11-23 00:00:13,742 INFO root Writing last-update file
+2017-11-23 00:00:13,742 INFO root Done
