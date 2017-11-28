@@ -1,235 +1,54 @@
-2017-11-28 06:00:01,882 DEBU root Last attempt: 2017-11-28T00:00:01Z
-2017-11-28 06:00:01,882 DEBU root Last success: 2017-11-28T00:00:01Z
-2017-11-28 06:00:01,883 INFO root Writing last-update file
-2017-11-28 06:00:01,883 INFO root Query: 'collection:archivebot oai_updatedate:[2017-11-28T00:00:01Z TO null]'
-2017-11-28 06:00:04,136 INFO root Processing item archiveteam_archivebot_go_20171124190001
-2017-11-28 06:00:04,136 INFO root Skipping archiveteam_archivebot_go_20171124190001.cdx.idx
-2017-11-28 06:00:04,137 INFO root Skipping archiveteam_archivebot_go_20171124190001_archive.torrent
-2017-11-28 06:00:04,137 INFO root Skipping archiveteam_archivebot_go_20171124190001_files.xml
-2017-11-28 06:00:04,137 INFO root Skipping archiveteam_archivebot_go_20171124190001_meta.sqlite
-2017-11-28 06:00:04,137 INFO root Skipping archiveteam_archivebot_go_20171124190001_meta.xml
-2017-11-28 06:00:04,358 INFO root Processing item archiveteam_archivebot_go_20171125150001
-2017-11-28 06:00:04,358 INFO root Skipping archiveteam_archivebot_go_20171125150001_archive.torrent
-2017-11-28 06:00:04,359 INFO root Skipping archiveteam_archivebot_go_20171125150001_files.xml
-2017-11-28 06:00:04,359 INFO root Skipping archiveteam_archivebot_go_20171125150001_meta.sqlite
-2017-11-28 06:00:04,359 INFO root Skipping archiveteam_archivebot_go_20171125150001_meta.xml
-2017-11-28 06:00:04,729 INFO root Processing item archiveteam_archivebot_go_20171125220001
-2017-11-28 06:00:04,729 INFO root Skipping archiveteam_archivebot_go_20171125220001_archive.torrent
-2017-11-28 06:00:04,730 INFO root Skipping archiveteam_archivebot_go_20171125220001_files.xml
-2017-11-28 06:00:04,730 INFO root Skipping archiveteam_archivebot_go_20171125220001_meta.sqlite
-2017-11-28 06:00:04,730 INFO root Skipping archiveteam_archivebot_go_20171125220001_meta.xml
-2017-11-28 06:00:04,730 ERRO root Size of bdlb.bn.gov.br-inf-20171111-184537-98dl8-00082.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,730 ERRO root Mtime of bdlb.bn.gov.br-inf-20171111-184537-98dl8-00082.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,730 ERRO root Size of bdlb.bn.gov.br-inf-20171111-184537-98dl8-00083.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,730 ERRO root Mtime of bdlb.bn.gov.br-inf-20171111-184537-98dl8-00083.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,730 ERRO root Size of blog.datacenterfromhell.net-inf-20171125-195943-1945w-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,731 ERRO root Mtime of blog.datacenterfromhell.net-inf-20171125-195943-1945w-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,731 ERRO root Size of blog.datacenterfromhell.net-inf-20171125-195943-1945w-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,731 ERRO root Mtime of blog.datacenterfromhell.net-inf-20171125-195943-1945w-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,731 ERRO root Size of blog.imgur.com-shallow-20171125-191159-c48mp-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,731 ERRO root Mtime of blog.imgur.com-shallow-20171125-191159-c48mp-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,731 ERRO root Size of blog.imgur.com-shallow-20171125-191159-c48mp-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,731 ERRO root Mtime of blog.imgur.com-shallow-20171125-191159-c48mp-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,731 ERRO root Size of blog.repec.org-inf-20171125-130535-1hcj2-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,731 ERRO root Mtime of blog.repec.org-inf-20171125-130535-1hcj2-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,731 ERRO root Size of blog.repec.org-inf-20171125-130535-1hcj2-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,731 ERRO root Mtime of blog.repec.org-inf-20171125-130535-1hcj2-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,732 ERRO root Size of bpdevel.wordpress.com-inf-20171125-140640-cpeg2-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,732 ERRO root Mtime of bpdevel.wordpress.com-inf-20171125-140640-cpeg2-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,732 ERRO root Size of bpdevel.wordpress.com-inf-20171125-140640-cpeg2-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,732 ERRO root Mtime of bpdevel.wordpress.com-inf-20171125-140640-cpeg2-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,732 ERRO root Size of chicagoist.com-inf-20171104-145621-czl4j-00054.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,732 ERRO root Mtime of chicagoist.com-inf-20171104-145621-czl4j-00054.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,732 ERRO root Size of cs.metapedia.org-inf-20171125-175415-64cv2-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,733 ERRO root Mtime of cs.metapedia.org-inf-20171125-175415-64cv2-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,733 ERRO root Size of cs.metapedia.org-inf-20171125-175415-64cv2-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,733 ERRO root Mtime of cs.metapedia.org-inf-20171125-175415-64cv2-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,733 ERRO root Size of datacenterfromhell.blogspot.co.uk-inf-20171125-200307-2lzj8-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,733 ERRO root Mtime of datacenterfromhell.blogspot.co.uk-inf-20171125-200307-2lzj8-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,733 ERRO root Size of datacenterfromhell.blogspot.co.uk-inf-20171125-200307-2lzj8-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,733 ERRO root Mtime of datacenterfromhell.blogspot.co.uk-inf-20171125-200307-2lzj8-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,733 ERRO root Size of en.metapedia.org-inf-20171107-163822-6xgc1-00031.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,733 ERRO root Mtime of en.metapedia.org-inf-20171107-163822-6xgc1-00031.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,733 ERRO root Size of en.metapedia.org-inf-20171107-163822-6xgc1-00032.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,733 ERRO root Mtime of en.metapedia.org-inf-20171107-163822-6xgc1-00032.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,733 ERRO root Size of en.metapedia.org-inf-20171107-163822-6xgc1-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,733 ERRO root Mtime of en.metapedia.org-inf-20171107-163822-6xgc1-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,734 ERRO root Size of farc-epeace.org-inf-20171125-003347-8zmp8-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,734 ERRO root Mtime of farc-epeace.org-inf-20171125-003347-8zmp8-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,734 ERRO root Size of girlday.org-inf-20171125-130518-7j7kn-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,734 ERRO root Mtime of girlday.org-inf-20171125-130518-7j7kn-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,734 ERRO root Size of makezine.com-inf-20171117-215517-7o8gc-00028.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,734 ERRO root Mtime of makezine.com-inf-20171117-215517-7o8gc-00028.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,734 ERRO root Size of makezine.com-inf-20171117-215517-7o8gc-00029.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,734 ERRO root Mtime of makezine.com-inf-20171117-215517-7o8gc-00029.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,735 ERRO root Size of packages.microsoft.com-inf-20171121-164024-9jt2o-00058.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,735 ERRO root Mtime of packages.microsoft.com-inf-20171121-164024-9jt2o-00058.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,735 ERRO root Size of packages.microsoft.com-inf-20171121-164024-9jt2o-00059.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,735 ERRO root Mtime of packages.microsoft.com-inf-20171121-164024-9jt2o-00059.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,735 ERRO root Size of packages.microsoft.com-inf-20171121-164024-9jt2o-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,735 ERRO root Mtime of packages.microsoft.com-inf-20171121-164024-9jt2o-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,735 ERRO root Size of paquetedecuba.com-inf-20171125-173554-bx373-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,735 ERRO root Mtime of paquetedecuba.com-inf-20171125-173554-bx373-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,735 ERRO root Size of paquetedecuba.com-inf-20171125-173554-bx373-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,735 ERRO root Mtime of paquetedecuba.com-inf-20171125-173554-bx373-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,735 ERRO root Size of solidaritaetfuerkristinahaenel.wordpress.com-inf-20171125-193255-5qxwk-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,736 ERRO root Mtime of solidaritaetfuerkristinahaenel.wordpress.com-inf-20171125-193255-5qxwk-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,736 ERRO root Size of solidaritaetfuerkristinahaenel.wordpress.com-inf-20171125-193255-5qxwk-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,736 ERRO root Mtime of solidaritaetfuerkristinahaenel.wordpress.com-inf-20171125-193255-5qxwk-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,736 ERRO root Size of thegeekanthropologist.com-inf-20171125-141049-96bj0-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,736 ERRO root Mtime of thegeekanthropologist.com-inf-20171125-141049-96bj0-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,736 ERRO root Size of thegeekanthropologist.com-inf-20171125-141049-96bj0-00001.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,736 ERRO root Mtime of thegeekanthropologist.com-inf-20171125-141049-96bj0-00001.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,736 ERRO root Size of thegeekanthropologist.com-inf-20171125-141049-96bj0-00002.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,736 ERRO root Mtime of thegeekanthropologist.com-inf-20171125-141049-96bj0-00002.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,737 ERRO root Size of thegeekanthropologist.com-inf-20171125-141049-96bj0-00003.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,737 ERRO root Mtime of thegeekanthropologist.com-inf-20171125-141049-96bj0-00003.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,737 ERRO root Size of thegeekanthropologist.com-inf-20171125-141049-96bj0-00004.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,737 ERRO root Mtime of thegeekanthropologist.com-inf-20171125-141049-96bj0-00004.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,737 ERRO root Size of thegeekanthropologist.com-inf-20171125-141049-96bj0-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,737 ERRO root Mtime of thegeekanthropologist.com-inf-20171125-141049-96bj0-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,737 ERRO root Size of twitter.com-shallow-20171125-192141-6b7cs-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,737 ERRO root Mtime of twitter.com-shallow-20171125-192141-6b7cs-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,737 ERRO root Size of twitter.com-shallow-20171125-192141-6b7cs-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,737 ERRO root Mtime of twitter.com-shallow-20171125-192141-6b7cs-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,737 ERRO root Size of urls-gist.githubusercontent.com-a2-inf-20171123-191518-digmw-00004.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,738 ERRO root Mtime of urls-gist.githubusercontent.com-a2-inf-20171123-191518-digmw-00004.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,738 ERRO root Size of urls-gist.githubusercontent.com-gistfile1.txt-inf-20171116-235309-2l40x-00161.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,738 ERRO root Mtime of urls-gist.githubusercontent.com-gistfile1.txt-inf-20171116-235309-2l40x-00161.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,738 ERRO root Size of urls-gist.githubusercontent.com-gistfile1.txt-inf-20171116-235309-2l40x-00162.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,738 ERRO root Mtime of urls-gist.githubusercontent.com-gistfile1.txt-inf-20171116-235309-2l40x-00162.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,738 ERRO root Size of urls-gist.githubusercontent.com-gistfile1.txt-inf-20171116-235309-2l40x-00163.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,738 ERRO root Mtime of urls-gist.githubusercontent.com-gistfile1.txt-inf-20171116-235309-2l40x-00163.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,738 ERRO root Size of urls-gist.githubusercontent.com-gistfile1.txt-inf-20171116-235309-2l40x-00164.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,738 ERRO root Mtime of urls-gist.githubusercontent.com-gistfile1.txt-inf-20171116-235309-2l40x-00164.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,739 ERRO root Size of urls-gist.githubusercontent.com-gistfile1.txt-inf-20171116-235309-2l40x-00165.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,739 ERRO root Mtime of urls-gist.githubusercontent.com-gistfile1.txt-inf-20171116-235309-2l40x-00165.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,739 ERRO root Size of urls-gist.githubusercontent.com-gistfile1.txt-inf-20171116-235309-2l40x-00166.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,739 ERRO root Mtime of urls-gist.githubusercontent.com-gistfile1.txt-inf-20171116-235309-2l40x-00166.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,739 ERRO root Size of urls-gist.githubusercontent.com-gistfile1.txt-inf-20171116-235309-2l40x-00167.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,739 ERRO root Mtime of urls-gist.githubusercontent.com-gistfile1.txt-inf-20171116-235309-2l40x-00167.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,739 ERRO root Size of urls-gist.githubusercontent.com-tt2527336.txt-shallow-20171125-171254-bqlvc-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,739 ERRO root Mtime of urls-gist.githubusercontent.com-tt2527336.txt-shallow-20171125-171254-bqlvc-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,739 ERRO root Size of urls-gist.githubusercontent.com-tt2527336.txt-shallow-20171125-171254-bqlvc-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,739 ERRO root Mtime of urls-gist.githubusercontent.com-tt2527336.txt-shallow-20171125-171254-bqlvc-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,739 ERRO root Size of urls-pastebin.com-R37AHGyV-inf-20171124-030903-b926b-00007.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,739 ERRO root Mtime of urls-pastebin.com-R37AHGyV-inf-20171124-030903-b926b-00007.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,739 ERRO root Size of wine.woot.com-inf-20171121-232127-c20c1-00013.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,739 ERRO root Mtime of wine.woot.com-inf-20171121-232127-c20c1-00013.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,739 ERRO root Size of www.australia.cn-inf-20171125-110504-9gneo-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,739 ERRO root Mtime of www.australia.cn-inf-20171125-110504-9gneo-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,739 ERRO root Size of www.citypaper.com-inf-20171102-233207-at569-00110.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,739 ERRO root Mtime of www.citypaper.com-inf-20171102-233207-at569-00110.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,739 ERRO root Size of www.citypaper.com-inf-20171102-233207-at569-00111.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,740 ERRO root Mtime of www.citypaper.com-inf-20171102-233207-at569-00111.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,740 ERRO root Size of www.cnbc.com-shallow-20171125-165651-1diny-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,740 ERRO root Mtime of www.cnbc.com-shallow-20171125-165651-1diny-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,740 ERRO root Size of www.cnbc.com-shallow-20171125-165651-1diny-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,740 ERRO root Mtime of www.cnbc.com-shallow-20171125-165651-1diny-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,740 ERRO root Size of www.flickr.com-inf-20171122-071412-el6jp-00067.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,740 ERRO root Mtime of www.flickr.com-inf-20171122-071412-el6jp-00067.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,740 ERRO root Size of www.flickr.com-inf-20171122-071412-el6jp-00068.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,740 ERRO root Mtime of www.flickr.com-inf-20171122-071412-el6jp-00068.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,968 INFO root Processing item archiveteam_archivebot_go_20171126060001
-2017-11-28 06:00:04,968 INFO root Skipping archiveteam_archivebot_go_20171126060001_archive.torrent
-2017-11-28 06:00:04,968 INFO root Skipping archiveteam_archivebot_go_20171126060001_files.xml
-2017-11-28 06:00:04,968 INFO root Skipping archiveteam_archivebot_go_20171126060001_meta.sqlite
-2017-11-28 06:00:04,968 INFO root Skipping archiveteam_archivebot_go_20171126060001_meta.xml
-2017-11-28 06:00:04,968 ERRO root Size of bdlb.bn.gov.br-inf-20171111-184537-98dl8-00084.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,968 ERRO root Mtime of bdlb.bn.gov.br-inf-20171111-184537-98dl8-00084.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,969 ERRO root Size of bgr.com-shallow-20171126-032004-elx74-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,969 ERRO root Mtime of bgr.com-shallow-20171126-032004-elx74-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,969 ERRO root Size of bgr.com-shallow-20171126-032004-elx74-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,969 ERRO root Mtime of bgr.com-shallow-20171126-032004-elx74-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,969 ERRO root Size of consumerist.com-inf-20171123-065017-4xyuq-00006.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,969 ERRO root Mtime of consumerist.com-inf-20171123-065017-4xyuq-00006.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,969 ERRO root Size of deadline.com-shallow-20171126-043423-ahwj3-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,969 ERRO root Mtime of deadline.com-shallow-20171126-043423-ahwj3-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,969 ERRO root Size of deadline.com-shallow-20171126-043423-ahwj3-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,970 ERRO root Mtime of deadline.com-shallow-20171126-043423-ahwj3-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,970 ERRO root Size of hankuk.wordpress.com-inf-20171125-223427-2018w-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,970 ERRO root Mtime of hankuk.wordpress.com-inf-20171125-223427-2018w-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,970 ERRO root Size of hankuk.wordpress.com-inf-20171125-223427-2018w-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,970 ERRO root Mtime of hankuk.wordpress.com-inf-20171125-223427-2018w-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,970 ERRO root Size of hkwomenfilmmakers.wordpress.com-inf-20171125-223409-buh7c-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,970 ERRO root Mtime of hkwomenfilmmakers.wordpress.com-inf-20171125-223409-buh7c-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,970 ERRO root Size of hkwomenfilmmakers.wordpress.com-inf-20171125-223409-buh7c-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,970 ERRO root Mtime of hkwomenfilmmakers.wordpress.com-inf-20171125-223409-buh7c-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,970 ERRO root Size of lemondemon.com-inf-20171126-005450-84bjm-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,970 ERRO root Mtime of lemondemon.com-inf-20171126-005450-84bjm-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,971 ERRO root Size of lemondemon.com-inf-20171126-005450-84bjm-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,971 ERRO root Mtime of lemondemon.com-inf-20171126-005450-84bjm-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,971 ERRO root Size of mailblogx.wordpress.com-inf-20171125-230250-dhe8o-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,971 ERRO root Mtime of mailblogx.wordpress.com-inf-20171125-230250-dhe8o-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,971 ERRO root Size of mailblogx.wordpress.com-inf-20171125-230250-dhe8o-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,971 ERRO root Mtime of mailblogx.wordpress.com-inf-20171125-230250-dhe8o-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,971 ERRO root Size of makezine.com-inf-20171117-215517-7o8gc-00030.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,971 ERRO root Mtime of makezine.com-inf-20171117-215517-7o8gc-00030.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,971 ERRO root Size of makezine.com-inf-20171117-215517-7o8gc-00031.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,971 ERRO root Mtime of makezine.com-inf-20171117-215517-7o8gc-00031.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,971 ERRO root Size of news.newamericamedia.org-inf-20171122-144204-4miaa-00012.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,972 ERRO root Mtime of news.newamericamedia.org-inf-20171122-144204-4miaa-00012.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,972 ERRO root Size of osu.ppy.sh-inf-20171115-090043-4bcsh-00007.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,972 ERRO root Mtime of osu.ppy.sh-inf-20171115-090043-4bcsh-00007.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,972 ERRO root Size of rescue1130.blogspot.com-inf-20171125-222747-2k6x1-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,972 ERRO root Mtime of rescue1130.blogspot.com-inf-20171125-222747-2k6x1-00000.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,972 ERRO root Size of rescue1130.blogspot.com-inf-20171125-222747-2k6x1-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,972 ERRO root Mtime of rescue1130.blogspot.com-inf-20171125-222747-2k6x1-meta.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,972 ERRO root Size of urls-gist.githubusercontent.com-gistfile1.txt-inf-20171116-235309-2l40x-00168.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,972 ERRO root Mtime of urls-gist.githubusercontent.com-gistfile1.txt-inf-20171116-235309-2l40x-00168.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,972 ERRO root Size of urls-gist.githubusercontent.com-gistfile1.txt-inf-20171116-235309-2l40x-00169.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,972 ERRO root Mtime of urls-gist.githubusercontent.com-gistfile1.txt-inf-20171116-235309-2l40x-00169.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,972 ERRO root Size of urls-gist.githubusercontent.com-gistfile1.txt-inf-20171116-235309-2l40x-00170.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,973 ERRO root Mtime of urls-gist.githubusercontent.com-gistfile1.txt-inf-20171116-235309-2l40x-00170.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,973 ERRO root Size of urls-gist.githubusercontent.com-gistfile1.txt-inf-20171116-235309-2l40x-00171.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,973 ERRO root Mtime of urls-gist.githubusercontent.com-gistfile1.txt-inf-20171116-235309-2l40x-00171.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,973 ERRO root Size of urls-gist.githubusercontent.com-gistfile1.txt-inf-20171116-235309-2l40x-00172.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,973 ERRO root Mtime of urls-gist.githubusercontent.com-gistfile1.txt-inf-20171116-235309-2l40x-00172.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,973 ERRO root Size of urls-gist.githubusercontent.com-gistfile1.txt-inf-20171116-235309-2l40x-00173.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,973 ERRO root Mtime of urls-gist.githubusercontent.com-gistfile1.txt-inf-20171116-235309-2l40x-00173.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,973 ERRO root Size of urls-gist.githubusercontent.com-gistfile1.txt-inf-20171116-235309-2l40x-00174.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,973 ERRO root Mtime of urls-gist.githubusercontent.com-gistfile1.txt-inf-20171116-235309-2l40x-00174.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,973 ERRO root Size of urls-gist.githubusercontent.com-noblogs-inf-20170909-231906-4g2vk-00222.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,974 ERRO root Mtime of urls-gist.githubusercontent.com-noblogs-inf-20170909-231906-4g2vk-00222.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,974 ERRO root Size of www.flickr.com-inf-20171122-071412-el6jp-00070.warc.os.cdx.gz is missing
-2017-11-28 06:00:04,974 ERRO root Mtime of www.flickr.com-inf-20171122-071412-el6jp-00070.warc.os.cdx.gz is missing
-2017-11-28 06:00:05,193 INFO root Processing item archiveteam_archivebot_go_20171126160001
-2017-11-28 06:00:05,193 INFO root Skipping archiveteam_archivebot_go_20171126160001_archive.torrent
-2017-11-28 06:00:05,193 INFO root Skipping archiveteam_archivebot_go_20171126160001_files.xml
-2017-11-28 06:00:05,193 INFO root Skipping archiveteam_archivebot_go_20171126160001_meta.sqlite
-2017-11-28 06:00:05,194 INFO root Skipping archiveteam_archivebot_go_20171126160001_meta.xml
-2017-11-28 06:00:05,454 INFO root Processing item archiveteam_archivebot_go_20171127000001
-2017-11-28 06:00:05,454 INFO root Skipping archiveteam_archivebot_go_20171127000001_files.xml
-2017-11-28 06:00:05,454 INFO root Skipping archiveteam_archivebot_go_20171127000001_meta.sqlite
-2017-11-28 06:00:05,454 INFO root Skipping archiveteam_archivebot_go_20171127000001_meta.xml
-2017-11-28 06:00:05,660 INFO root Processing item archiveteam_archivebot_go_20171127110001
-2017-11-28 06:00:05,661 INFO root Skipping archiveteam_archivebot_go_20171127110001_archive.torrent
-2017-11-28 06:00:05,661 INFO root Skipping archiveteam_archivebot_go_20171127110001_files.xml
-2017-11-28 06:00:05,661 INFO root Skipping archiveteam_archivebot_go_20171127110001_meta.sqlite
-2017-11-28 06:00:05,661 INFO root Skipping archiveteam_archivebot_go_20171127110001_meta.xml
-2017-11-28 06:00:05,860 INFO root Processing item astrid_archivebot_robertlindsay_wordpress_com_20171123
-2017-11-28 06:00:05,860 INFO root Skipping astrid_archivebot_robertlindsay_wordpress_com_20171123.cdx.idx
-2017-11-28 06:00:05,861 INFO root Skipping astrid_archivebot_robertlindsay_wordpress_com_20171123_archive.torrent
-2017-11-28 06:00:05,861 INFO root Skipping astrid_archivebot_robertlindsay_wordpress_com_20171123_files.xml
-2017-11-28 06:00:05,861 INFO root Skipping astrid_archivebot_robertlindsay_wordpress_com_20171123_meta.sqlite
-2017-11-28 06:00:05,861 INFO root Skipping astrid_archivebot_robertlindsay_wordpress_com_20171123_meta.xml
-2017-11-28 06:00:06,856 INFO root Processing item falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714
-2017-11-28 06:00:06,856 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714.cdx.idx
-2017-11-28 06:00:06,856 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_archive.torrent
-2017-11-28 06:00:06,856 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_files.xml
-2017-11-28 06:00:06,857 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_meta.sqlite
-2017-11-28 06:00:06,857 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_meta.xml
-2017-11-28 06:00:08,022 INFO root Processing item falconk_archivebot_www_indymedia_org_20170826
-2017-11-28 06:00:08,022 INFO root Skipping falconk_archivebot_www_indymedia_org_20170826.cdx.idx
-2017-11-28 06:00:08,023 INFO root Skipping falconk_archivebot_www_indymedia_org_20170826_archive.torrent
-2017-11-28 06:00:08,023 INFO root Skipping falconk_archivebot_www_indymedia_org_20170826_files.xml
-2017-11-28 06:00:08,023 INFO root Skipping falconk_archivebot_www_indymedia_org_20170826_meta.sqlite
-2017-11-28 06:00:08,023 INFO root Skipping falconk_archivebot_www_indymedia_org_20170826_meta.xml
-2017-11-28 06:00:08,720 INFO root Processing item falconk_archivebot_www_vilaweb_cat_20170919
-2017-11-28 06:00:08,720 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919.cdx.idx
-2017-11-28 06:00:08,720 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919_archive.torrent
-2017-11-28 06:00:08,721 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919_files.xml
-2017-11-28 06:00:08,721 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919_meta.sqlite
-2017-11-28 06:00:08,721 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919_meta.xml
-2017-11-28 06:00:08,723 INFO root Writing last-update file
-2017-11-28 06:00:08,723 INFO root Done
+2017-11-28 12:00:02,116 DEBU root Last attempt: 2017-11-28T06:00:01Z
+2017-11-28 12:00:02,130 DEBU root Last success: 2017-11-28T06:00:01Z
+2017-11-28 12:00:02,130 INFO root Writing last-update file
+2017-11-28 12:00:02,131 INFO root Query: 'collection:archivebot oai_updatedate:[2017-11-28T06:00:01Z TO null]'
+2017-11-28 12:00:03,733 INFO root Processing item archiveteam_archivebot_go_20171125220001
+2017-11-28 12:00:03,734 INFO root Skipping archiveteam_archivebot_go_20171125220001.cdx.idx
+2017-11-28 12:00:03,734 INFO root Skipping archiveteam_archivebot_go_20171125220001_archive.torrent
+2017-11-28 12:00:03,734 INFO root Skipping archiveteam_archivebot_go_20171125220001_files.xml
+2017-11-28 12:00:03,734 INFO root Skipping archiveteam_archivebot_go_20171125220001_meta.sqlite
+2017-11-28 12:00:03,734 INFO root Skipping archiveteam_archivebot_go_20171125220001_meta.xml
+2017-11-28 12:00:04,117 INFO root Processing item archiveteam_archivebot_go_20171126060001
+2017-11-28 12:00:04,118 INFO root Skipping archiveteam_archivebot_go_20171126060001.cdx.idx
+2017-11-28 12:00:04,118 INFO root Skipping archiveteam_archivebot_go_20171126060001_archive.torrent
+2017-11-28 12:00:04,118 INFO root Skipping archiveteam_archivebot_go_20171126060001_files.xml
+2017-11-28 12:00:04,118 INFO root Skipping archiveteam_archivebot_go_20171126060001_meta.sqlite
+2017-11-28 12:00:04,118 INFO root Skipping archiveteam_archivebot_go_20171126060001_meta.xml
+2017-11-28 12:00:04,313 INFO root Processing item astrid_archivebot_devcentral_f5_com_20171124
+2017-11-28 12:00:04,313 INFO root Skipping astrid_archivebot_devcentral_f5_com_20171124.cdx.idx
+2017-11-28 12:00:04,313 INFO root Skipping astrid_archivebot_devcentral_f5_com_20171124_archive.torrent
+2017-11-28 12:00:04,314 INFO root Skipping astrid_archivebot_devcentral_f5_com_20171124_files.xml
+2017-11-28 12:00:04,314 INFO root Skipping astrid_archivebot_devcentral_f5_com_20171124_meta.sqlite
+2017-11-28 12:00:04,314 INFO root Skipping astrid_archivebot_devcentral_f5_com_20171124_meta.xml
+2017-11-28 12:00:04,673 INFO root Processing item astrid_archivebot_forum_giga_de_20170928
+2017-11-28 12:00:04,673 INFO root Skipping astrid_archivebot_forum_giga_de_20170928.cdx.idx
+2017-11-28 12:00:04,674 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_archive.torrent
+2017-11-28 12:00:04,674 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_files.xml
+2017-11-28 12:00:04,674 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.sqlite
+2017-11-28 12:00:04,674 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.xml
+2017-11-28 12:00:04,888 INFO root Processing item astrid_archivebot_robertlindsay_wordpress_com_20171123
+2017-11-28 12:00:04,889 INFO root Skipping astrid_archivebot_robertlindsay_wordpress_com_20171123.cdx.idx
+2017-11-28 12:00:04,889 INFO root Skipping astrid_archivebot_robertlindsay_wordpress_com_20171123_archive.torrent
+2017-11-28 12:00:04,889 INFO root Skipping astrid_archivebot_robertlindsay_wordpress_com_20171123_files.xml
+2017-11-28 12:00:04,889 INFO root Skipping astrid_archivebot_robertlindsay_wordpress_com_20171123_meta.sqlite
+2017-11-28 12:00:04,889 INFO root Skipping astrid_archivebot_robertlindsay_wordpress_com_20171123_meta.xml
+2017-11-28 12:00:05,107 INFO root Processing item falconk_archivebot_argentina_indymedia_org_20170827
+2017-11-28 12:00:05,109 INFO root Skipping falconk_archivebot_argentina_indymedia_org_20170827.cdx.idx
+2017-11-28 12:00:05,110 INFO root Skipping falconk_archivebot_argentina_indymedia_org_20170827_archive.torrent
+2017-11-28 12:00:05,110 INFO root Skipping falconk_archivebot_argentina_indymedia_org_20170827_files.xml
+2017-11-28 12:00:05,110 INFO root Skipping falconk_archivebot_argentina_indymedia_org_20170827_meta.sqlite
+2017-11-28 12:00:05,110 INFO root Skipping falconk_archivebot_argentina_indymedia_org_20170827_meta.xml
+2017-11-28 12:00:05,310 INFO root Processing item falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714
+2017-11-28 12:00:05,310 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714.cdx.idx
+2017-11-28 12:00:05,310 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_archive.torrent
+2017-11-28 12:00:05,310 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_files.xml
+2017-11-28 12:00:05,311 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_meta.sqlite
+2017-11-28 12:00:05,311 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_meta.xml
+2017-11-28 12:00:05,524 INFO root Processing item falconk_archivebot_www_indymedia_org_20170826
+2017-11-28 12:00:05,524 INFO root Skipping falconk_archivebot_www_indymedia_org_20170826.cdx.idx
+2017-11-28 12:00:05,524 INFO root Skipping falconk_archivebot_www_indymedia_org_20170826_archive.torrent
+2017-11-28 12:00:05,524 INFO root Skipping falconk_archivebot_www_indymedia_org_20170826_files.xml
+2017-11-28 12:00:05,524 INFO root Skipping falconk_archivebot_www_indymedia_org_20170826_meta.sqlite
+2017-11-28 12:00:05,524 INFO root Skipping falconk_archivebot_www_indymedia_org_20170826_meta.xml
+2017-11-28 12:00:05,526 INFO root Writing last-update file
+2017-11-28 12:00:05,527 INFO root Done
