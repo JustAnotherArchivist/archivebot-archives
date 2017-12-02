@@ -55,7 +55,7 @@ logging.config.dictConfig(
 
 
 dataDir = os.path.abspath(sys.argv[1])
-fnPattern = re.compile(r'^.+(-(inf|shallow))?-\d{8}-\d{6}(-\w{5})?.*(\.warc\.gz|\.warc\.os\.cdx\.gz|\.json|-urls\.txt)$') # Based on the one used by the ArchiveBot viewer
+fnPattern = re.compile(r'^.+(-(inf|shallow))?-\d{8}-\d{6}(-\w{5})?.*(\.warc\.gz|\.warc\.os\.cdx\.gz|\.json|-urls\.txt|\.log\.gz)$') # Based on the one used by the ArchiveBot viewer
 	# The identifier part (\w{5}) was not present in the first few items in the collection, so it's optional.
 	# Similarly, there are some WARCs in the very first item of the collection (archiveteam_archivebot_go_001) which did not include -inf/shallow, and which used the job ID instead of the domain at the beginning.
 datePattern = re.compile(r'^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z$')
