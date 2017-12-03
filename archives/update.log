@@ -1,114 +1,82 @@
-2017-12-02 18:00:01,537 DEBU root Last attempt: 2017-12-01T18:00:01Z
-2017-12-02 18:00:01,538 DEBU root Last success: 2017-12-01T18:00:01Z
-2017-12-02 18:00:01,538 INFO root Writing last-update file
-2017-12-02 18:00:01,538 INFO root Query: 'collection:archivebot oai_updatedate:[2017-12-01T18:00:01Z TO null]'
-2017-12-02 18:00:03,929 INFO root Processing item archiveteam_archivebot_go_20171130210002
-2017-12-02 18:00:03,930 INFO root Skipping archiveteam_archivebot_go_20171130210002.cdx.idx
-2017-12-02 18:00:03,930 INFO root Skipping archiveteam_archivebot_go_20171130210002_archive.torrent
-2017-12-02 18:00:03,930 INFO root Skipping archiveteam_archivebot_go_20171130210002_files.xml
-2017-12-02 18:00:03,930 INFO root Skipping archiveteam_archivebot_go_20171130210002_meta.sqlite
-2017-12-02 18:00:03,931 INFO root Skipping archiveteam_archivebot_go_20171130210002_meta.xml
-2017-12-02 18:00:04,132 INFO root Processing item archiveteam_archivebot_go_20171201020001
-2017-12-02 18:00:04,132 INFO root Skipping archiveteam_archivebot_go_20171201020001.cdx.idx
-2017-12-02 18:00:04,132 INFO root Skipping archiveteam_archivebot_go_20171201020001_archive.torrent
-2017-12-02 18:00:04,132 INFO root Skipping archiveteam_archivebot_go_20171201020001_files.xml
-2017-12-02 18:00:04,133 INFO root Skipping archiveteam_archivebot_go_20171201020001_meta.sqlite
-2017-12-02 18:00:04,133 INFO root Skipping archiveteam_archivebot_go_20171201020001_meta.xml
-2017-12-02 18:00:04,334 INFO root Processing item archiveteam_archivebot_go_20171201100002
-2017-12-02 18:00:04,334 INFO root Skipping archiveteam_archivebot_go_20171201100002.cdx.idx
-2017-12-02 18:00:04,334 INFO root Skipping archiveteam_archivebot_go_20171201100002_archive.torrent
-2017-12-02 18:00:04,334 INFO root Skipping archiveteam_archivebot_go_20171201100002_files.xml
-2017-12-02 18:00:04,335 INFO root Skipping archiveteam_archivebot_go_20171201100002_meta.sqlite
-2017-12-02 18:00:04,335 INFO root Skipping archiveteam_archivebot_go_20171201100002_meta.xml
-2017-12-02 18:00:04,528 INFO root Processing item archiveteam_archivebot_go_20171201130001
-2017-12-02 18:00:04,529 INFO root Skipping archiveteam_archivebot_go_20171201130001.cdx.idx
-2017-12-02 18:00:04,529 INFO root Skipping archiveteam_archivebot_go_20171201130001_archive.torrent
-2017-12-02 18:00:04,529 INFO root Skipping archiveteam_archivebot_go_20171201130001_files.xml
-2017-12-02 18:00:04,529 INFO root Skipping archiveteam_archivebot_go_20171201130001_meta.sqlite
-2017-12-02 18:00:04,529 INFO root Skipping archiveteam_archivebot_go_20171201130001_meta.xml
-2017-12-02 18:00:04,726 INFO root Processing item archiveteam_archivebot_go_20171201170001
-2017-12-02 18:00:04,726 INFO root Skipping archiveteam_archivebot_go_20171201170001.cdx.idx
-2017-12-02 18:00:04,727 INFO root Skipping archiveteam_archivebot_go_20171201170001_archive.torrent
-2017-12-02 18:00:04,727 INFO root Skipping archiveteam_archivebot_go_20171201170001_files.xml
-2017-12-02 18:00:04,727 INFO root Skipping archiveteam_archivebot_go_20171201170001_meta.sqlite
-2017-12-02 18:00:04,727 INFO root Skipping archiveteam_archivebot_go_20171201170001_meta.xml
-2017-12-02 18:00:05,282 INFO root Processing item archiveteam_archivebot_go_20171201210001
-2017-12-02 18:00:05,283 INFO root Skipping archiveteam_archivebot_go_20171201210001.cdx.idx
-2017-12-02 18:00:05,284 INFO root Skipping archiveteam_archivebot_go_20171201210001_archive.torrent
-2017-12-02 18:00:05,284 INFO root Skipping archiveteam_archivebot_go_20171201210001_files.xml
-2017-12-02 18:00:05,284 INFO root Skipping archiveteam_archivebot_go_20171201210001_meta.sqlite
-2017-12-02 18:00:05,284 INFO root Skipping archiveteam_archivebot_go_20171201210001_meta.xml
-2017-12-02 18:00:05,505 INFO root Processing item archiveteam_archivebot_go_20171202010001
-2017-12-02 18:00:05,505 INFO root Skipping archiveteam_archivebot_go_20171202010001_archive.torrent
-2017-12-02 18:00:05,505 INFO root Skipping archiveteam_archivebot_go_20171202010001_files.xml
-2017-12-02 18:00:05,505 INFO root Skipping archiveteam_archivebot_go_20171202010001_meta.sqlite
-2017-12-02 18:00:05,505 INFO root Skipping archiveteam_archivebot_go_20171202010001_meta.xml
-2017-12-02 18:00:05,892 INFO root Processing item archiveteam_archivebot_go_20171202050002
-2017-12-02 18:00:05,892 INFO root Skipping archiveteam_archivebot_go_20171202050002_archive.torrent
-2017-12-02 18:00:05,892 INFO root Skipping archiveteam_archivebot_go_20171202050002_files.xml
-2017-12-02 18:00:05,893 INFO root Skipping archiveteam_archivebot_go_20171202050002_meta.sqlite
-2017-12-02 18:00:05,893 INFO root Skipping archiveteam_archivebot_go_20171202050002_meta.xml
-2017-12-02 18:00:06,108 INFO root Processing item archiveteam_archivebot_go_20171202100002
-2017-12-02 18:00:06,108 INFO root Skipping archiveteam_archivebot_go_20171202100002_archive.torrent
-2017-12-02 18:00:06,108 INFO root Skipping archiveteam_archivebot_go_20171202100002_files.xml
-2017-12-02 18:00:06,108 INFO root Skipping archiveteam_archivebot_go_20171202100002_meta.sqlite
-2017-12-02 18:00:06,109 INFO root Skipping archiveteam_archivebot_go_20171202100002_meta.xml
-2017-12-02 18:00:06,741 INFO root Processing item archiveteam_archivebot_go_20171202140002
-2017-12-02 18:00:07,228 INFO root Skipping archiveteam_archivebot_go_20171202140002_archive.torrent
-2017-12-02 18:00:07,228 INFO root Skipping archiveteam_archivebot_go_20171202140002_files.xml
-2017-12-02 18:00:07,228 INFO root Skipping archiveteam_archivebot_go_20171202140002_meta.sqlite
-2017-12-02 18:00:07,228 INFO root Skipping archiveteam_archivebot_go_20171202140002_meta.xml
-2017-12-02 18:00:07,447 INFO root Processing item archiveteam_archivebot_go_20171202170001
-2017-12-02 18:00:07,448 INFO root Skipping archiveteam_archivebot_go_20171202170001_files.xml
-2017-12-02 18:00:07,448 INFO root Skipping archiveteam_archivebot_go_20171202170001_meta.sqlite
-2017-12-02 18:00:07,448 INFO root Skipping archiveteam_archivebot_go_20171202170001_meta.xml
-2017-12-02 18:00:07,781 INFO root Processing item astrid_archivebot_blog_internations_org_20171201
-2017-12-02 18:00:07,781 INFO root Skipping astrid_archivebot_blog_internations_org_20171201.cdx.idx
-2017-12-02 18:00:07,781 INFO root Skipping astrid_archivebot_blog_internations_org_20171201_archive.torrent
-2017-12-02 18:00:07,781 INFO root Skipping astrid_archivebot_blog_internations_org_20171201_files.xml
-2017-12-02 18:00:07,781 INFO root Skipping astrid_archivebot_blog_internations_org_20171201_meta.sqlite
-2017-12-02 18:00:07,781 INFO root Skipping astrid_archivebot_blog_internations_org_20171201_meta.xml
-2017-12-02 18:00:08,136 INFO root Processing item astrid_archivebot_devcentral_f5_com_20171124
-2017-12-02 18:00:08,136 INFO root Skipping astrid_archivebot_devcentral_f5_com_20171124.cdx.idx
-2017-12-02 18:00:08,136 INFO root Skipping astrid_archivebot_devcentral_f5_com_20171124_archive.torrent
-2017-12-02 18:00:08,136 INFO root Skipping astrid_archivebot_devcentral_f5_com_20171124_files.xml
-2017-12-02 18:00:08,137 INFO root Skipping astrid_archivebot_devcentral_f5_com_20171124_meta.sqlite
-2017-12-02 18:00:08,137 INFO root Skipping astrid_archivebot_devcentral_f5_com_20171124_meta.xml
-2017-12-02 18:00:08,528 INFO root Processing item astrid_archivebot_forum_giga_de_20170928
-2017-12-02 18:00:08,529 INFO root Skipping astrid_archivebot_forum_giga_de_20170928.cdx.idx
-2017-12-02 18:00:08,529 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_archive.torrent
-2017-12-02 18:00:08,529 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_files.xml
-2017-12-02 18:00:08,529 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.sqlite
-2017-12-02 18:00:08,529 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.xml
-2017-12-02 18:00:08,739 INFO root Processing item astrid_archivebot_robertlindsay_wordpress_com_20171123
-2017-12-02 18:00:08,739 INFO root Skipping astrid_archivebot_robertlindsay_wordpress_com_20171123.cdx.idx
-2017-12-02 18:00:08,740 INFO root Skipping astrid_archivebot_robertlindsay_wordpress_com_20171123_archive.torrent
-2017-12-02 18:00:08,740 INFO root Skipping astrid_archivebot_robertlindsay_wordpress_com_20171123_files.xml
-2017-12-02 18:00:08,740 INFO root Skipping astrid_archivebot_robertlindsay_wordpress_com_20171123_meta.sqlite
-2017-12-02 18:00:08,740 INFO root Skipping astrid_archivebot_robertlindsay_wordpress_com_20171123_meta.xml
-2017-12-02 18:00:08,944 INFO root Processing item astrid_archivebot_vidme_groovehq_com_20171202
-2017-12-02 18:00:08,944 INFO root Skipping astrid_archivebot_vidme_groovehq_com_20171202.cdx.idx
-2017-12-02 18:00:08,944 INFO root Skipping astrid_archivebot_vidme_groovehq_com_20171202_archive.torrent
-2017-12-02 18:00:08,944 INFO root Skipping astrid_archivebot_vidme_groovehq_com_20171202_files.xml
-2017-12-02 18:00:08,944 INFO root Skipping astrid_archivebot_vidme_groovehq_com_20171202_meta.sqlite
-2017-12-02 18:00:08,944 INFO root Skipping astrid_archivebot_vidme_groovehq_com_20171202_meta.xml
-2017-12-02 18:00:09,297 INFO root Processing item astrid_archivebot_www_facebook_com_20171201
-2017-12-02 18:00:09,297 INFO root Skipping astrid_archivebot_www_facebook_com_20171201.cdx.idx
-2017-12-02 18:00:09,297 INFO root Skipping astrid_archivebot_www_facebook_com_20171201_archive.torrent
-2017-12-02 18:00:09,297 INFO root Skipping astrid_archivebot_www_facebook_com_20171201_files.xml
-2017-12-02 18:00:09,297 INFO root Skipping astrid_archivebot_www_facebook_com_20171201_meta.sqlite
-2017-12-02 18:00:09,297 INFO root Skipping astrid_archivebot_www_facebook_com_20171201_meta.xml
-2017-12-02 18:00:09,689 INFO root Processing item falconk_archivebot_argentina_indymedia_org_20170827
-2017-12-02 18:00:09,692 INFO root Skipping falconk_archivebot_argentina_indymedia_org_20170827.cdx.idx
-2017-12-02 18:00:09,692 INFO root Skipping falconk_archivebot_argentina_indymedia_org_20170827_archive.torrent
-2017-12-02 18:00:09,692 INFO root Skipping falconk_archivebot_argentina_indymedia_org_20170827_files.xml
-2017-12-02 18:00:09,692 INFO root Skipping falconk_archivebot_argentina_indymedia_org_20170827_meta.sqlite
-2017-12-02 18:00:09,692 INFO root Skipping falconk_archivebot_argentina_indymedia_org_20170827_meta.xml
-2017-12-02 18:00:09,892 INFO root Processing item falconk_archivebot_www_vilaweb_cat_20170919
-2017-12-02 18:00:09,893 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919.cdx.idx
-2017-12-02 18:00:09,893 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919_archive.torrent
-2017-12-02 18:00:09,893 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919_files.xml
-2017-12-02 18:00:09,893 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919_meta.sqlite
-2017-12-02 18:00:09,893 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919_meta.xml
-2017-12-02 18:00:09,896 INFO root Writing last-update file
-2017-12-02 18:00:09,896 INFO root Done
+2017-12-03 00:00:01,773 DEBU root Last attempt: 2017-12-02T18:00:01Z
+2017-12-03 00:00:01,773 DEBU root Last success: 2017-12-02T18:00:01Z
+2017-12-03 00:00:01,773 INFO root Writing last-update file
+2017-12-03 00:00:01,773 INFO root Query: 'collection:archivebot oai_updatedate:[2017-12-02T18:00:01Z TO null]'
+2017-12-03 00:00:03,442 INFO root Processing item archiveteam_archivebot_go_20171202010001
+2017-12-03 00:00:03,442 INFO root Skipping archiveteam_archivebot_go_20171202010001.cdx.idx
+2017-12-03 00:00:03,442 INFO root Skipping archiveteam_archivebot_go_20171202010001_archive.torrent
+2017-12-03 00:00:03,443 INFO root Skipping archiveteam_archivebot_go_20171202010001_files.xml
+2017-12-03 00:00:03,443 INFO root Skipping archiveteam_archivebot_go_20171202010001_meta.sqlite
+2017-12-03 00:00:03,443 INFO root Skipping archiveteam_archivebot_go_20171202010001_meta.xml
+2017-12-03 00:00:03,649 INFO root Processing item archiveteam_archivebot_go_20171202050002
+2017-12-03 00:00:03,649 INFO root Skipping archiveteam_archivebot_go_20171202050002.cdx.idx
+2017-12-03 00:00:03,650 INFO root Skipping archiveteam_archivebot_go_20171202050002_archive.torrent
+2017-12-03 00:00:03,650 INFO root Skipping archiveteam_archivebot_go_20171202050002_files.xml
+2017-12-03 00:00:03,650 INFO root Skipping archiveteam_archivebot_go_20171202050002_meta.sqlite
+2017-12-03 00:00:03,650 INFO root Skipping archiveteam_archivebot_go_20171202050002_meta.xml
+2017-12-03 00:00:03,866 INFO root Processing item archiveteam_archivebot_go_20171202100002
+2017-12-03 00:00:03,866 INFO root Skipping archiveteam_archivebot_go_20171202100002.cdx.idx
+2017-12-03 00:00:03,866 INFO root Skipping archiveteam_archivebot_go_20171202100002_archive.torrent
+2017-12-03 00:00:03,867 INFO root Skipping archiveteam_archivebot_go_20171202100002_files.xml
+2017-12-03 00:00:03,867 INFO root Skipping archiveteam_archivebot_go_20171202100002_meta.sqlite
+2017-12-03 00:00:03,867 INFO root Skipping archiveteam_archivebot_go_20171202100002_meta.xml
+2017-12-03 00:00:04,267 INFO root Processing item archiveteam_archivebot_go_20171202140002
+2017-12-03 00:00:04,267 INFO root Skipping archiveteam_archivebot_go_20171202140002_archive.torrent
+2017-12-03 00:00:04,268 INFO root Skipping archiveteam_archivebot_go_20171202140002_files.xml
+2017-12-03 00:00:04,268 INFO root Skipping archiveteam_archivebot_go_20171202140002_meta.sqlite
+2017-12-03 00:00:04,268 INFO root Skipping archiveteam_archivebot_go_20171202140002_meta.xml
+2017-12-03 00:00:04,455 INFO root Processing item archiveteam_archivebot_go_20171202170001
+2017-12-03 00:00:04,456 INFO root Skipping archiveteam_archivebot_go_20171202170001.cdx.idx
+2017-12-03 00:00:04,456 INFO root Skipping archiveteam_archivebot_go_20171202170001_archive.torrent
+2017-12-03 00:00:04,456 INFO root Skipping archiveteam_archivebot_go_20171202170001_files.xml
+2017-12-03 00:00:04,456 INFO root Skipping archiveteam_archivebot_go_20171202170001_meta.sqlite
+2017-12-03 00:00:04,456 INFO root Skipping archiveteam_archivebot_go_20171202170001_meta.xml
+2017-12-03 00:00:04,727 INFO root Processing item archiveteam_archivebot_go_20171202200001
+2017-12-03 00:00:04,727 INFO root Skipping archiveteam_archivebot_go_20171202200001_archive.torrent
+2017-12-03 00:00:04,727 INFO root Skipping archiveteam_archivebot_go_20171202200001_files.xml
+2017-12-03 00:00:04,727 INFO root Skipping archiveteam_archivebot_go_20171202200001_meta.sqlite
+2017-12-03 00:00:04,727 INFO root Skipping archiveteam_archivebot_go_20171202200001_meta.xml
+2017-12-03 00:00:04,728 INFO root Skipping tmp-wpull-warc-2xd0qf_n.log.gz
+2017-12-03 00:00:04,728 INFO root Skipping tmp-wpull-warc-8gc_c3yf.log.gz
+2017-12-03 00:00:04,728 INFO root Skipping tmp-wpull-warc-ctje70d3.log.gz
+2017-12-03 00:00:04,728 INFO root Skipping tmp-wpull-warc-dy4fe5sp.log.gz
+2017-12-03 00:00:04,728 INFO root Skipping tmp-wpull-warc-ngrcyit5.log.gz
+2017-12-03 00:00:04,728 INFO root Skipping tmp-wpull-warc-o8gdnkih.log.gz
+2017-12-03 00:00:04,728 INFO root Skipping tmp-wpull-warc-ssbsgdgk.log.gz
+2017-12-03 00:00:04,729 INFO root Skipping tmp-wpull-warc-swhnlh90.log.gz
+2017-12-03 00:00:04,975 INFO root Processing item archiveteam_archivebot_go_20171202220002
+2017-12-03 00:00:04,976 INFO root Skipping archiveteam_archivebot_go_20171202220002_files.xml
+2017-12-03 00:00:04,976 INFO root Skipping archiveteam_archivebot_go_20171202220002_meta.sqlite
+2017-12-03 00:00:04,976 INFO root Skipping archiveteam_archivebot_go_20171202220002_meta.xml
+2017-12-03 00:00:05,395 INFO root Processing item astrid_archivebot_forum_giga_de_20170928
+2017-12-03 00:00:05,396 INFO root Skipping astrid_archivebot_forum_giga_de_20170928.cdx.idx
+2017-12-03 00:00:05,396 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_archive.torrent
+2017-12-03 00:00:05,396 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_files.xml
+2017-12-03 00:00:05,396 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.sqlite
+2017-12-03 00:00:05,396 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.xml
+2017-12-03 00:00:05,594 INFO root Processing item astrid_archivebot_www_chiefdelphi_com_20171202
+2017-12-03 00:00:05,594 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202.cdx.idx
+2017-12-03 00:00:05,594 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_archive.torrent
+2017-12-03 00:00:05,594 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_files.xml
+2017-12-03 00:00:05,594 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_meta.sqlite
+2017-12-03 00:00:05,595 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_meta.xml
+2017-12-03 00:00:05,797 INFO root Processing item falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714
+2017-12-03 00:00:05,797 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714.cdx.idx
+2017-12-03 00:00:05,797 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_archive.torrent
+2017-12-03 00:00:05,797 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_files.xml
+2017-12-03 00:00:05,798 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_meta.sqlite
+2017-12-03 00:00:05,798 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_meta.xml
+2017-12-03 00:00:06,174 INFO root Processing item falconk_archivebot_www_indymedia_org_20170826
+2017-12-03 00:00:06,174 INFO root Skipping falconk_archivebot_www_indymedia_org_20170826.cdx.idx
+2017-12-03 00:00:06,174 INFO root Skipping falconk_archivebot_www_indymedia_org_20170826_archive.torrent
+2017-12-03 00:00:06,174 INFO root Skipping falconk_archivebot_www_indymedia_org_20170826_files.xml
+2017-12-03 00:00:06,175 INFO root Skipping falconk_archivebot_www_indymedia_org_20170826_meta.sqlite
+2017-12-03 00:00:06,175 INFO root Skipping falconk_archivebot_www_indymedia_org_20170826_meta.xml
+2017-12-03 00:00:06,393 INFO root Processing item falconk_archivebot_www_msfn_org_20170824
+2017-12-03 00:00:06,394 INFO root Skipping falconk_archivebot_www_msfn_org_20170824.cdx.idx
+2017-12-03 00:00:06,394 INFO root Skipping falconk_archivebot_www_msfn_org_20170824_archive.torrent
+2017-12-03 00:00:06,394 INFO root Skipping falconk_archivebot_www_msfn_org_20170824_files.xml
+2017-12-03 00:00:06,394 INFO root Skipping falconk_archivebot_www_msfn_org_20170824_meta.sqlite
+2017-12-03 00:00:06,394 INFO root Skipping falconk_archivebot_www_msfn_org_20170824_meta.xml
+2017-12-03 00:00:06,398 INFO root Writing last-update file
+2017-12-03 00:00:06,398 INFO root Done
