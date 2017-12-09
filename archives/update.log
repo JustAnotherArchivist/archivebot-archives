@@ -1,76 +1,40 @@
-2017-12-09 12:00:02,516 DEBU root Last attempt: 2017-12-09T06:00:01Z
-2017-12-09 12:00:02,516 DEBU root Last success: 2017-12-09T06:00:01Z
-2017-12-09 12:00:02,516 INFO root Writing last-update file
-2017-12-09 12:00:02,517 INFO root Query: 'collection:archivebot oai_updatedate:[2017-12-09T06:00:01Z TO null]'
-2017-12-09 12:00:03,852 INFO root Processing item archiveteam_archivebot_go_20171208200002
-2017-12-09 12:00:03,853 INFO root Skipping a
-2017-12-09 12:00:03,853 INFO root Skipping a.mp3
-2017-12-09 12:00:03,853 INFO root Skipping a.ogg
-2017-12-09 12:00:03,853 INFO root Skipping archiveteam_archivebot_go_20171208200002.cdx.idx
-2017-12-09 12:00:03,853 INFO root Skipping archiveteam_archivebot_go_20171208200002_archive.torrent
-2017-12-09 12:00:03,853 INFO root Skipping archiveteam_archivebot_go_20171208200002_files.xml
-2017-12-09 12:00:03,853 INFO root Skipping archiveteam_archivebot_go_20171208200002_meta.sqlite
-2017-12-09 12:00:03,853 INFO root Skipping archiveteam_archivebot_go_20171208200002_meta.xml
-2017-12-09 12:00:04,191 INFO root Processing item archiveteam_archivebot_go_20171209000002
-2017-12-09 12:00:04,192 ERRO root Size of ach.fcc.gov-inf-20171208-142429-dds7r-00000.warc.os.cdx.gz is missing
-2017-12-09 12:00:04,192 ERRO root Mtime of ach.fcc.gov-inf-20171208-142429-dds7r-00000.warc.os.cdx.gz is missing
-2017-12-09 12:00:04,192 INFO root Skipping archiveteam_archivebot_go_20171209000002_archive.torrent
-2017-12-09 12:00:04,192 INFO root Skipping archiveteam_archivebot_go_20171209000002_files.xml
-2017-12-09 12:00:04,192 INFO root Skipping archiveteam_archivebot_go_20171209000002_meta.sqlite
-2017-12-09 12:00:04,192 INFO root Skipping archiveteam_archivebot_go_20171209000002_meta.xml
-2017-12-09 12:00:04,193 ERRO root Size of charlierose.com-inf-20171128-121753-8syg6-00324.warc.os.cdx.gz is missing
-2017-12-09 12:00:04,193 ERRO root Mtime of charlierose.com-inf-20171128-121753-8syg6-00324.warc.os.cdx.gz is missing
-2017-12-09 12:00:04,194 ERRO root Size of charlierose.com-inf-20171128-121753-8syg6-00325.warc.os.cdx.gz is missing
-2017-12-09 12:00:04,194 ERRO root Mtime of charlierose.com-inf-20171128-121753-8syg6-00325.warc.os.cdx.gz is missing
-2017-12-09 12:00:04,194 ERRO root Size of charlierose.com-inf-20171128-121753-8syg6-00326.warc.os.cdx.gz is missing
-2017-12-09 12:00:04,195 ERRO root Mtime of charlierose.com-inf-20171128-121753-8syg6-00326.warc.os.cdx.gz is missing
-2017-12-09 12:00:04,195 ERRO root Size of chicagoist.com-inf-20171104-145621-czl4j-00122.warc.os.cdx.gz is missing
-2017-12-09 12:00:04,198 ERRO root Mtime of chicagoist.com-inf-20171104-145621-czl4j-00122.warc.os.cdx.gz is missing
-2017-12-09 12:00:04,198 ERRO root Size of chicagoist.com-inf-20171104-145621-czl4j-00123.warc.os.cdx.gz is missing
-2017-12-09 12:00:04,198 ERRO root Mtime of chicagoist.com-inf-20171104-145621-czl4j-00123.warc.os.cdx.gz is missing
-2017-12-09 12:00:04,198 ERRO root Size of forum.plaxo.com-shallow-20171208-223503-2m1t2-00000.warc.os.cdx.gz is missing
-2017-12-09 12:00:04,198 ERRO root Mtime of forum.plaxo.com-shallow-20171208-223503-2m1t2-00000.warc.os.cdx.gz is missing
-2017-12-09 12:00:04,199 ERRO root Size of forum.plaxo.com-shallow-20171208-223503-2m1t2-meta.warc.os.cdx.gz is missing
-2017-12-09 12:00:04,199 ERRO root Mtime of forum.plaxo.com-shallow-20171208-223503-2m1t2-meta.warc.os.cdx.gz is missing
-2017-12-09 12:00:04,199 ERRO root Size of gwscr.com-inf-20171204-155200-6wwer-00000.warc.os.cdx.gz is missing
-2017-12-09 12:00:04,199 ERRO root Mtime of gwscr.com-inf-20171204-155200-6wwer-00000.warc.os.cdx.gz is missing
-2017-12-09 12:00:04,199 ERRO root Size of local.boyne.k12.mi.us-inf-20171208-210851-5z83n-00000.warc.os.cdx.gz is missing
-2017-12-09 12:00:04,199 ERRO root Mtime of local.boyne.k12.mi.us-inf-20171208-210851-5z83n-00000.warc.os.cdx.gz is missing
-2017-12-09 12:00:04,199 ERRO root Size of local.boyne.k12.mi.us-inf-20171208-210851-5z83n-meta.warc.os.cdx.gz is missing
-2017-12-09 12:00:04,199 ERRO root Mtime of local.boyne.k12.mi.us-inf-20171208-210851-5z83n-meta.warc.os.cdx.gz is missing
-2017-12-09 12:00:04,200 ERRO root Size of northwoodcasino.com-inf-20171208-215922-6k5yu-00000.warc.os.cdx.gz is missing
-2017-12-09 12:00:04,200 ERRO root Mtime of northwoodcasino.com-inf-20171208-215922-6k5yu-00000.warc.os.cdx.gz is missing
-2017-12-09 12:00:04,200 ERRO root Size of northwoodcasino.com-inf-20171208-215922-6k5yu-meta.warc.os.cdx.gz is missing
-2017-12-09 12:00:04,200 ERRO root Mtime of northwoodcasino.com-inf-20171208-215922-6k5yu-meta.warc.os.cdx.gz is missing
-2017-12-09 12:00:04,200 ERRO root Size of psndl.net-inf-20171201-040116-47svv-00334.warc.os.cdx.gz is missing
-2017-12-09 12:00:04,200 ERRO root Mtime of psndl.net-inf-20171201-040116-47svv-00334.warc.os.cdx.gz is missing
-2017-12-09 12:00:04,200 ERRO root Size of psndl.net-inf-20171201-040116-47svv-00335.warc.os.cdx.gz is missing
-2017-12-09 12:00:04,200 ERRO root Mtime of psndl.net-inf-20171201-040116-47svv-00335.warc.os.cdx.gz is missing
-2017-12-09 12:00:04,200 ERRO root Size of psndl.net-inf-20171201-040116-47svv-00336.warc.os.cdx.gz is missing
-2017-12-09 12:00:04,200 ERRO root Mtime of psndl.net-inf-20171201-040116-47svv-00336.warc.os.cdx.gz is missing
-2017-12-09 12:00:04,201 ERRO root Size of reboot.fcc.gov-inf-20171208-162955-6t660-meta.warc.os.cdx.gz is missing
-2017-12-09 12:00:04,201 ERRO root Mtime of reboot.fcc.gov-inf-20171208-162955-6t660-meta.warc.os.cdx.gz is missing
-2017-12-09 12:00:04,414 INFO root Processing item archiveteam_archivebot_go_20171209070002
-2017-12-09 12:00:04,415 INFO root Skipping archiveteam_archivebot_go_20171209070002_archive.torrent
-2017-12-09 12:00:04,415 INFO root Skipping archiveteam_archivebot_go_20171209070002_files.xml
-2017-12-09 12:00:04,415 INFO root Skipping archiveteam_archivebot_go_20171209070002_meta.sqlite
-2017-12-09 12:00:04,415 INFO root Skipping archiveteam_archivebot_go_20171209070002_meta.xml
-2017-12-09 12:00:04,637 INFO root Processing item archiveteam_archivebot_go_20171209110001
-2017-12-09 12:00:04,637 INFO root Skipping archiveteam_archivebot_go_20171209110001_archive.torrent
-2017-12-09 12:00:04,637 INFO root Skipping archiveteam_archivebot_go_20171209110001_files.xml
-2017-12-09 12:00:04,638 INFO root Skipping archiveteam_archivebot_go_20171209110001_meta.sqlite
-2017-12-09 12:00:04,638 INFO root Skipping archiveteam_archivebot_go_20171209110001_meta.xml
-2017-12-09 12:00:05,018 INFO root Processing item astrid_archivebot_forum_giga_de_20170928
-2017-12-09 12:00:05,021 INFO root Skipping astrid_archivebot_forum_giga_de_20170928.cdx.idx
-2017-12-09 12:00:05,021 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_archive.torrent
-2017-12-09 12:00:05,021 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_files.xml
-2017-12-09 12:00:05,021 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.sqlite
-2017-12-09 12:00:05,021 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.xml
-2017-12-09 12:00:05,224 INFO root Processing item astrid_archivebot_www_chiefdelphi_com_20171202
-2017-12-09 12:00:05,224 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202.cdx.idx
-2017-12-09 12:00:05,224 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_archive.torrent
-2017-12-09 12:00:05,225 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_files.xml
-2017-12-09 12:00:05,225 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_meta.sqlite
-2017-12-09 12:00:05,225 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_meta.xml
-2017-12-09 12:00:05,226 INFO root Writing last-update file
-2017-12-09 12:00:05,226 INFO root Done
+2017-12-09 18:00:02,223 DEBU root Last attempt: 2017-12-09T12:00:02Z
+2017-12-09 18:00:02,224 DEBU root Last success: 2017-12-09T12:00:02Z
+2017-12-09 18:00:02,224 INFO root Writing last-update file
+2017-12-09 18:00:02,224 INFO root Query: 'collection:archivebot oai_updatedate:[2017-12-09T12:00:02Z TO null]'
+2017-12-09 18:00:03,964 INFO root Processing item archiveteam_archivebot_go_20171209000002
+2017-12-09 18:00:03,965 INFO root Skipping archiveteam_archivebot_go_20171209000002.cdx.idx
+2017-12-09 18:00:03,965 INFO root Skipping archiveteam_archivebot_go_20171209000002_archive.torrent
+2017-12-09 18:00:03,965 INFO root Skipping archiveteam_archivebot_go_20171209000002_files.xml
+2017-12-09 18:00:03,965 INFO root Skipping archiveteam_archivebot_go_20171209000002_meta.sqlite
+2017-12-09 18:00:03,965 INFO root Skipping archiveteam_archivebot_go_20171209000002_meta.xml
+2017-12-09 18:00:04,159 INFO root Processing item archiveteam_archivebot_go_20171209070002
+2017-12-09 18:00:04,160 INFO root Skipping archiveteam_archivebot_go_20171209070002.cdx.idx
+2017-12-09 18:00:04,160 INFO root Skipping archiveteam_archivebot_go_20171209070002_archive.torrent
+2017-12-09 18:00:04,160 INFO root Skipping archiveteam_archivebot_go_20171209070002_files.xml
+2017-12-09 18:00:04,160 INFO root Skipping archiveteam_archivebot_go_20171209070002_meta.sqlite
+2017-12-09 18:00:04,160 INFO root Skipping archiveteam_archivebot_go_20171209070002_meta.xml
+2017-12-09 18:00:04,389 INFO root Processing item archiveteam_archivebot_go_20171209110001
+2017-12-09 18:00:04,390 INFO root Skipping archiveteam_archivebot_go_20171209110001_archive.torrent
+2017-12-09 18:00:04,390 INFO root Skipping archiveteam_archivebot_go_20171209110001_files.xml
+2017-12-09 18:00:04,390 INFO root Skipping archiveteam_archivebot_go_20171209110001_meta.sqlite
+2017-12-09 18:00:04,390 INFO root Skipping archiveteam_archivebot_go_20171209110001_meta.xml
+2017-12-09 18:00:04,608 INFO root Processing item archiveteam_archivebot_go_20171209140001
+2017-12-09 18:00:04,609 INFO root Skipping archiveteam_archivebot_go_20171209140001_archive.torrent
+2017-12-09 18:00:04,609 INFO root Skipping archiveteam_archivebot_go_20171209140001_files.xml
+2017-12-09 18:00:04,609 INFO root Skipping archiveteam_archivebot_go_20171209140001_meta.sqlite
+2017-12-09 18:00:04,609 INFO root Skipping archiveteam_archivebot_go_20171209140001_meta.xml
+2017-12-09 18:00:04,798 INFO root Processing item astrid_archivebot_www_chiefdelphi_com_20171202
+2017-12-09 18:00:04,799 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202.cdx.idx
+2017-12-09 18:00:04,799 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_archive.torrent
+2017-12-09 18:00:04,799 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_files.xml
+2017-12-09 18:00:04,799 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_meta.sqlite
+2017-12-09 18:00:04,799 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_meta.xml
+2017-12-09 18:00:05,212 INFO root Processing item falconk_archivebot_www_vilaweb_cat_20170919
+2017-12-09 18:00:05,212 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919.cdx.idx
+2017-12-09 18:00:05,213 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919_archive.torrent
+2017-12-09 18:00:05,213 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919_files.xml
+2017-12-09 18:00:05,213 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919_meta.sqlite
+2017-12-09 18:00:05,213 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919_meta.xml
+2017-12-09 18:00:05,217 INFO root Writing last-update file
+2017-12-09 18:00:05,217 INFO root Done
