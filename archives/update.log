@@ -1,16 +1,56 @@
-2017-12-10 12:00:01,739 DEBU root Last attempt: 2017-12-10T06:00:01Z
-2017-12-10 12:00:01,740 DEBU root Last success: 2017-12-10T06:00:01Z
-2017-12-10 12:00:01,740 INFO root Writing last-update file
-2017-12-10 12:00:01,740 INFO root Query: 'collection:archivebot oai_updatedate:[2017-12-10T06:00:01Z TO null]'
-2017-12-10 12:00:03,680 INFO root Processing item archiveteam_archivebot_go_20171209110001
-2017-12-10 12:00:03,680 INFO root Skipping archiveteam_archivebot_go_20171209110001.cdx.idx
-2017-12-10 12:00:03,680 INFO root Skipping archiveteam_archivebot_go_20171209110001_archive.torrent
-2017-12-10 12:00:03,681 INFO root Skipping archiveteam_archivebot_go_20171209110001_files.xml
-2017-12-10 12:00:03,681 INFO root Skipping archiveteam_archivebot_go_20171209110001_meta.sqlite
-2017-12-10 12:00:03,681 INFO root Skipping archiveteam_archivebot_go_20171209110001_meta.xml
-2017-12-10 12:00:03,902 INFO root Processing item archiveteam_archivebot_go_20171210080001
-2017-12-10 12:00:03,902 INFO root Skipping archiveteam_archivebot_go_20171210080001_files.xml
-2017-12-10 12:00:03,903 INFO root Skipping archiveteam_archivebot_go_20171210080001_meta.sqlite
-2017-12-10 12:00:03,903 INFO root Skipping archiveteam_archivebot_go_20171210080001_meta.xml
-2017-12-10 12:00:03,903 INFO root Writing last-update file
-2017-12-10 12:00:03,903 INFO root Done
+2017-12-10 18:00:01,610 DEBU root Last attempt: 2017-12-10T12:00:01Z
+2017-12-10 18:00:01,610 DEBU root Last success: 2017-12-10T12:00:01Z
+2017-12-10 18:00:01,611 INFO root Writing last-update file
+2017-12-10 18:00:01,611 INFO root Query: 'collection:archivebot oai_updatedate:[2017-12-10T12:00:01Z TO null]'
+2017-12-10 18:00:03,010 INFO root Processing item archiveteam_archivebot_go_20171210040001
+2017-12-10 18:00:03,011 INFO root Skipping a
+2017-12-10 18:00:03,011 INFO root Skipping archiveteam_archivebot_go_20171210040001.cdx.idx
+2017-12-10 18:00:03,011 INFO root Skipping archiveteam_archivebot_go_20171210040001_archive.torrent
+2017-12-10 18:00:03,011 INFO root Skipping archiveteam_archivebot_go_20171210040001_files.xml
+2017-12-10 18:00:03,011 INFO root Skipping archiveteam_archivebot_go_20171210040001_meta.sqlite
+2017-12-10 18:00:03,011 INFO root Skipping archiveteam_archivebot_go_20171210040001_meta.xml
+2017-12-10 18:00:03,571 INFO root Processing item archiveteam_archivebot_go_20171210080001
+2017-12-10 18:00:03,571 INFO root Skipping .____padding_file/0
+2017-12-10 18:00:03,571 INFO root Skipping .____padding_file/1
+2017-12-10 18:00:03,571 INFO root Skipping .____padding_file/2
+2017-12-10 18:00:03,571 INFO root Skipping .____padding_file/3
+2017-12-10 18:00:03,571 INFO root Skipping .____padding_file/4
+2017-12-10 18:00:03,572 INFO root Skipping .____padding_file/5
+2017-12-10 18:00:03,572 ERRO root Size of 3dwarehouse.sketchup.com-inf-20171126-000428-b8dwj-00012.warc.os.cdx.gz is missing
+2017-12-10 18:00:03,572 ERRO root Mtime of 3dwarehouse.sketchup.com-inf-20171126-000428-b8dwj-00012.warc.os.cdx.gz is missing
+2017-12-10 18:00:03,572 INFO root Skipping archiveteam_archivebot_go_20171210080001_archive.torrent
+2017-12-10 18:00:03,572 INFO root Skipping archiveteam_archivebot_go_20171210080001_files.xml
+2017-12-10 18:00:03,572 INFO root Skipping archiveteam_archivebot_go_20171210080001_meta.sqlite
+2017-12-10 18:00:03,572 INFO root Skipping archiveteam_archivebot_go_20171210080001_meta.xml
+2017-12-10 18:00:03,572 ERRO root Size of charlierose.com-inf-20171128-121753-8syg6-00361.warc.os.cdx.gz is missing
+2017-12-10 18:00:03,572 ERRO root Mtime of charlierose.com-inf-20171128-121753-8syg6-00361.warc.os.cdx.gz is missing
+2017-12-10 18:00:03,572 ERRO root Size of charlierose.com-inf-20171128-121753-8syg6-00362.warc.os.cdx.gz is missing
+2017-12-10 18:00:03,573 ERRO root Mtime of charlierose.com-inf-20171128-121753-8syg6-00362.warc.os.cdx.gz is missing
+2017-12-10 18:00:03,573 ERRO root Size of charlierose.com-inf-20171128-121753-8syg6-00363.warc.os.cdx.gz is missing
+2017-12-10 18:00:03,573 ERRO root Mtime of charlierose.com-inf-20171128-121753-8syg6-00363.warc.os.cdx.gz is missing
+2017-12-10 18:00:03,573 ERRO root Size of psndl.net-inf-20171201-040116-47svv-00379.warc.os.cdx.gz is missing
+2017-12-10 18:00:03,573 ERRO root Mtime of psndl.net-inf-20171201-040116-47svv-00379.warc.os.cdx.gz is missing
+2017-12-10 18:00:03,956 INFO root Processing item archiveteam_archivebot_go_20171210120003
+2017-12-10 18:00:03,956 INFO root Skipping a
+2017-12-10 18:00:03,957 INFO root Skipping archiveteam_archivebot_go_20171210120003_files.xml
+2017-12-10 18:00:03,957 INFO root Skipping archiveteam_archivebot_go_20171210120003_meta.sqlite
+2017-12-10 18:00:03,957 INFO root Skipping archiveteam_archivebot_go_20171210120003_meta.xml
+2017-12-10 18:00:04,481 INFO root Processing item archiveteam_archivebot_go_20171210150001
+2017-12-10 18:00:04,481 INFO root Skipping a
+2017-12-10 18:00:04,482 INFO root Skipping archiveteam_archivebot_go_20171210150001_files.xml
+2017-12-10 18:00:04,482 INFO root Skipping archiveteam_archivebot_go_20171210150001_meta.sqlite
+2017-12-10 18:00:04,482 INFO root Skipping archiveteam_archivebot_go_20171210150001_meta.xml
+2017-12-10 18:00:04,836 INFO root Processing item astrid_archivebot_devcentral_f5_com_20171124
+2017-12-10 18:00:04,837 INFO root Skipping astrid_archivebot_devcentral_f5_com_20171124.cdx.idx
+2017-12-10 18:00:04,837 INFO root Skipping astrid_archivebot_devcentral_f5_com_20171124_archive.torrent
+2017-12-10 18:00:04,837 INFO root Skipping astrid_archivebot_devcentral_f5_com_20171124_files.xml
+2017-12-10 18:00:04,838 INFO root Skipping astrid_archivebot_devcentral_f5_com_20171124_meta.sqlite
+2017-12-10 18:00:04,838 INFO root Skipping astrid_archivebot_devcentral_f5_com_20171124_meta.xml
+2017-12-10 18:00:05,173 INFO root Processing item falconk_archivebot_www_asstr_org_20171210
+2017-12-10 18:00:05,173 INFO root Skipping falconk_archivebot_www_asstr_org_20171210.cdx.idx
+2017-12-10 18:00:05,174 INFO root Skipping falconk_archivebot_www_asstr_org_20171210_archive.torrent
+2017-12-10 18:00:05,174 INFO root Skipping falconk_archivebot_www_asstr_org_20171210_files.xml
+2017-12-10 18:00:05,174 INFO root Skipping falconk_archivebot_www_asstr_org_20171210_meta.sqlite
+2017-12-10 18:00:05,174 INFO root Skipping falconk_archivebot_www_asstr_org_20171210_meta.xml
+2017-12-10 18:00:05,176 INFO root Writing last-update file
+2017-12-10 18:00:05,176 INFO root Done
