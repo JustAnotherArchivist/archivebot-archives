@@ -1,111 +1,45 @@
-2017-12-27 06:00:01,536 DEBU root Last attempt: 2017-12-27T00:00:02Z
-2017-12-27 06:00:01,537 DEBU root Last success: 2017-12-27T00:00:02Z
-2017-12-27 06:00:01,537 INFO root Writing last-update file
-2017-12-27 06:00:01,537 INFO root Query: 'collection:archivebot oai_updatedate:[2017-12-27T00:00:02Z TO null]'
-2017-12-27 06:00:03,278 INFO root Processing item archiveteam_archivebot_go_20171223060002
-2017-12-27 06:00:03,278 INFO root Skipping archiveteam_archivebot_go_20171223060002.cdx.idx
-2017-12-27 06:00:03,278 INFO root Skipping archiveteam_archivebot_go_20171223060002_archive.torrent
-2017-12-27 06:00:03,278 INFO root Skipping archiveteam_archivebot_go_20171223060002_files.xml
-2017-12-27 06:00:03,278 INFO root Skipping archiveteam_archivebot_go_20171223060002_meta.sqlite
-2017-12-27 06:00:03,279 INFO root Skipping archiveteam_archivebot_go_20171223060002_meta.xml
-2017-12-27 06:00:03,531 INFO root Processing item archiveteam_archivebot_go_20171223090002
-2017-12-27 06:00:03,531 ERRO root Size of 3dwarehouse.sketchup.com-inf-20171126-000428-b8dwj-00034.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,531 ERRO root Mtime of 3dwarehouse.sketchup.com-inf-20171126-000428-b8dwj-00034.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,531 INFO root Skipping archiveteam_archivebot_go_20171223090002_archive.torrent
-2017-12-27 06:00:03,532 INFO root Skipping archiveteam_archivebot_go_20171223090002_files.xml
-2017-12-27 06:00:03,532 INFO root Skipping archiveteam_archivebot_go_20171223090002_meta.sqlite
-2017-12-27 06:00:03,532 INFO root Skipping archiveteam_archivebot_go_20171223090002_meta.xml
-2017-12-27 06:00:03,532 ERRO root Size of bambuser.com-inf-20171130-001819-53vxw-00079.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,532 ERRO root Mtime of bambuser.com-inf-20171130-001819-53vxw-00079.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,532 ERRO root Size of charlierose.com-inf-20171128-121753-8syg6-00750.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,532 ERRO root Mtime of charlierose.com-inf-20171128-121753-8syg6-00750.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,532 ERRO root Size of charlierose.com-inf-20171128-121753-8syg6-00751.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,532 ERRO root Mtime of charlierose.com-inf-20171128-121753-8syg6-00751.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,533 ERRO root Size of ftp.pigwa.net-inf-20171222-062831-b3n81-00003.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,533 ERRO root Mtime of ftp.pigwa.net-inf-20171222-062831-b3n81-00003.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,533 ERRO root Size of gorry.haun.org-inf-20171222-100127-a6jyf-00000.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,533 ERRO root Mtime of gorry.haun.org-inf-20171222-100127-a6jyf-00000.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,533 ERRO root Size of gwscr.com-inf-20171204-155200-6wwer-00000.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,533 ERRO root Mtime of gwscr.com-inf-20171204-155200-6wwer-00000.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,533 ERRO root Size of hankclan.biz-inf-20171223-063717-axcwr-00000.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,533 ERRO root Mtime of hankclan.biz-inf-20171223-063717-axcwr-00000.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,533 ERRO root Size of hankclan.biz-inf-20171223-063717-axcwr-meta.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,534 ERRO root Mtime of hankclan.biz-inf-20171223-063717-axcwr-meta.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,534 ERRO root Size of php.scripts.psu.edu-inf-20171218-103655-bznsi-00022.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,534 ERRO root Mtime of php.scripts.psu.edu-inf-20171218-103655-bznsi-00022.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,534 ERRO root Size of public.domesti.cat-inf-20171223-000445-9fz3a-00011.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,534 ERRO root Mtime of public.domesti.cat-inf-20171223-000445-9fz3a-00011.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,534 ERRO root Size of public.domesti.cat-inf-20171223-000445-9fz3a-00012.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,534 ERRO root Mtime of public.domesti.cat-inf-20171223-000445-9fz3a-00012.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,534 ERRO root Size of public.domesti.cat-inf-20171223-000445-9fz3a-00013.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,534 ERRO root Mtime of public.domesti.cat-inf-20171223-000445-9fz3a-00013.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,535 ERRO root Size of public.domesti.cat-inf-20171223-000445-9fz3a-00014.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,535 ERRO root Mtime of public.domesti.cat-inf-20171223-000445-9fz3a-00014.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,535 ERRO root Size of public.domesti.cat-inf-20171223-000445-9fz3a-00015.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,535 ERRO root Mtime of public.domesti.cat-inf-20171223-000445-9fz3a-00015.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,535 ERRO root Size of public.domesti.cat-inf-20171223-000445-9fz3a-00017.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,535 ERRO root Mtime of public.domesti.cat-inf-20171223-000445-9fz3a-00017.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,535 ERRO root Size of repository.mdp.ac.id-inf-20171223-025340-4zzmx-00000.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,535 ERRO root Mtime of repository.mdp.ac.id-inf-20171223-025340-4zzmx-00000.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,535 ERRO root Size of urls-www.leech0r.co.uk-urls2017.txt-shallow-20171219-223040-eu6li-00150.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,536 ERRO root Mtime of urls-www.leech0r.co.uk-urls2017.txt-shallow-20171219-223040-eu6li-00150.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,536 ERRO root Size of urls-www.leech0r.co.uk-urls2017.txt-shallow-20171219-223040-eu6li-00151.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,536 ERRO root Mtime of urls-www.leech0r.co.uk-urls2017.txt-shallow-20171219-223040-eu6li-00151.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,536 ERRO root Size of urls-www.leech0r.co.uk-urls2017.txt-shallow-20171219-223040-eu6li-00152.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,536 ERRO root Mtime of urls-www.leech0r.co.uk-urls2017.txt-shallow-20171219-223040-eu6li-00152.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,536 ERRO root Size of urls-www.leech0r.co.uk-urls2017.txt-shallow-20171219-223040-eu6li-00153.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,536 ERRO root Mtime of urls-www.leech0r.co.uk-urls2017.txt-shallow-20171219-223040-eu6li-00153.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,536 ERRO root Size of urls-www.leech0r.co.uk-urls2017.txt-shallow-20171219-223040-eu6li-00154.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,536 ERRO root Mtime of urls-www.leech0r.co.uk-urls2017.txt-shallow-20171219-223040-eu6li-00154.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,537 ERRO root Size of urls-www.leech0r.co.uk-urls2017.txt-shallow-20171219-223040-eu6li-00156.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,537 ERRO root Mtime of urls-www.leech0r.co.uk-urls2017.txt-shallow-20171219-223040-eu6li-00156.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,537 ERRO root Size of www.ccma.cat-inf-20171029-011426-1p44j-00140.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,537 ERRO root Mtime of www.ccma.cat-inf-20171029-011426-1p44j-00140.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,537 ERRO root Size of www.dungeoncrawlers.org-inf-20171222-190022-x49e5-meta.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,537 ERRO root Mtime of www.dungeoncrawlers.org-inf-20171222-190022-x49e5-meta.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,537 ERRO root Size of www.gamekiller.net-inf-20171212-000427-4oagq-00006.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,537 ERRO root Mtime of www.gamekiller.net-inf-20171212-000427-4oagq-00006.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,537 ERRO root Size of www.goldbachgroup.com-inf-20171222-144816-b8oev-00000.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,537 ERRO root Mtime of www.goldbachgroup.com-inf-20171222-144816-b8oev-00000.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,537 ERRO root Size of www.goldbachgroup.com-inf-20171222-144816-b8oev-meta.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,537 ERRO root Mtime of www.goldbachgroup.com-inf-20171222-144816-b8oev-meta.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,537 ERRO root Size of www.laineygossip.com-inf-20171218-193705-ca43z-00019.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,537 ERRO root Mtime of www.laineygossip.com-inf-20171218-193705-ca43z-00019.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,537 ERRO root Size of www.publ.lib.ru-inf-20171216-224333-1c6qi-00052.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,537 ERRO root Mtime of www.publ.lib.ru-inf-20171216-224333-1c6qi-00052.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,537 ERRO root Size of www.reddit.com-shallow-20171223-063648-2x1bz-00000.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,537 ERRO root Mtime of www.reddit.com-shallow-20171223-063648-2x1bz-00000.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,537 ERRO root Size of www.reddit.com-shallow-20171223-063648-2x1bz-meta.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,537 ERRO root Mtime of www.reddit.com-shallow-20171223-063648-2x1bz-meta.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,538 ERRO root Size of www.reddit.com-shallow-20171223-071831-25ayr-00000.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,538 ERRO root Mtime of www.reddit.com-shallow-20171223-071831-25ayr-00000.warc.os.cdx.gz is missing
-2017-12-27 06:00:03,751 INFO root Processing item archiveteam_archivebot_go_20171223120002
-2017-12-27 06:00:03,751 INFO root Skipping archiveteam_archivebot_go_20171223120002_archive.torrent
-2017-12-27 06:00:03,751 INFO root Skipping archiveteam_archivebot_go_20171223120002_files.xml
-2017-12-27 06:00:03,751 INFO root Skipping archiveteam_archivebot_go_20171223120002_meta.sqlite
-2017-12-27 06:00:03,751 INFO root Skipping archiveteam_archivebot_go_20171223120002_meta.xml
-2017-12-27 06:00:03,983 INFO root Processing item archiveteam_archivebot_go_20171223170002
-2017-12-27 06:00:03,983 INFO root Skipping archiveteam_archivebot_go_20171223170002_archive.torrent
-2017-12-27 06:00:03,983 INFO root Skipping archiveteam_archivebot_go_20171223170002_files.xml
-2017-12-27 06:00:03,983 INFO root Skipping archiveteam_archivebot_go_20171223170002_meta.sqlite
-2017-12-27 06:00:03,983 INFO root Skipping archiveteam_archivebot_go_20171223170002_meta.xml
-2017-12-27 06:00:04,177 INFO root Processing item astrid_archivebot_www_chiefdelphi_com_20171202
-2017-12-27 06:00:04,178 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202.cdx.idx
-2017-12-27 06:00:04,178 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_archive.torrent
-2017-12-27 06:00:04,178 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_files.xml
-2017-12-27 06:00:04,178 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_meta.sqlite
-2017-12-27 06:00:04,178 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_meta.xml
-2017-12-27 06:00:04,628 INFO root Processing item falconk_archivebot_www_indymedia_org_20170826
-2017-12-27 06:00:04,628 INFO root Skipping falconk_archivebot_www_indymedia_org_20170826.cdx.idx
-2017-12-27 06:00:04,628 INFO root Skipping falconk_archivebot_www_indymedia_org_20170826_archive.torrent
-2017-12-27 06:00:04,628 INFO root Skipping falconk_archivebot_www_indymedia_org_20170826_files.xml
-2017-12-27 06:00:04,628 INFO root Skipping falconk_archivebot_www_indymedia_org_20170826_meta.sqlite
-2017-12-27 06:00:04,628 INFO root Skipping falconk_archivebot_www_indymedia_org_20170826_meta.xml
-2017-12-27 06:00:06,190 INFO root Processing item falconk_archivebot_www_vilaweb_cat_20170919
-2017-12-27 06:00:06,190 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919.cdx.idx
-2017-12-27 06:00:06,191 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919_archive.torrent
-2017-12-27 06:00:06,191 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919_files.xml
-2017-12-27 06:00:06,191 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919_meta.sqlite
-2017-12-27 06:00:06,191 INFO root Skipping falconk_archivebot_www_vilaweb_cat_20170919_meta.xml
-2017-12-27 06:00:06,193 INFO root Writing last-update file
-2017-12-27 06:00:06,193 INFO root Done
+2017-12-27 12:00:02,173 DEBU root Last attempt: 2017-12-27T06:00:01Z
+2017-12-27 12:00:02,173 DEBU root Last success: 2017-12-27T06:00:01Z
+2017-12-27 12:00:02,173 INFO root Writing last-update file
+2017-12-27 12:00:02,174 INFO root Query: 'collection:archivebot oai_updatedate:[2017-12-27T06:00:01Z TO null]'
+2017-12-27 12:00:03,569 INFO root Processing item archiveteam_archivebot_go_20171219220002
+2017-12-27 12:00:03,570 INFO root Skipping archiveteam_archivebot_go_20171219220002_archive.torrent
+2017-12-27 12:00:03,570 INFO root Skipping archiveteam_archivebot_go_20171219220002_files.xml
+2017-12-27 12:00:03,570 INFO root Skipping archiveteam_archivebot_go_20171219220002_meta.sqlite
+2017-12-27 12:00:03,570 INFO root Skipping archiveteam_archivebot_go_20171219220002_meta.xml
+2017-12-27 12:00:03,969 INFO root Processing item archiveteam_archivebot_go_20171223090002
+2017-12-27 12:00:03,970 INFO root Skipping archiveteam_archivebot_go_20171223090002.cdx.idx
+2017-12-27 12:00:03,970 INFO root Skipping archiveteam_archivebot_go_20171223090002_archive.torrent
+2017-12-27 12:00:03,970 INFO root Skipping archiveteam_archivebot_go_20171223090002_files.xml
+2017-12-27 12:00:03,970 INFO root Skipping archiveteam_archivebot_go_20171223090002_meta.sqlite
+2017-12-27 12:00:03,970 INFO root Skipping archiveteam_archivebot_go_20171223090002_meta.xml
+2017-12-27 12:00:04,344 INFO root Processing item archiveteam_archivebot_go_20171223170002
+2017-12-27 12:00:04,345 INFO root Skipping archiveteam_archivebot_go_20171223170002_archive.torrent
+2017-12-27 12:00:04,345 INFO root Skipping archiveteam_archivebot_go_20171223170002_files.xml
+2017-12-27 12:00:04,345 INFO root Skipping archiveteam_archivebot_go_20171223170002_meta.sqlite
+2017-12-27 12:00:04,345 INFO root Skipping archiveteam_archivebot_go_20171223170002_meta.xml
+2017-12-27 12:00:04,581 INFO root Processing item archiveteam_archivebot_go_20171223200001
+2017-12-27 12:00:04,581 INFO root Skipping archiveteam_archivebot_go_20171223200001_archive.torrent
+2017-12-27 12:00:04,582 INFO root Skipping archiveteam_archivebot_go_20171223200001_files.xml
+2017-12-27 12:00:04,582 INFO root Skipping archiveteam_archivebot_go_20171223200001_meta.sqlite
+2017-12-27 12:00:04,582 INFO root Skipping archiveteam_archivebot_go_20171223200001_meta.xml
+2017-12-27 12:00:04,839 INFO root Processing item astrid_archivebot_f-droid_org_20171221
+2017-12-27 12:00:04,840 INFO root Skipping astrid_archivebot_f-droid_org_20171221.cdx.idx
+2017-12-27 12:00:04,840 INFO root Skipping astrid_archivebot_f-droid_org_20171221_archive.torrent
+2017-12-27 12:00:04,840 INFO root Skipping astrid_archivebot_f-droid_org_20171221_files.xml
+2017-12-27 12:00:04,840 INFO root Skipping astrid_archivebot_f-droid_org_20171221_meta.sqlite
+2017-12-27 12:00:04,840 INFO root Skipping astrid_archivebot_f-droid_org_20171221_meta.xml
+2017-12-27 12:00:05,218 INFO root Processing item astrid_archivebot_forum_giga_de_20170928
+2017-12-27 12:00:05,218 INFO root Skipping astrid_archivebot_forum_giga_de_20170928.cdx.idx
+2017-12-27 12:00:05,218 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_archive.torrent
+2017-12-27 12:00:05,218 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_files.xml
+2017-12-27 12:00:05,218 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.sqlite
+2017-12-27 12:00:05,219 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.xml
+2017-12-27 12:00:05,615 INFO root Processing item falconk_archivebot_www_indymedia_org_20170826
+2017-12-27 12:00:05,616 INFO root Skipping falconk_archivebot_www_indymedia_org_20170826.cdx.idx
+2017-12-27 12:00:05,616 INFO root Skipping falconk_archivebot_www_indymedia_org_20170826_archive.torrent
+2017-12-27 12:00:05,616 INFO root Skipping falconk_archivebot_www_indymedia_org_20170826_files.xml
+2017-12-27 12:00:05,616 INFO root Skipping falconk_archivebot_www_indymedia_org_20170826_meta.sqlite
+2017-12-27 12:00:05,616 INFO root Skipping falconk_archivebot_www_indymedia_org_20170826_meta.xml
+2017-12-27 12:00:05,619 INFO root Writing last-update file
+2017-12-27 12:00:05,619 INFO root Done
