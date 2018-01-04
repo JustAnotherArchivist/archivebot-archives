@@ -1,93 +1,52 @@
-2018-01-04 00:00:01,715 DEBU root Last attempt: 2018-01-03T18:00:01Z
-2018-01-04 00:00:01,716 DEBU root Last success: 2018-01-03T18:00:01Z
-2018-01-04 00:00:01,716 INFO root Writing last-update file
-2018-01-04 00:00:01,716 INFO root Query: 'collection:archivebot oai_updatedate:[2018-01-03T18:00:01Z TO null]'
-2018-01-04 00:00:04,785 INFO root Processing item archiveteam_archivebot_go_20180103130002
-2018-01-04 00:00:04,785 INFO root Skipping archiveteam_archivebot_go_20180103130002.cdx.idx
-2018-01-04 00:00:04,785 INFO root Skipping archiveteam_archivebot_go_20180103130002_archive.torrent
-2018-01-04 00:00:04,785 INFO root Skipping archiveteam_archivebot_go_20180103130002_files.xml
-2018-01-04 00:00:04,785 INFO root Skipping archiveteam_archivebot_go_20180103130002_meta.sqlite
-2018-01-04 00:00:04,786 INFO root Skipping archiveteam_archivebot_go_20180103130002_meta.xml
-2018-01-04 00:00:05,781 INFO root Processing item archiveteam_archivebot_go_20180103150001
-2018-01-04 00:00:05,782 INFO root Skipping archiveteam_archivebot_go_20180103150001_archive.torrent
-2018-01-04 00:00:05,782 INFO root Skipping archiveteam_archivebot_go_20180103150001_files.xml
-2018-01-04 00:00:05,782 INFO root Skipping archiveteam_archivebot_go_20180103150001_meta.sqlite
-2018-01-04 00:00:05,782 INFO root Skipping archiveteam_archivebot_go_20180103150001_meta.xml
-2018-01-04 00:00:05,782 ERRO root Size of bambuser.com-inf-20171130-001819-53vxw-00110.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,782 ERRO root Mtime of bambuser.com-inf-20171130-001819-53vxw-00110.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,782 ERRO root Size of blog.whyanimalsdothething.com-inf-20171230-131539-aig3a-00081.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,783 ERRO root Mtime of blog.whyanimalsdothething.com-inf-20171230-131539-aig3a-00081.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,783 ERRO root Size of blog.whyanimalsdothething.com-inf-20171230-131539-aig3a-00083.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,783 ERRO root Mtime of blog.whyanimalsdothething.com-inf-20171230-131539-aig3a-00083.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,783 ERRO root Size of blog.whyanimalsdothething.com-inf-20171230-131539-aig3a-00084.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,783 ERRO root Mtime of blog.whyanimalsdothething.com-inf-20171230-131539-aig3a-00084.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,783 ERRO root Size of blog.whyanimalsdothething.com-inf-20171230-131539-aig3a-00086.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,783 ERRO root Mtime of blog.whyanimalsdothething.com-inf-20171230-131539-aig3a-00086.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,784 ERRO root Size of blog.whyanimalsdothething.com-inf-20171230-131539-aig3a-00087.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,784 ERRO root Mtime of blog.whyanimalsdothething.com-inf-20171230-131539-aig3a-00087.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,784 ERRO root Size of blog.whyanimalsdothething.com-inf-20171230-131539-aig3a-00088.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,784 ERRO root Mtime of blog.whyanimalsdothething.com-inf-20171230-131539-aig3a-00088.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,784 ERRO root Size of blog.whyanimalsdothething.com-inf-20171230-131539-aig3a-00089.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,784 ERRO root Mtime of blog.whyanimalsdothething.com-inf-20171230-131539-aig3a-00089.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,784 ERRO root Size of blog.whyanimalsdothething.com-inf-20171230-131539-aig3a-00090.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,785 ERRO root Mtime of blog.whyanimalsdothething.com-inf-20171230-131539-aig3a-00090.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,785 ERRO root Size of blog.whyanimalsdothething.com-inf-20171230-131539-aig3a-00095.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,785 ERRO root Mtime of blog.whyanimalsdothething.com-inf-20171230-131539-aig3a-00095.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,785 ERRO root Size of charlierose.com-inf-20171128-121753-8syg6-01090.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,785 ERRO root Mtime of charlierose.com-inf-20171128-121753-8syg6-01090.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,785 ERRO root Size of charlierose.com-inf-20171128-121753-8syg6-01091.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,785 ERRO root Mtime of charlierose.com-inf-20171128-121753-8syg6-01091.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,786 ERRO root Size of charlierose.com-inf-20171128-121753-8syg6-01092.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,786 ERRO root Mtime of charlierose.com-inf-20171128-121753-8syg6-01092.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,786 ERRO root Size of charlierose.com-inf-20171128-121753-8syg6-01093.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,786 ERRO root Mtime of charlierose.com-inf-20171128-121753-8syg6-01093.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,786 ERRO root Size of charlierose.com-inf-20171128-121753-8syg6-01094.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,786 ERRO root Mtime of charlierose.com-inf-20171128-121753-8syg6-01094.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,786 ERRO root Size of ebooks.bharathuniv.ac.in-inf-20171223-032707-5j6vk-00031.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,787 ERRO root Mtime of ebooks.bharathuniv.ac.in-inf-20171223-032707-5j6vk-00031.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,787 ERRO root Size of gbppr.dyndns.org-inf-20171228-101815-45fhk-00015.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,787 ERRO root Mtime of gbppr.dyndns.org-inf-20171228-101815-45fhk-00015.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,787 ERRO root Size of gwscr.com-inf-20171204-155200-6wwer-00000.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,787 ERRO root Mtime of gwscr.com-inf-20171204-155200-6wwer-00000.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,787 ERRO root Size of magdaj4.wixsite.com-shallow-20180103-082301-2dqhm-meta.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,787 ERRO root Mtime of magdaj4.wixsite.com-shallow-20180103-082301-2dqhm-meta.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,787 ERRO root Size of makezine.com-inf-20171117-215517-7o8gc-00157.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,788 ERRO root Mtime of makezine.com-inf-20171117-215517-7o8gc-00157.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,788 ERRO root Size of sites.google.com-inf-20180103-141927-dmuzt-00000.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,788 ERRO root Mtime of sites.google.com-inf-20180103-141927-dmuzt-00000.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,788 ERRO root Size of sites.google.com-inf-20180103-141927-dmuzt-meta.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,788 ERRO root Mtime of sites.google.com-inf-20180103-141927-dmuzt-meta.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,788 ERRO root Size of storify.com-inf-20180102-161517-3nozf-00007.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,788 ERRO root Mtime of storify.com-inf-20180102-161517-3nozf-00007.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,789 ERRO root Size of www.dothaneagle.com-inf-20171212-061602-9wf9t-00049.warc.os.cdx.gz is missing
-2018-01-04 00:00:05,789 ERRO root Mtime of www.dothaneagle.com-inf-20171212-061602-9wf9t-00049.warc.os.cdx.gz is missing
-2018-01-04 00:00:06,124 INFO root Processing item archiveteam_archivebot_go_20180103180001
-2018-01-04 00:00:06,124 INFO root Skipping archiveteam_archivebot_go_20180103180001_archive.torrent
-2018-01-04 00:00:06,124 INFO root Skipping archiveteam_archivebot_go_20180103180001_files.xml
-2018-01-04 00:00:06,124 INFO root Skipping archiveteam_archivebot_go_20180103180001_meta.sqlite
-2018-01-04 00:00:06,125 INFO root Skipping archiveteam_archivebot_go_20180103180001_meta.xml
-2018-01-04 00:00:06,393 INFO root Processing item archiveteam_archivebot_go_20180103210002
-2018-01-04 00:00:06,394 INFO root Skipping archiveteam_archivebot_go_20180103210002_archive.torrent
-2018-01-04 00:00:06,394 INFO root Skipping archiveteam_archivebot_go_20180103210002_files.xml
-2018-01-04 00:00:06,394 INFO root Skipping archiveteam_archivebot_go_20180103210002_meta.sqlite
-2018-01-04 00:00:06,394 INFO root Skipping archiveteam_archivebot_go_20180103210002_meta.xml
-2018-01-04 00:00:07,069 INFO root Processing item astrid_archivebot_forum_giga_de_20170928
-2018-01-04 00:00:07,070 INFO root Skipping astrid_archivebot_forum_giga_de_20170928.cdx.idx
-2018-01-04 00:00:07,070 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_archive.torrent
-2018-01-04 00:00:07,070 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_files.xml
-2018-01-04 00:00:07,070 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.sqlite
-2018-01-04 00:00:07,070 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.xml
-2018-01-04 00:00:07,295 INFO root Processing item astrid_archivebot_www_chiefdelphi_com_20171202
-2018-01-04 00:00:07,296 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202.cdx.idx
-2018-01-04 00:00:07,296 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_archive.torrent
-2018-01-04 00:00:07,296 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_files.xml
-2018-01-04 00:00:07,296 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_meta.sqlite
-2018-01-04 00:00:07,296 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_meta.xml
-2018-01-04 00:00:07,516 INFO root Processing item astrid_archivebot_www_wiganworld_co_uk_20171227
-2018-01-04 00:00:07,517 INFO root Skipping astrid_archivebot_www_wiganworld_co_uk_20171227.cdx.idx
-2018-01-04 00:00:07,517 INFO root Skipping astrid_archivebot_www_wiganworld_co_uk_20171227_archive.torrent
-2018-01-04 00:00:07,517 INFO root Skipping astrid_archivebot_www_wiganworld_co_uk_20171227_files.xml
-2018-01-04 00:00:07,517 INFO root Skipping astrid_archivebot_www_wiganworld_co_uk_20171227_meta.sqlite
-2018-01-04 00:00:07,517 INFO root Skipping astrid_archivebot_www_wiganworld_co_uk_20171227_meta.xml
-2018-01-04 00:00:07,518 INFO root Writing last-update file
-2018-01-04 00:00:07,518 INFO root Done
+2018-01-04 06:00:02,322 DEBU root Last attempt: 2018-01-04T00:00:01Z
+2018-01-04 06:00:02,323 DEBU root Last success: 2018-01-04T00:00:01Z
+2018-01-04 06:00:02,323 INFO root Writing last-update file
+2018-01-04 06:00:02,323 INFO root Query: 'collection:archivebot oai_updatedate:[2018-01-04T00:00:01Z TO null]'
+2018-01-04 06:00:05,887 INFO root Processing item archiveteam_archivebot_go_20180103150001
+2018-01-04 06:00:05,888 INFO root Skipping archiveteam_archivebot_go_20180103150001.cdx.idx
+2018-01-04 06:00:05,888 INFO root Skipping archiveteam_archivebot_go_20180103150001_archive.torrent
+2018-01-04 06:00:05,888 INFO root Skipping archiveteam_archivebot_go_20180103150001_files.xml
+2018-01-04 06:00:05,888 INFO root Skipping archiveteam_archivebot_go_20180103150001_meta.sqlite
+2018-01-04 06:00:05,888 INFO root Skipping archiveteam_archivebot_go_20180103150001_meta.xml
+2018-01-04 06:00:06,093 INFO root Processing item archiveteam_archivebot_go_20180103180001
+2018-01-04 06:00:06,094 INFO root Skipping archiveteam_archivebot_go_20180103180001.cdx.idx
+2018-01-04 06:00:06,094 INFO root Skipping archiveteam_archivebot_go_20180103180001_archive.torrent
+2018-01-04 06:00:06,094 INFO root Skipping archiveteam_archivebot_go_20180103180001_files.xml
+2018-01-04 06:00:06,094 INFO root Skipping archiveteam_archivebot_go_20180103180001_meta.sqlite
+2018-01-04 06:00:06,094 INFO root Skipping archiveteam_archivebot_go_20180103180001_meta.xml
+2018-01-04 06:00:06,339 INFO root Processing item archiveteam_archivebot_go_20180103210002
+2018-01-04 06:00:06,340 INFO root Skipping archiveteam_archivebot_go_20180103210002.cdx.idx
+2018-01-04 06:00:06,340 INFO root Skipping archiveteam_archivebot_go_20180103210002_archive.torrent
+2018-01-04 06:00:06,340 INFO root Skipping archiveteam_archivebot_go_20180103210002_files.xml
+2018-01-04 06:00:06,340 INFO root Skipping archiveteam_archivebot_go_20180103210002_meta.sqlite
+2018-01-04 06:00:06,340 INFO root Skipping archiveteam_archivebot_go_20180103210002_meta.xml
+2018-01-04 06:00:06,681 INFO root Processing item archiveteam_archivebot_go_20180104000004
+2018-01-04 06:00:06,682 INFO root Skipping archiveteam_archivebot_go_20180104000004_archive.torrent
+2018-01-04 06:00:06,682 INFO root Skipping archiveteam_archivebot_go_20180104000004_files.xml
+2018-01-04 06:00:06,682 INFO root Skipping archiveteam_archivebot_go_20180104000004_meta.sqlite
+2018-01-04 06:00:06,682 INFO root Skipping archiveteam_archivebot_go_20180104000004_meta.xml
+2018-01-04 06:00:06,920 INFO root Processing item archiveteam_archivebot_go_20180104030001
+2018-01-04 06:00:06,920 INFO root Skipping archiveteam_archivebot_go_20180104030001_archive.torrent
+2018-01-04 06:00:06,921 INFO root Skipping archiveteam_archivebot_go_20180104030001_files.xml
+2018-01-04 06:00:06,921 INFO root Skipping archiveteam_archivebot_go_20180104030001_meta.sqlite
+2018-01-04 06:00:06,921 INFO root Skipping archiveteam_archivebot_go_20180104030001_meta.xml
+2018-01-04 06:00:07,310 INFO root Processing item astrid_archivebot_forum_giga_de_20170928
+2018-01-04 06:00:07,311 INFO root Skipping astrid_archivebot_forum_giga_de_20170928.cdx.idx
+2018-01-04 06:00:07,311 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_archive.torrent
+2018-01-04 06:00:07,311 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_files.xml
+2018-01-04 06:00:07,311 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.sqlite
+2018-01-04 06:00:07,311 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.xml
+2018-01-04 06:00:07,528 INFO root Processing item astrid_archivebot_www_chiefdelphi_com_20171202
+2018-01-04 06:00:07,529 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202.cdx.idx
+2018-01-04 06:00:07,529 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_archive.torrent
+2018-01-04 06:00:07,529 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_files.xml
+2018-01-04 06:00:07,529 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_meta.sqlite
+2018-01-04 06:00:07,529 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_meta.xml
+2018-01-04 06:00:07,729 INFO root Processing item astrid_archivebot_www_wiganworld_co_uk_20171227
+2018-01-04 06:00:07,730 INFO root Skipping astrid_archivebot_www_wiganworld_co_uk_20171227.cdx.idx
+2018-01-04 06:00:07,730 INFO root Skipping astrid_archivebot_www_wiganworld_co_uk_20171227_archive.torrent
+2018-01-04 06:00:07,730 INFO root Skipping astrid_archivebot_www_wiganworld_co_uk_20171227_files.xml
+2018-01-04 06:00:07,730 INFO root Skipping astrid_archivebot_www_wiganworld_co_uk_20171227_meta.sqlite
+2018-01-04 06:00:07,730 INFO root Skipping astrid_archivebot_www_wiganworld_co_uk_20171227_meta.xml
+2018-01-04 06:00:07,731 INFO root Writing last-update file
+2018-01-04 06:00:07,731 INFO root Done
