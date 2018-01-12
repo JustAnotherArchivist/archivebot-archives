@@ -1,18 +1,86 @@
-2018-01-12 06:00:01,242 DEBU root Last attempt: 2018-01-12T00:00:01Z
-2018-01-12 06:00:01,242 DEBU root Last success: 2018-01-12T00:00:01Z
-2018-01-12 06:00:01,242 INFO root Writing last-update file
-2018-01-12 06:00:01,243 INFO root Query: 'collection:archivebot oai_updatedate:[2018-01-12T00:00:01Z TO null]'
-2018-01-12 06:00:03,397 INFO root Processing item archiveteam_archivebot_go_20180111100001
-2018-01-12 06:00:03,397 INFO root Skipping archiveteam_archivebot_go_20180111100001.cdx.idx
-2018-01-12 06:00:03,397 INFO root Skipping archiveteam_archivebot_go_20180111100001_archive.torrent
-2018-01-12 06:00:03,397 INFO root Skipping archiveteam_archivebot_go_20180111100001_files.xml
-2018-01-12 06:00:03,397 INFO root Skipping archiveteam_archivebot_go_20180111100001_meta.sqlite
-2018-01-12 06:00:03,398 INFO root Skipping archiveteam_archivebot_go_20180111100001_meta.xml
-2018-01-12 06:00:04,158 INFO root Processing item astrid_archivebot_forum_giga_de_20170928
-2018-01-12 06:00:04,159 INFO root Skipping astrid_archivebot_forum_giga_de_20170928.cdx.idx
-2018-01-12 06:00:04,159 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_archive.torrent
-2018-01-12 06:00:04,159 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_files.xml
-2018-01-12 06:00:04,159 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.sqlite
-2018-01-12 06:00:04,159 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.xml
-2018-01-12 06:00:04,162 INFO root Writing last-update file
-2018-01-12 06:00:04,162 INFO root Done
+2018-01-12 12:00:01,755 DEBU root Last attempt: 2018-01-12T06:00:01Z
+2018-01-12 12:00:01,755 DEBU root Last success: 2018-01-12T06:00:01Z
+2018-01-12 12:00:01,755 INFO root Writing last-update file
+2018-01-12 12:00:01,755 INFO root Query: 'collection:archivebot oai_updatedate:[2018-01-12T06:00:01Z TO null]'
+2018-01-12 12:00:03,889 INFO root Processing item archiveteam_archivebot_go_20180111230002
+2018-01-12 12:00:03,890 ERRO root Size of 46.171.238.46-inf-20180106-063235-qewnk-00004.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,890 ERRO root Mtime of 46.171.238.46-inf-20180106-063235-qewnk-00004.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,890 INFO root Skipping archiveteam_archivebot_go_20180111230002_archive.torrent
+2018-01-12 12:00:03,890 INFO root Skipping archiveteam_archivebot_go_20180111230002_files.xml
+2018-01-12 12:00:03,890 INFO root Skipping archiveteam_archivebot_go_20180111230002_meta.sqlite
+2018-01-12 12:00:03,890 INFO root Skipping archiveteam_archivebot_go_20180111230002_meta.xml
+2018-01-12 12:00:03,890 ERRO root Size of bambuser.com-inf-20171130-001819-53vxw-00131.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,890 ERRO root Mtime of bambuser.com-inf-20171130-001819-53vxw-00131.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,890 ERRO root Size of bambuser.com-inf-20171130-001819-53vxw-00132.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,891 ERRO root Mtime of bambuser.com-inf-20171130-001819-53vxw-00132.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,891 ERRO root Size of forums.frontier.co.uk-inf-20180111-193053-bwhpq-00000.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,891 ERRO root Mtime of forums.frontier.co.uk-inf-20180111-193053-bwhpq-00000.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,891 ERRO root Size of forums.frontier.co.uk-inf-20180111-193053-bwhpq-meta.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,891 ERRO root Mtime of forums.frontier.co.uk-inf-20180111-193053-bwhpq-meta.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,891 ERRO root Size of forums.shoryuken.com-inf-20180109-042845-dwciz-00002.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,891 ERRO root Mtime of forums.shoryuken.com-inf-20180109-042845-dwciz-00002.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,891 ERRO root Size of gwscr.com-inf-20171204-155200-6wwer-00000.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,891 ERRO root Mtime of gwscr.com-inf-20171204-155200-6wwer-00000.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,891 ERRO root Size of jyj3.net-inf-20180110-234932-acg2s-00000.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,891 ERRO root Mtime of jyj3.net-inf-20180110-234932-acg2s-00000.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,891 ERRO root Size of jyj3.net-inf-20180110-234932-acg2s-00001.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,892 ERRO root Mtime of jyj3.net-inf-20180110-234932-acg2s-00001.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,892 ERRO root Size of jyj3.net-inf-20180110-234932-acg2s-00002.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,892 ERRO root Mtime of jyj3.net-inf-20180110-234932-acg2s-00002.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,892 ERRO root Size of legalfling.io-inf-20180111-120530-18mfm-00000.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,892 ERRO root Mtime of legalfling.io-inf-20180111-120530-18mfm-00000.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,892 ERRO root Size of legalfling.io-inf-20180111-120530-18mfm-meta.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,892 ERRO root Mtime of legalfling.io-inf-20180111-120530-18mfm-meta.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,892 ERRO root Size of medium.com-shallow-20180111-134809-2bwsh-00000.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,892 ERRO root Mtime of medium.com-shallow-20180111-134809-2bwsh-00000.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,892 ERRO root Size of medium.com-shallow-20180111-134809-2bwsh-meta.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,893 ERRO root Mtime of medium.com-shallow-20180111-134809-2bwsh-meta.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,893 ERRO root Size of metagamerscore.com-inf-20180107-183044-19mnv-00011.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,893 ERRO root Mtime of metagamerscore.com-inf-20180107-183044-19mnv-00011.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,893 ERRO root Size of online.wsj.com-shallow-20180111-104306-ej5ni-00000.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,893 ERRO root Mtime of online.wsj.com-shallow-20180111-104306-ej5ni-00000.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,893 ERRO root Size of online.wsj.com-shallow-20180111-104306-ej5ni-meta.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,893 ERRO root Mtime of online.wsj.com-shallow-20180111-104306-ej5ni-meta.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,893 ERRO root Size of openradar.appspot.com-shallow-20180111-120700-8r2ry-00000.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,893 ERRO root Mtime of openradar.appspot.com-shallow-20180111-120700-8r2ry-00000.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,893 ERRO root Size of openradar.appspot.com-shallow-20180111-120700-8r2ry-meta.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,893 ERRO root Mtime of openradar.appspot.com-shallow-20180111-120700-8r2ry-meta.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,894 ERRO root Size of rsw.beck.de-shallow-20180111-121205-r79ak-00000.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,894 ERRO root Mtime of rsw.beck.de-shallow-20180111-121205-r79ak-00000.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,894 ERRO root Size of rsw.beck.de-shallow-20180111-121205-r79ak-meta.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,894 ERRO root Mtime of rsw.beck.de-shallow-20180111-121205-r79ak-meta.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,894 ERRO root Size of thisisafrica.me-inf-20180104-112405-btbsi-00011.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,894 ERRO root Mtime of thisisafrica.me-inf-20180104-112405-btbsi-00011.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,894 ERRO root Size of thisisafrica.me-inf-20180104-112405-btbsi-meta.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,894 ERRO root Mtime of thisisafrica.me-inf-20180104-112405-btbsi-meta.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,894 ERRO root Size of twitter.com-shallow-20180111-064805-a2vbj-00000.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,894 ERRO root Mtime of twitter.com-shallow-20180111-064805-a2vbj-00000.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,894 ERRO root Size of twitter.com-shallow-20180111-064805-a2vbj-meta.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,894 ERRO root Mtime of twitter.com-shallow-20180111-064805-a2vbj-meta.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,894 ERRO root Size of twitter.com-shallow-20180111-134447-7r505-00000.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,894 ERRO root Mtime of twitter.com-shallow-20180111-134447-7r505-00000.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,895 ERRO root Size of urls-pastebin.com-4ui8Mmvq-inf-20180105-154453-3xwcl-00026.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,895 ERRO root Mtime of urls-pastebin.com-4ui8Mmvq-inf-20180105-154453-3xwcl-00026.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,895 ERRO root Size of www.firstinspires.org-inf-20180111-072720-bxmn5-00000.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,895 ERRO root Mtime of www.firstinspires.org-inf-20180111-072720-bxmn5-00000.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,895 ERRO root Size of www.firstinspires.org-inf-20180111-072720-bxmn5-meta.warc.os.cdx.gz is missing
+2018-01-12 12:00:03,895 ERRO root Mtime of www.firstinspires.org-inf-20180111-072720-bxmn5-meta.warc.os.cdx.gz is missing
+2018-01-12 12:00:05,100 INFO root Processing item archiveteam_archivebot_go_20180112110002
+2018-01-12 12:00:05,100 INFO root Skipping archiveteam_archivebot_go_20180112110002_archive.torrent
+2018-01-12 12:00:05,100 INFO root Skipping archiveteam_archivebot_go_20180112110002_files.xml
+2018-01-12 12:00:05,101 INFO root Skipping archiveteam_archivebot_go_20180112110002_meta.sqlite
+2018-01-12 12:00:05,101 INFO root Skipping archiveteam_archivebot_go_20180112110002_meta.xml
+2018-01-12 12:00:05,770 INFO root Processing item astrid_archivebot_forum_giga_de_20170928
+2018-01-12 12:00:05,771 INFO root Skipping astrid_archivebot_forum_giga_de_20170928.cdx.idx
+2018-01-12 12:00:05,771 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_archive.torrent
+2018-01-12 12:00:05,771 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_files.xml
+2018-01-12 12:00:05,771 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.sqlite
+2018-01-12 12:00:05,771 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.xml
+2018-01-12 12:00:06,254 INFO root Processing item astrid_archivebot_www_chiefdelphi_com_20171202
+2018-01-12 12:00:06,254 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202.cdx.idx
+2018-01-12 12:00:06,254 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_archive.torrent
+2018-01-12 12:00:06,255 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_files.xml
+2018-01-12 12:00:06,255 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_meta.sqlite
+2018-01-12 12:00:06,255 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_meta.xml
+2018-01-12 12:00:06,257 INFO root Writing last-update file
+2018-01-12 12:00:06,257 INFO root Done
