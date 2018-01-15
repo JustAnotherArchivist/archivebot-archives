@@ -1,18 +1,28 @@
-2018-01-15 00:00:01,697 DEBU root Last attempt: 2018-01-14T18:00:01Z
-2018-01-15 00:00:01,697 DEBU root Last success: 2018-01-14T18:00:01Z
-2018-01-15 00:00:01,697 INFO root Writing last-update file
-2018-01-15 00:00:01,698 INFO root Query: 'collection:archivebot oai_updatedate:[2018-01-14T18:00:01Z TO null]'
-2018-01-15 00:00:04,044 INFO root Processing item archiveteam_archivebot_go_20180113210002
-2018-01-15 00:00:04,044 INFO root Skipping archiveteam_archivebot_go_20180113210002.cdx.idx
-2018-01-15 00:00:04,045 INFO root Skipping archiveteam_archivebot_go_20180113210002_archive.torrent
-2018-01-15 00:00:04,045 INFO root Skipping archiveteam_archivebot_go_20180113210002_files.xml
-2018-01-15 00:00:04,045 INFO root Skipping archiveteam_archivebot_go_20180113210002_meta.sqlite
-2018-01-15 00:00:04,045 INFO root Skipping archiveteam_archivebot_go_20180113210002_meta.xml
-2018-01-15 00:00:04,432 INFO root Processing item astrid_archivebot_www_chiefdelphi_com_20171202
-2018-01-15 00:00:04,433 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202.cdx.idx
-2018-01-15 00:00:04,433 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_archive.torrent
-2018-01-15 00:00:04,433 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_files.xml
-2018-01-15 00:00:04,433 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_meta.sqlite
-2018-01-15 00:00:04,434 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_meta.xml
-2018-01-15 00:00:04,436 INFO root Writing last-update file
-2018-01-15 00:00:04,437 INFO root Done
+2018-01-15 06:00:01,276 DEBU root Last attempt: 2018-01-15T00:00:01Z
+2018-01-15 06:00:01,276 DEBU root Last success: 2018-01-15T00:00:01Z
+2018-01-15 06:00:01,276 INFO root Writing last-update file
+2018-01-15 06:00:01,276 INFO root Query: 'collection:archivebot oai_updatedate:[2018-01-15T00:00:01Z TO null]'
+2018-01-15 06:00:03,759 INFO root Processing item archiveteam_archivebot_go_20180114100001
+2018-01-15 06:00:03,759 ERRO root Size of 10minut.tv-inf-20180113-162700-co0ua-meta.warc.os.cdx.gz is missing
+2018-01-15 06:00:03,759 ERRO root Mtime of 10minut.tv-inf-20180113-162700-co0ua-meta.warc.os.cdx.gz is missing
+2018-01-15 06:00:03,760 ERRO root Size of anidb.net-inf-20180113-233053-8tu8j-aborted-00000.warc.os.cdx.gz is missing
+2018-01-15 06:00:03,760 ERRO root Mtime of anidb.net-inf-20180113-233053-8tu8j-aborted-00000.warc.os.cdx.gz is missing
+2018-01-15 06:00:03,760 INFO root Skipping archiveteam_archivebot_go_20180114100001_archive.torrent
+2018-01-15 06:00:03,760 INFO root Skipping archiveteam_archivebot_go_20180114100001_files.xml
+2018-01-15 06:00:03,760 INFO root Skipping archiveteam_archivebot_go_20180114100001_meta.sqlite
+2018-01-15 06:00:03,760 INFO root Skipping archiveteam_archivebot_go_20180114100001_meta.xml
+2018-01-15 06:00:03,760 ERRO root Size of mrdoob.com-shallow-20180113-231351-ap9h3-meta.warc.os.cdx.gz is missing
+2018-01-15 06:00:03,760 ERRO root Mtime of mrdoob.com-shallow-20180113-231351-ap9h3-meta.warc.os.cdx.gz is missing
+2018-01-15 06:00:04,052 INFO root Processing item archiveteam_archivebot_go_20180115000002
+2018-01-15 06:00:04,052 INFO root Skipping archiveteam_archivebot_go_20180115000002_archive.torrent
+2018-01-15 06:00:04,052 INFO root Skipping archiveteam_archivebot_go_20180115000002_files.xml
+2018-01-15 06:00:04,052 INFO root Skipping archiveteam_archivebot_go_20180115000002_meta.sqlite
+2018-01-15 06:00:04,052 INFO root Skipping archiveteam_archivebot_go_20180115000002_meta.xml
+2018-01-15 06:00:04,283 INFO root Processing item astrid_archivebot_www_wiganworld_co_uk_20171227
+2018-01-15 06:00:04,284 INFO root Skipping astrid_archivebot_www_wiganworld_co_uk_20171227.cdx.idx
+2018-01-15 06:00:04,284 INFO root Skipping astrid_archivebot_www_wiganworld_co_uk_20171227_archive.torrent
+2018-01-15 06:00:04,284 INFO root Skipping astrid_archivebot_www_wiganworld_co_uk_20171227_files.xml
+2018-01-15 06:00:04,284 INFO root Skipping astrid_archivebot_www_wiganworld_co_uk_20171227_meta.sqlite
+2018-01-15 06:00:04,284 INFO root Skipping astrid_archivebot_www_wiganworld_co_uk_20171227_meta.xml
+2018-01-15 06:00:04,285 INFO root Writing last-update file
+2018-01-15 06:00:04,285 INFO root Done
