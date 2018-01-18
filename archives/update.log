@@ -1,16 +1,33 @@
-2018-01-18 12:00:01,741 DEBU root Last attempt: 2018-01-18T06:00:02Z
-2018-01-18 12:00:01,742 DEBU root Last success: 2018-01-18T06:00:02Z
-2018-01-18 12:00:01,742 INFO root Writing last-update file
-2018-01-18 12:00:01,742 INFO root Query: 'collection:archivebot oai_updatedate:[2018-01-18T06:00:02Z TO null]'
-2018-01-18 12:00:03,500 INFO root Processing item archiveteam_archivebot_go_20180117210001
-2018-01-18 12:00:03,501 INFO root Skipping archiveteam_archivebot_go_20180117210001_archive.torrent
-2018-01-18 12:00:03,501 INFO root Skipping archiveteam_archivebot_go_20180117210001_files.xml
-2018-01-18 12:00:03,501 INFO root Skipping archiveteam_archivebot_go_20180117210001_meta.sqlite
-2018-01-18 12:00:03,501 INFO root Skipping archiveteam_archivebot_go_20180117210001_meta.xml
-2018-01-18 12:00:03,737 INFO root Processing item archiveteam_archivebot_go_20180118090001
-2018-01-18 12:00:03,737 INFO root Skipping archiveteam_archivebot_go_20180118090001_archive.torrent
-2018-01-18 12:00:03,737 INFO root Skipping archiveteam_archivebot_go_20180118090001_files.xml
-2018-01-18 12:00:03,738 INFO root Skipping archiveteam_archivebot_go_20180118090001_meta.sqlite
-2018-01-18 12:00:03,738 INFO root Skipping archiveteam_archivebot_go_20180118090001_meta.xml
-2018-01-18 12:00:03,738 INFO root Writing last-update file
-2018-01-18 12:00:03,739 INFO root Done
+2018-01-18 18:00:01,269 DEBU root Last attempt: 2018-01-18T12:00:01Z
+2018-01-18 18:00:01,269 DEBU root Last success: 2018-01-18T12:00:01Z
+2018-01-18 18:00:01,269 INFO root Writing last-update file
+2018-01-18 18:00:01,269 INFO root Query: 'collection:archivebot oai_updatedate:[2018-01-18T12:00:01Z TO null]'
+2018-01-18 18:00:02,827 INFO root Processing item archiveteam_archivebot_go_20180117210001
+2018-01-18 18:00:02,828 INFO root Skipping archiveteam_archivebot_go_20180117210001.cdx.idx
+2018-01-18 18:00:02,828 INFO root Skipping archiveteam_archivebot_go_20180117210001_archive.torrent
+2018-01-18 18:00:02,828 INFO root Skipping archiveteam_archivebot_go_20180117210001_files.xml
+2018-01-18 18:00:02,828 INFO root Skipping archiveteam_archivebot_go_20180117210001_meta.sqlite
+2018-01-18 18:00:02,828 INFO root Skipping archiveteam_archivebot_go_20180117210001_meta.xml
+2018-01-18 18:00:04,515 INFO root Processing item archiveteam_archivebot_go_20180118090001
+2018-01-18 18:00:04,516 ERRO root Size of 46.171.238.46-inf-20180106-063235-qewnk-00010.warc.os.cdx.gz is missing
+2018-01-18 18:00:04,516 ERRO root Mtime of 46.171.238.46-inf-20180106-063235-qewnk-00010.warc.os.cdx.gz is missing
+2018-01-18 18:00:04,516 INFO root Skipping archiveteam_archivebot_go_20180118090001_archive.torrent
+2018-01-18 18:00:04,516 INFO root Skipping archiveteam_archivebot_go_20180118090001_files.xml
+2018-01-18 18:00:04,516 INFO root Skipping archiveteam_archivebot_go_20180118090001_meta.sqlite
+2018-01-18 18:00:04,516 INFO root Skipping archiveteam_archivebot_go_20180118090001_meta.xml
+2018-01-18 18:00:04,516 ERRO root Size of babe.net-inf-20180117-031628-fthop-00003.warc.os.cdx.gz is missing
+2018-01-18 18:00:04,516 ERRO root Mtime of babe.net-inf-20180117-031628-fthop-00003.warc.os.cdx.gz is missing
+2018-01-18 18:00:04,516 ERRO root Size of babe.net-inf-20180117-031628-fthop-00004.warc.os.cdx.gz is missing
+2018-01-18 18:00:04,516 ERRO root Mtime of babe.net-inf-20180117-031628-fthop-00004.warc.os.cdx.gz is missing
+2018-01-18 18:00:04,517 ERRO root Size of babe.net-inf-20180117-031628-fthop-00005.warc.os.cdx.gz is missing
+2018-01-18 18:00:04,517 ERRO root Mtime of babe.net-inf-20180117-031628-fthop-00005.warc.os.cdx.gz is missing
+2018-01-18 18:00:04,517 ERRO root Size of bambuser.com-inf-20171130-001819-53vxw-00149.warc.os.cdx.gz is missing
+2018-01-18 18:00:04,517 ERRO root Mtime of bambuser.com-inf-20171130-001819-53vxw-00149.warc.os.cdx.gz is missing
+2018-01-18 18:00:04,517 ERRO root Size of bambuser.com-inf-20171130-001819-53vxw-00150.warc.os.cdx.gz is missing
+2018-01-18 18:00:04,517 ERRO root Mtime of bambuser.com-inf-20171130-001819-53vxw-00150.warc.os.cdx.gz is missing
+2018-01-18 18:00:04,517 ERRO root Size of forums.shoryuken.com-inf-20180109-042845-dwciz-00012.warc.os.cdx.gz is missing
+2018-01-18 18:00:04,517 ERRO root Mtime of forums.shoryuken.com-inf-20180109-042845-dwciz-00012.warc.os.cdx.gz is missing
+2018-01-18 18:00:04,517 ERRO root Size of lwn.net-shallow-20180118-051433-evs5k-00000.warc.os.cdx.gz is missing
+2018-01-18 18:00:04,517 ERRO root Mtime of lwn.net-shallow-20180118-051433-evs5k-00000.warc.os.cdx.gz is missing
+2018-01-18 18:00:04,518 INFO root Writing last-update file
+2018-01-18 18:00:04,518 INFO root Done
