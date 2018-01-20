@@ -1,37 +1,53 @@
-2018-01-20 00:00:01,891 DEBU root Last attempt: 2018-01-19T18:00:01Z
-2018-01-20 00:00:01,891 DEBU root Last success: 2018-01-19T18:00:01Z
-2018-01-20 00:00:01,892 INFO root Writing last-update file
-2018-01-20 00:00:01,892 INFO root Query: 'collection:archivebot oai_updatedate:[2018-01-19T18:00:01Z TO null]'
-2018-01-20 00:00:03,761 INFO root Processing item archiveteam_archivebot_go_20180119190001
-2018-01-20 00:00:03,762 ERRO root Size of 46.171.238.46-inf-20180106-063235-qewnk-aborted-00012.warc.os.cdx.gz is missing
-2018-01-20 00:00:03,762 ERRO root Mtime of 46.171.238.46-inf-20180106-063235-qewnk-aborted-00012.warc.os.cdx.gz is missing
-2018-01-20 00:00:03,762 INFO root Skipping archiveteam_archivebot_go_20180119190001_archive.torrent
-2018-01-20 00:00:03,762 INFO root Skipping archiveteam_archivebot_go_20180119190001_files.xml
-2018-01-20 00:00:03,762 INFO root Skipping archiveteam_archivebot_go_20180119190001_meta.sqlite
-2018-01-20 00:00:03,762 INFO root Skipping archiveteam_archivebot_go_20180119190001_meta.xml
-2018-01-20 00:00:03,763 ERRO root Size of firstchoicebyandymark.com-inf-20180119-150853-6w2z8-00000.warc.os.cdx.gz is missing
-2018-01-20 00:00:03,763 ERRO root Mtime of firstchoicebyandymark.com-inf-20180119-150853-6w2z8-00000.warc.os.cdx.gz is missing
-2018-01-20 00:00:03,763 ERRO root Size of firstchoicebyandymark.com-inf-20180119-150853-6w2z8-meta.warc.os.cdx.gz is missing
-2018-01-20 00:00:03,763 ERRO root Mtime of firstchoicebyandymark.com-inf-20180119-150853-6w2z8-meta.warc.os.cdx.gz is missing
-2018-01-20 00:00:03,763 ERRO root Size of forums.shoryuken.com-inf-20180109-042845-dwciz-00017.warc.os.cdx.gz is missing
-2018-01-20 00:00:03,763 ERRO root Mtime of forums.shoryuken.com-inf-20180109-042845-dwciz-00017.warc.os.cdx.gz is missing
-2018-01-20 00:00:03,763 ERRO root Size of hermes.oke.waw.pl-shallow-20180119-161517-9k7h5-00000.warc.os.cdx.gz is missing
-2018-01-20 00:00:03,763 ERRO root Mtime of hermes.oke.waw.pl-shallow-20180119-161517-9k7h5-00000.warc.os.cdx.gz is missing
-2018-01-20 00:00:03,764 ERRO root Size of hermes.oke.waw.pl-shallow-20180119-161517-9k7h5-meta.warc.os.cdx.gz is missing
-2018-01-20 00:00:03,764 ERRO root Mtime of hermes.oke.waw.pl-shallow-20180119-161517-9k7h5-meta.warc.os.cdx.gz is missing
-2018-01-20 00:00:03,764 ERRO root Size of magnificatz.com-inf-20180119-123624-blnmr-00000.warc.os.cdx.gz is missing
-2018-01-20 00:00:03,764 ERRO root Mtime of magnificatz.com-inf-20180119-123624-blnmr-00000.warc.os.cdx.gz is missing
-2018-01-20 00:00:03,764 ERRO root Size of magnificatz.com-inf-20180119-123624-blnmr-meta.warc.os.cdx.gz is missing
-2018-01-20 00:00:03,764 ERRO root Mtime of magnificatz.com-inf-20180119-123624-blnmr-meta.warc.os.cdx.gz is missing
-2018-01-20 00:00:03,764 ERRO root Size of ran.bitballoon.com-inf-20180119-183242-6z785-meta.warc.os.cdx.gz is missing
-2018-01-20 00:00:03,765 ERRO root Mtime of ran.bitballoon.com-inf-20180119-183242-6z785-meta.warc.os.cdx.gz is missing
-2018-01-20 00:00:03,765 ERRO root Size of splitsider.com-inf-20180117-070142-f13k5-00014.warc.os.cdx.gz is missing
-2018-01-20 00:00:03,765 ERRO root Mtime of splitsider.com-inf-20180117-070142-f13k5-00014.warc.os.cdx.gz is missing
-2018-01-20 00:00:04,514 INFO root Processing item astrid_archivebot_forum_giga_de_20170928
-2018-01-20 00:00:04,514 INFO root Skipping astrid_archivebot_forum_giga_de_20170928.cdx.idx
-2018-01-20 00:00:04,514 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_archive.torrent
-2018-01-20 00:00:04,514 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_files.xml
-2018-01-20 00:00:04,514 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.sqlite
-2018-01-20 00:00:04,514 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.xml
-2018-01-20 00:00:04,519 INFO root Writing last-update file
-2018-01-20 00:00:04,519 INFO root Done
+2018-01-20 06:00:01,484 DEBU root Last attempt: 2018-01-20T00:00:01Z
+2018-01-20 06:00:01,485 DEBU root Last success: 2018-01-20T00:00:01Z
+2018-01-20 06:00:01,485 INFO root Writing last-update file
+2018-01-20 06:00:01,485 INFO root Query: 'collection:archivebot oai_updatedate:[2018-01-20T00:00:01Z TO null]'
+2018-01-20 06:00:03,373 INFO root Processing item archiveteam_archivebot_go_20180118220001
+2018-01-20 06:00:03,373 INFO root Skipping archiveteam_archivebot_go_20180118220001.cdx.idx
+2018-01-20 06:00:03,373 INFO root Skipping archiveteam_archivebot_go_20180118220001_archive.torrent
+2018-01-20 06:00:03,373 INFO root Skipping archiveteam_archivebot_go_20180118220001_files.xml
+2018-01-20 06:00:03,373 INFO root Skipping archiveteam_archivebot_go_20180118220001_meta.sqlite
+2018-01-20 06:00:03,374 INFO root Skipping archiveteam_archivebot_go_20180118220001_meta.xml
+2018-01-20 06:00:03,744 INFO root Processing item archiveteam_archivebot_go_20180119090002
+2018-01-20 06:00:03,744 INFO root Skipping archiveteam_archivebot_go_20180119090002.cdx.idx
+2018-01-20 06:00:03,744 INFO root Skipping archiveteam_archivebot_go_20180119090002_archive.torrent
+2018-01-20 06:00:03,744 INFO root Skipping archiveteam_archivebot_go_20180119090002_files.xml
+2018-01-20 06:00:03,745 INFO root Skipping archiveteam_archivebot_go_20180119090002_meta.sqlite
+2018-01-20 06:00:03,745 INFO root Skipping archiveteam_archivebot_go_20180119090002_meta.xml
+2018-01-20 06:00:04,099 INFO root Processing item archiveteam_archivebot_go_20180119190001
+2018-01-20 06:00:04,099 INFO root Skipping archiveteam_archivebot_go_20180119190001.cdx.idx
+2018-01-20 06:00:04,099 INFO root Skipping archiveteam_archivebot_go_20180119190001_archive.torrent
+2018-01-20 06:00:04,099 INFO root Skipping archiveteam_archivebot_go_20180119190001_files.xml
+2018-01-20 06:00:04,100 INFO root Skipping archiveteam_archivebot_go_20180119190001_meta.sqlite
+2018-01-20 06:00:04,100 INFO root Skipping archiveteam_archivebot_go_20180119190001_meta.xml
+2018-01-20 06:00:04,323 INFO root Processing item archiveteam_archivebot_go_20180120040001
+2018-01-20 06:00:04,323 INFO root Skipping archiveteam_archivebot_go_20180120040001_archive.torrent
+2018-01-20 06:00:04,323 INFO root Skipping archiveteam_archivebot_go_20180120040001_files.xml
+2018-01-20 06:00:04,323 INFO root Skipping archiveteam_archivebot_go_20180120040001_meta.sqlite
+2018-01-20 06:00:04,323 INFO root Skipping archiveteam_archivebot_go_20180120040001_meta.xml
+2018-01-20 06:00:04,521 INFO root Processing item astrid_archivebot_dziennikustaw_gov_pl_20180119
+2018-01-20 06:00:04,521 INFO root Skipping astrid_archivebot_dziennikustaw_gov_pl_20180119.cdx.idx
+2018-01-20 06:00:04,521 INFO root Skipping astrid_archivebot_dziennikustaw_gov_pl_20180119_archive.torrent
+2018-01-20 06:00:04,521 INFO root Skipping astrid_archivebot_dziennikustaw_gov_pl_20180119_files.xml
+2018-01-20 06:00:04,521 INFO root Skipping astrid_archivebot_dziennikustaw_gov_pl_20180119_meta.sqlite
+2018-01-20 06:00:04,521 INFO root Skipping astrid_archivebot_dziennikustaw_gov_pl_20180119_meta.xml
+2018-01-20 06:00:04,901 INFO root Processing item astrid_archivebot_forum_giga_de_20170928
+2018-01-20 06:00:04,902 INFO root Skipping astrid_archivebot_forum_giga_de_20170928.cdx.idx
+2018-01-20 06:00:04,902 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_archive.torrent
+2018-01-20 06:00:04,902 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_files.xml
+2018-01-20 06:00:04,902 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.sqlite
+2018-01-20 06:00:04,902 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.xml
+2018-01-20 06:00:05,132 INFO root Processing item astrid_archivebot_www_chiefdelphi_com_20171202
+2018-01-20 06:00:05,132 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202.cdx.idx
+2018-01-20 06:00:05,132 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_archive.torrent
+2018-01-20 06:00:05,133 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_files.xml
+2018-01-20 06:00:05,133 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_meta.sqlite
+2018-01-20 06:00:05,133 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_meta.xml
+2018-01-20 06:00:05,352 INFO root Processing item falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714
+2018-01-20 06:00:05,352 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714.cdx.idx
+2018-01-20 06:00:05,352 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_archive.torrent
+2018-01-20 06:00:05,352 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_files.xml
+2018-01-20 06:00:05,352 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_meta.sqlite
+2018-01-20 06:00:05,352 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_meta.xml
+2018-01-20 06:00:05,354 INFO root Writing last-update file
+2018-01-20 06:00:05,354 INFO root Done
