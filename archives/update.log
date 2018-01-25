@@ -1,29 +1,73 @@
-2018-01-25 12:00:01,237 DEBU root Last attempt: 2018-01-25T06:00:02Z
-2018-01-25 12:00:01,237 DEBU root Last success: 2018-01-25T06:00:02Z
-2018-01-25 12:00:01,237 INFO root Writing last-update file
-2018-01-25 12:00:01,237 INFO root Query: 'collection:archivebot oai_updatedate:[2018-01-25T06:00:02Z TO null]'
-2018-01-25 12:00:02,685 INFO root Processing item archiveteam_archivebot_go_20180124230002
-2018-01-25 12:00:02,685 INFO root Skipping archiveteam_archivebot_go_20180124230002.cdx.idx
-2018-01-25 12:00:02,685 INFO root Skipping archiveteam_archivebot_go_20180124230002_archive.torrent
-2018-01-25 12:00:02,685 INFO root Skipping archiveteam_archivebot_go_20180124230002_files.xml
-2018-01-25 12:00:02,685 INFO root Skipping archiveteam_archivebot_go_20180124230002_meta.sqlite
-2018-01-25 12:00:02,686 INFO root Skipping archiveteam_archivebot_go_20180124230002_meta.xml
-2018-01-25 12:00:03,039 INFO root Processing item archiveteam_archivebot_go_20180125100001
-2018-01-25 12:00:03,039 INFO root Skipping archiveteam_archivebot_go_20180125100001_archive.torrent
-2018-01-25 12:00:03,039 INFO root Skipping archiveteam_archivebot_go_20180125100001_files.xml
-2018-01-25 12:00:03,040 INFO root Skipping archiveteam_archivebot_go_20180125100001_meta.sqlite
-2018-01-25 12:00:03,040 INFO root Skipping archiveteam_archivebot_go_20180125100001_meta.xml
-2018-01-25 12:00:03,471 INFO root Processing item astrid_archivebot_forum_giga_de_20170928
-2018-01-25 12:00:03,472 INFO root Skipping astrid_archivebot_forum_giga_de_20170928.cdx.idx
-2018-01-25 12:00:03,472 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_archive.torrent
-2018-01-25 12:00:03,472 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_files.xml
-2018-01-25 12:00:03,472 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.sqlite
-2018-01-25 12:00:03,472 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.xml
-2018-01-25 12:00:03,710 INFO root Processing item astrid_archivebot_www_chiefdelphi_com_20171202
-2018-01-25 12:00:03,711 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202.cdx.idx
-2018-01-25 12:00:03,711 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_archive.torrent
-2018-01-25 12:00:03,711 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_files.xml
-2018-01-25 12:00:03,711 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_meta.sqlite
-2018-01-25 12:00:03,711 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_meta.xml
-2018-01-25 12:00:03,715 INFO root Writing last-update file
-2018-01-25 12:00:03,715 INFO root Done
+2018-01-25 18:00:01,943 DEBU root Last attempt: 2018-01-25T12:00:01Z
+2018-01-25 18:00:01,944 DEBU root Last success: 2018-01-25T12:00:01Z
+2018-01-25 18:00:01,944 INFO root Writing last-update file
+2018-01-25 18:00:01,944 INFO root Query: 'collection:archivebot oai_updatedate:[2018-01-25T12:00:01Z TO null]'
+2018-01-25 18:00:04,716 INFO root Processing item archiveteam_archivebot_go_20180125100001
+2018-01-25 18:00:04,716 ERRO root Size of apps.getpebble.com-inf-20180125-083215-4xxyp-00000.warc.os.cdx.gz is missing
+2018-01-25 18:00:04,716 ERRO root Mtime of apps.getpebble.com-inf-20180125-083215-4xxyp-00000.warc.os.cdx.gz is missing
+2018-01-25 18:00:04,716 INFO root Skipping archiveteam_archivebot_go_20180125100001_archive.torrent
+2018-01-25 18:00:04,716 INFO root Skipping archiveteam_archivebot_go_20180125100001_files.xml
+2018-01-25 18:00:04,716 INFO root Skipping archiveteam_archivebot_go_20180125100001_meta.sqlite
+2018-01-25 18:00:04,717 INFO root Skipping archiveteam_archivebot_go_20180125100001_meta.xml
+2018-01-25 18:00:04,717 ERRO root Size of dundeemovie.com-inf-20180125-024545-al31i-meta.warc.os.cdx.gz is missing
+2018-01-25 18:00:04,717 ERRO root Mtime of dundeemovie.com-inf-20180125-024545-al31i-meta.warc.os.cdx.gz is missing
+2018-01-25 18:00:04,717 ERRO root Size of gizmodo.com-shallow-20180125-051140-3i5wj-00000.warc.os.cdx.gz is missing
+2018-01-25 18:00:04,717 ERRO root Mtime of gizmodo.com-shallow-20180125-051140-3i5wj-00000.warc.os.cdx.gz is missing
+2018-01-25 18:00:04,717 ERRO root Size of gizmodo.com-shallow-20180125-051140-3i5wj-meta.warc.os.cdx.gz is missing
+2018-01-25 18:00:04,717 ERRO root Mtime of gizmodo.com-shallow-20180125-051140-3i5wj-meta.warc.os.cdx.gz is missing
+2018-01-25 18:00:04,717 ERRO root Size of issuu.com-inf-20180121-183411-bpbsj-00011.warc.os.cdx.gz is missing
+2018-01-25 18:00:04,717 ERRO root Mtime of issuu.com-inf-20180121-183411-bpbsj-00011.warc.os.cdx.gz is missing
+2018-01-25 18:00:04,717 ERRO root Size of lgbtq-of-first.tumblr.com-inf-20180125-043115-cy4f5-00000.warc.os.cdx.gz is missing
+2018-01-25 18:00:04,718 ERRO root Mtime of lgbtq-of-first.tumblr.com-inf-20180125-043115-cy4f5-00000.warc.os.cdx.gz is missing
+2018-01-25 18:00:04,718 ERRO root Size of lgbtq-of-first.tumblr.com-inf-20180125-043115-cy4f5-00001.warc.os.cdx.gz is missing
+2018-01-25 18:00:04,718 ERRO root Mtime of lgbtq-of-first.tumblr.com-inf-20180125-043115-cy4f5-00001.warc.os.cdx.gz is missing
+2018-01-25 18:00:04,718 ERRO root Size of lgbtq-of-first.tumblr.com-inf-20180125-043115-cy4f5-00002.warc.os.cdx.gz is missing
+2018-01-25 18:00:04,718 ERRO root Mtime of lgbtq-of-first.tumblr.com-inf-20180125-043115-cy4f5-00002.warc.os.cdx.gz is missing
+2018-01-25 18:00:04,718 ERRO root Size of lgbtq-of-first.tumblr.com-inf-20180125-043115-cy4f5-00003.warc.os.cdx.gz is missing
+2018-01-25 18:00:04,718 ERRO root Mtime of lgbtq-of-first.tumblr.com-inf-20180125-043115-cy4f5-00003.warc.os.cdx.gz is missing
+2018-01-25 18:00:04,718 ERRO root Size of lgbtqoffirst.wordpress.com-inf-20180125-083934-76dch-00000.warc.os.cdx.gz is missing
+2018-01-25 18:00:04,718 ERRO root Mtime of lgbtqoffirst.wordpress.com-inf-20180125-083934-76dch-00000.warc.os.cdx.gz is missing
+2018-01-25 18:00:04,719 ERRO root Size of lgbtqoffirst.wordpress.com-inf-20180125-083934-76dch-meta.warc.os.cdx.gz is missing
+2018-01-25 18:00:04,719 ERRO root Mtime of lgbtqoffirst.wordpress.com-inf-20180125-083934-76dch-meta.warc.os.cdx.gz is missing
+2018-01-25 18:00:04,719 ERRO root Size of mee6.xyz-shallow-20180125-005740-t1pii-00000.warc.os.cdx.gz is missing
+2018-01-25 18:00:04,719 ERRO root Mtime of mee6.xyz-shallow-20180125-005740-t1pii-00000.warc.os.cdx.gz is missing
+2018-01-25 18:00:05,324 INFO root Processing item archiveteam_archivebot_go_20180125150002
+2018-01-25 18:00:05,324 INFO root Skipping .____padding_file/0
+2018-01-25 18:00:05,324 INFO root Skipping .____padding_file/1
+2018-01-25 18:00:05,325 INFO root Skipping .____padding_file/10
+2018-01-25 18:00:05,325 INFO root Skipping .____padding_file/11
+2018-01-25 18:00:05,325 INFO root Skipping .____padding_file/12
+2018-01-25 18:00:05,325 INFO root Skipping .____padding_file/13
+2018-01-25 18:00:05,325 INFO root Skipping .____padding_file/14
+2018-01-25 18:00:05,325 INFO root Skipping .____padding_file/15
+2018-01-25 18:00:05,325 INFO root Skipping .____padding_file/16
+2018-01-25 18:00:05,325 INFO root Skipping .____padding_file/17
+2018-01-25 18:00:05,325 INFO root Skipping .____padding_file/18
+2018-01-25 18:00:05,325 INFO root Skipping .____padding_file/19
+2018-01-25 18:00:05,325 INFO root Skipping .____padding_file/2
+2018-01-25 18:00:05,326 INFO root Skipping .____padding_file/20
+2018-01-25 18:00:05,326 INFO root Skipping .____padding_file/21
+2018-01-25 18:00:05,326 INFO root Skipping .____padding_file/22
+2018-01-25 18:00:05,326 INFO root Skipping .____padding_file/23
+2018-01-25 18:00:05,326 INFO root Skipping .____padding_file/24
+2018-01-25 18:00:05,326 INFO root Skipping .____padding_file/25
+2018-01-25 18:00:05,326 INFO root Skipping .____padding_file/26
+2018-01-25 18:00:05,326 INFO root Skipping .____padding_file/3
+2018-01-25 18:00:05,326 INFO root Skipping .____padding_file/4
+2018-01-25 18:00:05,326 INFO root Skipping .____padding_file/5
+2018-01-25 18:00:05,326 INFO root Skipping .____padding_file/6
+2018-01-25 18:00:05,327 INFO root Skipping .____padding_file/7
+2018-01-25 18:00:05,327 INFO root Skipping .____padding_file/8
+2018-01-25 18:00:05,327 INFO root Skipping .____padding_file/9
+2018-01-25 18:00:05,327 INFO root Skipping archiveteam_archivebot_go_20180125150002_archive.torrent
+2018-01-25 18:00:05,327 INFO root Skipping archiveteam_archivebot_go_20180125150002_files.xml
+2018-01-25 18:00:05,328 INFO root Skipping archiveteam_archivebot_go_20180125150002_meta.sqlite
+2018-01-25 18:00:05,328 INFO root Skipping archiveteam_archivebot_go_20180125150002_meta.xml
+2018-01-25 18:00:05,735 INFO root Processing item astrid_archivebot_www_chiefdelphi_com_20171202
+2018-01-25 18:00:05,736 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202.cdx.idx
+2018-01-25 18:00:05,736 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_archive.torrent
+2018-01-25 18:00:05,736 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_files.xml
+2018-01-25 18:00:05,736 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_meta.sqlite
+2018-01-25 18:00:05,736 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_meta.xml
+2018-01-25 18:00:05,742 INFO root Writing last-update file
+2018-01-25 18:00:05,742 INFO root Done
