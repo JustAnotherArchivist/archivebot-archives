@@ -1,107 +1,23 @@
-2018-01-29 00:00:02,115 DEBU root Last attempt: 2018-01-28T18:00:01Z
-2018-01-29 00:00:02,116 DEBU root Last success: 2018-01-28T18:00:01Z
-2018-01-29 00:00:02,116 INFO root Writing last-update file
-2018-01-29 00:00:02,116 INFO root Query: 'collection:archivebot oai_updatedate:[2018-01-28T18:00:01Z TO null]'
-2018-01-29 00:00:04,065 INFO root Processing item archiveteam_archivebot_go_20180128150001
-2018-01-29 00:00:04,065 INFO root Skipping archiveteam_archivebot_go_20180128150001_archive.torrent
-2018-01-29 00:00:04,066 INFO root Skipping archiveteam_archivebot_go_20180128150001_files.xml
-2018-01-29 00:00:04,066 INFO root Skipping archiveteam_archivebot_go_20180128150001_meta.sqlite
-2018-01-29 00:00:04,066 INFO root Skipping archiveteam_archivebot_go_20180128150001_meta.xml
-2018-01-29 00:00:04,066 ERRO root Size of babiesrus.toysrus.com-inf-20180128-054322-2t5ij-00000.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,066 ERRO root Mtime of babiesrus.toysrus.com-inf-20180128-054322-2t5ij-00000.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,066 ERRO root Size of babiesrus.toysrus.com-inf-20180128-054322-2t5ij-meta.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,066 ERRO root Mtime of babiesrus.toysrus.com-inf-20180128-054322-2t5ij-meta.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,066 ERRO root Size of bluebuddies.com-inf-20180127-132305-9ibvg-00001.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,066 ERRO root Mtime of bluebuddies.com-inf-20180127-132305-9ibvg-00001.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,067 ERRO root Size of bluebuddies.com-inf-20180127-132305-9ibvg-00002.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,067 ERRO root Mtime of bluebuddies.com-inf-20180127-132305-9ibvg-00002.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,067 ERRO root Size of bluebuddies.com-inf-20180127-132305-9ibvg-meta.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,067 ERRO root Mtime of bluebuddies.com-inf-20180127-132305-9ibvg-meta.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,067 ERRO root Size of cfhg.webs.com-inf-20180128-084252-585j4-00000.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,067 ERRO root Mtime of cfhg.webs.com-inf-20180128-084252-585j4-00000.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,067 ERRO root Size of cfhg.webs.com-inf-20180128-084252-585j4-meta.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,067 ERRO root Mtime of cfhg.webs.com-inf-20180128-084252-585j4-meta.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,067 ERRO root Size of gardenamateur.blogspot.com-inf-20180128-014352-5ivby-00000.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,067 ERRO root Mtime of gardenamateur.blogspot.com-inf-20180128-014352-5ivby-00000.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,067 ERRO root Size of gardenamateur.blogspot.com-inf-20180128-014352-5ivby-meta.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,068 ERRO root Mtime of gardenamateur.blogspot.com-inf-20180128-014352-5ivby-meta.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,068 ERRO root Size of labs.strava.com-inf-20180128-132940-1kglb-00000.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,068 ERRO root Mtime of labs.strava.com-inf-20180128-132940-1kglb-00000.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,068 ERRO root Size of labs.strava.com-inf-20180128-132940-1kglb-meta.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,068 ERRO root Mtime of labs.strava.com-inf-20180128-132940-1kglb-meta.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,068 ERRO root Size of mangafox.la-inf-20180109-043626-77aqe-00021.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,068 ERRO root Mtime of mangafox.la-inf-20180109-043626-77aqe-00021.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,068 ERRO root Size of mangafox.la-inf-20180109-043626-77aqe-00022.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,068 ERRO root Mtime of mangafox.la-inf-20180109-043626-77aqe-00022.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,068 ERRO root Size of members.webone.com.au-inf-20180128-003951-6baqs-00000.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,068 ERRO root Mtime of members.webone.com.au-inf-20180128-003951-6baqs-00000.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,069 ERRO root Size of members.webone.com.au-inf-20180128-003951-6baqs-meta.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,069 ERRO root Mtime of members.webone.com.au-inf-20180128-003951-6baqs-meta.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,069 ERRO root Size of nypost.com-shallow-20180128-010019-1xijo-00000.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,069 ERRO root Mtime of nypost.com-shallow-20180128-010019-1xijo-00000.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,069 ERRO root Size of nypost.com-shallow-20180128-010019-1xijo-meta.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,069 ERRO root Mtime of nypost.com-shallow-20180128-010019-1xijo-meta.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,069 ERRO root Size of support.lenovo.com-shallow-20180128-023208-5fpkr-00000.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,069 ERRO root Mtime of support.lenovo.com-shallow-20180128-023208-5fpkr-00000.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,070 ERRO root Size of support.lenovo.com-shallow-20180128-023208-5fpkr-meta.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,070 ERRO root Mtime of support.lenovo.com-shallow-20180128-023208-5fpkr-meta.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,070 ERRO root Size of the-toast.net-inf-20180127-193059-ahzb7-00000.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,070 ERRO root Mtime of the-toast.net-inf-20180127-193059-ahzb7-00000.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,070 ERRO root Size of the-toast.net-inf-20180127-193059-ahzb7-00001.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,070 ERRO root Mtime of the-toast.net-inf-20180127-193059-ahzb7-00001.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,070 ERRO root Size of urls-gist.githubusercontent.com-bloog.blogs-list2-inf-20171223-144934-d0e7a-00099.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,070 ERRO root Mtime of urls-gist.githubusercontent.com-bloog.blogs-list2-inf-20171223-144934-d0e7a-00099.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,070 ERRO root Size of urls-pastebin.com-RBCG8hQa-inf-20180123-142337-cmee0-00016.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,070 ERRO root Mtime of urls-pastebin.com-RBCG8hQa-inf-20180123-142337-cmee0-00016.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,070 ERRO root Size of urls-pastebin.com-RBCG8hQa-inf-20180123-142337-cmee0-00017.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,070 ERRO root Mtime of urls-pastebin.com-RBCG8hQa-inf-20180123-142337-cmee0-00017.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,070 ERRO root Size of urls-pastebin.com-jdg8hZMq-inf-20180127-180045-wo3pz-00000.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,070 ERRO root Mtime of urls-pastebin.com-jdg8hZMq-inf-20180127-180045-wo3pz-00000.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,070 ERRO root Size of urls-pastebin.com-sP1gCBMC-inf-20180122-015349-75vyc-00035.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,070 ERRO root Mtime of urls-pastebin.com-sP1gCBMC-inf-20180122-015349-75vyc-00035.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,070 ERRO root Size of visitcanberra.com.au-inf-20180128-084646-2u88k-00000.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,070 ERRO root Mtime of visitcanberra.com.au-inf-20180128-084646-2u88k-00000.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,070 ERRO root Size of visitcanberra.com.au-inf-20180128-084646-2u88k-meta.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,070 ERRO root Mtime of visitcanberra.com.au-inf-20180128-084646-2u88k-meta.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,071 ERRO root Size of www.epicgames.com-inf-20180126-220829-5suob-00001.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,071 ERRO root Mtime of www.epicgames.com-inf-20180126-220829-5suob-00001.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,071 ERRO root Size of www.interaksyon.com-inf-20180127-135928-afi6o-00000.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,071 ERRO root Mtime of www.interaksyon.com-inf-20180127-135928-afi6o-00000.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,071 ERRO root Size of www.kialo.com-inf-20180117-065234-e79jl-00018.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,071 ERRO root Mtime of www.kialo.com-inf-20180117-065234-e79jl-00018.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,071 ERRO root Size of www.mpgh.net-inf-20171211-225852-ci21n-00051.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,071 ERRO root Mtime of www.mpgh.net-inf-20171211-225852-ci21n-00051.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,071 ERRO root Size of www.publ.lib.ru-inf-20171216-224333-1c6qi-00213.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,071 ERRO root Mtime of www.publ.lib.ru-inf-20171216-224333-1c6qi-00213.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,071 ERRO root Size of www.publ.lib.ru-inf-20171216-224333-1c6qi-00214.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,071 ERRO root Mtime of www.publ.lib.ru-inf-20171216-224333-1c6qi-00214.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,072 ERRO root Size of www.publ.lib.ru-inf-20171216-224333-1c6qi-00215.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,072 ERRO root Mtime of www.publ.lib.ru-inf-20171216-224333-1c6qi-00215.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,072 ERRO root Size of www.reddit.com-shallow-20180128-095022-3miud-00000.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,072 ERRO root Mtime of www.reddit.com-shallow-20180128-095022-3miud-00000.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,072 ERRO root Size of www.reddit.com-shallow-20180128-095022-3miud-meta.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,072 ERRO root Mtime of www.reddit.com-shallow-20180128-095022-3miud-meta.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,072 ERRO root Size of www.rottentomatoes.com-inf-20171126-142101-e6b6m-00262.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,072 ERRO root Mtime of www.rottentomatoes.com-inf-20171126-142101-e6b6m-00262.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,073 ERRO root Size of www.shikadi.net-inf-20180127-173441-2qve1-00000.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,073 ERRO root Mtime of www.shikadi.net-inf-20180127-173441-2qve1-00000.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,073 ERRO root Size of www.sportsonearth.com-inf-20180127-200447-46wss-00004.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,073 ERRO root Mtime of www.sportsonearth.com-inf-20180127-200447-46wss-00004.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,073 ERRO root Size of www.sportsonearth.com-inf-20180127-200447-46wss-00005.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,073 ERRO root Mtime of www.sportsonearth.com-inf-20180127-200447-46wss-00005.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,073 ERRO root Size of www.sportsonearth.com-inf-20180127-200447-46wss-00006.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,073 ERRO root Mtime of www.sportsonearth.com-inf-20180127-200447-46wss-00006.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,074 ERRO root Size of www.sportsonearth.com-inf-20180127-200447-46wss-00007.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,074 ERRO root Mtime of www.sportsonearth.com-inf-20180127-200447-46wss-00007.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,074 ERRO root Size of www.sportsonearth.com-inf-20180127-200447-46wss-00008.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,074 ERRO root Mtime of www.sportsonearth.com-inf-20180127-200447-46wss-00008.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,074 ERRO root Size of www.sportsonearth.com-inf-20180127-200447-46wss-00009.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,074 ERRO root Mtime of www.sportsonearth.com-inf-20180127-200447-46wss-00009.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,074 ERRO root Size of www.sportsonearth.com-inf-20180127-200447-46wss-00010.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,074 ERRO root Mtime of www.sportsonearth.com-inf-20180127-200447-46wss-00010.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,074 ERRO root Size of www.sportsonearth.com-inf-20180127-200447-46wss-00011.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,074 ERRO root Mtime of www.sportsonearth.com-inf-20180127-200447-46wss-00011.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,075 ERRO root Size of www.sportsonearth.com-inf-20180127-200447-46wss-00012.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,075 ERRO root Mtime of www.sportsonearth.com-inf-20180127-200447-46wss-00012.warc.os.cdx.gz is missing
-2018-01-29 00:00:04,075 INFO root Writing last-update file
-2018-01-29 00:00:04,075 INFO root Done
+2018-01-29 06:00:01,544 DEBU root Last attempt: 2018-01-29T00:00:02Z
+2018-01-29 06:00:01,545 DEBU root Last success: 2018-01-29T00:00:02Z
+2018-01-29 06:00:01,545 INFO root Writing last-update file
+2018-01-29 06:00:01,545 INFO root Query: 'collection:archivebot oai_updatedate:[2018-01-29T00:00:02Z TO null]'
+2018-01-29 06:00:03,143 INFO root Processing item archiveteam_archivebot_go_20180128150001
+2018-01-29 06:00:03,143 INFO root Skipping archiveteam_archivebot_go_20180128150001.cdx.idx
+2018-01-29 06:00:03,144 INFO root Skipping archiveteam_archivebot_go_20180128150001_archive.torrent
+2018-01-29 06:00:03,144 INFO root Skipping archiveteam_archivebot_go_20180128150001_files.xml
+2018-01-29 06:00:03,144 INFO root Skipping archiveteam_archivebot_go_20180128150001_meta.sqlite
+2018-01-29 06:00:03,144 INFO root Skipping archiveteam_archivebot_go_20180128150001_meta.xml
+2018-01-29 06:00:03,367 INFO root Processing item archiveteam_archivebot_go_20180129020001
+2018-01-29 06:00:03,367 INFO root Skipping archiveteam_archivebot_go_20180129020001_archive.torrent
+2018-01-29 06:00:03,367 INFO root Skipping archiveteam_archivebot_go_20180129020001_files.xml
+2018-01-29 06:00:03,367 INFO root Skipping archiveteam_archivebot_go_20180129020001_meta.sqlite
+2018-01-29 06:00:03,368 INFO root Skipping archiveteam_archivebot_go_20180129020001_meta.xml
+2018-01-29 06:00:03,728 INFO root Processing item astrid_archivebot_www_chiefdelphi_com_20171202
+2018-01-29 06:00:03,728 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202.cdx.idx
+2018-01-29 06:00:03,728 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_archive.torrent
+2018-01-29 06:00:03,728 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_files.xml
+2018-01-29 06:00:03,728 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_meta.sqlite
+2018-01-29 06:00:03,729 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_meta.xml
+2018-01-29 06:00:03,731 INFO root Writing last-update file
+2018-01-29 06:00:03,732 INFO root Done
