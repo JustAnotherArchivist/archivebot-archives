@@ -1,17 +1,165 @@
-2018-01-30 12:00:01,592 DEBU root Last attempt: 2018-01-30T06:00:02Z
-2018-01-30 12:00:01,592 DEBU root Last success: 2018-01-30T06:00:02Z
-2018-01-30 12:00:01,592 INFO root Writing last-update file
-2018-01-30 12:00:01,592 INFO root Query: 'collection:archivebot oai_updatedate:[2018-01-30T06:00:02Z TO null]'
-2018-01-30 12:00:05,315 INFO root Processing item archiveteam_archivebot_go_20180130060001
-2018-01-30 12:00:05,315 INFO root Skipping archiveteam_archivebot_go_20180130060001_archive.torrent
-2018-01-30 12:00:05,315 INFO root Skipping archiveteam_archivebot_go_20180130060001_files.xml
-2018-01-30 12:00:05,315 INFO root Skipping archiveteam_archivebot_go_20180130060001_meta.sqlite
-2018-01-30 12:00:05,315 INFO root Skipping archiveteam_archivebot_go_20180130060001_meta.xml
-2018-01-30 12:00:05,699 INFO root Processing item astrid_archivebot_www_chiefdelphi_com_20171202
-2018-01-30 12:00:05,700 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202.cdx.idx
-2018-01-30 12:00:05,700 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_archive.torrent
-2018-01-30 12:00:05,700 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_files.xml
-2018-01-30 12:00:05,700 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_meta.sqlite
-2018-01-30 12:00:05,700 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_meta.xml
-2018-01-30 12:00:05,703 INFO root Writing last-update file
-2018-01-30 12:00:05,703 INFO root Done
+2018-01-30 18:00:01,616 DEBU root Last attempt: 2018-01-30T12:00:01Z
+2018-01-30 18:00:01,616 DEBU root Last success: 2018-01-30T12:00:01Z
+2018-01-30 18:00:01,617 INFO root Writing last-update file
+2018-01-30 18:00:01,617 INFO root Query: 'collection:archivebot oai_updatedate:[2018-01-30T12:00:01Z TO null]'
+2018-01-30 18:00:04,017 INFO root Processing item archiveteam_archivebot_go_20180129140001
+2018-01-30 18:00:04,017 INFO root Skipping archiveteam_archivebot_go_20180129140001.cdx.idx
+2018-01-30 18:00:04,018 INFO root Skipping archiveteam_archivebot_go_20180129140001_archive.torrent
+2018-01-30 18:00:04,018 INFO root Skipping archiveteam_archivebot_go_20180129140001_files.xml
+2018-01-30 18:00:04,018 INFO root Skipping archiveteam_archivebot_go_20180129140001_meta.sqlite
+2018-01-30 18:00:04,018 INFO root Skipping archiveteam_archivebot_go_20180129140001_meta.xml
+2018-01-30 18:00:04,648 INFO root Processing item archiveteam_archivebot_go_20180130060001
+2018-01-30 18:00:04,649 INFO root Skipping archiveteam_archivebot_go_20180130060001_archive.torrent
+2018-01-30 18:00:04,649 INFO root Skipping archiveteam_archivebot_go_20180130060001_files.xml
+2018-01-30 18:00:04,649 INFO root Skipping archiveteam_archivebot_go_20180130060001_meta.sqlite
+2018-01-30 18:00:04,649 INFO root Skipping archiveteam_archivebot_go_20180130060001_meta.xml
+2018-01-30 18:00:04,649 ERRO root Size of cheapbotsdonequick.com-shallow-20180130-044532-3tw6h-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,650 ERRO root Mtime of cheapbotsdonequick.com-shallow-20180130-044532-3tw6h-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,650 ERRO root Size of cheapbotsdonequick.com-shallow-20180130-044532-3tw6h-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,650 ERRO root Mtime of cheapbotsdonequick.com-shallow-20180130-044532-3tw6h-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,650 ERRO root Size of download.playmxm.com-inf-20180129-214112-blh7e-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,650 ERRO root Mtime of download.playmxm.com-inf-20180129-214112-blh7e-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,650 ERRO root Size of download.playmxm.com-inf-20180129-214112-blh7e-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,650 ERRO root Mtime of download.playmxm.com-inf-20180129-214112-blh7e-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,650 ERRO root Size of freedns.afraid.org-inf-20180129-121950-5zmjo-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,650 ERRO root Mtime of freedns.afraid.org-inf-20180129-121950-5zmjo-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,651 ERRO root Size of freedns.afraid.org-inf-20180129-121950-5zmjo-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,651 ERRO root Mtime of freedns.afraid.org-inf-20180129-121950-5zmjo-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,651 ERRO root Size of levelup.com.br-inf-20180129-220205-2csxx-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,651 ERRO root Mtime of levelup.com.br-inf-20180129-220205-2csxx-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,651 ERRO root Size of levelup.com.br-inf-20180129-220205-2csxx-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,651 ERRO root Mtime of levelup.com.br-inf-20180129-220205-2csxx-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,651 ERRO root Size of mangafox.la-inf-20180109-043626-77aqe-00025.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,651 ERRO root Mtime of mangafox.la-inf-20180109-043626-77aqe-00025.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,651 ERRO root Size of masterxmaster.gamepedia.com-inf-20180129-154234-bvv57-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,651 ERRO root Mtime of masterxmaster.gamepedia.com-inf-20180129-154234-bvv57-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,651 ERRO root Size of pathology.wum.edu.pl-inf-20180129-184538-e7zvi-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,651 ERRO root Mtime of pathology.wum.edu.pl-inf-20180129-184538-e7zvi-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,651 ERRO root Size of pathology.wum.edu.pl-inf-20180129-184538-e7zvi-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,651 ERRO root Mtime of pathology.wum.edu.pl-inf-20180129-184538-e7zvi-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,652 ERRO root Size of storify.com-inf-20180102-161517-3nozf-00029.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,652 ERRO root Mtime of storify.com-inf-20180102-161517-3nozf-00029.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,652 ERRO root Size of support.playmxm.com-inf-20180129-214005-6wxa2-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,652 ERRO root Mtime of support.playmxm.com-inf-20180129-214005-6wxa2-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,652 ERRO root Size of support.playmxm.com-inf-20180129-214005-6wxa2-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,652 ERRO root Mtime of support.playmxm.com-inf-20180129-214005-6wxa2-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,652 ERRO root Size of the-toast.net-inf-20180127-193059-ahzb7-00013.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,652 ERRO root Mtime of the-toast.net-inf-20180127-193059-ahzb7-00013.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,652 ERRO root Size of the-toast.net-inf-20180127-193059-ahzb7-00014.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,652 ERRO root Mtime of the-toast.net-inf-20180127-193059-ahzb7-00014.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,652 ERRO root Size of the-toast.net-inf-20180127-193059-ahzb7-00015.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,653 ERRO root Mtime of the-toast.net-inf-20180127-193059-ahzb7-00015.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,653 ERRO root Size of the-toast.net-inf-20180127-193059-ahzb7-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,653 ERRO root Mtime of the-toast.net-inf-20180127-193059-ahzb7-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,653 ERRO root Size of tldp.org-inf-20180128-233239-eigct-00002.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,653 ERRO root Mtime of tldp.org-inf-20180128-233239-eigct-00002.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,653 ERRO root Size of tldp.org-inf-20180128-233239-eigct-00003.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,653 ERRO root Mtime of tldp.org-inf-20180128-233239-eigct-00003.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,653 ERRO root Size of tldp.org-inf-20180128-233239-eigct-00004.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,653 ERRO root Mtime of tldp.org-inf-20180128-233239-eigct-00004.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,653 ERRO root Size of tldp.org-inf-20180128-233239-eigct-00005.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,653 ERRO root Mtime of tldp.org-inf-20180128-233239-eigct-00005.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,653 ERRO root Size of twitter.com-inf-20180129-215113-ngqbi-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,653 ERRO root Mtime of twitter.com-inf-20180129-215113-ngqbi-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,653 ERRO root Size of twitter.com-inf-20180129-215113-ngqbi-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,653 ERRO root Mtime of twitter.com-inf-20180129-215113-ngqbi-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,653 ERRO root Size of twitter.com-shallow-20180130-024413-df4r9-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,653 ERRO root Mtime of twitter.com-shallow-20180130-024413-df4r9-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,653 ERRO root Size of twitter.com-shallow-20180130-024413-df4r9-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,654 ERRO root Mtime of twitter.com-shallow-20180130-024413-df4r9-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,654 ERRO root Size of urls-gist.githubusercontent.com-PlaxMXM_DE-tweets-shallow-20180129-221702-cczzo-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,654 ERRO root Mtime of urls-gist.githubusercontent.com-PlaxMXM_DE-tweets-shallow-20180129-221702-cczzo-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,654 ERRO root Size of urls-gist.githubusercontent.com-PlaxMXM_DE-tweets-shallow-20180129-221702-cczzo-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,654 ERRO root Mtime of urls-gist.githubusercontent.com-PlaxMXM_DE-tweets-shallow-20180129-221702-cczzo-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,654 ERRO root Size of urls-gist.githubusercontent.com-PlayMXM-tweets-shallow-20180129-220511-av7pt-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,654 ERRO root Mtime of urls-gist.githubusercontent.com-PlayMXM-tweets-shallow-20180129-220511-av7pt-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,654 ERRO root Size of urls-gist.githubusercontent.com-PlayMXM-tweets-shallow-20180129-220511-av7pt-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,654 ERRO root Mtime of urls-gist.githubusercontent.com-PlayMXM-tweets-shallow-20180129-220511-av7pt-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,654 ERRO root Size of urls-gist.githubusercontent.com-PlayMXMOps-tweets-shallow-20180129-221711-40rvr-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,654 ERRO root Mtime of urls-gist.githubusercontent.com-PlayMXMOps-tweets-shallow-20180129-221711-40rvr-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,655 ERRO root Size of urls-gist.githubusercontent.com-PlayMXMOps-tweets-shallow-20180129-221711-40rvr-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,655 ERRO root Mtime of urls-gist.githubusercontent.com-PlayMXMOps-tweets-shallow-20180129-221711-40rvr-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,655 ERRO root Size of urls-gist.githubusercontent.com-PlayMXM_FR-tweets-shallow-20180129-221651-2msci-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,655 ERRO root Mtime of urls-gist.githubusercontent.com-PlayMXM_FR-tweets-shallow-20180129-221651-2msci-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,655 ERRO root Size of urls-gist.githubusercontent.com-PlayMXM_FR-tweets-shallow-20180129-221651-2msci-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,655 ERRO root Mtime of urls-gist.githubusercontent.com-PlayMXM_FR-tweets-shallow-20180129-221651-2msci-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,655 ERRO root Size of urls-gist.githubusercontent.com-bloog.blogs-list2-inf-20171223-144934-d0e7a-00104.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,655 ERRO root Mtime of urls-gist.githubusercontent.com-bloog.blogs-list2-inf-20171223-144934-d0e7a-00104.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,655 ERRO root Size of urls-gist.githubusercontent.com-repplmain-inf-20180128-180315-e9pix-00007.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,655 ERRO root Mtime of urls-gist.githubusercontent.com-repplmain-inf-20180128-180315-e9pix-00007.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,655 ERRO root Size of urls-gist.githubusercontent.com-repplmain-inf-20180128-180315-e9pix-00008.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,656 ERRO root Mtime of urls-gist.githubusercontent.com-repplmain-inf-20180128-180315-e9pix-00008.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,656 ERRO root Size of urls-gist.githubusercontent.com-repplmain-inf-20180128-180315-e9pix-00009.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,656 ERRO root Mtime of urls-gist.githubusercontent.com-repplmain-inf-20180128-180315-e9pix-00009.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,656 ERRO root Size of urls-gist.githubusercontent.com-repplmain-inf-20180128-180315-e9pix-00010.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,656 ERRO root Mtime of urls-gist.githubusercontent.com-repplmain-inf-20180128-180315-e9pix-00010.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,656 ERRO root Size of urls-pastebin.com-RBCG8hQa-inf-20180123-142337-cmee0-00020.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,656 ERRO root Mtime of urls-pastebin.com-RBCG8hQa-inf-20180123-142337-cmee0-00020.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,656 ERRO root Size of wikidevi.com-inf-20180129-191628-2i1nq-aborted-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,657 ERRO root Mtime of wikidevi.com-inf-20180129-191628-2i1nq-aborted-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,657 ERRO root Size of wikidevi.com-shallow-20180129-191359-4izo8-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,657 ERRO root Mtime of wikidevi.com-shallow-20180129-191359-4izo8-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,657 ERRO root Size of wikidevi.com-shallow-20180129-191359-4izo8-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,657 ERRO root Mtime of wikidevi.com-shallow-20180129-191359-4izo8-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,657 ERRO root Size of www.dbc.wroc.pl-inf-20180129-185143-1us66-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,657 ERRO root Mtime of www.dbc.wroc.pl-inf-20180129-185143-1us66-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,657 ERRO root Size of www.dslreports.com-shallow-20180130-004210-1m50p-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,657 ERRO root Mtime of www.dslreports.com-shallow-20180130-004210-1m50p-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,657 ERRO root Size of www.dslreports.com-shallow-20180130-004210-1m50p-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,657 ERRO root Mtime of www.dslreports.com-shallow-20180130-004210-1m50p-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,658 ERRO root Size of www.elgiganten.dk-inf-20180128-163015-enrmb-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,658 ERRO root Mtime of www.elgiganten.dk-inf-20180128-163015-enrmb-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,658 ERRO root Size of www.epicgames.com-inf-20180126-220829-5suob-00003.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,658 ERRO root Mtime of www.epicgames.com-inf-20180126-220829-5suob-00003.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,658 ERRO root Size of www.epicgames.com-inf-20180126-220829-5suob-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,658 ERRO root Mtime of www.epicgames.com-inf-20180126-220829-5suob-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,658 ERRO root Size of www.firstchampionship.org-inf-20180129-194710-daqp8-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,658 ERRO root Mtime of www.firstchampionship.org-inf-20180129-194710-daqp8-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,658 ERRO root Size of www.firstchampionship.org-inf-20180129-194710-daqp8-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,658 ERRO root Mtime of www.firstchampionship.org-inf-20180129-194710-daqp8-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,658 ERRO root Size of www.hackquest.com-inf-20180129-181754-7q7t0-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,658 ERRO root Mtime of www.hackquest.com-inf-20180129-181754-7q7t0-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,658 ERRO root Size of www.hackquest.com-inf-20180129-181754-7q7t0-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,658 ERRO root Mtime of www.hackquest.com-inf-20180129-181754-7q7t0-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,658 ERRO root Size of www.hpc.tw-inf-20180129-180543-ae791-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,659 ERRO root Mtime of www.hpc.tw-inf-20180129-180543-ae791-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,659 ERRO root Size of www.hpc.tw-inf-20180129-180543-ae791-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,659 ERRO root Mtime of www.hpc.tw-inf-20180129-180543-ae791-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,659 ERRO root Size of www.javafaq.nu-inf-20180129-181449-5vxnf-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,659 ERRO root Mtime of www.javafaq.nu-inf-20180129-181449-5vxnf-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,659 ERRO root Size of www.javafaq.nu-inf-20180129-181449-5vxnf-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,659 ERRO root Mtime of www.javafaq.nu-inf-20180129-181449-5vxnf-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,659 ERRO root Size of www.nard.ca-inf-20180129-180528-8n0xa-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,659 ERRO root Mtime of www.nard.ca-inf-20180129-180528-8n0xa-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,659 ERRO root Size of www.nard.ca-inf-20180129-180528-8n0xa-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,659 ERRO root Mtime of www.nard.ca-inf-20180129-180528-8n0xa-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,659 ERRO root Size of www.ohbah.com-inf-20180129-181852-aheyn-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,659 ERRO root Mtime of www.ohbah.com-inf-20180129-181852-aheyn-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,659 ERRO root Size of www.ohbah.com-inf-20180129-181852-aheyn-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,660 ERRO root Mtime of www.ohbah.com-inf-20180129-181852-aheyn-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,660 ERRO root Size of www.playmxm.com-inf-20180129-215728-f3pk7-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,660 ERRO root Mtime of www.playmxm.com-inf-20180129-215728-f3pk7-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,660 ERRO root Size of www.playmxm.com-inf-20180129-215728-f3pk7-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,660 ERRO root Mtime of www.playmxm.com-inf-20180129-215728-f3pk7-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,660 ERRO root Size of www.psp-moscow.com-inf-20180129-120939-abjt3-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,660 ERRO root Mtime of www.psp-moscow.com-inf-20180129-120939-abjt3-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,660 ERRO root Size of www.publ.lib.ru-inf-20171216-224333-1c6qi-00220.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,660 ERRO root Mtime of www.publ.lib.ru-inf-20171216-224333-1c6qi-00220.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,660 ERRO root Size of www.publ.lib.ru-inf-20171216-224333-1c6qi-00221.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,660 ERRO root Mtime of www.publ.lib.ru-inf-20171216-224333-1c6qi-00221.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,660 ERRO root Size of www.publ.lib.ru-inf-20171216-224333-1c6qi-00222.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,660 ERRO root Mtime of www.publ.lib.ru-inf-20171216-224333-1c6qi-00222.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,661 ERRO root Size of www.reddit.com-shallow-20180129-234322-bpr55-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,661 ERRO root Mtime of www.reddit.com-shallow-20180129-234322-bpr55-00000.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,661 ERRO root Size of www.reddit.com-shallow-20180129-234322-bpr55-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,661 ERRO root Mtime of www.reddit.com-shallow-20180129-234322-bpr55-meta.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,661 ERRO root Size of www.sportsonearth.com-inf-20180127-200447-46wss-00024.warc.os.cdx.gz is missing
+2018-01-30 18:00:04,661 ERRO root Mtime of www.sportsonearth.com-inf-20180127-200447-46wss-00024.warc.os.cdx.gz is missing
+2018-01-30 18:00:05,161 INFO root Processing item astrid_archivebot_forum_giga_de_20170928
+2018-01-30 18:00:05,164 INFO root Skipping astrid_archivebot_forum_giga_de_20170928.cdx.idx
+2018-01-30 18:00:05,164 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_archive.torrent
+2018-01-30 18:00:05,165 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_files.xml
+2018-01-30 18:00:05,165 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.sqlite
+2018-01-30 18:00:05,165 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.xml
+2018-01-30 18:00:05,168 INFO root Writing last-update file
+2018-01-30 18:00:05,169 INFO root Done
