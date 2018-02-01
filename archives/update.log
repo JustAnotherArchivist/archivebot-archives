@@ -1,33 +1,16 @@
-2018-02-01 00:00:01,732 DEBU root Last attempt: 2018-01-31T18:00:02Z
-2018-02-01 00:00:01,732 DEBU root Last success: 2018-01-31T18:00:02Z
-2018-02-01 00:00:01,733 INFO root Writing last-update file
-2018-02-01 00:00:01,733 INFO root Query: 'collection:archivebot oai_updatedate:[2018-01-31T18:00:02Z TO null]'
-2018-02-01 00:00:05,747 INFO root Processing item archiveteam_archivebot_go_20180131140001
-2018-02-01 00:00:05,749 INFO root Skipping archiveteam_archivebot_go_20180131140001_archive.torrent
-2018-02-01 00:00:05,749 INFO root Skipping archiveteam_archivebot_go_20180131140001_files.xml
-2018-02-01 00:00:05,749 INFO root Skipping archiveteam_archivebot_go_20180131140001_meta.sqlite
-2018-02-01 00:00:05,749 INFO root Skipping archiveteam_archivebot_go_20180131140001_meta.xml
-2018-02-01 00:00:05,750 ERRO root Size of arstechnica.com-shallow-20180131-044251-pk2eu-00000.warc.os.cdx.gz is missing
-2018-02-01 00:00:05,750 ERRO root Mtime of arstechnica.com-shallow-20180131-044251-pk2eu-00000.warc.os.cdx.gz is missing
-2018-02-01 00:00:05,750 ERRO root Size of babe.net-inf-20180130-200326-fthop-00001.warc.os.cdx.gz is missing
-2018-02-01 00:00:05,750 ERRO root Mtime of babe.net-inf-20180130-200326-fthop-00001.warc.os.cdx.gz is missing
-2018-02-01 00:00:05,750 ERRO root Size of babe.net-inf-20180130-200326-fthop-00002.warc.os.cdx.gz is missing
-2018-02-01 00:00:05,750 ERRO root Mtime of babe.net-inf-20180130-200326-fthop-00002.warc.os.cdx.gz is missing
-2018-02-01 00:00:05,750 ERRO root Size of babe.net-inf-20180130-200326-fthop-00003.warc.os.cdx.gz is missing
-2018-02-01 00:00:05,750 ERRO root Mtime of babe.net-inf-20180130-200326-fthop-00003.warc.os.cdx.gz is missing
-2018-02-01 00:00:05,751 ERRO root Size of github.com-inf-20180131-055617-acc66-00000.warc.os.cdx.gz is missing
-2018-02-01 00:00:05,751 ERRO root Mtime of github.com-inf-20180131-055617-acc66-00000.warc.os.cdx.gz is missing
-2018-02-01 00:00:05,751 ERRO root Size of github.com-inf-20180131-055617-acc66-meta.warc.os.cdx.gz is missing
-2018-02-01 00:00:05,751 ERRO root Mtime of github.com-inf-20180131-055617-acc66-meta.warc.os.cdx.gz is missing
-2018-02-01 00:00:05,751 ERRO root Size of mangafox.la-inf-20180109-043626-77aqe-00028.warc.os.cdx.gz is missing
-2018-02-01 00:00:05,751 ERRO root Mtime of mangafox.la-inf-20180109-043626-77aqe-00028.warc.os.cdx.gz is missing
-2018-02-01 00:00:05,751 ERRO root Size of www.blog.pl-shallow-20180131-125520-3334e-meta.warc.os.cdx.gz is missing
-2018-02-01 00:00:05,751 ERRO root Mtime of www.blog.pl-shallow-20180131-125520-3334e-meta.warc.os.cdx.gz is missing
-2018-02-01 00:00:06,135 INFO root Processing item astrid_archivebot_www_chiefdelphi_com_20171202
-2018-02-01 00:00:06,135 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202.cdx.idx
-2018-02-01 00:00:06,135 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_archive.torrent
-2018-02-01 00:00:06,136 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_files.xml
-2018-02-01 00:00:06,136 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_meta.sqlite
-2018-02-01 00:00:06,136 INFO root Skipping astrid_archivebot_www_chiefdelphi_com_20171202_meta.xml
-2018-02-01 00:00:06,140 INFO root Writing last-update file
-2018-02-01 00:00:06,140 INFO root Done
+2018-02-01 06:00:02,120 DEBU root Last attempt: 2018-02-01T00:00:01Z
+2018-02-01 06:00:02,120 DEBU root Last success: 2018-02-01T00:00:01Z
+2018-02-01 06:00:02,120 INFO root Writing last-update file
+2018-02-01 06:00:02,120 INFO root Query: 'collection:archivebot oai_updatedate:[2018-02-01T00:00:01Z TO null]'
+2018-02-01 06:00:03,521 INFO root Processing item archiveteam_archivebot_go_20180131140001
+2018-02-01 06:00:03,522 INFO root Skipping archiveteam_archivebot_go_20180131140001.cdx.idx
+2018-02-01 06:00:03,522 INFO root Skipping archiveteam_archivebot_go_20180131140001_archive.torrent
+2018-02-01 06:00:03,522 INFO root Skipping archiveteam_archivebot_go_20180131140001_files.xml
+2018-02-01 06:00:03,522 INFO root Skipping archiveteam_archivebot_go_20180131140001_meta.sqlite
+2018-02-01 06:00:03,522 INFO root Skipping archiveteam_archivebot_go_20180131140001_meta.xml
+2018-02-01 06:00:03,754 INFO root Processing item archiveteam_archivebot_go_20180201050001
+2018-02-01 06:00:03,755 INFO root Skipping archiveteam_archivebot_go_20180201050001_files.xml
+2018-02-01 06:00:03,755 INFO root Skipping archiveteam_archivebot_go_20180201050001_meta.sqlite
+2018-02-01 06:00:03,755 INFO root Skipping archiveteam_archivebot_go_20180201050001_meta.xml
+2018-02-01 06:00:03,755 INFO root Writing last-update file
+2018-02-01 06:00:03,756 INFO root Done
