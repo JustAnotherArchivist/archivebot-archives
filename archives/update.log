@@ -1,17 +1,89 @@
-2018-02-03 00:00:03,731 DEBU root Last attempt: 2018-02-02T18:00:09Z
-2018-02-03 00:00:03,731 DEBU root Last success: 2018-02-02T18:00:09Z
-2018-02-03 00:00:03,731 INFO root Writing last-update file
-2018-02-03 00:00:03,731 INFO root Query: 'collection:archivebot oai_updatedate:[2018-02-02T18:00:09Z TO null]'
-2018-02-03 00:00:05,043 INFO root Processing item archiveteam_archivebot_go_20180202160002
-2018-02-03 00:00:05,043 INFO root Skipping archiveteam_archivebot_go_20180202160002_archive.torrent
-2018-02-03 00:00:05,044 INFO root Skipping archiveteam_archivebot_go_20180202160002_files.xml
-2018-02-03 00:00:05,044 INFO root Skipping archiveteam_archivebot_go_20180202160002_meta.sqlite
-2018-02-03 00:00:05,044 INFO root Skipping archiveteam_archivebot_go_20180202160002_meta.xml
-2018-02-03 00:00:05,423 INFO root Processing item astrid_archivebot_forum_giga_de_20170928
-2018-02-03 00:00:05,423 INFO root Skipping astrid_archivebot_forum_giga_de_20170928.cdx.idx
-2018-02-03 00:00:05,423 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_archive.torrent
-2018-02-03 00:00:05,424 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_files.xml
-2018-02-03 00:00:05,424 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.sqlite
-2018-02-03 00:00:05,424 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.xml
-2018-02-03 00:00:05,427 INFO root Writing last-update file
-2018-02-03 00:00:05,427 INFO root Done
+2018-02-03 06:00:02,812 DEBU root Last attempt: 2018-02-03T00:00:03Z
+2018-02-03 06:00:02,812 DEBU root Last success: 2018-02-03T00:00:03Z
+2018-02-03 06:00:02,812 INFO root Writing last-update file
+2018-02-03 06:00:02,813 INFO root Query: 'collection:archivebot oai_updatedate:[2018-02-03T00:00:03Z TO null]'
+2018-02-03 06:00:05,539 INFO root Processing item archiveteam_archivebot_go_20180202160002
+2018-02-03 06:00:05,549 ERRO root Size of ammadosupport.zendesk.com-inf-20180202-125842-auegk-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,549 ERRO root Mtime of ammadosupport.zendesk.com-inf-20180202-125842-auegk-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,549 ERRO root Size of ammadosupport.zendesk.com-inf-20180202-125842-auegk-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,549 ERRO root Mtime of ammadosupport.zendesk.com-inf-20180202-125842-auegk-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,549 ERRO root Size of ammadosupport.zendesk.com-shallow-20180202-145657-8t58v-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,550 ERRO root Mtime of ammadosupport.zendesk.com-shallow-20180202-145657-8t58v-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,550 ERRO root Size of ammadosupport.zendesk.com-shallow-20180202-145657-8t58v-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,550 ERRO root Mtime of ammadosupport.zendesk.com-shallow-20180202-145657-8t58v-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,550 ERRO root Size of api.ammado.com-inf-20180202-125654-3vxvi-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,550 ERRO root Mtime of api.ammado.com-inf-20180202-125654-3vxvi-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,550 ERRO root Size of api.ammado.com-inf-20180202-125654-3vxvi-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,550 ERRO root Mtime of api.ammado.com-inf-20180202-125654-3vxvi-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,551 ERRO root Size of api.ammado.com-inf-20180202-125735-3vxvi-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,551 ERRO root Mtime of api.ammado.com-inf-20180202-125735-3vxvi-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,551 ERRO root Size of api.ammado.com-inf-20180202-125735-3vxvi-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,551 ERRO root Mtime of api.ammado.com-inf-20180202-125735-3vxvi-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,551 ERRO root Size of api.ammado.com-shallow-20180202-085842-3vxvi-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,551 ERRO root Mtime of api.ammado.com-shallow-20180202-085842-3vxvi-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,551 ERRO root Size of api.ammado.com-shallow-20180202-085842-3vxvi-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,551 ERRO root Mtime of api.ammado.com-shallow-20180202-085842-3vxvi-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,552 INFO root Skipping archiveteam_archivebot_go_20180202160002_archive.torrent
+2018-02-03 06:00:05,552 INFO root Skipping archiveteam_archivebot_go_20180202160002_files.xml
+2018-02-03 06:00:05,552 INFO root Skipping archiveteam_archivebot_go_20180202160002_meta.sqlite
+2018-02-03 06:00:05,552 INFO root Skipping archiveteam_archivebot_go_20180202160002_meta.xml
+2018-02-03 06:00:05,552 ERRO root Size of blog.ammado.com-inf-20180202-125356-fom1m-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,552 ERRO root Mtime of blog.ammado.com-inf-20180202-125356-fom1m-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,552 ERRO root Size of blog.ammado.com-inf-20180202-125356-fom1m-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,552 ERRO root Mtime of blog.ammado.com-inf-20180202-125356-fom1m-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,553 ERRO root Size of blog.ammado.com-shallow-20180202-145710-eppp1-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,553 ERRO root Mtime of blog.ammado.com-shallow-20180202-145710-eppp1-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,553 ERRO root Size of cei.org-shallow-20180202-124335-4gwm2-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,553 ERRO root Mtime of cei.org-shallow-20180202-124335-4gwm2-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,553 ERRO root Size of cei.org-shallow-20180202-124335-4gwm2-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,553 ERRO root Mtime of cei.org-shallow-20180202-124335-4gwm2-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,553 ERRO root Size of egomassive.com-inf-20180202-140712-d2eqp-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,554 ERRO root Mtime of egomassive.com-inf-20180202-140712-d2eqp-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,554 ERRO root Size of egomassive.com-inf-20180202-140712-d2eqp-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,554 ERRO root Mtime of egomassive.com-inf-20180202-140712-d2eqp-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,554 ERRO root Size of forums.sega.com-inf-20180201-204152-a0tb5-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,554 ERRO root Mtime of forums.sega.com-inf-20180201-204152-a0tb5-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,554 ERRO root Size of forums.sega.com-inf-20180201-204152-a0tb5-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,554 ERRO root Mtime of forums.sega.com-inf-20180201-204152-a0tb5-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,554 ERRO root Size of forums.sega.com-inf-20180201-204502-a0tb5-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,554 ERRO root Mtime of forums.sega.com-inf-20180201-204502-a0tb5-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,555 ERRO root Size of forums.sega.com-inf-20180201-204502-a0tb5-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,555 ERRO root Mtime of forums.sega.com-inf-20180201-204502-a0tb5-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,555 ERRO root Size of forums.sega.com-shallow-20180201-204341-65ucu-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,555 ERRO root Mtime of forums.sega.com-shallow-20180201-204341-65ucu-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,555 ERRO root Size of forums.sega.com-shallow-20180201-204341-65ucu-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,555 ERRO root Mtime of forums.sega.com-shallow-20180201-204341-65ucu-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,555 ERRO root Size of fpoe-wn.at-inf-20180201-224101-1oaj6-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,556 ERRO root Mtime of fpoe-wn.at-inf-20180201-224101-1oaj6-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,556 ERRO root Size of fpoe-wn.at-inf-20180201-224101-1oaj6-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,556 ERRO root Mtime of fpoe-wn.at-inf-20180201-224101-1oaj6-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,556 ERRO root Size of github.com-shallow-20180202-124557-i9sr2-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,556 ERRO root Mtime of github.com-shallow-20180202-124557-i9sr2-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,556 ERRO root Size of github.com-shallow-20180202-124557-i9sr2-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,556 ERRO root Mtime of github.com-shallow-20180202-124557-i9sr2-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,556 ERRO root Size of github.com-shallow-20180202-130050-4mxrn-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,557 ERRO root Mtime of github.com-shallow-20180202-130050-4mxrn-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,557 ERRO root Size of github.com-shallow-20180202-130050-4mxrn-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,557 ERRO root Mtime of github.com-shallow-20180202-130050-4mxrn-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,557 ERRO root Size of globalnews.ca-shallow-20180202-032806-cmyix-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,557 ERRO root Mtime of globalnews.ca-shallow-20180202-032806-cmyix-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,557 ERRO root Size of globalnews.ca-shallow-20180202-032806-cmyix-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,557 ERRO root Mtime of globalnews.ca-shallow-20180202-032806-cmyix-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,557 ERRO root Size of idiallo.com-shallow-20180201-214330-67rdp-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,557 ERRO root Mtime of idiallo.com-shallow-20180201-214330-67rdp-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,558 ERRO root Size of idiallo.com-shallow-20180201-214330-67rdp-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,558 ERRO root Mtime of idiallo.com-shallow-20180201-214330-67rdp-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,558 ERRO root Size of juniverse.spriteclad.com-inf-20180202-063947-2ywyu-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,558 ERRO root Mtime of juniverse.spriteclad.com-inf-20180202-063947-2ywyu-00000.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,558 ERRO root Size of juniverse.spriteclad.com-inf-20180202-063947-2ywyu-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,558 ERRO root Mtime of juniverse.spriteclad.com-inf-20180202-063947-2ywyu-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,558 ERRO root Size of tickernel.org-inf-20180201-171927-219i9-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,558 ERRO root Mtime of tickernel.org-inf-20180201-171927-219i9-meta.warc.os.cdx.gz is missing
+2018-02-03 06:00:05,921 INFO root Processing item falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714
+2018-02-03 06:00:05,922 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714.cdx.idx
+2018-02-03 06:00:05,922 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_archive.torrent
+2018-02-03 06:00:05,922 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_files.xml
+2018-02-03 06:00:05,922 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_meta.sqlite
+2018-02-03 06:00:05,922 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_meta.xml
+2018-02-03 06:00:05,926 INFO root Writing last-update file
+2018-02-03 06:00:05,926 INFO root Done
