@@ -1,11 +1,37 @@
-2018-02-09 12:00:02,146 DEBU root Last attempt: 2018-02-09T06:00:01Z
-2018-02-09 12:00:02,149 DEBU root Last success: 2018-02-09T06:00:01Z
-2018-02-09 12:00:02,149 INFO root Writing last-update file
-2018-02-09 12:00:02,149 INFO root Query: 'collection:archivebot oai_updatedate:[2018-02-09T06:00:01Z TO null]'
-2018-02-09 12:00:04,580 INFO root Processing item archiveteam_archivebot_go_20180209100001
-2018-02-09 12:00:04,580 INFO root Skipping archiveteam_archivebot_go_20180209100001_archive.torrent
-2018-02-09 12:00:04,580 INFO root Skipping archiveteam_archivebot_go_20180209100001_files.xml
-2018-02-09 12:00:04,580 INFO root Skipping archiveteam_archivebot_go_20180209100001_meta.sqlite
-2018-02-09 12:00:04,580 INFO root Skipping archiveteam_archivebot_go_20180209100001_meta.xml
-2018-02-09 12:00:04,581 INFO root Writing last-update file
-2018-02-09 12:00:04,581 INFO root Done
+2018-02-09 18:00:01,942 DEBU root Last attempt: 2018-02-09T12:00:02Z
+2018-02-09 18:00:01,942 DEBU root Last success: 2018-02-09T12:00:02Z
+2018-02-09 18:00:01,943 INFO root Writing last-update file
+2018-02-09 18:00:01,943 INFO root Query: 'collection:archivebot oai_updatedate:[2018-02-09T12:00:02Z TO null]'
+2018-02-09 18:00:05,784 INFO root Processing item archiveteam_archivebot_go_20180209100001
+2018-02-09 18:00:05,784 ERRO root Size of andymarkup.github.io-inf-20180209-010950-edkpe-00000.warc.os.cdx.gz is missing
+2018-02-09 18:00:05,784 ERRO root Mtime of andymarkup.github.io-inf-20180209-010950-edkpe-00000.warc.os.cdx.gz is missing
+2018-02-09 18:00:05,784 ERRO root Size of andymarkup.github.io-inf-20180209-010950-edkpe-meta.warc.os.cdx.gz is missing
+2018-02-09 18:00:05,785 ERRO root Mtime of andymarkup.github.io-inf-20180209-010950-edkpe-meta.warc.os.cdx.gz is missing
+2018-02-09 18:00:05,785 INFO root Skipping archiveteam_archivebot_go_20180209100001_archive.torrent
+2018-02-09 18:00:05,785 INFO root Skipping archiveteam_archivebot_go_20180209100001_files.xml
+2018-02-09 18:00:05,785 INFO root Skipping archiveteam_archivebot_go_20180209100001_meta.sqlite
+2018-02-09 18:00:05,785 INFO root Skipping archiveteam_archivebot_go_20180209100001_meta.xml
+2018-02-09 18:00:05,785 ERRO root Size of core.trac.wordpress.org-shallow-20180209-094608-2zop4-00000.warc.os.cdx.gz is missing
+2018-02-09 18:00:05,785 ERRO root Mtime of core.trac.wordpress.org-shallow-20180209-094608-2zop4-00000.warc.os.cdx.gz is missing
+2018-02-09 18:00:05,785 ERRO root Size of make.wordpress.org-shallow-20180209-034448-dmswa-00000.warc.os.cdx.gz is missing
+2018-02-09 18:00:05,785 ERRO root Mtime of make.wordpress.org-shallow-20180209-034448-dmswa-00000.warc.os.cdx.gz is missing
+2018-02-09 18:00:05,785 ERRO root Size of mangafox.la-inf-20180109-043626-77aqe-00036.warc.os.cdx.gz is missing
+2018-02-09 18:00:05,785 ERRO root Mtime of mangafox.la-inf-20180109-043626-77aqe-00036.warc.os.cdx.gz is missing
+2018-02-09 18:00:05,786 ERRO root Size of money.cnn.com-shallow-20180208-193510-75qe3-00000.warc.os.cdx.gz is missing
+2018-02-09 18:00:05,786 ERRO root Mtime of money.cnn.com-shallow-20180208-193510-75qe3-00000.warc.os.cdx.gz is missing
+2018-02-09 18:00:05,786 ERRO root Size of money.cnn.com-shallow-20180208-193510-75qe3-meta.warc.os.cdx.gz is missing
+2018-02-09 18:00:05,786 ERRO root Mtime of money.cnn.com-shallow-20180208-193510-75qe3-meta.warc.os.cdx.gz is missing
+2018-02-09 18:00:05,786 ERRO root Size of newsweekespanol.com-inf-20180208-202349-apz0y-00000.warc.os.cdx.gz is missing
+2018-02-09 18:00:05,786 ERRO root Mtime of newsweekespanol.com-inf-20180208-202349-apz0y-00000.warc.os.cdx.gz is missing
+2018-02-09 18:00:05,786 ERRO root Size of twitter.com-shallow-20180209-035250-agm4i-00000.warc.os.cdx.gz is missing
+2018-02-09 18:00:05,786 ERRO root Mtime of twitter.com-shallow-20180209-035250-agm4i-00000.warc.os.cdx.gz is missing
+2018-02-09 18:00:05,786 ERRO root Size of urls-gist.github.com-Newsweek-tweets-shallow-20180208-205317-1agod-00000.warc.os.cdx.gz is missing
+2018-02-09 18:00:05,786 ERRO root Mtime of urls-gist.github.com-Newsweek-tweets-shallow-20180208-205317-1agod-00000.warc.os.cdx.gz is missing
+2018-02-09 18:00:05,786 ERRO root Size of urls-gist.github.com-Newsweek_JAPAN-tweets-shallow-20180208-191846-8ea97-00000.warc.os.cdx.gz is missing
+2018-02-09 18:00:05,787 ERRO root Mtime of urls-gist.github.com-Newsweek_JAPAN-tweets-shallow-20180208-191846-8ea97-00000.warc.os.cdx.gz is missing
+2018-02-09 18:00:05,787 ERRO root Size of urls-gist.github.com-Newsweek_JAPAN-tweets-shallow-20180208-191846-8ea97-meta.warc.os.cdx.gz is missing
+2018-02-09 18:00:05,787 ERRO root Mtime of urls-gist.github.com-Newsweek_JAPAN-tweets-shallow-20180208-191846-8ea97-meta.warc.os.cdx.gz is missing
+2018-02-09 18:00:05,787 ERRO root Size of www.dbc.wroc.pl-inf-20180129-185143-1us66-00074.warc.os.cdx.gz is missing
+2018-02-09 18:00:05,787 ERRO root Mtime of www.dbc.wroc.pl-inf-20180129-185143-1us66-00074.warc.os.cdx.gz is missing
+2018-02-09 18:00:05,787 INFO root Writing last-update file
+2018-02-09 18:00:05,788 INFO root Done
