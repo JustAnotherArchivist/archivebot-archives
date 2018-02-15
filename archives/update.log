@@ -1,78 +1,33 @@
-2018-02-15 00:00:01,814 DEBU root Last attempt: 2018-02-14T18:00:01Z
-2018-02-15 00:00:01,814 DEBU root Last success: 2018-02-14T18:00:01Z
-2018-02-15 00:00:01,814 INFO root Writing last-update file
-2018-02-15 00:00:01,814 INFO root Query: 'collection:archivebot oai_updatedate:[2018-02-14T18:00:01Z TO null]'
-2018-02-15 00:00:03,680 INFO root Processing item archiveteam_archivebot_go_20180214120001
-2018-02-15 00:00:03,681 INFO root Skipping archiveteam_archivebot_go_20180214120001_archive.torrent
-2018-02-15 00:00:03,681 INFO root Skipping archiveteam_archivebot_go_20180214120001_files.xml
-2018-02-15 00:00:03,681 INFO root Skipping archiveteam_archivebot_go_20180214120001_meta.sqlite
-2018-02-15 00:00:03,681 INFO root Skipping archiveteam_archivebot_go_20180214120001_meta.xml
-2018-02-15 00:00:03,681 ERRO root Size of ghostbin.com-shallow-20180214-050806-36kir-00000.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,681 ERRO root Mtime of ghostbin.com-shallow-20180214-050806-36kir-00000.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,681 ERRO root Size of marketplace.cdn.mozilla.net-inf-20180214-003435-4zkh8-00000.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,682 ERRO root Mtime of marketplace.cdn.mozilla.net-inf-20180214-003435-4zkh8-00000.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,682 ERRO root Size of marketplace.cdn.mozilla.net-inf-20180214-003435-4zkh8-meta.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,682 ERRO root Mtime of marketplace.cdn.mozilla.net-inf-20180214-003435-4zkh8-meta.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,682 ERRO root Size of marketplace.firefox.com-inf-20180214-003309-e4i7h-00000.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,682 ERRO root Mtime of marketplace.firefox.com-inf-20180214-003309-e4i7h-00000.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,682 ERRO root Size of marketplace.firefox.com-inf-20180214-003309-e4i7h-meta.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,682 ERRO root Mtime of marketplace.firefox.com-inf-20180214-003309-e4i7h-meta.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,682 ERRO root Size of marketplace.firefox.com-inf-20180214-020808-e4i7h-00000.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,682 ERRO root Mtime of marketplace.firefox.com-inf-20180214-020808-e4i7h-00000.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,682 ERRO root Size of marketplace.firefox.com-inf-20180214-020808-e4i7h-meta.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,682 ERRO root Mtime of marketplace.firefox.com-inf-20180214-020808-e4i7h-meta.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,683 ERRO root Size of marketplace.firefox.com-inf-20180214-020921-e4i7h-00000.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,683 ERRO root Mtime of marketplace.firefox.com-inf-20180214-020921-e4i7h-00000.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,683 ERRO root Size of marketplace.firefox.com-inf-20180214-020921-e4i7h-meta.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,683 ERRO root Mtime of marketplace.firefox.com-inf-20180214-020921-e4i7h-meta.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,683 ERRO root Size of oddshot.tv-shallow-20180214-094622-bp2jf-00000.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,683 ERRO root Mtime of oddshot.tv-shallow-20180214-094622-bp2jf-00000.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,683 ERRO root Size of oddshot.tv-shallow-20180214-094622-bp2jf-meta.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,683 ERRO root Mtime of oddshot.tv-shallow-20180214-094622-bp2jf-meta.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,683 ERRO root Size of oddshot.tv-shallow-20180214-094717-8xycn-00000.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,683 ERRO root Mtime of oddshot.tv-shallow-20180214-094717-8xycn-00000.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,683 ERRO root Size of oddshot.tv-shallow-20180214-094717-8xycn-meta.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,684 ERRO root Mtime of oddshot.tv-shallow-20180214-094717-8xycn-meta.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,684 ERRO root Size of oddshot.tv-shallow-20180214-095635-47swd-00000.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,684 ERRO root Mtime of oddshot.tv-shallow-20180214-095635-47swd-00000.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,684 ERRO root Size of oddshot.tv-shallow-20180214-095635-47swd-meta.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,684 ERRO root Mtime of oddshot.tv-shallow-20180214-095635-47swd-meta.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,684 ERRO root Size of oddshot.tv-shallow-20180214-100621-2vjrn-00000.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,684 ERRO root Mtime of oddshot.tv-shallow-20180214-100621-2vjrn-00000.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,684 ERRO root Size of oddshot.tv-shallow-20180214-100621-2vjrn-meta.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,684 ERRO root Mtime of oddshot.tv-shallow-20180214-100621-2vjrn-meta.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,684 ERRO root Size of rhizome.org-inf-20180209-075816-660rz-00028.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,684 ERRO root Mtime of rhizome.org-inf-20180209-075816-660rz-00028.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,685 ERRO root Size of rhizome.org-inf-20180209-075816-660rz-00029.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,685 ERRO root Mtime of rhizome.org-inf-20180209-075816-660rz-00029.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,685 ERRO root Size of storify.com-inf-20180102-161517-3nozf-00061.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,685 ERRO root Mtime of storify.com-inf-20180102-161517-3nozf-00061.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,685 ERRO root Size of techcrunch.com-shallow-20180214-005628-f1avo-00000.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,685 ERRO root Mtime of techcrunch.com-shallow-20180214-005628-f1avo-00000.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,685 ERRO root Size of techcrunch.com-shallow-20180214-005628-f1avo-meta.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,685 ERRO root Mtime of techcrunch.com-shallow-20180214-005628-f1avo-meta.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,685 ERRO root Size of tf2tags.com-inf-20180130-182919-btt2v-00003.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,685 ERRO root Mtime of tf2tags.com-inf-20180130-182919-btt2v-00003.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,686 ERRO root Size of twitter.com-shallow-20180214-013018-c0uql-00000.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,686 ERRO root Mtime of twitter.com-shallow-20180214-013018-c0uql-00000.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,686 ERRO root Size of twitter.com-shallow-20180214-013018-c0uql-meta.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,686 ERRO root Mtime of twitter.com-shallow-20180214-013018-c0uql-meta.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,686 ERRO root Size of urls-ghostbin.com-raw-shallow-20180213-232034-cnfbp-meta.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,686 ERRO root Mtime of urls-ghostbin.com-raw-shallow-20180213-232034-cnfbp-meta.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,686 ERRO root Size of urls-gist.githubusercontent.com-bloog.blogs-list2-inf-20171223-144934-d0e7a-00121.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,686 ERRO root Mtime of urls-gist.githubusercontent.com-bloog.blogs-list2-inf-20171223-144934-d0e7a-00121.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,687 ERRO root Size of urls-gist.githubusercontent.com-gistfile1.txt-shallow-20180214-020312-5pjfx-00000.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,687 ERRO root Mtime of urls-gist.githubusercontent.com-gistfile1.txt-shallow-20180214-020312-5pjfx-00000.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,687 ERRO root Size of urls-gist.githubusercontent.com-gistfile1.txt-shallow-20180214-020312-5pjfx-meta.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,687 ERRO root Mtime of urls-gist.githubusercontent.com-gistfile1.txt-shallow-20180214-020312-5pjfx-meta.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,687 ERRO root Size of urls-gist.githubusercontent.com-moviefancentral.com-inf-20180208-095731-7d2pe-00015.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,687 ERRO root Mtime of urls-gist.githubusercontent.com-moviefancentral.com-inf-20180208-095731-7d2pe-00015.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,687 ERRO root Size of urls-gist.githubusercontent.com-oddshot-shallow-20180214-094322-50tmm-00000.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,687 ERRO root Mtime of urls-gist.githubusercontent.com-oddshot-shallow-20180214-094322-50tmm-00000.warc.os.cdx.gz is missing
-2018-02-15 00:00:03,923 INFO root Processing item archiveteam_archivebot_go_20180214170001
-2018-02-15 00:00:03,923 INFO root Skipping archiveteam_archivebot_go_20180214170001_archive.torrent
-2018-02-15 00:00:03,923 INFO root Skipping archiveteam_archivebot_go_20180214170001_files.xml
-2018-02-15 00:00:03,924 INFO root Skipping archiveteam_archivebot_go_20180214170001_meta.sqlite
-2018-02-15 00:00:03,924 INFO root Skipping archiveteam_archivebot_go_20180214170001_meta.xml
-2018-02-15 00:00:03,924 INFO root Writing last-update file
-2018-02-15 00:00:03,924 INFO root Done
+2018-02-15 06:00:01,584 DEBU root Last attempt: 2018-02-15T00:00:01Z
+2018-02-15 06:00:01,585 DEBU root Last success: 2018-02-15T00:00:01Z
+2018-02-15 06:00:01,585 INFO root Writing last-update file
+2018-02-15 06:00:01,585 INFO root Query: 'collection:archivebot oai_updatedate:[2018-02-15T00:00:01Z TO null]'
+2018-02-15 06:00:03,291 INFO root Processing item archiveteam_archivebot_go_20180214120001
+2018-02-15 06:00:03,294 INFO root Skipping archiveteam_archivebot_go_20180214120001.cdx.idx
+2018-02-15 06:00:03,294 INFO root Skipping archiveteam_archivebot_go_20180214120001_archive.torrent
+2018-02-15 06:00:03,294 INFO root Skipping archiveteam_archivebot_go_20180214120001_files.xml
+2018-02-15 06:00:03,294 INFO root Skipping archiveteam_archivebot_go_20180214120001_meta.sqlite
+2018-02-15 06:00:03,295 INFO root Skipping archiveteam_archivebot_go_20180214120001_meta.xml
+2018-02-15 06:00:03,848 INFO root Processing item archiveteam_archivebot_go_20180214170001
+2018-02-15 06:00:03,848 INFO root Skipping archiveteam_archivebot_go_20180214170001_archive.torrent
+2018-02-15 06:00:03,848 INFO root Skipping archiveteam_archivebot_go_20180214170001_files.xml
+2018-02-15 06:00:03,848 INFO root Skipping archiveteam_archivebot_go_20180214170001_meta.sqlite
+2018-02-15 06:00:03,848 INFO root Skipping archiveteam_archivebot_go_20180214170001_meta.xml
+2018-02-15 06:00:03,849 ERRO root Size of norberthaering.de-inf-20180214-102345-cys0x-00000.warc.os.cdx.gz is missing
+2018-02-15 06:00:03,849 ERRO root Mtime of norberthaering.de-inf-20180214-102345-cys0x-00000.warc.os.cdx.gz is missing
+2018-02-15 06:00:03,849 ERRO root Size of urls-gist.githubusercontent.com-oddshot.txt-inf-20180214-091046-2xnnb-00000.warc.os.cdx.gz is missing
+2018-02-15 06:00:03,849 ERRO root Mtime of urls-gist.githubusercontent.com-oddshot.txt-inf-20180214-091046-2xnnb-00000.warc.os.cdx.gz is missing
+2018-02-15 06:00:03,849 ERRO root Size of urls-gist.githubusercontent.com-oddshot.txt-inf-20180214-091046-2xnnb-00001.warc.os.cdx.gz is missing
+2018-02-15 06:00:03,849 ERRO root Mtime of urls-gist.githubusercontent.com-oddshot.txt-inf-20180214-091046-2xnnb-00001.warc.os.cdx.gz is missing
+2018-02-15 06:00:03,849 ERRO root Size of urls-gist.githubusercontent.com-oddshot.txt-inf-20180214-091046-2xnnb-00002.warc.os.cdx.gz is missing
+2018-02-15 06:00:03,849 ERRO root Mtime of urls-gist.githubusercontent.com-oddshot.txt-inf-20180214-091046-2xnnb-00002.warc.os.cdx.gz is missing
+2018-02-15 06:00:03,849 ERRO root Size of urls-gist.githubusercontent.com-oddshot.txt-inf-20180214-091046-2xnnb-00003.warc.os.cdx.gz is missing
+2018-02-15 06:00:03,849 ERRO root Mtime of urls-gist.githubusercontent.com-oddshot.txt-inf-20180214-091046-2xnnb-00003.warc.os.cdx.gz is missing
+2018-02-15 06:00:03,850 ERRO root Size of urls-gist.githubusercontent.com-oddshot.txt-inf-20180214-091046-2xnnb-00014.warc.os.cdx.gz is missing
+2018-02-15 06:00:03,850 ERRO root Mtime of urls-gist.githubusercontent.com-oddshot.txt-inf-20180214-091046-2xnnb-00014.warc.os.cdx.gz is missing
+2018-02-15 06:00:04,117 INFO root Processing item archiveteam_archivebot_go_20180215040001
+2018-02-15 06:00:04,117 INFO root Skipping archiveteam_archivebot_go_20180215040001_files.xml
+2018-02-15 06:00:04,118 INFO root Skipping archiveteam_archivebot_go_20180215040001_meta.sqlite
+2018-02-15 06:00:04,118 INFO root Skipping archiveteam_archivebot_go_20180215040001_meta.xml
+2018-02-15 06:00:04,118 INFO root Writing last-update file
+2018-02-15 06:00:04,119 INFO root Done
