@@ -1,22 +1,40 @@
-2018-02-18 00:00:01,964 DEBU root Last attempt: 2018-02-17T18:00:01Z
-2018-02-18 00:00:01,964 DEBU root Last success: 2018-02-17T18:00:01Z
-2018-02-18 00:00:01,965 INFO root Writing last-update file
-2018-02-18 00:00:01,965 INFO root Query: 'collection:archivebot oai_updatedate:[2018-02-17T18:00:01Z TO null]'
-2018-02-18 00:00:02,858 INFO root Processing item archiveteam_archivebot_go_20180217180001
-2018-02-18 00:00:02,858 INFO root Skipping archiveteam_archivebot_go_20180217180001_archive.torrent
-2018-02-18 00:00:02,859 INFO root Skipping archiveteam_archivebot_go_20180217180001_files.xml
-2018-02-18 00:00:02,859 INFO root Skipping archiveteam_archivebot_go_20180217180001_meta.sqlite
-2018-02-18 00:00:02,859 INFO root Skipping archiveteam_archivebot_go_20180217180001_meta.xml
-2018-02-18 00:00:03,255 INFO root Processing item archiveteam_archivebot_go_20180217230001
-2018-02-18 00:00:03,256 INFO root Skipping archiveteam_archivebot_go_20180217230001_archive.torrent
-2018-02-18 00:00:03,256 INFO root Skipping archiveteam_archivebot_go_20180217230001_files.xml
-2018-02-18 00:00:03,256 INFO root Skipping archiveteam_archivebot_go_20180217230001_meta.sqlite
-2018-02-18 00:00:03,256 INFO root Skipping archiveteam_archivebot_go_20180217230001_meta.xml
-2018-02-18 00:00:03,572 INFO root Processing item astrid_archivebot_forum_giga_de_20170928
-2018-02-18 00:00:03,572 INFO root Skipping astrid_archivebot_forum_giga_de_20170928.cdx.idx
-2018-02-18 00:00:03,572 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_archive.torrent
-2018-02-18 00:00:03,572 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_files.xml
-2018-02-18 00:00:03,572 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.sqlite
-2018-02-18 00:00:03,572 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.xml
-2018-02-18 00:00:03,576 INFO root Writing last-update file
-2018-02-18 00:00:03,576 INFO root Done
+2018-02-18 06:00:01,232 DEBU root Last attempt: 2018-02-18T00:00:01Z
+2018-02-18 06:00:01,233 DEBU root Last success: 2018-02-18T00:00:01Z
+2018-02-18 06:00:01,233 INFO root Writing last-update file
+2018-02-18 06:00:01,233 INFO root Query: 'collection:archivebot oai_updatedate:[2018-02-18T00:00:01Z TO null]'
+2018-02-18 06:00:02,202 INFO root Processing item archiveteam_archivebot_go_20180217180001
+2018-02-18 06:00:02,203 ERRO root Size of archive.umich.edu-shallow-20180216-221018-7v689-00000.warc.os.cdx.gz is missing
+2018-02-18 06:00:02,203 ERRO root Mtime of archive.umich.edu-shallow-20180216-221018-7v689-00000.warc.os.cdx.gz is missing
+2018-02-18 06:00:02,203 INFO root Skipping archiveteam_archivebot_go_20180217180001_archive.torrent
+2018-02-18 06:00:02,203 INFO root Skipping archiveteam_archivebot_go_20180217180001_files.xml
+2018-02-18 06:00:02,203 INFO root Skipping archiveteam_archivebot_go_20180217180001_meta.sqlite
+2018-02-18 06:00:02,203 INFO root Skipping archiveteam_archivebot_go_20180217180001_meta.xml
+2018-02-18 06:00:02,203 ERRO root Size of causticsodapodcast.com-inf-20180217-120028-2hmvs-meta.warc.os.cdx.gz is missing
+2018-02-18 06:00:02,203 ERRO root Mtime of causticsodapodcast.com-inf-20180217-120028-2hmvs-meta.warc.os.cdx.gz is missing
+2018-02-18 06:00:02,203 ERRO root Size of storify.com-inf-20180102-161517-3nozf-00071.warc.os.cdx.gz is missing
+2018-02-18 06:00:02,203 ERRO root Mtime of storify.com-inf-20180102-161517-3nozf-00071.warc.os.cdx.gz is missing
+2018-02-18 06:00:02,204 ERRO root Size of webcache.googleusercontent.com-shallow-20180217-103942-4av6a-00000.warc.os.cdx.gz is missing
+2018-02-18 06:00:02,204 ERRO root Mtime of webcache.googleusercontent.com-shallow-20180217-103942-4av6a-00000.warc.os.cdx.gz is missing
+2018-02-18 06:00:02,639 INFO root Processing item archiveteam_archivebot_go_20180217230001
+2018-02-18 06:00:02,640 ERRO root Size of alternativeeconomics.co-shallow-20180217-192529-5m75t-00000.warc.os.cdx.gz is missing
+2018-02-18 06:00:02,640 ERRO root Mtime of alternativeeconomics.co-shallow-20180217-192529-5m75t-00000.warc.os.cdx.gz is missing
+2018-02-18 06:00:02,640 ERRO root Size of alternativeeconomics.co-shallow-20180217-193749-1zfp0-00000.warc.os.cdx.gz is missing
+2018-02-18 06:00:02,640 ERRO root Mtime of alternativeeconomics.co-shallow-20180217-193749-1zfp0-00000.warc.os.cdx.gz is missing
+2018-02-18 06:00:02,640 ERRO root Size of alternativeeconomics.co-shallow-20180217-193749-1zfp0-meta.warc.os.cdx.gz is missing
+2018-02-18 06:00:02,640 ERRO root Mtime of alternativeeconomics.co-shallow-20180217-193749-1zfp0-meta.warc.os.cdx.gz is missing
+2018-02-18 06:00:02,641 INFO root Skipping archiveteam_archivebot_go_20180217230001_archive.torrent
+2018-02-18 06:00:02,641 INFO root Skipping archiveteam_archivebot_go_20180217230001_files.xml
+2018-02-18 06:00:02,641 INFO root Skipping archiveteam_archivebot_go_20180217230001_meta.sqlite
+2018-02-18 06:00:02,641 INFO root Skipping archiveteam_archivebot_go_20180217230001_meta.xml
+2018-02-18 06:00:02,641 ERRO root Size of forums.freebsd.org-inf-20180216-122249-ctf7z-00003.warc.os.cdx.gz is missing
+2018-02-18 06:00:02,641 ERRO root Mtime of forums.freebsd.org-inf-20180216-122249-ctf7z-00003.warc.os.cdx.gz is missing
+2018-02-18 06:00:02,643 ERRO root Size of plus.google.com-shallow-20180217-194921-b2hbs-00000.warc.os.cdx.gz is missing
+2018-02-18 06:00:02,643 ERRO root Mtime of plus.google.com-shallow-20180217-194921-b2hbs-00000.warc.os.cdx.gz is missing
+2018-02-18 06:00:02,643 ERRO root Size of plus.google.com-shallow-20180217-194921-b2hbs-meta.warc.os.cdx.gz is missing
+2018-02-18 06:00:02,643 ERRO root Mtime of plus.google.com-shallow-20180217-194921-b2hbs-meta.warc.os.cdx.gz is missing
+2018-02-18 06:00:02,644 ERRO root Size of rhizome.org-inf-20180209-075816-660rz-00037.warc.os.cdx.gz is missing
+2018-02-18 06:00:02,644 ERRO root Mtime of rhizome.org-inf-20180209-075816-660rz-00037.warc.os.cdx.gz is missing
+2018-02-18 06:00:02,644 ERRO root Size of urls-player.fm-Prank-Call.txt-shallow-20180217-192217-39afm-00000.warc.os.cdx.gz is missing
+2018-02-18 06:00:02,644 ERRO root Mtime of urls-player.fm-Prank-Call.txt-shallow-20180217-192217-39afm-00000.warc.os.cdx.gz is missing
+2018-02-18 06:00:02,645 INFO root Writing last-update file
+2018-02-18 06:00:02,645 INFO root Done
