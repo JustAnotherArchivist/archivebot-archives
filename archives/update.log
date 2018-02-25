@@ -1,82 +1,18 @@
-2018-02-25 12:00:02,098 DEBU root Last attempt: 2018-02-25T06:00:02Z
-2018-02-25 12:00:02,099 DEBU root Last success: 2018-02-25T06:00:02Z
-2018-02-25 12:00:02,099 INFO root Writing last-update file
-2018-02-25 12:00:02,099 INFO root Query: 'collection:archivebot oai_updatedate:[2018-02-25T06:00:02Z TO null]'
-2018-02-25 12:00:03,917 INFO root Processing item archiveteam_archivebot_go_20180225000001
-2018-02-25 12:00:03,918 ERRO root Size of 46.166.187.105-shallow-20180224-191433-6pgzg-00000.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,918 ERRO root Mtime of 46.166.187.105-shallow-20180224-191433-6pgzg-00000.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,918 ERRO root Size of 46.166.187.105-shallow-20180224-191433-6pgzg-meta.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,918 ERRO root Mtime of 46.166.187.105-shallow-20180224-191433-6pgzg-meta.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,918 ERRO root Size of 46.166.187.105-shallow-20180224-191714-7ppsx-00000.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,918 ERRO root Mtime of 46.166.187.105-shallow-20180224-191714-7ppsx-00000.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,918 ERRO root Size of 46.166.187.105-shallow-20180224-191714-7ppsx-meta.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,918 ERRO root Mtime of 46.166.187.105-shallow-20180224-191714-7ppsx-meta.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,918 ERRO root Size of 46.166.187.105-shallow-20180224-191835-djg5y-00000.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,918 ERRO root Mtime of 46.166.187.105-shallow-20180224-191835-djg5y-00000.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,919 ERRO root Size of 46.166.187.105-shallow-20180224-191835-djg5y-meta.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,919 ERRO root Mtime of 46.166.187.105-shallow-20180224-191835-djg5y-meta.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,919 INFO root Skipping archiveteam_archivebot_go_20180225000001_archive.torrent
-2018-02-25 12:00:03,919 INFO root Skipping archiveteam_archivebot_go_20180225000001_files.xml
-2018-02-25 12:00:03,919 INFO root Skipping archiveteam_archivebot_go_20180225000001_meta.sqlite
-2018-02-25 12:00:03,919 INFO root Skipping archiveteam_archivebot_go_20180225000001_meta.xml
-2018-02-25 12:00:03,919 ERRO root Size of community.sony.com-inf-20180210-073512-3chu5-00014.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,919 ERRO root Mtime of community.sony.com-inf-20180210-073512-3chu5-00014.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,919 ERRO root Size of djbooth.net-inf-20180222-003609-dh8j8-00009.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,919 ERRO root Mtime of djbooth.net-inf-20180222-003609-dh8j8-00009.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,920 ERRO root Size of djbooth.net-inf-20180222-003609-dh8j8-00010.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,920 ERRO root Mtime of djbooth.net-inf-20180222-003609-dh8j8-00010.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,920 ERRO root Size of gothamist.com-inf-20180224-074728-es4w5-00000.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,920 ERRO root Mtime of gothamist.com-inf-20180224-074728-es4w5-00000.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,920 ERRO root Size of gothamist.com-inf-20180224-074728-es4w5-00001.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,920 ERRO root Mtime of gothamist.com-inf-20180224-074728-es4w5-00001.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,920 ERRO root Size of kellyinthecity.com-inf-20180223-131339-e5fie-00010.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,920 ERRO root Mtime of kellyinthecity.com-inf-20180223-131339-e5fie-00010.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,920 ERRO root Size of kellyinthecity.com-inf-20180223-131339-e5fie-00011.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,920 ERRO root Mtime of kellyinthecity.com-inf-20180223-131339-e5fie-00011.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,921 ERRO root Size of storify.com-inf-20180102-161517-3nozf-00091.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,921 ERRO root Mtime of storify.com-inf-20180102-161517-3nozf-00091.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,921 ERRO root Size of thegenerationwhypodcast.com-inf-20180224-222531-1q25c-00000.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,921 ERRO root Mtime of thegenerationwhypodcast.com-inf-20180224-222531-1q25c-00000.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,921 ERRO root Size of thegenerationwhypodcast.com-inf-20180224-222531-1q25c-00001.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,921 ERRO root Mtime of thegenerationwhypodcast.com-inf-20180224-222531-1q25c-00001.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,921 ERRO root Size of thegenerationwhypodcast.com-inf-20180224-222531-1q25c-meta.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,921 ERRO root Mtime of thegenerationwhypodcast.com-inf-20180224-222531-1q25c-meta.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,921 ERRO root Size of thinkingsidewayspodcast.com-inf-20180224-181759-8xnnb-00000.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,921 ERRO root Mtime of thinkingsidewayspodcast.com-inf-20180224-181759-8xnnb-00000.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,922 ERRO root Size of thinkingsidewayspodcast.com-inf-20180224-181759-8xnnb-00001.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,922 ERRO root Mtime of thinkingsidewayspodcast.com-inf-20180224-181759-8xnnb-00001.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,922 ERRO root Size of thinkingsidewayspodcast.com-inf-20180224-181759-8xnnb-meta.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,922 ERRO root Mtime of thinkingsidewayspodcast.com-inf-20180224-181759-8xnnb-meta.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,922 ERRO root Size of urls-pastebin.com-TsRSf7PA-inf-20180105-103151-a5l5n-00099.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,922 ERRO root Mtime of urls-pastebin.com-TsRSf7PA-inf-20180105-103151-a5l5n-00099.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,922 ERRO root Size of us.battle.net-inf-20180219-175710-46u07-00014.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,922 ERRO root Mtime of us.battle.net-inf-20180219-175710-46u07-00014.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,923 ERRO root Size of www.jewelsdujour.com-inf-20180223-223553-dkbdu-00003.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,923 ERRO root Mtime of www.jewelsdujour.com-inf-20180223-223553-dkbdu-00003.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,923 ERRO root Size of www.purseblog.com-inf-20180221-014909-cl5dd-00013.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,923 ERRO root Mtime of www.purseblog.com-inf-20180221-014909-cl5dd-00013.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,923 ERRO root Size of www.radionz.co.nz-inf-20180205-004300-77xzc-00552.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,923 ERRO root Mtime of www.radionz.co.nz-inf-20180205-004300-77xzc-00552.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,923 ERRO root Size of www.radionz.co.nz-inf-20180205-004300-77xzc-00553.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,923 ERRO root Mtime of www.radionz.co.nz-inf-20180205-004300-77xzc-00553.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,923 ERRO root Size of www.radionz.co.nz-inf-20180205-004300-77xzc-00554.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,923 ERRO root Mtime of www.radionz.co.nz-inf-20180205-004300-77xzc-00554.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,923 ERRO root Size of www.radionz.co.nz-inf-20180205-004300-77xzc-00555.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,923 ERRO root Mtime of www.radionz.co.nz-inf-20180205-004300-77xzc-00555.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,924 ERRO root Size of www.radionz.co.nz-inf-20180205-004300-77xzc-00556.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,924 ERRO root Mtime of www.radionz.co.nz-inf-20180205-004300-77xzc-00556.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,924 ERRO root Size of www.radionz.co.nz-inf-20180205-004300-77xzc-00557.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,924 ERRO root Mtime of www.radionz.co.nz-inf-20180205-004300-77xzc-00557.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,924 ERRO root Size of www.radionz.co.nz-inf-20180205-004300-77xzc-00558.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,924 ERRO root Mtime of www.radionz.co.nz-inf-20180205-004300-77xzc-00558.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,924 ERRO root Size of www.radionz.co.nz-inf-20180205-004300-77xzc-00559.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,924 ERRO root Mtime of www.radionz.co.nz-inf-20180205-004300-77xzc-00559.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,924 ERRO root Size of www.radionz.co.nz-inf-20180205-004300-77xzc-00560.warc.os.cdx.gz is missing
-2018-02-25 12:00:03,924 ERRO root Mtime of www.radionz.co.nz-inf-20180205-004300-77xzc-00560.warc.os.cdx.gz is missing
-2018-02-25 12:00:04,305 INFO root Processing item archiveteam_archivebot_go_20180225070002
-2018-02-25 12:00:04,306 INFO root Skipping archiveteam_archivebot_go_20180225070002_archive.torrent
-2018-02-25 12:00:04,306 INFO root Skipping archiveteam_archivebot_go_20180225070002_files.xml
-2018-02-25 12:00:04,306 INFO root Skipping archiveteam_archivebot_go_20180225070002_meta.sqlite
-2018-02-25 12:00:04,306 INFO root Skipping archiveteam_archivebot_go_20180225070002_meta.xml
-2018-02-25 12:00:04,307 INFO root Writing last-update file
-2018-02-25 12:00:04,307 INFO root Done
+2018-02-25 18:00:01,459 DEBU root Last attempt: 2018-02-25T12:00:02Z
+2018-02-25 18:00:01,459 DEBU root Last success: 2018-02-25T12:00:02Z
+2018-02-25 18:00:01,459 INFO root Writing last-update file
+2018-02-25 18:00:01,460 INFO root Query: 'collection:archivebot oai_updatedate:[2018-02-25T12:00:02Z TO null]'
+2018-02-25 18:00:02,167 INFO root Processing item archiveteam_archivebot_go_20180225000001
+2018-02-25 18:00:02,168 INFO root Skipping archiveteam_archivebot_go_20180225000001.cdx.idx
+2018-02-25 18:00:02,168 INFO root Skipping archiveteam_archivebot_go_20180225000001_archive.torrent
+2018-02-25 18:00:02,168 INFO root Skipping archiveteam_archivebot_go_20180225000001_files.xml
+2018-02-25 18:00:02,168 INFO root Skipping archiveteam_archivebot_go_20180225000001_meta.sqlite
+2018-02-25 18:00:02,169 INFO root Skipping archiveteam_archivebot_go_20180225000001_meta.xml
+2018-02-25 18:00:02,634 INFO root Processing item archiveteam_archivebot_go_20180225070002
+2018-02-25 18:00:02,635 INFO root Skipping archiveteam_archivebot_go_20180225070002.cdx.idx
+2018-02-25 18:00:02,635 INFO root Skipping archiveteam_archivebot_go_20180225070002_archive.torrent
+2018-02-25 18:00:02,635 INFO root Skipping archiveteam_archivebot_go_20180225070002_files.xml
+2018-02-25 18:00:02,635 INFO root Skipping archiveteam_archivebot_go_20180225070002_meta.sqlite
+2018-02-25 18:00:02,635 INFO root Skipping archiveteam_archivebot_go_20180225070002_meta.xml
+2018-02-25 18:00:02,636 INFO root Writing last-update file
+2018-02-25 18:00:02,636 INFO root Done
