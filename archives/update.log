@@ -1,17 +1,54 @@
-2018-02-26 12:00:01,365 DEBU root Last attempt: 2018-02-26T06:00:01Z
-2018-02-26 12:00:01,365 DEBU root Last success: 2018-02-26T06:00:01Z
-2018-02-26 12:00:01,366 INFO root Writing last-update file
-2018-02-26 12:00:01,366 INFO root Query: 'collection:archivebot oai_updatedate:[2018-02-26T06:00:01Z TO null]'
-2018-02-26 12:00:02,122 INFO root Processing item archiveteam_archivebot_go_20180225190001
-2018-02-26 12:00:02,122 INFO root Skipping archiveteam_archivebot_go_20180225190001.cdx.idx
-2018-02-26 12:00:02,122 INFO root Skipping archiveteam_archivebot_go_20180225190001_archive.torrent
-2018-02-26 12:00:02,123 INFO root Skipping archiveteam_archivebot_go_20180225190001_files.xml
-2018-02-26 12:00:02,123 INFO root Skipping archiveteam_archivebot_go_20180225190001_meta.sqlite
-2018-02-26 12:00:02,123 INFO root Skipping archiveteam_archivebot_go_20180225190001_meta.xml
-2018-02-26 12:00:02,364 INFO root Processing item archiveteam_archivebot_go_20180226050001
-2018-02-26 12:00:02,365 INFO root Skipping archiveteam_archivebot_go_20180226050001_archive.torrent
-2018-02-26 12:00:02,365 INFO root Skipping archiveteam_archivebot_go_20180226050001_files.xml
-2018-02-26 12:00:02,365 INFO root Skipping archiveteam_archivebot_go_20180226050001_meta.sqlite
-2018-02-26 12:00:02,365 INFO root Skipping archiveteam_archivebot_go_20180226050001_meta.xml
-2018-02-26 12:00:02,366 INFO root Writing last-update file
-2018-02-26 12:00:02,366 INFO root Done
+2018-02-26 18:00:02,024 DEBU root Last attempt: 2018-02-26T12:00:01Z
+2018-02-26 18:00:02,024 DEBU root Last success: 2018-02-26T12:00:01Z
+2018-02-26 18:00:02,024 INFO root Writing last-update file
+2018-02-26 18:00:02,025 INFO root Query: 'collection:archivebot oai_updatedate:[2018-02-26T12:00:01Z TO null]'
+2018-02-26 18:00:04,338 INFO root Processing item archiveteam_archivebot_go_20180226050001
+2018-02-26 18:00:04,339 INFO root Skipping archiveteam_archivebot_go_20180226050001_archive.torrent
+2018-02-26 18:00:04,339 INFO root Skipping archiveteam_archivebot_go_20180226050001_files.xml
+2018-02-26 18:00:04,339 INFO root Skipping archiveteam_archivebot_go_20180226050001_meta.sqlite
+2018-02-26 18:00:04,339 INFO root Skipping archiveteam_archivebot_go_20180226050001_meta.xml
+2018-02-26 18:00:04,339 ERRO root Size of blog.redrield.com-inf-20180226-011520-4nlib-00000.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,339 ERRO root Mtime of blog.redrield.com-inf-20180226-011520-4nlib-00000.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,340 ERRO root Size of forums.lostmediawiki.com-shallow-20180225-201857-9j996-00000.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,340 ERRO root Mtime of forums.lostmediawiki.com-shallow-20180225-201857-9j996-00000.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,340 ERRO root Size of forums.lostmediawiki.com-shallow-20180225-201857-9j996-meta.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,340 ERRO root Mtime of forums.lostmediawiki.com-shallow-20180225-201857-9j996-meta.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,340 ERRO root Size of gemgossip.com-inf-20180222-172333-9hmvu-00004.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,340 ERRO root Mtime of gemgossip.com-inf-20180222-172333-9hmvu-00004.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,340 ERRO root Size of gothamist.com-inf-20180224-074728-es4w5-00005.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,340 ERRO root Mtime of gothamist.com-inf-20180224-074728-es4w5-00005.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,340 ERRO root Size of gothamist.com-inf-20180224-074728-es4w5-00006.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,340 ERRO root Mtime of gothamist.com-inf-20180224-074728-es4w5-00006.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,341 ERRO root Size of gothamist.com-inf-20180224-074728-es4w5-00007.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,341 ERRO root Mtime of gothamist.com-inf-20180224-074728-es4w5-00007.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,341 ERRO root Size of madgenderscience.wiki-inf-20180226-031720-8swr5-00000.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,341 ERRO root Mtime of madgenderscience.wiki-inf-20180226-031720-8swr5-00000.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,341 ERRO root Size of madgenderscience.wiki-inf-20180226-031720-8swr5-meta.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,341 ERRO root Mtime of madgenderscience.wiki-inf-20180226-031720-8swr5-meta.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,341 ERRO root Size of meta.miraheze.org-shallow-20180226-045530-cdafh-00000.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,341 ERRO root Mtime of meta.miraheze.org-shallow-20180226-045530-cdafh-00000.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,341 ERRO root Size of meta.miraheze.org-shallow-20180226-045530-cdafh-meta.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,341 ERRO root Mtime of meta.miraheze.org-shallow-20180226-045530-cdafh-meta.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,342 ERRO root Size of nautilus.fis.uc.pt-inf-20180226-015103-9a2o9-00000.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,342 ERRO root Mtime of nautilus.fis.uc.pt-inf-20180226-015103-9a2o9-00000.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,342 ERRO root Size of nautilus.fis.uc.pt-inf-20180226-015103-9a2o9-meta.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,342 ERRO root Mtime of nautilus.fis.uc.pt-inf-20180226-015103-9a2o9-meta.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,342 ERRO root Size of spectrumnews.org-shallow-20180226-004447-r9lob-00000.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,342 ERRO root Mtime of spectrumnews.org-shallow-20180226-004447-r9lob-00000.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,342 ERRO root Size of spectrumnews.org-shallow-20180226-004447-r9lob-meta.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,342 ERRO root Mtime of spectrumnews.org-shallow-20180226-004447-r9lob-meta.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,342 ERRO root Size of storify.com-inf-20180102-161517-3nozf-00093.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,342 ERRO root Mtime of storify.com-inf-20180102-161517-3nozf-00093.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,343 ERRO root Size of tribunist.com-shallow-20180225-225607-2lj6w-00000.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,343 ERRO root Mtime of tribunist.com-shallow-20180225-225607-2lj6w-00000.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,343 ERRO root Size of tribunist.com-shallow-20180225-225607-2lj6w-meta.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,343 ERRO root Mtime of tribunist.com-shallow-20180225-225607-2lj6w-meta.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,343 ERRO root Size of us.battle.net-inf-20180219-175710-46u07-00017.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,343 ERRO root Mtime of us.battle.net-inf-20180219-175710-46u07-00017.warc.os.cdx.gz is missing
+2018-02-26 18:00:04,511 INFO root Processing item archiveteam_archivebot_go_20180226150001
+2018-02-26 18:00:04,511 INFO root Skipping archiveteam_archivebot_go_20180226150001_archive.torrent
+2018-02-26 18:00:04,511 INFO root Skipping archiveteam_archivebot_go_20180226150001_files.xml
+2018-02-26 18:00:04,511 INFO root Skipping archiveteam_archivebot_go_20180226150001_meta.sqlite
+2018-02-26 18:00:04,511 INFO root Skipping archiveteam_archivebot_go_20180226150001_meta.xml
+2018-02-26 18:00:04,512 INFO root Writing last-update file
+2018-02-26 18:00:04,513 INFO root Done
