@@ -1,77 +1,17 @@
-2018-02-28 06:00:02,312 DEBU root Last attempt: 2018-02-28T00:00:01Z
-2018-02-28 06:00:02,313 DEBU root Last success: 2018-02-28T00:00:01Z
-2018-02-28 06:00:02,313 INFO root Writing last-update file
-2018-02-28 06:00:02,313 INFO root Query: 'collection:archivebot oai_updatedate:[2018-02-28T00:00:01Z TO null]'
-2018-02-28 06:00:03,343 INFO root Processing item archiveteam_archivebot_go_20180227210002
-2018-02-28 06:00:03,344 INFO root Skipping archiveteam_archivebot_go_20180227210002_archive.torrent
-2018-02-28 06:00:03,344 INFO root Skipping archiveteam_archivebot_go_20180227210002_files.xml
-2018-02-28 06:00:03,344 INFO root Skipping archiveteam_archivebot_go_20180227210002_meta.sqlite
-2018-02-28 06:00:03,344 INFO root Skipping archiveteam_archivebot_go_20180227210002_meta.xml
-2018-02-28 06:00:03,344 ERRO root Size of blog.talosintelligence.com-shallow-20180227-152407-3l8l7-00000.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,344 ERRO root Mtime of blog.talosintelligence.com-shallow-20180227-152407-3l8l7-00000.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,345 ERRO root Size of blog.talosintelligence.com-shallow-20180227-152407-3l8l7-meta.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,345 ERRO root Mtime of blog.talosintelligence.com-shallow-20180227-152407-3l8l7-meta.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,345 ERRO root Size of closed.pizza-shallow-20180227-105215-5ydy6-00000.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,345 ERRO root Mtime of closed.pizza-shallow-20180227-105215-5ydy6-00000.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,345 ERRO root Size of closed.pizza-shallow-20180227-105215-5ydy6-meta.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,345 ERRO root Mtime of closed.pizza-shallow-20180227-105215-5ydy6-meta.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,345 ERRO root Size of djbooth.net-inf-20180222-003609-dh8j8-00018.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,345 ERRO root Mtime of djbooth.net-inf-20180222-003609-dh8j8-00018.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,345 ERRO root Size of djbooth.net-inf-20180222-003609-dh8j8-00021.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,346 ERRO root Mtime of djbooth.net-inf-20180222-003609-dh8j8-00021.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,346 ERRO root Size of forum.parkinson.org-inf-20180222-072840-1h3km-00004.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,346 ERRO root Mtime of forum.parkinson.org-inf-20180222-072840-1h3km-00004.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,346 ERRO root Size of forum.parkinson.org-inf-20180222-072840-1h3km-00005.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,346 ERRO root Mtime of forum.parkinson.org-inf-20180222-072840-1h3km-00005.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,346 ERRO root Size of match3.simplecast.fm-inf-20180227-143529-eer3x-00000.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,346 ERRO root Mtime of match3.simplecast.fm-inf-20180227-143529-eer3x-00000.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,346 ERRO root Size of match3.simplecast.fm-inf-20180227-143529-eer3x-00001.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,346 ERRO root Mtime of match3.simplecast.fm-inf-20180227-143529-eer3x-00001.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,347 ERRO root Size of match3.simplecast.fm-inf-20180227-143529-eer3x-meta.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,347 ERRO root Mtime of match3.simplecast.fm-inf-20180227-143529-eer3x-meta.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,347 ERRO root Size of newsroom.porsche.com-shallow-20180227-162637-b423x-00000.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,347 ERRO root Mtime of newsroom.porsche.com-shallow-20180227-162637-b423x-00000.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,347 ERRO root Size of newsroom.porsche.com-shallow-20180227-162637-b423x-meta.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,347 ERRO root Mtime of newsroom.porsche.com-shallow-20180227-162637-b423x-meta.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,347 ERRO root Size of sirinlabs.com-inf-20180227-191329-a288s-00000.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,347 ERRO root Mtime of sirinlabs.com-inf-20180227-191329-a288s-00000.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,348 ERRO root Size of sirinlabs.com-inf-20180227-191329-a288s-meta.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,348 ERRO root Mtime of sirinlabs.com-inf-20180227-191329-a288s-meta.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,348 ERRO root Size of storify.com-inf-20180102-161517-3nozf-00096.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,348 ERRO root Mtime of storify.com-inf-20180102-161517-3nozf-00096.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,348 ERRO root Size of twitter.com-shallow-20180227-191234-1q61o-00000.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,348 ERRO root Mtime of twitter.com-shallow-20180227-191234-1q61o-00000.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,348 ERRO root Size of twitter.com-shallow-20180227-191234-1q61o-meta.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,348 ERRO root Mtime of twitter.com-shallow-20180227-191234-1q61o-meta.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,349 ERRO root Size of twitter.com-shallow-20180227-194322-yrce9-00000.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,349 ERRO root Mtime of twitter.com-shallow-20180227-194322-yrce9-00000.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,349 ERRO root Size of twitter.com-shallow-20180227-194322-yrce9-meta.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,349 ERRO root Mtime of twitter.com-shallow-20180227-194322-yrce9-meta.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,349 ERRO root Size of urls-gist.githubusercontent.com-firstinspires.org.txt-shallow-20180227-092839-c8m99-00000.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,349 ERRO root Mtime of urls-gist.githubusercontent.com-firstinspires.org.txt-shallow-20180227-092839-c8m99-00000.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,349 ERRO root Size of urls-gist.githubusercontent.com-firstinspires.org.txt-shallow-20180227-092839-c8m99-meta.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,349 ERRO root Mtime of urls-gist.githubusercontent.com-firstinspires.org.txt-shallow-20180227-092839-c8m99-meta.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,350 ERRO root Size of urls-pastebin.com-gYZ4MqxC-inf-20180227-154741-cnsot-00000.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,350 ERRO root Mtime of urls-pastebin.com-gYZ4MqxC-inf-20180227-154741-cnsot-00000.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,350 ERRO root Size of urls-pastebin.com-gYZ4MqxC-inf-20180227-154741-cnsot-meta.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,350 ERRO root Mtime of urls-pastebin.com-gYZ4MqxC-inf-20180227-154741-cnsot-meta.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,350 ERRO root Size of us.battle.net-inf-20180219-175710-46u07-00022.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,350 ERRO root Mtime of us.battle.net-inf-20180219-175710-46u07-00022.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,350 ERRO root Size of www.elance.com-inf-20180212-085330-58k0a-00004.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,350 ERRO root Mtime of www.elance.com-inf-20180212-085330-58k0a-00004.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,350 ERRO root Size of www.maplin.co.uk-inf-20180227-081858-27coa-00000.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,351 ERRO root Mtime of www.maplin.co.uk-inf-20180227-081858-27coa-00000.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,351 ERRO root Size of www.maplin.co.uk-inf-20180227-081858-27coa-meta.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,351 ERRO root Mtime of www.maplin.co.uk-inf-20180227-081858-27coa-meta.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,351 ERRO root Size of www.msdstrong.us-inf-20180227-154400-d9hw5-00000.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,351 ERRO root Mtime of www.msdstrong.us-inf-20180227-154400-d9hw5-00000.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,351 ERRO root Size of www.msdstrong.us-inf-20180227-154400-d9hw5-meta.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,351 ERRO root Mtime of www.msdstrong.us-inf-20180227-154400-d9hw5-meta.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,351 ERRO root Size of www.purseblog.com-inf-20180221-014909-cl5dd-00022.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,352 ERRO root Mtime of www.purseblog.com-inf-20180221-014909-cl5dd-00022.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,352 ERRO root Size of www.radionz.co.nz-inf-20180205-004300-77xzc-00649.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,352 ERRO root Mtime of www.radionz.co.nz-inf-20180205-004300-77xzc-00649.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,352 ERRO root Size of www.radionz.co.nz-inf-20180205-004300-77xzc-00663.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,352 ERRO root Mtime of www.radionz.co.nz-inf-20180205-004300-77xzc-00663.warc.os.cdx.gz is missing
-2018-02-28 06:00:03,353 INFO root Writing last-update file
-2018-02-28 06:00:03,353 INFO root Done
+2018-02-28 12:00:01,587 DEBU root Last attempt: 2018-02-28T06:00:02Z
+2018-02-28 12:00:01,587 DEBU root Last success: 2018-02-28T06:00:02Z
+2018-02-28 12:00:01,587 INFO root Writing last-update file
+2018-02-28 12:00:01,588 INFO root Query: 'collection:archivebot oai_updatedate:[2018-02-28T06:00:02Z TO null]'
+2018-02-28 12:00:02,443 INFO root Processing item archiveteam_archivebot_go_20180227210002
+2018-02-28 12:00:02,444 INFO root Skipping archiveteam_archivebot_go_20180227210002.cdx.idx
+2018-02-28 12:00:02,444 INFO root Skipping archiveteam_archivebot_go_20180227210002_archive.torrent
+2018-02-28 12:00:02,444 INFO root Skipping archiveteam_archivebot_go_20180227210002_files.xml
+2018-02-28 12:00:02,444 INFO root Skipping archiveteam_archivebot_go_20180227210002_meta.sqlite
+2018-02-28 12:00:02,444 INFO root Skipping archiveteam_archivebot_go_20180227210002_meta.xml
+2018-02-28 12:00:02,680 INFO root Processing item archiveteam_archivebot_go_20180228080001
+2018-02-28 12:00:02,680 INFO root Skipping archiveteam_archivebot_go_20180228080001_archive.torrent
+2018-02-28 12:00:02,680 INFO root Skipping archiveteam_archivebot_go_20180228080001_files.xml
+2018-02-28 12:00:02,681 INFO root Skipping archiveteam_archivebot_go_20180228080001_meta.sqlite
+2018-02-28 12:00:02,681 INFO root Skipping archiveteam_archivebot_go_20180228080001_meta.xml
+2018-02-28 12:00:02,682 INFO root Writing last-update file
+2018-02-28 12:00:02,682 INFO root Done
