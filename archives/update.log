@@ -1,23 +1,37 @@
-2018-03-08 06:00:02,188 DEBU root Last attempt: 2018-03-08T00:00:01Z
-2018-03-08 06:00:02,190 DEBU root Last success: 2018-03-08T00:00:01Z
-2018-03-08 06:00:02,190 INFO root Writing last-update file
-2018-03-08 06:00:02,191 INFO root Query: 'collection:archivebot oai_updatedate:[2018-03-08T00:00:01Z TO null]'
-2018-03-08 06:00:03,748 INFO root Processing item archiveteam_archivebot_go_20180307230002
-2018-03-08 06:00:03,748 INFO root Skipping archiveteam_archivebot_go_20180307230002_archive.torrent
-2018-03-08 06:00:03,748 INFO root Skipping archiveteam_archivebot_go_20180307230002_files.xml
-2018-03-08 06:00:03,749 INFO root Skipping archiveteam_archivebot_go_20180307230002_meta.sqlite
-2018-03-08 06:00:03,749 INFO root Skipping archiveteam_archivebot_go_20180307230002_meta.xml
-2018-03-08 06:00:04,142 INFO root Processing item astrid_archivebot_forum_giga_de_20170928
-2018-03-08 06:00:04,143 INFO root Skipping astrid_archivebot_forum_giga_de_20170928.cdx.idx
-2018-03-08 06:00:04,143 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_archive.torrent
-2018-03-08 06:00:04,143 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_files.xml
-2018-03-08 06:00:04,143 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.sqlite
-2018-03-08 06:00:04,143 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.xml
-2018-03-08 06:00:04,297 INFO root Processing item falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714
-2018-03-08 06:00:04,298 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714.cdx.idx
-2018-03-08 06:00:04,298 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_archive.torrent
-2018-03-08 06:00:04,298 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_files.xml
-2018-03-08 06:00:04,298 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_meta.sqlite
-2018-03-08 06:00:04,298 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_meta.xml
-2018-03-08 06:00:04,301 INFO root Writing last-update file
-2018-03-08 06:00:04,301 INFO root Done
+2018-03-08 12:00:02,030 DEBU root Last attempt: 2018-03-08T06:00:02Z
+2018-03-08 12:00:02,030 DEBU root Last success: 2018-03-08T06:00:02Z
+2018-03-08 12:00:02,030 INFO root Writing last-update file
+2018-03-08 12:00:02,031 INFO root Query: 'collection:archivebot oai_updatedate:[2018-03-08T06:00:02Z TO null]'
+2018-03-08 12:00:04,852 INFO root Processing item archiveteam_archivebot_go_20180306080001
+2018-03-08 12:00:04,852 INFO root Skipping archiveteam_archivebot_go_20180306080001.cdx.idx
+2018-03-08 12:00:04,853 INFO root Skipping archiveteam_archivebot_go_20180306080001_archive.torrent
+2018-03-08 12:00:04,853 INFO root Skipping archiveteam_archivebot_go_20180306080001_files.xml
+2018-03-08 12:00:04,853 INFO root Skipping archiveteam_archivebot_go_20180306080001_meta.sqlite
+2018-03-08 12:00:04,853 INFO root Skipping archiveteam_archivebot_go_20180306080001_meta.xml
+2018-03-08 12:00:05,048 INFO root Processing item archiveteam_archivebot_go_20180306230001
+2018-03-08 12:00:05,048 INFO root Skipping archiveteam_archivebot_go_20180306230001.cdx.idx
+2018-03-08 12:00:05,048 INFO root Skipping archiveteam_archivebot_go_20180306230001_archive.torrent
+2018-03-08 12:00:05,048 INFO root Skipping archiveteam_archivebot_go_20180306230001_files.xml
+2018-03-08 12:00:05,049 INFO root Skipping archiveteam_archivebot_go_20180306230001_meta.sqlite
+2018-03-08 12:00:05,049 INFO root Skipping archiveteam_archivebot_go_20180306230001_meta.xml
+2018-03-08 12:00:06,895 INFO root Processing item archiveteam_archivebot_go_20180307230002
+2018-03-08 12:00:06,900 INFO root Skipping archiveteam_archivebot_go_20180307230002_archive.torrent
+2018-03-08 12:00:06,901 INFO root Skipping archiveteam_archivebot_go_20180307230002_files.xml
+2018-03-08 12:00:06,901 INFO root Skipping archiveteam_archivebot_go_20180307230002_meta.sqlite
+2018-03-08 12:00:06,901 INFO root Skipping archiveteam_archivebot_go_20180307230002_meta.xml
+2018-03-08 12:00:06,901 ERRO root Size of code.google.com-inf-20180307-152711-3h99f-00000.warc.os.cdx.gz is missing
+2018-03-08 12:00:06,901 ERRO root Mtime of code.google.com-inf-20180307-152711-3h99f-00000.warc.os.cdx.gz is missing
+2018-03-08 12:00:06,902 ERRO root Size of codejam.withgoogle.com-inf-20180307-153355-2i11v-00000.warc.os.cdx.gz is missing
+2018-03-08 12:00:06,902 ERRO root Mtime of codejam.withgoogle.com-inf-20180307-153355-2i11v-00000.warc.os.cdx.gz is missing
+2018-03-08 12:00:06,902 ERRO root Size of example.org-inf-20180304-181254-dei4l-00000.warc.os.cdx.gz is missing
+2018-03-08 12:00:06,902 ERRO root Mtime of example.org-inf-20180304-181254-dei4l-00000.warc.os.cdx.gz is missing
+2018-03-08 12:00:06,903 ERRO root Size of forums.quickbooksusers.com-inf-20180222-072606-5gw8o-00003.warc.os.cdx.gz is missing
+2018-03-08 12:00:06,903 ERRO root Mtime of forums.quickbooksusers.com-inf-20180222-072606-5gw8o-00003.warc.os.cdx.gz is missing
+2018-03-08 12:00:06,903 ERRO root Size of rare.us-inf-20180307-015450-1golj-00006.warc.os.cdx.gz is missing
+2018-03-08 12:00:06,904 ERRO root Mtime of rare.us-inf-20180307-015450-1golj-00006.warc.os.cdx.gz is missing
+2018-03-08 12:00:07,282 INFO root Processing item archiveteam_archivebot_go_20180308090001
+2018-03-08 12:00:07,282 INFO root Skipping archiveteam_archivebot_go_20180308090001_files.xml
+2018-03-08 12:00:07,282 INFO root Skipping archiveteam_archivebot_go_20180308090001_meta.sqlite
+2018-03-08 12:00:07,282 INFO root Skipping archiveteam_archivebot_go_20180308090001_meta.xml
+2018-03-08 12:00:07,283 INFO root Writing last-update file
+2018-03-08 12:00:07,284 INFO root Done
