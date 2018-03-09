@@ -1,57 +1,11 @@
-2018-03-08 18:00:01,824 DEBU root Last attempt: 2018-03-08T12:00:02Z
-2018-03-08 18:00:01,824 DEBU root Last success: 2018-03-08T12:00:02Z
-2018-03-08 18:00:01,824 INFO root Writing last-update file
-2018-03-08 18:00:01,825 INFO root Query: 'collection:archivebot oai_updatedate:[2018-03-08T12:00:02Z TO null]'
-2018-03-08 18:00:04,380 INFO root Processing item archiveteam_archivebot_go_20180306170002
-2018-03-08 18:00:04,381 INFO root Skipping archiveteam_archivebot_go_20180306170002.cdx.idx
-2018-03-08 18:00:04,381 INFO root Skipping archiveteam_archivebot_go_20180306170002_archive.torrent
-2018-03-08 18:00:04,381 INFO root Skipping archiveteam_archivebot_go_20180306170002_files.xml
-2018-03-08 18:00:04,381 INFO root Skipping archiveteam_archivebot_go_20180306170002_meta.sqlite
-2018-03-08 18:00:04,381 INFO root Skipping archiveteam_archivebot_go_20180306170002_meta.xml
-2018-03-08 18:00:05,393 INFO root Processing item archiveteam_archivebot_go_20180307050001
-2018-03-08 18:00:05,393 INFO root Skipping archiveteam_archivebot_go_20180307050001.cdx.idx
-2018-03-08 18:00:05,393 INFO root Skipping archiveteam_archivebot_go_20180307050001_archive.torrent
-2018-03-08 18:00:05,393 INFO root Skipping archiveteam_archivebot_go_20180307050001_files.xml
-2018-03-08 18:00:05,393 INFO root Skipping archiveteam_archivebot_go_20180307050001_meta.sqlite
-2018-03-08 18:00:05,393 INFO root Skipping archiveteam_archivebot_go_20180307050001_meta.xml
-2018-03-08 18:00:05,882 INFO root Processing item archiveteam_archivebot_go_20180307150001
-2018-03-08 18:00:05,883 INFO root Skipping archiveteam_archivebot_go_20180307150001.cdx.idx
-2018-03-08 18:00:05,883 INFO root Skipping archiveteam_archivebot_go_20180307150001_archive.torrent
-2018-03-08 18:00:05,883 INFO root Skipping archiveteam_archivebot_go_20180307150001_files.xml
-2018-03-08 18:00:05,884 INFO root Skipping archiveteam_archivebot_go_20180307150001_meta.sqlite
-2018-03-08 18:00:05,884 INFO root Skipping archiveteam_archivebot_go_20180307150001_meta.xml
-2018-03-08 18:00:07,326 INFO root Processing item archiveteam_archivebot_go_20180308090001
-2018-03-08 18:00:07,326 INFO root Skipping archiveteam_archivebot_go_20180308090001_archive.torrent
-2018-03-08 18:00:07,326 INFO root Skipping archiveteam_archivebot_go_20180308090001_files.xml
-2018-03-08 18:00:07,326 INFO root Skipping archiveteam_archivebot_go_20180308090001_meta.sqlite
-2018-03-08 18:00:07,327 INFO root Skipping archiveteam_archivebot_go_20180308090001_meta.xml
-2018-03-08 18:00:07,327 ERRO root Size of community.sony.com-inf-20180210-073512-3chu5-00027.warc.os.cdx.gz is missing
-2018-03-08 18:00:07,327 ERRO root Mtime of community.sony.com-inf-20180210-073512-3chu5-00027.warc.os.cdx.gz is missing
-2018-03-08 18:00:07,327 ERRO root Size of gothamist.com-inf-20180224-074728-es4w5-00021.warc.os.cdx.gz is missing
-2018-03-08 18:00:07,327 ERRO root Mtime of gothamist.com-inf-20180224-074728-es4w5-00021.warc.os.cdx.gz is missing
-2018-03-08 18:00:07,327 ERRO root Size of rare.us-inf-20180307-015450-1golj-00008.warc.os.cdx.gz is missing
-2018-03-08 18:00:07,327 ERRO root Mtime of rare.us-inf-20180307-015450-1golj-00008.warc.os.cdx.gz is missing
-2018-03-08 18:00:07,327 ERRO root Size of rare.us-inf-20180307-015450-1golj-00009.warc.os.cdx.gz is missing
-2018-03-08 18:00:07,327 ERRO root Mtime of rare.us-inf-20180307-015450-1golj-00009.warc.os.cdx.gz is missing
-2018-03-08 18:00:07,328 ERRO root Size of sites.temple.edu-inf-20180306-172133-e7yz7-00004.warc.os.cdx.gz is missing
-2018-03-08 18:00:07,328 ERRO root Mtime of sites.temple.edu-inf-20180306-172133-e7yz7-00004.warc.os.cdx.gz is missing
-2018-03-08 18:00:07,328 ERRO root Size of sites.temple.edu-inf-20180306-172133-e7yz7-00005.warc.os.cdx.gz is missing
-2018-03-08 18:00:07,328 ERRO root Mtime of sites.temple.edu-inf-20180306-172133-e7yz7-00005.warc.os.cdx.gz is missing
-2018-03-08 18:00:07,328 ERRO root Size of storify.com-inf-20180102-161517-3nozf-00113.warc.os.cdx.gz is missing
-2018-03-08 18:00:07,328 ERRO root Mtime of storify.com-inf-20180102-161517-3nozf-00113.warc.os.cdx.gz is missing
-2018-03-08 18:00:07,328 ERRO root Size of urls-gist.githubusercontent.com-gistfile1.txt-inf-20180304-232935-6p5wl-00049.warc.os.cdx.gz is missing
-2018-03-08 18:00:07,328 ERRO root Mtime of urls-gist.githubusercontent.com-gistfile1.txt-inf-20180304-232935-6p5wl-00049.warc.os.cdx.gz is missing
-2018-03-08 18:00:07,329 ERRO root Size of urls-gist.githubusercontent.com-gistfile1.txt-inf-20180304-232935-6p5wl-00050.warc.os.cdx.gz is missing
-2018-03-08 18:00:07,329 ERRO root Mtime of urls-gist.githubusercontent.com-gistfile1.txt-inf-20180304-232935-6p5wl-00050.warc.os.cdx.gz is missing
-2018-03-08 18:00:07,329 ERRO root Size of www.borgerforslag.dk-inf-20180307-222739-3lu4i-meta.warc.os.cdx.gz is missing
-2018-03-08 18:00:07,329 ERRO root Mtime of www.borgerforslag.dk-inf-20180307-222739-3lu4i-meta.warc.os.cdx.gz is missing
-2018-03-08 18:00:07,329 ERRO root Size of www.business.dk-inf-20180301-034916-auka9-00011.warc.os.cdx.gz is missing
-2018-03-08 18:00:07,329 ERRO root Mtime of www.business.dk-inf-20180301-034916-auka9-00011.warc.os.cdx.gz is missing
-2018-03-08 18:00:07,329 ERRO root Size of www.conservativehq.com-shallow-20180308-010133-7lgjz-00000.warc.os.cdx.gz is missing
-2018-03-08 18:00:07,329 ERRO root Mtime of www.conservativehq.com-shallow-20180308-010133-7lgjz-00000.warc.os.cdx.gz is missing
-2018-03-08 18:00:07,329 ERRO root Size of www.conservativehq.com-shallow-20180308-010133-7lgjz-meta.warc.os.cdx.gz is missing
-2018-03-08 18:00:07,330 ERRO root Mtime of www.conservativehq.com-shallow-20180308-010133-7lgjz-meta.warc.os.cdx.gz is missing
-2018-03-08 18:00:07,330 ERRO root Size of www.pardonpower.com-inf-20180307-164546-cx20i-00001.warc.os.cdx.gz is missing
-2018-03-08 18:00:07,330 ERRO root Mtime of www.pardonpower.com-inf-20180307-164546-cx20i-00001.warc.os.cdx.gz is missing
-2018-03-08 18:00:07,331 INFO root Writing last-update file
-2018-03-08 18:00:07,331 INFO root Done
+2018-03-09 00:00:01,836 DEBU root Last attempt: 2018-03-08T18:00:01Z
+2018-03-09 00:00:01,836 DEBU root Last success: 2018-03-08T18:00:01Z
+2018-03-09 00:00:01,836 INFO root Writing last-update file
+2018-03-09 00:00:01,837 INFO root Query: 'collection:archivebot oai_updatedate:[2018-03-08T18:00:01Z TO null]'
+2018-03-09 00:00:03,310 INFO root Processing item archiveteam_archivebot_go_20180308180002
+2018-03-09 00:00:03,310 INFO root Skipping archiveteam_archivebot_go_20180308180002_archive.torrent
+2018-03-09 00:00:03,311 INFO root Skipping archiveteam_archivebot_go_20180308180002_files.xml
+2018-03-09 00:00:03,311 INFO root Skipping archiveteam_archivebot_go_20180308180002_meta.sqlite
+2018-03-09 00:00:03,311 INFO root Skipping archiveteam_archivebot_go_20180308180002_meta.xml
+2018-03-09 00:00:03,311 INFO root Writing last-update file
+2018-03-09 00:00:03,312 INFO root Done
