@@ -1,23 +1,138 @@
-2018-03-14 18:00:02,041 DEBU root Last attempt: 2018-03-14T12:00:02Z
-2018-03-14 18:00:02,041 DEBU root Last success: 2018-03-14T12:00:02Z
-2018-03-14 18:00:02,041 INFO root Writing last-update file
-2018-03-14 18:00:02,042 INFO root Query: 'collection:archivebot oai_updatedate:[2018-03-14T12:00:02Z TO null]'
-2018-03-14 18:00:06,497 INFO root Processing item archiveteam_archivebot_go_20180314030001
-2018-03-14 18:00:06,498 INFO root Skipping archiveteam_archivebot_go_20180314030001.cdx.idx
-2018-03-14 18:00:06,498 INFO root Skipping archiveteam_archivebot_go_20180314030001_archive.torrent
-2018-03-14 18:00:06,498 INFO root Skipping archiveteam_archivebot_go_20180314030001_files.xml
-2018-03-14 18:00:06,498 INFO root Skipping archiveteam_archivebot_go_20180314030001_meta.sqlite
-2018-03-14 18:00:06,498 INFO root Skipping archiveteam_archivebot_go_20180314030001_meta.xml
-2018-03-14 18:00:06,739 INFO root Processing item archiveteam_archivebot_go_20180314170001
-2018-03-14 18:00:06,740 INFO root Skipping archiveteam_archivebot_go_20180314170001_archive.torrent
-2018-03-14 18:00:06,741 INFO root Skipping archiveteam_archivebot_go_20180314170001_files.xml
-2018-03-14 18:00:06,741 INFO root Skipping archiveteam_archivebot_go_20180314170001_meta.sqlite
-2018-03-14 18:00:06,741 INFO root Skipping archiveteam_archivebot_go_20180314170001_meta.xml
-2018-03-14 18:00:07,298 INFO root Processing item astrid_archivebot_forum_giga_de_20170928
-2018-03-14 18:00:07,299 INFO root Skipping astrid_archivebot_forum_giga_de_20170928.cdx.idx
-2018-03-14 18:00:07,300 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_archive.torrent
-2018-03-14 18:00:07,300 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_files.xml
-2018-03-14 18:00:07,300 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.sqlite
-2018-03-14 18:00:07,300 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.xml
-2018-03-14 18:00:07,305 INFO root Writing last-update file
-2018-03-14 18:00:07,306 INFO root Done
+2018-03-15 00:00:01,301 DEBU root Last attempt: 2018-03-14T18:00:02Z
+2018-03-15 00:00:01,302 DEBU root Last success: 2018-03-14T18:00:02Z
+2018-03-15 00:00:01,302 INFO root Writing last-update file
+2018-03-15 00:00:01,303 INFO root Query: 'collection:archivebot oai_updatedate:[2018-03-14T18:00:02Z TO null]'
+2018-03-15 00:00:03,258 INFO root Processing item archiveteam_archivebot_go_20180314170001
+2018-03-15 00:00:03,258 INFO root Skipping archiveteam_archivebot_go_20180314170001_archive.torrent
+2018-03-15 00:00:03,259 INFO root Skipping archiveteam_archivebot_go_20180314170001_files.xml
+2018-03-15 00:00:03,259 INFO root Skipping archiveteam_archivebot_go_20180314170001_meta.sqlite
+2018-03-15 00:00:03,259 INFO root Skipping archiveteam_archivebot_go_20180314170001_meta.xml
+2018-03-15 00:00:03,259 ERRO root Size of avaaz.org-shallow-20180314-135023-5bgb2-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,259 ERRO root Mtime of avaaz.org-shallow-20180314-135023-5bgb2-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,259 ERRO root Size of avaaz.org-shallow-20180314-135023-5bgb2-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,259 ERRO root Mtime of avaaz.org-shallow-20180314-135023-5bgb2-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,259 ERRO root Size of blogs.faz.net-inf-20180309-025955-ckkx0-00044.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,259 ERRO root Mtime of blogs.faz.net-inf-20180309-025955-ckkx0-00044.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,259 ERRO root Size of community.sony.com-inf-20180210-073512-3chu5-00030.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,259 ERRO root Mtime of community.sony.com-inf-20180210-073512-3chu5-00030.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,260 ERRO root Size of en.wikipedia.org-shallow-20180313-232402-cmqb3-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,260 ERRO root Mtime of en.wikipedia.org-shallow-20180313-232402-cmqb3-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,260 ERRO root Size of en.wikipedia.org-shallow-20180313-232402-cmqb3-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,260 ERRO root Mtime of en.wikipedia.org-shallow-20180313-232402-cmqb3-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,260 ERRO root Size of forums.lungevity.org-inf-20180307-220955-7lin4-00005.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,260 ERRO root Mtime of forums.lungevity.org-inf-20180307-220955-7lin4-00005.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,260 ERRO root Size of forums.lungevity.org-inf-20180307-220955-7lin4-00006.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,260 ERRO root Mtime of forums.lungevity.org-inf-20180307-220955-7lin4-00006.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,260 ERRO root Size of github.com-shallow-20180314-142247-1mdmw-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,260 ERRO root Mtime of github.com-shallow-20180314-142247-1mdmw-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,260 ERRO root Size of github.com-shallow-20180314-142247-1mdmw-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,261 ERRO root Mtime of github.com-shallow-20180314-142247-1mdmw-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,261 ERRO root Size of github.com-shallow-20180314-142346-c83yt-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,261 ERRO root Mtime of github.com-shallow-20180314-142346-c83yt-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,261 ERRO root Size of github.com-shallow-20180314-142346-c83yt-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,261 ERRO root Mtime of github.com-shallow-20180314-142346-c83yt-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,261 ERRO root Size of halowars.com-inf-20180211-154632-8vwsz-00029.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,261 ERRO root Mtime of halowars.com-inf-20180211-154632-8vwsz-00029.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,261 ERRO root Size of ipn.caerwyn.com-inf-20180313-224520-fukgs-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,261 ERRO root Mtime of ipn.caerwyn.com-inf-20180313-224520-fukgs-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,261 ERRO root Size of ipn.caerwyn.com-inf-20180313-224520-fukgs-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,262 ERRO root Mtime of ipn.caerwyn.com-inf-20180313-224520-fukgs-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,262 ERRO root Size of ir.amd.com-shallow-20180314-032609-735m4-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,262 ERRO root Mtime of ir.amd.com-shallow-20180314-032609-735m4-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,262 ERRO root Size of ir.amd.com-shallow-20180314-032609-735m4-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,262 ERRO root Mtime of ir.amd.com-shallow-20180314-032609-735m4-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,262 ERRO root Size of qlstats.net-inf-20171212-023551-bnl3h-00013.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,262 ERRO root Mtime of qlstats.net-inf-20171212-023551-bnl3h-00013.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,262 ERRO root Size of rare.us-inf-20180307-015450-1golj-00039.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,262 ERRO root Mtime of rare.us-inf-20180307-015450-1golj-00039.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,262 ERRO root Size of rare.us-inf-20180307-015450-1golj-00040.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,263 ERRO root Mtime of rare.us-inf-20180307-015450-1golj-00040.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,263 ERRO root Size of rare.us-inf-20180307-015450-1golj-00041.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,263 ERRO root Mtime of rare.us-inf-20180307-015450-1golj-00041.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,263 ERRO root Size of storify.com-inf-20180102-161517-3nozf-00117.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,263 ERRO root Mtime of storify.com-inf-20180102-161517-3nozf-00117.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,263 ERRO root Size of support.google.com-shallow-20180314-092415-8dzc4-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,263 ERRO root Mtime of support.google.com-shallow-20180314-092415-8dzc4-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,263 ERRO root Size of support.google.com-shallow-20180314-092415-8dzc4-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,263 ERRO root Mtime of support.google.com-shallow-20180314-092415-8dzc4-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,263 ERRO root Size of twitter.com-shallow-20180314-043329-5dz8p-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,264 ERRO root Mtime of twitter.com-shallow-20180314-043329-5dz8p-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,264 ERRO root Size of twitter.com-shallow-20180314-043329-5dz8p-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,264 ERRO root Mtime of twitter.com-shallow-20180314-043329-5dz8p-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,264 ERRO root Size of twitter.com-shallow-20180314-050534-c2ydp-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,264 ERRO root Mtime of twitter.com-shallow-20180314-050534-c2ydp-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,264 ERRO root Size of twitter.com-shallow-20180314-050534-c2ydp-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,264 ERRO root Mtime of twitter.com-shallow-20180314-050534-c2ydp-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,264 ERRO root Size of urls-gist.githubusercontent.com-gistfile1.txt-inf-20180304-232935-6p5wl-00072.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,264 ERRO root Mtime of urls-gist.githubusercontent.com-gistfile1.txt-inf-20180304-232935-6p5wl-00072.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,264 ERRO root Size of urls-pastebin.com-TsRSf7PA-inf-20180105-103151-a5l5n-00107.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,265 ERRO root Mtime of urls-pastebin.com-TsRSf7PA-inf-20180105-103151-a5l5n-00107.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,265 ERRO root Size of urls-transfer.sh-metrovictoria-tweets-shallow-20180314-135725-2lelq-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,265 ERRO root Mtime of urls-transfer.sh-metrovictoria-tweets-shallow-20180314-135725-2lelq-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,265 ERRO root Size of urls-transfer.sh-metrovictoria-tweets-shallow-20180314-135725-2lelq-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,265 ERRO root Mtime of urls-transfer.sh-metrovictoria-tweets-shallow-20180314-135725-2lelq-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,265 ERRO root Size of urls-transfer.sh-metrowindsor-tweets-shallow-20180314-145923-1hnge-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,265 ERRO root Mtime of urls-transfer.sh-metrowindsor-tweets-shallow-20180314-145923-1hnge-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,265 ERRO root Size of urls-transfer.sh-metrowindsor-tweets-shallow-20180314-145923-1hnge-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,265 ERRO root Mtime of urls-transfer.sh-metrowindsor-tweets-shallow-20180314-145923-1hnge-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,266 ERRO root Size of viceroyresearch.files.wordpress.com-shallow-20180314-032130-2qjh4-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,266 ERRO root Mtime of viceroyresearch.files.wordpress.com-shallow-20180314-032130-2qjh4-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,266 ERRO root Size of viceroyresearch.files.wordpress.com-shallow-20180314-032130-2qjh4-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,266 ERRO root Mtime of viceroyresearch.files.wordpress.com-shallow-20180314-032130-2qjh4-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,266 ERRO root Size of viceroyresearch.org-inf-20180314-021255-94jge-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,266 ERRO root Mtime of viceroyresearch.org-inf-20180314-021255-94jge-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,267 ERRO root Size of viceroyresearch.org-inf-20180314-021255-94jge-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,267 ERRO root Mtime of viceroyresearch.org-inf-20180314-021255-94jge-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,267 ERRO root Size of www.aaa.asn.au-shallow-20180314-135453-47rlw-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,267 ERRO root Mtime of www.aaa.asn.au-shallow-20180314-135453-47rlw-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,267 ERRO root Size of www.aaa.asn.au-shallow-20180314-135453-47rlw-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,267 ERRO root Mtime of www.aaa.asn.au-shallow-20180314-135453-47rlw-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,267 ERRO root Size of www.asmedia.com.tw-inf-20180313-204121-1ufwh-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,267 ERRO root Mtime of www.asmedia.com.tw-inf-20180313-204121-1ufwh-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,267 ERRO root Size of www.asmedia.com.tw-inf-20180313-204121-1ufwh-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,267 ERRO root Mtime of www.asmedia.com.tw-inf-20180313-204121-1ufwh-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,268 ERRO root Size of www.bbc.com-shallow-20180314-043743-3ej8d-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,268 ERRO root Mtime of www.bbc.com-shallow-20180314-043743-3ej8d-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,268 ERRO root Size of www.bbc.com-shallow-20180314-043743-3ej8d-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,268 ERRO root Mtime of www.bbc.com-shallow-20180314-043743-3ej8d-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,268 ERRO root Size of www.business.dk-inf-20180301-034916-auka9-00052.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,268 ERRO root Mtime of www.business.dk-inf-20180301-034916-auka9-00052.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,268 ERRO root Size of www.businesslive.co.za-shallow-20180314-020313-5r3v9-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,268 ERRO root Mtime of www.businesslive.co.za-shallow-20180314-020313-5r3v9-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,268 ERRO root Size of www.businesslive.co.za-shallow-20180314-020313-5r3v9-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,269 ERRO root Mtime of www.businesslive.co.za-shallow-20180314-020313-5r3v9-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,269 ERRO root Size of www.datormuseum.se-inf-20180314-093008-83op7-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,269 ERRO root Mtime of www.datormuseum.se-inf-20180314-093008-83op7-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,269 ERRO root Size of www.datormuseum.se-inf-20180314-093008-83op7-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,269 ERRO root Mtime of www.datormuseum.se-inf-20180314-093008-83op7-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,269 ERRO root Size of www.firstinspires.org-inf-20180314-005017-bqasq-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,269 ERRO root Mtime of www.firstinspires.org-inf-20180314-005017-bqasq-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,270 ERRO root Size of www.firstinspires.org-inf-20180314-005017-bqasq-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,270 ERRO root Mtime of www.firstinspires.org-inf-20180314-005017-bqasq-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,270 ERRO root Size of www.gamersnexus.net-shallow-20180314-020137-a6aj3-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,270 ERRO root Mtime of www.gamersnexus.net-shallow-20180314-020137-a6aj3-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,270 ERRO root Size of www.gamersnexus.net-shallow-20180314-020137-a6aj3-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,270 ERRO root Mtime of www.gamersnexus.net-shallow-20180314-020137-a6aj3-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,270 ERRO root Size of www.hawking.org-inf-20180313-234651-avdef-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,270 ERRO root Mtime of www.hawking.org-inf-20180313-234651-avdef-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,271 ERRO root Size of www.hawking.org-inf-20180313-234651-avdef-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,271 ERRO root Mtime of www.hawking.org-inf-20180313-234651-avdef-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,271 ERRO root Size of www.hawking.org.uk-inf-20180313-232446-ay0j0-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,271 ERRO root Mtime of www.hawking.org.uk-inf-20180313-232446-ay0j0-00000.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,271 ERRO root Size of www.hawking.org.uk-inf-20180313-232446-ay0j0-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,271 ERRO root Mtime of www.hawking.org.uk-inf-20180313-232446-ay0j0-meta.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,271 ERRO root Size of www.healingwell.com-inf-20180307-225558-aqhsp-00015.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,271 ERRO root Mtime of www.healingwell.com-inf-20180307-225558-aqhsp-00015.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,272 ERRO root Size of www.metronews.ca-inf-20180313-051702-auqeu-00003.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,272 ERRO root Mtime of www.metronews.ca-inf-20180313-051702-auqeu-00003.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,272 ERRO root Size of www.metronews.ca-inf-20180313-051720-4b26f-00003.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,272 ERRO root Mtime of www.metronews.ca-inf-20180313-051720-4b26f-00003.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,272 ERRO root Size of www.metronews.ca-inf-20180313-053851-47n8j-00002.warc.os.cdx.gz is missing
+2018-03-15 00:00:03,272 ERRO root Mtime of www.metronews.ca-inf-20180313-053851-47n8j-00002.warc.os.cdx.gz is missing
+2018-03-15 00:00:04,479 INFO root Processing item archiveteam_archivebot_go_20180314230001
+2018-03-15 00:00:04,480 INFO root Skipping archiveteam_archivebot_go_20180314230001_archive.torrent
+2018-03-15 00:00:04,480 INFO root Skipping archiveteam_archivebot_go_20180314230001_files.xml
+2018-03-15 00:00:04,480 INFO root Skipping archiveteam_archivebot_go_20180314230001_meta.sqlite
+2018-03-15 00:00:04,480 INFO root Skipping archiveteam_archivebot_go_20180314230001_meta.xml
+2018-03-15 00:00:04,480 INFO root Writing last-update file
+2018-03-15 00:00:04,481 INFO root Done
