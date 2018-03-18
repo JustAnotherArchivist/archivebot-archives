@@ -1,61 +1,23 @@
-2018-03-18 12:00:02,121 DEBU root Last attempt: 2018-03-18T06:00:01Z
-2018-03-18 12:00:02,121 DEBU root Last success: 2018-03-18T06:00:01Z
-2018-03-18 12:00:02,121 INFO root Writing last-update file
-2018-03-18 12:00:02,122 INFO root Query: 'collection:archivebot oai_updatedate:[2018-03-18T06:00:01Z TO null]'
-2018-03-18 12:00:03,679 INFO root Processing item archiveteam_archivebot_go_20180317230002
-2018-03-18 12:00:03,679 INFO root Skipping archiveteam_archivebot_go_20180317230002_archive.torrent
-2018-03-18 12:00:03,680 INFO root Skipping archiveteam_archivebot_go_20180317230002_files.xml
-2018-03-18 12:00:03,680 INFO root Skipping archiveteam_archivebot_go_20180317230002_meta.sqlite
-2018-03-18 12:00:03,680 INFO root Skipping archiveteam_archivebot_go_20180317230002_meta.xml
-2018-03-18 12:00:03,680 ERRO root Size of community.sony.com-inf-20180210-073512-3chu5-00034.warc.os.cdx.gz is missing
-2018-03-18 12:00:03,680 ERRO root Mtime of community.sony.com-inf-20180210-073512-3chu5-00034.warc.os.cdx.gz is missing
-2018-03-18 12:00:03,680 ERRO root Size of giggurat.vivian.jp-inf-20180316-055158-c4bjx-meta.warc.os.cdx.gz is missing
-2018-03-18 12:00:03,680 ERRO root Mtime of giggurat.vivian.jp-inf-20180316-055158-c4bjx-meta.warc.os.cdx.gz is missing
-2018-03-18 12:00:03,681 ERRO root Size of gothamist.com-inf-20180224-074728-es4w5-00039.warc.os.cdx.gz is missing
-2018-03-18 12:00:03,681 ERRO root Mtime of gothamist.com-inf-20180224-074728-es4w5-00039.warc.os.cdx.gz is missing
-2018-03-18 12:00:03,681 ERRO root Size of rare.us-inf-20180307-015450-1golj-00059.warc.os.cdx.gz is missing
-2018-03-18 12:00:03,681 ERRO root Mtime of rare.us-inf-20180307-015450-1golj-00059.warc.os.cdx.gz is missing
-2018-03-18 12:00:03,681 ERRO root Size of rare.us-inf-20180307-015450-1golj-00060.warc.os.cdx.gz is missing
-2018-03-18 12:00:03,681 ERRO root Mtime of rare.us-inf-20180307-015450-1golj-00060.warc.os.cdx.gz is missing
-2018-03-18 12:00:03,681 ERRO root Size of rare.us-inf-20180307-015450-1golj-00061.warc.os.cdx.gz is missing
-2018-03-18 12:00:03,681 ERRO root Mtime of rare.us-inf-20180307-015450-1golj-00061.warc.os.cdx.gz is missing
-2018-03-18 12:00:03,682 ERRO root Size of rare.us-inf-20180307-015450-1golj-00062.warc.os.cdx.gz is missing
-2018-03-18 12:00:03,682 ERRO root Mtime of rare.us-inf-20180307-015450-1golj-00062.warc.os.cdx.gz is missing
-2018-03-18 12:00:03,682 ERRO root Size of repos.arcanoae.com-inf-20180317-081337-4k20e-00000.warc.os.cdx.gz is missing
-2018-03-18 12:00:03,682 ERRO root Mtime of repos.arcanoae.com-inf-20180317-081337-4k20e-00000.warc.os.cdx.gz is missing
-2018-03-18 12:00:03,682 ERRO root Size of storify.com-inf-20180102-161517-3nozf-00120.warc.os.cdx.gz is missing
-2018-03-18 12:00:03,682 ERRO root Mtime of storify.com-inf-20180102-161517-3nozf-00120.warc.os.cdx.gz is missing
-2018-03-18 12:00:03,682 ERRO root Size of svn.arcanoae.com-inf-20180317-081826-3m7d4-00000.warc.os.cdx.gz is missing
-2018-03-18 12:00:03,682 ERRO root Mtime of svn.arcanoae.com-inf-20180317-081826-3m7d4-00000.warc.os.cdx.gz is missing
-2018-03-18 12:00:03,683 ERRO root Size of svn.arcanoae.com-inf-20180317-081826-3m7d4-meta.warc.os.cdx.gz is missing
-2018-03-18 12:00:03,683 ERRO root Mtime of svn.arcanoae.com-inf-20180317-081826-3m7d4-meta.warc.os.cdx.gz is missing
-2018-03-18 12:00:03,683 ERRO root Size of svn.arcanoae.com-inf-20180317-081902-936z4-00000.warc.os.cdx.gz is missing
-2018-03-18 12:00:03,683 ERRO root Mtime of svn.arcanoae.com-inf-20180317-081902-936z4-00000.warc.os.cdx.gz is missing
-2018-03-18 12:00:03,683 ERRO root Size of training.linuxfoundation.org-inf-20180317-015213-arqnj-00000.warc.os.cdx.gz is missing
-2018-03-18 12:00:03,683 ERRO root Mtime of training.linuxfoundation.org-inf-20180317-015213-arqnj-00000.warc.os.cdx.gz is missing
-2018-03-18 12:00:04,009 INFO root Processing item astrid_archivebot_forum_giga_de_20170928
-2018-03-18 12:00:04,009 INFO root Skipping astrid_archivebot_forum_giga_de_20170928.cdx.idx
-2018-03-18 12:00:04,009 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_archive.torrent
-2018-03-18 12:00:04,010 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_files.xml
-2018-03-18 12:00:04,010 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.sqlite
-2018-03-18 12:00:04,010 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.xml
-2018-03-18 12:00:04,126 INFO root Processing item astrid_archivebot_utcdb_fiu_edu_20180318
-2018-03-18 12:00:04,127 INFO root Skipping astrid_archivebot_utcdb_fiu_edu_20180318.cdx.idx
-2018-03-18 12:00:04,128 INFO root Skipping astrid_archivebot_utcdb_fiu_edu_20180318_archive.torrent
-2018-03-18 12:00:04,128 INFO root Skipping astrid_archivebot_utcdb_fiu_edu_20180318_files.xml
-2018-03-18 12:00:04,128 INFO root Skipping astrid_archivebot_utcdb_fiu_edu_20180318_meta.sqlite
-2018-03-18 12:00:04,128 INFO root Skipping astrid_archivebot_utcdb_fiu_edu_20180318_meta.xml
-2018-03-18 12:00:04,266 INFO root Processing item astrid_archivebot_www_theguardian_com_20180318
-2018-03-18 12:00:04,268 INFO root Skipping astrid_archivebot_www_theguardian_com_20180318.cdx.idx
-2018-03-18 12:00:04,268 INFO root Skipping astrid_archivebot_www_theguardian_com_20180318_archive.torrent
-2018-03-18 12:00:04,268 INFO root Skipping astrid_archivebot_www_theguardian_com_20180318_files.xml
-2018-03-18 12:00:04,268 INFO root Skipping astrid_archivebot_www_theguardian_com_20180318_meta.sqlite
-2018-03-18 12:00:04,268 INFO root Skipping astrid_archivebot_www_theguardian_com_20180318_meta.xml
-2018-03-18 12:00:04,626 INFO root Processing item astrid_archivebot_www_waterfoxproject_org_20180317
-2018-03-18 12:00:04,627 INFO root Skipping astrid_archivebot_www_waterfoxproject_org_20180317.cdx.idx
-2018-03-18 12:00:04,627 INFO root Skipping astrid_archivebot_www_waterfoxproject_org_20180317_archive.torrent
-2018-03-18 12:00:04,627 INFO root Skipping astrid_archivebot_www_waterfoxproject_org_20180317_files.xml
-2018-03-18 12:00:04,628 INFO root Skipping astrid_archivebot_www_waterfoxproject_org_20180317_meta.sqlite
-2018-03-18 12:00:04,628 INFO root Skipping astrid_archivebot_www_waterfoxproject_org_20180317_meta.xml
-2018-03-18 12:00:04,628 INFO root Writing last-update file
-2018-03-18 12:00:04,628 INFO root Done
+2018-03-18 18:00:01,920 DEBU root Last attempt: 2018-03-18T12:00:02Z
+2018-03-18 18:00:01,920 DEBU root Last success: 2018-03-18T12:00:02Z
+2018-03-18 18:00:01,921 INFO root Writing last-update file
+2018-03-18 18:00:01,921 INFO root Query: 'collection:archivebot oai_updatedate:[2018-03-18T12:00:02Z TO null]'
+2018-03-18 18:00:02,868 INFO root Processing item archiveteam_archivebot_go_20180317230002
+2018-03-18 18:00:02,868 INFO root Skipping archiveteam_archivebot_go_20180317230002.cdx.idx
+2018-03-18 18:00:02,868 INFO root Skipping archiveteam_archivebot_go_20180317230002_archive.torrent
+2018-03-18 18:00:02,868 INFO root Skipping archiveteam_archivebot_go_20180317230002_files.xml
+2018-03-18 18:00:02,869 INFO root Skipping archiveteam_archivebot_go_20180317230002_meta.sqlite
+2018-03-18 18:00:02,869 INFO root Skipping archiveteam_archivebot_go_20180317230002_meta.xml
+2018-03-18 18:00:03,295 INFO root Processing item archiveteam_archivebot_go_20180318130002
+2018-03-18 18:00:03,296 INFO root Skipping archiveteam_archivebot_go_20180318130002_archive.torrent
+2018-03-18 18:00:03,296 INFO root Skipping archiveteam_archivebot_go_20180318130002_files.xml
+2018-03-18 18:00:03,296 INFO root Skipping archiveteam_archivebot_go_20180318130002_meta.sqlite
+2018-03-18 18:00:03,296 INFO root Skipping archiveteam_archivebot_go_20180318130002_meta.xml
+2018-03-18 18:00:03,482 INFO root Processing item astrid_archivebot_social_fiu_edu_20180318
+2018-03-18 18:00:03,483 INFO root Skipping astrid_archivebot_social_fiu_edu_20180318.cdx.idx
+2018-03-18 18:00:03,483 INFO root Skipping astrid_archivebot_social_fiu_edu_20180318_archive.torrent
+2018-03-18 18:00:03,483 INFO root Skipping astrid_archivebot_social_fiu_edu_20180318_files.xml
+2018-03-18 18:00:03,483 INFO root Skipping astrid_archivebot_social_fiu_edu_20180318_meta.sqlite
+2018-03-18 18:00:03,483 INFO root Skipping astrid_archivebot_social_fiu_edu_20180318_meta.xml
+2018-03-18 18:00:03,483 INFO root Writing last-update file
+2018-03-18 18:00:03,484 INFO root Done
