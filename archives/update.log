@@ -1,34 +1,193 @@
-2018-03-22 06:00:02,158 DEBU root Last attempt: 2018-03-22T00:00:02Z
-2018-03-22 06:00:02,158 DEBU root Last success: 2018-03-22T00:00:02Z
-2018-03-22 06:00:02,158 INFO root Writing last-update file
-2018-03-22 06:00:02,159 INFO root Query: 'collection:archivebot oai_updatedate:[2018-03-22T00:00:02Z TO null]'
-2018-03-22 06:00:03,398 INFO root Processing item archiveteam_archivebot_go_20180322020001
-2018-03-22 06:00:03,399 INFO root Skipping archiveteam_archivebot_go_20180322020001_archive.torrent
-2018-03-22 06:00:03,399 INFO root Skipping archiveteam_archivebot_go_20180322020001_files.xml
-2018-03-22 06:00:03,399 INFO root Skipping archiveteam_archivebot_go_20180322020001_meta.sqlite
-2018-03-22 06:00:03,399 INFO root Skipping archiveteam_archivebot_go_20180322020001_meta.xml
-2018-03-22 06:00:03,545 INFO root Processing item astrid_archivebot_urls-transfer_sh-ukip-websites_20180321
-2018-03-22 06:00:03,545 INFO root Skipping astrid_archivebot_urls-transfer_sh-ukip-websites_20180321.cdx.idx
-2018-03-22 06:00:03,545 INFO root Skipping astrid_archivebot_urls-transfer_sh-ukip-websites_20180321_archive.torrent
-2018-03-22 06:00:03,545 INFO root Skipping astrid_archivebot_urls-transfer_sh-ukip-websites_20180321_files.xml
-2018-03-22 06:00:03,546 INFO root Skipping astrid_archivebot_urls-transfer_sh-ukip-websites_20180321_meta.sqlite
-2018-03-22 06:00:03,546 INFO root Skipping astrid_archivebot_urls-transfer_sh-ukip-websites_20180321_meta.xml
-2018-03-22 06:00:03,666 INFO root Processing item charlierose.com-videos-grab-01
-2018-03-22 06:00:03,667 INFO root Skipping charlierose.com-videos-00000.warc.gz
-2018-03-22 06:00:03,667 INFO root Skipping charlierose.com-videos-00001.warc.gz
-2018-03-22 06:00:03,667 INFO root Skipping charlierose.com-videos-00002.warc.gz
-2018-03-22 06:00:03,667 INFO root Skipping charlierose.com-videos-00003.warc.gz
-2018-03-22 06:00:03,667 INFO root Skipping charlierose.com-videos-00004.warc.gz
-2018-03-22 06:00:03,667 INFO root Skipping charlierose.com-videos-00005.warc.gz
-2018-03-22 06:00:03,667 INFO root Skipping charlierose.com-videos-00006.warc.gz
-2018-03-22 06:00:03,668 INFO root Skipping charlierose.com-videos-00007.warc.gz
-2018-03-22 06:00:03,668 INFO root Skipping charlierose.com-videos-00008.warc.gz
-2018-03-22 06:00:03,668 INFO root Skipping charlierose.com-videos-00009.warc.gz
-2018-03-22 06:00:03,668 INFO root Skipping charlierose.com-videos-00010.warc.gz
-2018-03-22 06:00:03,668 INFO root Skipping charlierose.com-videos-00011.warc.gz
-2018-03-22 06:00:03,668 INFO root Skipping charlierose.com-videos-grab-01_archive.torrent
-2018-03-22 06:00:03,669 INFO root Skipping charlierose.com-videos-grab-01_files.xml
-2018-03-22 06:00:03,669 INFO root Skipping charlierose.com-videos-grab-01_meta.sqlite
-2018-03-22 06:00:03,669 INFO root Skipping charlierose.com-videos-grab-01_meta.xml
-2018-03-22 06:00:03,669 INFO root Writing last-update file
-2018-03-22 06:00:03,669 INFO root Done
+2018-03-22 12:00:02,047 DEBU root Last attempt: 2018-03-22T06:00:02Z
+2018-03-22 12:00:02,048 DEBU root Last success: 2018-03-22T06:00:02Z
+2018-03-22 12:00:02,048 INFO root Writing last-update file
+2018-03-22 12:00:02,049 INFO root Query: 'collection:archivebot oai_updatedate:[2018-03-22T06:00:02Z TO null]'
+2018-03-22 12:00:03,320 INFO root Processing item archiveteam_archivebot_go_20180322020001
+2018-03-22 12:00:03,321 ERRO root Size of apps.runescape.com-shallow-20180321-160704-d2x44-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,321 ERRO root Mtime of apps.runescape.com-shallow-20180321-160704-d2x44-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,321 ERRO root Size of apps.runescape.com-shallow-20180321-160704-d2x44-meta.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,321 ERRO root Mtime of apps.runescape.com-shallow-20180321-160704-d2x44-meta.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,321 ERRO root Size of apps.runescape.com-shallow-20180321-170713-7d7cr-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,321 ERRO root Mtime of apps.runescape.com-shallow-20180321-170713-7d7cr-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,322 ERRO root Size of apps.runescape.com-shallow-20180321-170713-7d7cr-meta.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,322 ERRO root Mtime of apps.runescape.com-shallow-20180321-170713-7d7cr-meta.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,322 INFO root Skipping archiveteam_archivebot_go_20180322020001_archive.torrent
+2018-03-22 12:00:03,322 INFO root Skipping archiveteam_archivebot_go_20180322020001_files.xml
+2018-03-22 12:00:03,322 INFO root Skipping archiveteam_archivebot_go_20180322020001_meta.sqlite
+2018-03-22 12:00:03,322 INFO root Skipping archiveteam_archivebot_go_20180322020001_meta.xml
+2018-03-22 12:00:03,322 ERRO root Size of ca-commercial.com-inf-20180321-032229-6p0nk-00001.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,323 ERRO root Mtime of ca-commercial.com-inf-20180321-032229-6p0nk-00001.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,323 ERRO root Size of ca-commercial.com-inf-20180321-032229-6p0nk-meta.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,323 ERRO root Mtime of ca-commercial.com-inf-20180321-032229-6p0nk-meta.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,323 ERRO root Size of definingmystance.blogspot.com-inf-20180321-080142-b35a3-aborted-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,323 ERRO root Mtime of definingmystance.blogspot.com-inf-20180321-080142-b35a3-aborted-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,324 ERRO root Size of definingmystance.blogspot.com-inf-20180321-100641-b35a3-aborted-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,324 ERRO root Mtime of definingmystance.blogspot.com-inf-20180321-100641-b35a3-aborted-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,324 ERRO root Size of definingmystance.blogspot.com-inf-20180321-100725-b35a3-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,324 ERRO root Mtime of definingmystance.blogspot.com-inf-20180321-100725-b35a3-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,324 ERRO root Size of definingmystance.blogspot.com-inf-20180321-100725-b35a3-meta.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,324 ERRO root Mtime of definingmystance.blogspot.com-inf-20180321-100725-b35a3-meta.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,325 ERRO root Size of ffl.org.uk-inf-20180321-131152-74a3t-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,325 ERRO root Mtime of ffl.org.uk-inf-20180321-131152-74a3t-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,325 ERRO root Size of i.imgur.com-shallow-20180321-192858-5leha-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,325 ERRO root Mtime of i.imgur.com-shallow-20180321-192858-5leha-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,325 ERRO root Size of i.imgur.com-shallow-20180321-192858-5leha-meta.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,325 ERRO root Mtime of i.imgur.com-shallow-20180321-192858-5leha-meta.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,325 ERRO root Size of newsroom.fb.com-shallow-20180321-164837-qix2b-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,326 ERRO root Mtime of newsroom.fb.com-shallow-20180321-164837-qix2b-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,326 ERRO root Size of newsroom.fb.com-shallow-20180321-164837-qix2b-meta.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,326 ERRO root Mtime of newsroom.fb.com-shallow-20180321-164837-qix2b-meta.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,326 ERRO root Size of notaz.gp2x.de-inf-20180321-104453-8mgca-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,326 ERRO root Mtime of notaz.gp2x.de-inf-20180321-104453-8mgca-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,326 ERRO root Size of notaz.gp2x.de-inf-20180321-104453-8mgca-meta.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,326 ERRO root Mtime of notaz.gp2x.de-inf-20180321-104453-8mgca-meta.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,326 ERRO root Size of notaz.gp2x.de-inf-20180321-124318-b7a34-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,326 ERRO root Mtime of notaz.gp2x.de-inf-20180321-124318-b7a34-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,327 ERRO root Size of rare.us-inf-20180307-015450-1golj-00076.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,327 ERRO root Mtime of rare.us-inf-20180307-015450-1golj-00076.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,327 ERRO root Size of rare.us-inf-20180307-015450-1golj-00077.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,327 ERRO root Mtime of rare.us-inf-20180307-015450-1golj-00077.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,327 ERRO root Size of rare.us-inf-20180307-015450-1golj-00078.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,327 ERRO root Mtime of rare.us-inf-20180307-015450-1golj-00078.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,327 ERRO root Size of rare.us-inf-20180307-015450-1golj-00079.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,327 ERRO root Mtime of rare.us-inf-20180307-015450-1golj-00079.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,328 ERRO root Size of rare.us-inf-20180307-015450-1golj-00080.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,328 ERRO root Mtime of rare.us-inf-20180307-015450-1golj-00080.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,328 ERRO root Size of shadowsocks.org-inf-20180321-084249-2597m-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,328 ERRO root Mtime of shadowsocks.org-inf-20180321-084249-2597m-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,328 ERRO root Size of shadowsocks.org-inf-20180321-084249-2597m-meta.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,328 ERRO root Mtime of shadowsocks.org-inf-20180321-084249-2597m-meta.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,328 ERRO root Size of storify.com-inf-20180102-161517-3nozf-00124.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,328 ERRO root Mtime of storify.com-inf-20180102-161517-3nozf-00124.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,328 ERRO root Size of techcrunch.com-shallow-20180321-214932-931oa-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,329 ERRO root Mtime of techcrunch.com-shallow-20180321-214932-931oa-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,329 ERRO root Size of techcrunch.com-shallow-20180321-214932-931oa-meta.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,329 ERRO root Mtime of techcrunch.com-shallow-20180321-214932-931oa-meta.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,329 ERRO root Size of twitter.com-shallow-20180321-151042-2gr3d-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,329 ERRO root Mtime of twitter.com-shallow-20180321-151042-2gr3d-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,329 ERRO root Size of urls-transfer.sh-UKIP-tweets-shallow-20180321-205025-9976k-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,329 ERRO root Mtime of urls-transfer.sh-UKIP-tweets-shallow-20180321-205025-9976k-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,329 ERRO root Size of urls-transfer.sh-UKIP-tweets-shallow-20180321-205025-9976k-meta.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,330 ERRO root Mtime of urls-transfer.sh-UKIP-tweets-shallow-20180321-205025-9976k-meta.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,330 ERRO root Size of usnewsghost.wordpress.com-inf-20180321-143325-aw2bb-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,330 ERRO root Mtime of usnewsghost.wordpress.com-inf-20180321-143325-aw2bb-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,330 ERRO root Size of www.chronofhorse.com-inf-20180320-235041-4udyu-00001.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,330 ERRO root Mtime of www.chronofhorse.com-inf-20180320-235041-4udyu-00001.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,330 ERRO root Size of www.facebook.com-shallow-20180321-214831-6z6bu-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,331 ERRO root Mtime of www.facebook.com-shallow-20180321-214831-6z6bu-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,331 ERRO root Size of www.facebook.com-shallow-20180321-214831-6z6bu-meta.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,331 ERRO root Mtime of www.facebook.com-shallow-20180321-214831-6z6bu-meta.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,331 ERRO root Size of www.funimation.com-shallow-20180321-130741-210dd-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,331 ERRO root Mtime of www.funimation.com-shallow-20180321-130741-210dd-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,331 ERRO root Size of www.funimation.com-shallow-20180321-130741-210dd-meta.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,332 ERRO root Mtime of www.funimation.com-shallow-20180321-130741-210dd-meta.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,332 ERRO root Size of www.ipdinstitute.ch-inf-20180321-183041-1s6k6-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,332 ERRO root Mtime of www.ipdinstitute.ch-inf-20180321-183041-1s6k6-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,332 ERRO root Size of www.ipdinstitute.ch-inf-20180321-183041-1s6k6-meta.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,332 ERRO root Mtime of www.ipdinstitute.ch-inf-20180321-183041-1s6k6-meta.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,332 ERRO root Size of www.messynessychic.com-inf-20180318-220123-3h53p-00013.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,333 ERRO root Mtime of www.messynessychic.com-inf-20180318-220123-3h53p-00013.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,333 ERRO root Size of www.metronews.ca-inf-20180313-051720-4b26f-00024.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,333 ERRO root Mtime of www.metronews.ca-inf-20180313-051720-4b26f-00024.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,333 ERRO root Size of www.metronews.ca-inf-20180313-053851-47n8j-00028.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,333 ERRO root Mtime of www.metronews.ca-inf-20180313-053851-47n8j-00028.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,333 ERRO root Size of www.metronews.ca-inf-20180313-053851-47n8j-00029.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,333 ERRO root Mtime of www.metronews.ca-inf-20180313-053851-47n8j-00029.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,334 ERRO root Size of www.mx.dk-inf-20180313-103719-7kqca-00054.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,334 ERRO root Mtime of www.mx.dk-inf-20180313-103719-7kqca-00054.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,334 ERRO root Size of www.mx.dk-inf-20180313-103719-7kqca-00055.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,334 ERRO root Mtime of www.mx.dk-inf-20180313-103719-7kqca-00055.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,334 ERRO root Size of www.mx.dk-inf-20180313-103719-7kqca-00056.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,334 ERRO root Mtime of www.mx.dk-inf-20180313-103719-7kqca-00056.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,334 ERRO root Size of www.mx.dk-inf-20180313-103719-7kqca-00057.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,334 ERRO root Mtime of www.mx.dk-inf-20180313-103719-7kqca-00057.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,335 ERRO root Size of www.mx.dk-inf-20180313-103719-7kqca-00058.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,335 ERRO root Mtime of www.mx.dk-inf-20180313-103719-7kqca-00058.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,335 ERRO root Size of www.mx.dk-inf-20180313-103719-7kqca-00059.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,335 ERRO root Mtime of www.mx.dk-inf-20180313-103719-7kqca-00059.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,335 ERRO root Size of www.naturalnews.com-inf-20180306-041015-1i25t-00034.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,335 ERRO root Mtime of www.naturalnews.com-inf-20180306-041015-1i25t-00034.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,335 ERRO root Size of www.naturalnews.com-inf-20180306-041015-1i25t-00035.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,335 ERRO root Mtime of www.naturalnews.com-inf-20180306-041015-1i25t-00035.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,336 ERRO root Size of www.newsweek.pl-inf-20180206-002925-bum4j-00046.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,336 ERRO root Mtime of www.newsweek.pl-inf-20180206-002925-bum4j-00046.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,336 ERRO root Size of www.nytimes.com-shallow-20180321-083513-doikb-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,336 ERRO root Mtime of www.nytimes.com-shallow-20180321-083513-doikb-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,336 ERRO root Size of www.nytimes.com-shallow-20180321-083513-doikb-meta.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,336 ERRO root Mtime of www.nytimes.com-shallow-20180321-083513-doikb-meta.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,336 ERRO root Size of www.pokecommunity.com-inf-20180303-150334-61w7z-00012.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,336 ERRO root Mtime of www.pokecommunity.com-inf-20180303-150334-61w7z-00012.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,336 ERRO root Size of www.radionz.co.nz-inf-20180205-004300-77xzc-00852.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,336 ERRO root Mtime of www.radionz.co.nz-inf-20180205-004300-77xzc-00852.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,336 ERRO root Size of www.radionz.co.nz-inf-20180205-004300-77xzc-00853.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,337 ERRO root Mtime of www.radionz.co.nz-inf-20180205-004300-77xzc-00853.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,337 ERRO root Size of www.reddit.com-shallow-20180321-152621-3w88z-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,337 ERRO root Mtime of www.reddit.com-shallow-20180321-152621-3w88z-00000.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,337 ERRO root Size of www.reddit.com-shallow-20180321-152621-3w88z-meta.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,337 ERRO root Mtime of www.reddit.com-shallow-20180321-152621-3w88z-meta.warc.os.cdx.gz is missing
+2018-03-22 12:00:03,527 INFO root Processing item astrid_archivebot_forum_giga_de_20170928
+2018-03-22 12:00:03,528 INFO root Skipping astrid_archivebot_forum_giga_de_20170928.cdx.idx
+2018-03-22 12:00:03,528 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_archive.torrent
+2018-03-22 12:00:03,528 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_files.xml
+2018-03-22 12:00:03,528 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.sqlite
+2018-03-22 12:00:03,528 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.xml
+2018-03-22 12:00:03,843 INFO root Processing item astrid_archivebot_just_stfuhollywood_com_20180318
+2018-03-22 12:00:03,844 INFO root Skipping astrid_archivebot_just_stfuhollywood_com_20180318.cdx.idx
+2018-03-22 12:00:03,844 INFO root Skipping astrid_archivebot_just_stfuhollywood_com_20180318_archive.torrent
+2018-03-22 12:00:03,844 INFO root Skipping astrid_archivebot_just_stfuhollywood_com_20180318_files.xml
+2018-03-22 12:00:03,844 INFO root Skipping astrid_archivebot_just_stfuhollywood_com_20180318_meta.sqlite
+2018-03-22 12:00:03,845 INFO root Skipping astrid_archivebot_just_stfuhollywood_com_20180318_meta.xml
+2018-03-22 12:00:03,968 INFO root Processing item astrid_archivebot_urls-transfer_sh-ukip-websites_20180321
+2018-03-22 12:00:03,968 INFO root Skipping astrid_archivebot_urls-transfer_sh-ukip-websites_20180321.cdx.idx
+2018-03-22 12:00:03,969 INFO root Skipping astrid_archivebot_urls-transfer_sh-ukip-websites_20180321_archive.torrent
+2018-03-22 12:00:03,969 INFO root Skipping astrid_archivebot_urls-transfer_sh-ukip-websites_20180321_files.xml
+2018-03-22 12:00:03,969 INFO root Skipping astrid_archivebot_urls-transfer_sh-ukip-websites_20180321_meta.sqlite
+2018-03-22 12:00:03,969 INFO root Skipping astrid_archivebot_urls-transfer_sh-ukip-websites_20180321_meta.xml
+2018-03-22 12:00:04,118 INFO root Processing item charlierose.com-videos-grab-01
+2018-03-22 12:00:04,119 INFO root Skipping charlierose.com-videos-00000.warc.gz
+2018-03-22 12:00:04,119 INFO root Skipping charlierose.com-videos-00001.warc.gz
+2018-03-22 12:00:04,119 INFO root Skipping charlierose.com-videos-00002.warc.gz
+2018-03-22 12:00:04,119 INFO root Skipping charlierose.com-videos-00003.warc.gz
+2018-03-22 12:00:04,119 INFO root Skipping charlierose.com-videos-00004.warc.gz
+2018-03-22 12:00:04,119 INFO root Skipping charlierose.com-videos-00005.warc.gz
+2018-03-22 12:00:04,120 INFO root Skipping charlierose.com-videos-00006.warc.gz
+2018-03-22 12:00:04,120 INFO root Skipping charlierose.com-videos-00007.warc.gz
+2018-03-22 12:00:04,120 INFO root Skipping charlierose.com-videos-00008.warc.gz
+2018-03-22 12:00:04,120 INFO root Skipping charlierose.com-videos-00009.warc.gz
+2018-03-22 12:00:04,120 INFO root Skipping charlierose.com-videos-00010.warc.gz
+2018-03-22 12:00:04,120 INFO root Skipping charlierose.com-videos-00011.warc.gz
+2018-03-22 12:00:04,120 INFO root Skipping charlierose.com-videos-00012.warc.gz
+2018-03-22 12:00:04,120 INFO root Skipping charlierose.com-videos-00013.warc.gz
+2018-03-22 12:00:04,120 INFO root Skipping charlierose.com-videos-00014.warc.gz
+2018-03-22 12:00:04,120 INFO root Skipping charlierose.com-videos-00015.warc.gz
+2018-03-22 12:00:04,120 INFO root Skipping charlierose.com-videos-00016.warc.gz
+2018-03-22 12:00:04,121 INFO root Skipping charlierose.com-videos-00017.warc.gz
+2018-03-22 12:00:04,121 INFO root Skipping charlierose.com-videos-00018.warc.gz
+2018-03-22 12:00:04,121 INFO root Skipping charlierose.com-videos-00019.warc.gz
+2018-03-22 12:00:04,121 INFO root Skipping charlierose.com-videos-00020.warc.gz
+2018-03-22 12:00:04,121 INFO root Skipping charlierose.com-videos-00021.warc.gz
+2018-03-22 12:00:04,121 INFO root Skipping charlierose.com-videos-00022.warc.gz
+2018-03-22 12:00:04,121 INFO root Skipping charlierose.com-videos-00023.warc.gz
+2018-03-22 12:00:04,121 INFO root Skipping charlierose.com-videos-00024.warc.gz
+2018-03-22 12:00:04,121 INFO root Skipping charlierose.com-videos-00025.warc.gz
+2018-03-22 12:00:04,121 INFO root Skipping charlierose.com-videos-00026.warc.gz
+2018-03-22 12:00:04,122 INFO root Skipping charlierose.com-videos-00027.warc.gz
+2018-03-22 12:00:04,122 INFO root Skipping charlierose.com-videos-00028.warc.gz
+2018-03-22 12:00:04,122 INFO root Skipping charlierose.com-videos-00029.warc.gz
+2018-03-22 12:00:04,122 INFO root Skipping charlierose.com-videos-00030.warc.gz
+2018-03-22 12:00:04,122 INFO root Skipping charlierose.com-videos-00031.warc.gz
+2018-03-22 12:00:04,122 INFO root Skipping charlierose.com-videos-00032.warc.gz
+2018-03-22 12:00:04,122 INFO root Skipping charlierose.com-videos-00033.warc.gz
+2018-03-22 12:00:04,122 INFO root Skipping charlierose.com-videos-00034.warc.gz
+2018-03-22 12:00:04,122 INFO root Skipping charlierose.com-videos-00035.warc.gz
+2018-03-22 12:00:04,122 INFO root Skipping charlierose.com-videos-00036.warc.gz
+2018-03-22 12:00:04,122 INFO root Skipping charlierose.com-videos-00037.warc.gz
+2018-03-22 12:00:04,123 INFO root Skipping charlierose.com-videos-00038.warc.gz
+2018-03-22 12:00:04,123 INFO root Skipping charlierose.com-videos-00039.warc.gz
+2018-03-22 12:00:04,123 INFO root Skipping charlierose.com-videos-00040.warc.gz
+2018-03-22 12:00:04,123 INFO root Skipping charlierose.com-videos-grab-01_archive.torrent
+2018-03-22 12:00:04,123 INFO root Skipping charlierose.com-videos-grab-01_files.xml
+2018-03-22 12:00:04,123 INFO root Skipping charlierose.com-videos-grab-01_meta.sqlite
+2018-03-22 12:00:04,123 INFO root Skipping charlierose.com-videos-grab-01_meta.xml
+2018-03-22 12:00:04,123 INFO root Writing last-update file
+2018-03-22 12:00:04,124 INFO root Done
