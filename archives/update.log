@@ -1,38 +1,117 @@
-2018-03-23 12:00:01,367 DEBU root Last attempt: 2018-03-23T06:00:01Z
-2018-03-23 12:00:01,367 DEBU root Last success: 2018-03-23T06:00:01Z
-2018-03-23 12:00:01,367 INFO root Writing last-update file
-2018-03-23 12:00:01,367 INFO root Query: 'collection:archivebot oai_updatedate:[2018-03-23T06:00:01Z TO null]'
-2018-03-23 12:00:03,051 INFO root Processing item archiveteam_archivebot_go_20180322170001
-2018-03-23 12:00:03,051 INFO root Skipping archiveteam_archivebot_go_20180322170001.cdx.idx
-2018-03-23 12:00:03,052 INFO root Skipping archiveteam_archivebot_go_20180322170001_archive.torrent
-2018-03-23 12:00:03,052 INFO root Skipping archiveteam_archivebot_go_20180322170001_files.xml
-2018-03-23 12:00:03,052 INFO root Skipping archiveteam_archivebot_go_20180322170001_meta.sqlite
-2018-03-23 12:00:03,052 INFO root Skipping archiveteam_archivebot_go_20180322170001_meta.xml
-2018-03-23 12:00:03,167 INFO root Processing item archiveteam_archivebot_go_20180323060001
-2018-03-23 12:00:03,167 INFO root Skipping archiveteam_archivebot_go_20180323060001_archive.torrent
-2018-03-23 12:00:03,167 INFO root Skipping archiveteam_archivebot_go_20180323060001_files.xml
-2018-03-23 12:00:03,167 INFO root Skipping archiveteam_archivebot_go_20180323060001_meta.sqlite
-2018-03-23 12:00:03,168 INFO root Skipping archiveteam_archivebot_go_20180323060001_meta.xml
-2018-03-23 12:00:03,758 INFO root Processing item astrid_archivebot_just_stfuhollywood_com_20180318
-2018-03-23 12:00:03,761 INFO root Skipping astrid_archivebot_just_stfuhollywood_com_20180318.cdx.idx
-2018-03-23 12:00:03,761 INFO root Skipping astrid_archivebot_just_stfuhollywood_com_20180318_archive.torrent
-2018-03-23 12:00:03,762 INFO root Skipping astrid_archivebot_just_stfuhollywood_com_20180318_files.xml
-2018-03-23 12:00:03,762 INFO root Skipping astrid_archivebot_just_stfuhollywood_com_20180318_meta.sqlite
-2018-03-23 12:00:03,762 INFO root Skipping astrid_archivebot_just_stfuhollywood_com_20180318_meta.xml
-2018-03-23 12:00:03,875 INFO root Processing item charlierose.com-videos-grab-04
-2018-03-23 12:00:03,875 INFO root Skipping charlierose.com-videos-00300.warc.gz
-2018-03-23 12:00:03,875 INFO root Skipping charlierose.com-videos-00301.warc.gz
-2018-03-23 12:00:03,875 INFO root Skipping charlierose.com-videos-00302.warc.gz
-2018-03-23 12:00:03,875 INFO root Skipping charlierose.com-videos-00303.warc.gz
-2018-03-23 12:00:03,875 INFO root Skipping charlierose.com-videos-00304.warc.gz
-2018-03-23 12:00:03,876 INFO root Skipping charlierose.com-videos-00305.warc.gz
-2018-03-23 12:00:03,876 INFO root Skipping charlierose.com-videos-00306.warc.gz
-2018-03-23 12:00:03,876 INFO root Skipping charlierose.com-videos-00307.warc.gz
-2018-03-23 12:00:03,876 INFO root Skipping charlierose.com-videos-00308.warc.gz
-2018-03-23 12:00:03,876 INFO root Skipping charlierose.com-videos-00309.warc.gz
-2018-03-23 12:00:03,876 INFO root Skipping charlierose.com-videos-grab-04_archive.torrent
-2018-03-23 12:00:03,876 INFO root Skipping charlierose.com-videos-grab-04_files.xml
-2018-03-23 12:00:03,876 INFO root Skipping charlierose.com-videos-grab-04_meta.sqlite
-2018-03-23 12:00:03,876 INFO root Skipping charlierose.com-videos-grab-04_meta.xml
-2018-03-23 12:00:03,877 INFO root Writing last-update file
-2018-03-23 12:00:03,877 INFO root Done
+2018-03-23 18:00:01,665 DEBU root Last attempt: 2018-03-23T12:00:01Z
+2018-03-23 18:00:01,666 DEBU root Last success: 2018-03-23T12:00:01Z
+2018-03-23 18:00:01,666 INFO root Writing last-update file
+2018-03-23 18:00:01,667 INFO root Query: 'collection:archivebot oai_updatedate:[2018-03-23T12:00:01Z TO null]'
+2018-03-23 18:00:02,976 INFO root Processing item archiveteam_archivebot_go_20180323060001
+2018-03-23 18:00:02,976 INFO root Skipping archiveteam_archivebot_go_20180323060001_archive.torrent
+2018-03-23 18:00:02,976 INFO root Skipping archiveteam_archivebot_go_20180323060001_files.xml
+2018-03-23 18:00:02,976 INFO root Skipping archiveteam_archivebot_go_20180323060001_meta.sqlite
+2018-03-23 18:00:02,977 INFO root Skipping archiveteam_archivebot_go_20180323060001_meta.xml
+2018-03-23 18:00:03,510 INFO root Processing item charlierose.com-videos-grab-01
+2018-03-23 18:00:03,510 INFO root Skipping charlierose.com-videos-00000.warc.gz
+2018-03-23 18:00:03,511 INFO root Skipping charlierose.com-videos-00001.warc.gz
+2018-03-23 18:00:03,511 INFO root Skipping charlierose.com-videos-00002.warc.gz
+2018-03-23 18:00:03,511 INFO root Skipping charlierose.com-videos-00003.warc.gz
+2018-03-23 18:00:03,511 INFO root Skipping charlierose.com-videos-00004.warc.gz
+2018-03-23 18:00:03,511 INFO root Skipping charlierose.com-videos-00005.warc.gz
+2018-03-23 18:00:03,511 INFO root Skipping charlierose.com-videos-00006.warc.gz
+2018-03-23 18:00:03,511 INFO root Skipping charlierose.com-videos-00007.warc.gz
+2018-03-23 18:00:03,512 INFO root Skipping charlierose.com-videos-00008.warc.gz
+2018-03-23 18:00:03,512 INFO root Skipping charlierose.com-videos-00009.warc.gz
+2018-03-23 18:00:03,512 INFO root Skipping charlierose.com-videos-00010.warc.gz
+2018-03-23 18:00:03,512 INFO root Skipping charlierose.com-videos-00011.warc.gz
+2018-03-23 18:00:03,512 INFO root Skipping charlierose.com-videos-00012.warc.gz
+2018-03-23 18:00:03,512 INFO root Skipping charlierose.com-videos-00013.warc.gz
+2018-03-23 18:00:03,513 INFO root Skipping charlierose.com-videos-00014.warc.gz
+2018-03-23 18:00:03,513 INFO root Skipping charlierose.com-videos-00015.warc.gz
+2018-03-23 18:00:03,513 INFO root Skipping charlierose.com-videos-00016.warc.gz
+2018-03-23 18:00:03,513 INFO root Skipping charlierose.com-videos-00017.warc.gz
+2018-03-23 18:00:03,513 INFO root Skipping charlierose.com-videos-00018.warc.gz
+2018-03-23 18:00:03,514 INFO root Skipping charlierose.com-videos-00019.warc.gz
+2018-03-23 18:00:03,514 INFO root Skipping charlierose.com-videos-00020.warc.gz
+2018-03-23 18:00:03,514 INFO root Skipping charlierose.com-videos-00021.warc.gz
+2018-03-23 18:00:03,514 INFO root Skipping charlierose.com-videos-00022.warc.gz
+2018-03-23 18:00:03,514 INFO root Skipping charlierose.com-videos-00023.warc.gz
+2018-03-23 18:00:03,514 INFO root Skipping charlierose.com-videos-00024.warc.gz
+2018-03-23 18:00:03,514 INFO root Skipping charlierose.com-videos-00025.warc.gz
+2018-03-23 18:00:03,515 INFO root Skipping charlierose.com-videos-00026.warc.gz
+2018-03-23 18:00:03,515 INFO root Skipping charlierose.com-videos-00027.warc.gz
+2018-03-23 18:00:03,515 INFO root Skipping charlierose.com-videos-00028.warc.gz
+2018-03-23 18:00:03,515 INFO root Skipping charlierose.com-videos-00029.warc.gz
+2018-03-23 18:00:03,515 INFO root Skipping charlierose.com-videos-00030.warc.gz
+2018-03-23 18:00:03,515 INFO root Skipping charlierose.com-videos-00031.warc.gz
+2018-03-23 18:00:03,516 INFO root Skipping charlierose.com-videos-00032.warc.gz
+2018-03-23 18:00:03,516 INFO root Skipping charlierose.com-videos-00033.warc.gz
+2018-03-23 18:00:03,516 INFO root Skipping charlierose.com-videos-00034.warc.gz
+2018-03-23 18:00:03,516 INFO root Skipping charlierose.com-videos-00035.warc.gz
+2018-03-23 18:00:03,516 INFO root Skipping charlierose.com-videos-00036.warc.gz
+2018-03-23 18:00:03,516 INFO root Skipping charlierose.com-videos-00037.warc.gz
+2018-03-23 18:00:03,517 INFO root Skipping charlierose.com-videos-00038.warc.gz
+2018-03-23 18:00:03,517 INFO root Skipping charlierose.com-videos-00039.warc.gz
+2018-03-23 18:00:03,517 INFO root Skipping charlierose.com-videos-00040.warc.gz
+2018-03-23 18:00:03,517 INFO root Skipping charlierose.com-videos-00041.warc.gz
+2018-03-23 18:00:03,517 INFO root Skipping charlierose.com-videos-00042.warc.gz
+2018-03-23 18:00:03,518 INFO root Skipping charlierose.com-videos-00043.warc.gz
+2018-03-23 18:00:03,518 INFO root Skipping charlierose.com-videos-00044.warc.gz
+2018-03-23 18:00:03,518 INFO root Skipping charlierose.com-videos-00045.warc.gz
+2018-03-23 18:00:03,518 INFO root Skipping charlierose.com-videos-00046.warc.gz
+2018-03-23 18:00:03,518 INFO root Skipping charlierose.com-videos-00047.warc.gz
+2018-03-23 18:00:03,518 INFO root Skipping charlierose.com-videos-00048.warc.gz
+2018-03-23 18:00:03,518 INFO root Skipping charlierose.com-videos-00049.warc.gz
+2018-03-23 18:00:03,519 INFO root Skipping charlierose.com-videos-00050.warc.gz
+2018-03-23 18:00:03,519 INFO root Skipping charlierose.com-videos-00051.warc.gz
+2018-03-23 18:00:03,519 INFO root Skipping charlierose.com-videos-00052.warc.gz
+2018-03-23 18:00:03,519 INFO root Skipping charlierose.com-videos-00053.warc.gz
+2018-03-23 18:00:03,519 INFO root Skipping charlierose.com-videos-00054.warc.gz
+2018-03-23 18:00:03,519 INFO root Skipping charlierose.com-videos-00055.warc.gz
+2018-03-23 18:00:03,519 INFO root Skipping charlierose.com-videos-00056.warc.gz
+2018-03-23 18:00:03,520 INFO root Skipping charlierose.com-videos-00057.warc.gz
+2018-03-23 18:00:03,520 INFO root Skipping charlierose.com-videos-00058.warc.gz
+2018-03-23 18:00:03,520 INFO root Skipping charlierose.com-videos-00059.warc.gz
+2018-03-23 18:00:03,520 INFO root Skipping charlierose.com-videos-00060.warc.gz
+2018-03-23 18:00:03,520 INFO root Skipping charlierose.com-videos-00061.warc.gz
+2018-03-23 18:00:03,520 INFO root Skipping charlierose.com-videos-00062.warc.gz
+2018-03-23 18:00:03,520 INFO root Skipping charlierose.com-videos-00063.warc.gz
+2018-03-23 18:00:03,521 INFO root Skipping charlierose.com-videos-00064.warc.gz
+2018-03-23 18:00:03,521 INFO root Skipping charlierose.com-videos-00065.warc.gz
+2018-03-23 18:00:03,521 INFO root Skipping charlierose.com-videos-00066.warc.gz
+2018-03-23 18:00:03,521 INFO root Skipping charlierose.com-videos-00067.warc.gz
+2018-03-23 18:00:03,521 INFO root Skipping charlierose.com-videos-00068.warc.gz
+2018-03-23 18:00:03,521 INFO root Skipping charlierose.com-videos-00069.warc.gz
+2018-03-23 18:00:03,522 INFO root Skipping charlierose.com-videos-00070.warc.gz
+2018-03-23 18:00:03,522 INFO root Skipping charlierose.com-videos-00071.warc.gz
+2018-03-23 18:00:03,522 INFO root Skipping charlierose.com-videos-00072.warc.gz
+2018-03-23 18:00:03,522 INFO root Skipping charlierose.com-videos-00073.warc.gz
+2018-03-23 18:00:03,522 INFO root Skipping charlierose.com-videos-00074.warc.gz
+2018-03-23 18:00:03,522 INFO root Skipping charlierose.com-videos-00075.warc.gz
+2018-03-23 18:00:03,523 INFO root Skipping charlierose.com-videos-00076.warc.gz
+2018-03-23 18:00:03,523 INFO root Skipping charlierose.com-videos-00077.warc.gz
+2018-03-23 18:00:03,523 INFO root Skipping charlierose.com-videos-00078.warc.gz
+2018-03-23 18:00:03,523 INFO root Skipping charlierose.com-videos-00079.warc.gz
+2018-03-23 18:00:03,523 INFO root Skipping charlierose.com-videos-00080.warc.gz
+2018-03-23 18:00:03,523 INFO root Skipping charlierose.com-videos-00081.warc.gz
+2018-03-23 18:00:03,523 INFO root Skipping charlierose.com-videos-00082.warc.gz
+2018-03-23 18:00:03,524 INFO root Skipping charlierose.com-videos-00083.warc.gz
+2018-03-23 18:00:03,524 INFO root Skipping charlierose.com-videos-00084.warc.gz
+2018-03-23 18:00:03,524 INFO root Skipping charlierose.com-videos-00085.warc.gz
+2018-03-23 18:00:03,524 INFO root Skipping charlierose.com-videos-00086.warc.gz
+2018-03-23 18:00:03,524 INFO root Skipping charlierose.com-videos-00087.warc.gz
+2018-03-23 18:00:03,524 INFO root Skipping charlierose.com-videos-00088.warc.gz
+2018-03-23 18:00:03,524 INFO root Skipping charlierose.com-videos-00089.warc.gz
+2018-03-23 18:00:03,525 INFO root Skipping charlierose.com-videos-00090.warc.gz
+2018-03-23 18:00:03,525 INFO root Skipping charlierose.com-videos-00091.warc.gz
+2018-03-23 18:00:03,525 INFO root Skipping charlierose.com-videos-00092.warc.gz
+2018-03-23 18:00:03,525 INFO root Skipping charlierose.com-videos-00093.warc.gz
+2018-03-23 18:00:03,525 INFO root Skipping charlierose.com-videos-00094.warc.gz
+2018-03-23 18:00:03,525 INFO root Skipping charlierose.com-videos-00095.warc.gz
+2018-03-23 18:00:03,525 INFO root Skipping charlierose.com-videos-00096.warc.gz
+2018-03-23 18:00:03,526 INFO root Skipping charlierose.com-videos-00097.warc.gz
+2018-03-23 18:00:03,526 INFO root Skipping charlierose.com-videos-00098.warc.gz
+2018-03-23 18:00:03,526 INFO root Skipping charlierose.com-videos-00099.warc.gz
+2018-03-23 18:00:03,526 INFO root Skipping charlierose.com-videos-grab-01.cdx.idx
+2018-03-23 18:00:03,526 INFO root Skipping charlierose.com-videos-grab-01_archive.torrent
+2018-03-23 18:00:03,526 INFO root Skipping charlierose.com-videos-grab-01_files.xml
+2018-03-23 18:00:03,526 INFO root Skipping charlierose.com-videos-grab-01_meta.sqlite
+2018-03-23 18:00:03,527 INFO root Skipping charlierose.com-videos-grab-01_meta.xml
+2018-03-23 18:00:03,527 INFO root Writing last-update file
+2018-03-23 18:00:03,527 INFO root Done
