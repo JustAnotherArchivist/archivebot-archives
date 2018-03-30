@@ -1,54 +1,53 @@
-2018-03-30 06:00:02,328 DEBU root Last attempt: 2018-03-30T00:00:01Z
-2018-03-30 06:00:02,329 DEBU root Last success: 2018-03-30T00:00:01Z
-2018-03-30 06:00:02,329 INFO root Writing last-update file
-2018-03-30 06:00:02,330 INFO root Query: 'collection:archivebot oai_updatedate:[2018-03-30T00:00:01Z TO null]'
-2018-03-30 06:00:03,525 INFO root Processing item archiveteam_archivebot_go_20180329140001
-2018-03-30 06:00:03,526 INFO root Skipping archiveteam_archivebot_go_20180329140001.cdx.idx
-2018-03-30 06:00:03,526 INFO root Skipping archiveteam_archivebot_go_20180329140001_archive.torrent
-2018-03-30 06:00:03,526 INFO root Skipping archiveteam_archivebot_go_20180329140001_files.xml
-2018-03-30 06:00:03,526 INFO root Skipping archiveteam_archivebot_go_20180329140001_meta.sqlite
-2018-03-30 06:00:03,526 INFO root Skipping archiveteam_archivebot_go_20180329140001_meta.xml
-2018-03-30 06:00:03,708 INFO root Processing item archiveteam_archivebot_go_20180329200001
-2018-03-30 06:00:03,709 ERRO root Size of aomedia.org-inf-20180329-155629-83bz6-00000.warc.os.cdx.gz is missing
-2018-03-30 06:00:03,709 ERRO root Mtime of aomedia.org-inf-20180329-155629-83bz6-00000.warc.os.cdx.gz is missing
-2018-03-30 06:00:03,709 INFO root Skipping archiveteam_archivebot_go_20180329200001_archive.torrent
-2018-03-30 06:00:03,709 INFO root Skipping archiveteam_archivebot_go_20180329200001_files.xml
-2018-03-30 06:00:03,709 INFO root Skipping archiveteam_archivebot_go_20180329200001_meta.sqlite
-2018-03-30 06:00:03,709 INFO root Skipping archiveteam_archivebot_go_20180329200001_meta.xml
-2018-03-30 06:00:03,710 ERRO root Size of imgur.com-shallow-20180329-181207-8jygt-meta.warc.os.cdx.gz is missing
-2018-03-30 06:00:03,710 ERRO root Mtime of imgur.com-shallow-20180329-181207-8jygt-meta.warc.os.cdx.gz is missing
-2018-03-30 06:00:03,710 ERRO root Size of molbiol.ru-inf-20180327-060934-19lpz-00006.warc.os.cdx.gz is missing
-2018-03-30 06:00:03,710 ERRO root Mtime of molbiol.ru-inf-20180327-060934-19lpz-00006.warc.os.cdx.gz is missing
-2018-03-30 06:00:03,710 ERRO root Size of molbiol.ru-inf-20180327-060934-19lpz-00007.warc.os.cdx.gz is missing
-2018-03-30 06:00:03,710 ERRO root Mtime of molbiol.ru-inf-20180327-060934-19lpz-00007.warc.os.cdx.gz is missing
-2018-03-30 06:00:03,711 ERRO root Size of molbiol.ru-inf-20180327-060934-19lpz-00008.warc.os.cdx.gz is missing
-2018-03-30 06:00:03,711 ERRO root Mtime of molbiol.ru-inf-20180327-060934-19lpz-00008.warc.os.cdx.gz is missing
-2018-03-30 06:00:03,711 ERRO root Size of molbiol.ru-inf-20180327-060934-19lpz-00009.warc.os.cdx.gz is missing
-2018-03-30 06:00:03,711 ERRO root Mtime of molbiol.ru-inf-20180327-060934-19lpz-00009.warc.os.cdx.gz is missing
-2018-03-30 06:00:03,711 ERRO root Size of respubca.home.xs4all.nl-inf-20180329-183821-60329-meta.warc.os.cdx.gz is missing
-2018-03-30 06:00:03,711 ERRO root Mtime of respubca.home.xs4all.nl-inf-20180329-183821-60329-meta.warc.os.cdx.gz is missing
-2018-03-30 06:00:03,832 INFO root Processing item archiveteam_archivebot_go_20180330030001
-2018-03-30 06:00:03,832 INFO root Skipping archiveteam_archivebot_go_20180330030001_archive.torrent
-2018-03-30 06:00:03,833 INFO root Skipping archiveteam_archivebot_go_20180330030001_files.xml
-2018-03-30 06:00:03,833 INFO root Skipping archiveteam_archivebot_go_20180330030001_meta.sqlite
-2018-03-30 06:00:03,833 INFO root Skipping archiveteam_archivebot_go_20180330030001_meta.xml
-2018-03-30 06:00:03,940 INFO root Processing item astrid_archivebot_blog_rust-lang_org_20180329
-2018-03-30 06:00:03,940 INFO root Skipping astrid_archivebot_blog_rust-lang_org_20180329.cdx.idx
-2018-03-30 06:00:03,940 INFO root Skipping astrid_archivebot_blog_rust-lang_org_20180329_archive.torrent
-2018-03-30 06:00:03,941 INFO root Skipping astrid_archivebot_blog_rust-lang_org_20180329_files.xml
-2018-03-30 06:00:03,941 INFO root Skipping astrid_archivebot_blog_rust-lang_org_20180329_meta.sqlite
-2018-03-30 06:00:03,941 INFO root Skipping astrid_archivebot_blog_rust-lang_org_20180329_meta.xml
-2018-03-30 06:00:04,126 INFO root Processing item astrid_archivebot_users_cs_duke_edu_20180329
-2018-03-30 06:00:04,126 INFO root Skipping astrid_archivebot_users_cs_duke_edu_20180329.cdx.idx
-2018-03-30 06:00:04,126 INFO root Skipping astrid_archivebot_users_cs_duke_edu_20180329_archive.torrent
-2018-03-30 06:00:04,127 INFO root Skipping astrid_archivebot_users_cs_duke_edu_20180329_files.xml
-2018-03-30 06:00:04,127 INFO root Skipping astrid_archivebot_users_cs_duke_edu_20180329_meta.sqlite
-2018-03-30 06:00:04,127 INFO root Skipping astrid_archivebot_users_cs_duke_edu_20180329_meta.xml
-2018-03-30 06:00:04,239 INFO root Processing item astrid_archivebot_vterrain_org_20180329
-2018-03-30 06:00:04,239 INFO root Skipping astrid_archivebot_vterrain_org_20180329.cdx.idx
-2018-03-30 06:00:04,239 INFO root Skipping astrid_archivebot_vterrain_org_20180329_archive.torrent
-2018-03-30 06:00:04,239 INFO root Skipping astrid_archivebot_vterrain_org_20180329_files.xml
-2018-03-30 06:00:04,240 INFO root Skipping astrid_archivebot_vterrain_org_20180329_meta.sqlite
-2018-03-30 06:00:04,240 INFO root Skipping astrid_archivebot_vterrain_org_20180329_meta.xml
-2018-03-30 06:00:04,240 INFO root Writing last-update file
-2018-03-30 06:00:04,240 INFO root Done
+2018-03-30 12:00:01,671 DEBU root Last attempt: 2018-03-30T06:00:02Z
+2018-03-30 12:00:01,672 DEBU root Last success: 2018-03-30T06:00:02Z
+2018-03-30 12:00:01,672 INFO root Writing last-update file
+2018-03-30 12:00:01,673 INFO root Query: 'collection:archivebot oai_updatedate:[2018-03-30T06:00:02Z TO null]'
+2018-03-30 12:00:04,428 INFO root Processing item archiveteam_archivebot_go_20180329200001
+2018-03-30 12:00:04,428 INFO root Skipping archiveteam_archivebot_go_20180329200001.cdx.idx
+2018-03-30 12:00:04,428 INFO root Skipping archiveteam_archivebot_go_20180329200001_archive.torrent
+2018-03-30 12:00:04,428 INFO root Skipping archiveteam_archivebot_go_20180329200001_files.xml
+2018-03-30 12:00:04,429 INFO root Skipping archiveteam_archivebot_go_20180329200001_meta.sqlite
+2018-03-30 12:00:04,429 INFO root Skipping archiveteam_archivebot_go_20180329200001_meta.xml
+2018-03-30 12:00:04,624 INFO root Processing item archiveteam_archivebot_go_20180330110001
+2018-03-30 12:00:04,626 INFO root Skipping archiveteam_archivebot_go_20180330110001_archive.torrent
+2018-03-30 12:00:04,626 INFO root Skipping archiveteam_archivebot_go_20180330110001_files.xml
+2018-03-30 12:00:04,626 INFO root Skipping archiveteam_archivebot_go_20180330110001_meta.sqlite
+2018-03-30 12:00:04,626 INFO root Skipping archiveteam_archivebot_go_20180330110001_meta.xml
+2018-03-30 12:00:05,728 INFO root Processing item astrid_archivebot_canskickstarter_blogspot_com_20180329
+2018-03-30 12:00:05,731 INFO root Skipping astrid_archivebot_canskickstarter_blogspot_com_20180329.cdx.idx
+2018-03-30 12:00:05,732 INFO root Skipping astrid_archivebot_canskickstarter_blogspot_com_20180329_archive.torrent
+2018-03-30 12:00:05,732 INFO root Skipping astrid_archivebot_canskickstarter_blogspot_com_20180329_files.xml
+2018-03-30 12:00:05,732 INFO root Skipping astrid_archivebot_canskickstarter_blogspot_com_20180329_meta.sqlite
+2018-03-30 12:00:05,732 INFO root Skipping astrid_archivebot_canskickstarter_blogspot_com_20180329_meta.xml
+2018-03-30 12:00:05,977 INFO root Processing item astrid_archivebot_johnk-jboop_blogspot_com_20180329
+2018-03-30 12:00:05,979 INFO root Skipping astrid_archivebot_johnk-jboop_blogspot_com_20180329.cdx.idx
+2018-03-30 12:00:05,979 INFO root Skipping astrid_archivebot_johnk-jboop_blogspot_com_20180329_archive.torrent
+2018-03-30 12:00:05,979 INFO root Skipping astrid_archivebot_johnk-jboop_blogspot_com_20180329_files.xml
+2018-03-30 12:00:05,979 INFO root Skipping astrid_archivebot_johnk-jboop_blogspot_com_20180329_meta.sqlite
+2018-03-30 12:00:05,979 INFO root Skipping astrid_archivebot_johnk-jboop_blogspot_com_20180329_meta.xml
+2018-03-30 12:00:06,212 INFO root Processing item astrid_archivebot_johnkpitch_blogspot_com_20180329
+2018-03-30 12:00:06,215 INFO root Skipping astrid_archivebot_johnkpitch_blogspot_com_20180329.cdx.idx
+2018-03-30 12:00:06,216 INFO root Skipping astrid_archivebot_johnkpitch_blogspot_com_20180329_archive.torrent
+2018-03-30 12:00:06,216 INFO root Skipping astrid_archivebot_johnkpitch_blogspot_com_20180329_files.xml
+2018-03-30 12:00:06,216 INFO root Skipping astrid_archivebot_johnkpitch_blogspot_com_20180329_meta.sqlite
+2018-03-30 12:00:06,216 INFO root Skipping astrid_archivebot_johnkpitch_blogspot_com_20180329_meta.xml
+2018-03-30 12:00:06,317 INFO root Processing item astrid_archivebot_news_povray_org_20180330
+2018-03-30 12:00:06,317 INFO root Skipping astrid_archivebot_news_povray_org_20180330.cdx.idx
+2018-03-30 12:00:06,317 INFO root Skipping astrid_archivebot_news_povray_org_20180330_archive.torrent
+2018-03-30 12:00:06,318 INFO root Skipping astrid_archivebot_news_povray_org_20180330_files.xml
+2018-03-30 12:00:06,318 INFO root Skipping astrid_archivebot_news_povray_org_20180330_meta.sqlite
+2018-03-30 12:00:06,318 INFO root Skipping astrid_archivebot_news_povray_org_20180330_meta.xml
+2018-03-30 12:00:06,579 INFO root Processing item astrid_archivebot_testjohnktest_blogspot_com_20180329
+2018-03-30 12:00:06,580 INFO root Skipping astrid_archivebot_testjohnktest_blogspot_com_20180329.cdx.idx
+2018-03-30 12:00:06,581 INFO root Skipping astrid_archivebot_testjohnktest_blogspot_com_20180329_archive.torrent
+2018-03-30 12:00:06,581 INFO root Skipping astrid_archivebot_testjohnktest_blogspot_com_20180329_files.xml
+2018-03-30 12:00:06,581 INFO root Skipping astrid_archivebot_testjohnktest_blogspot_com_20180329_meta.sqlite
+2018-03-30 12:00:06,581 INFO root Skipping astrid_archivebot_testjohnktest_blogspot_com_20180329_meta.xml
+2018-03-30 12:00:06,735 INFO root Processing item astrid_archivebot_vterrain_org_20180329
+2018-03-30 12:00:06,736 INFO root Skipping astrid_archivebot_vterrain_org_20180329.cdx.idx
+2018-03-30 12:00:06,736 INFO root Skipping astrid_archivebot_vterrain_org_20180329_archive.torrent
+2018-03-30 12:00:06,736 INFO root Skipping astrid_archivebot_vterrain_org_20180329_files.xml
+2018-03-30 12:00:06,736 INFO root Skipping astrid_archivebot_vterrain_org_20180329_meta.sqlite
+2018-03-30 12:00:06,736 INFO root Skipping astrid_archivebot_vterrain_org_20180329_meta.xml
+2018-03-30 12:00:06,737 INFO root Writing last-update file
+2018-03-30 12:00:06,737 INFO root Done
