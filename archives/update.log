@@ -1,28 +1,82 @@
-2018-03-29 18:00:02,180 DEBU root Last attempt: 2018-03-29T12:00:01Z
-2018-03-29 18:00:02,181 DEBU root Last success: 2018-03-29T12:00:01Z
-2018-03-29 18:00:02,181 INFO root Writing last-update file
-2018-03-29 18:00:02,182 INFO root Query: 'collection:archivebot oai_updatedate:[2018-03-29T12:00:01Z TO null]'
-2018-03-29 18:00:03,489 INFO root Processing item archiveteam_archivebot_go_20180329060001
-2018-03-29 18:00:03,489 INFO root Skipping archiveteam_archivebot_go_20180329060001_archive.torrent
-2018-03-29 18:00:03,490 INFO root Skipping archiveteam_archivebot_go_20180329060001_files.xml
-2018-03-29 18:00:03,490 INFO root Skipping archiveteam_archivebot_go_20180329060001_meta.sqlite
-2018-03-29 18:00:03,490 INFO root Skipping archiveteam_archivebot_go_20180329060001_meta.xml
-2018-03-29 18:00:03,733 INFO root Processing item archiveteam_archivebot_go_20180329140001
-2018-03-29 18:00:03,734 INFO root Skipping archiveteam_archivebot_go_20180329140001_archive.torrent
-2018-03-29 18:00:03,734 INFO root Skipping archiveteam_archivebot_go_20180329140001_files.xml
-2018-03-29 18:00:03,734 INFO root Skipping archiveteam_archivebot_go_20180329140001_meta.sqlite
-2018-03-29 18:00:03,734 INFO root Skipping archiveteam_archivebot_go_20180329140001_meta.xml
-2018-03-29 18:00:03,905 INFO root Processing item astrid_archivebot_ftp_apc_com_20180329
-2018-03-29 18:00:03,905 INFO root Skipping astrid_archivebot_ftp_apc_com_20180329.cdx.idx
-2018-03-29 18:00:03,906 INFO root Skipping astrid_archivebot_ftp_apc_com_20180329_archive.torrent
-2018-03-29 18:00:03,906 INFO root Skipping astrid_archivebot_ftp_apc_com_20180329_files.xml
-2018-03-29 18:00:03,906 INFO root Skipping astrid_archivebot_ftp_apc_com_20180329_meta.sqlite
-2018-03-29 18:00:03,906 INFO root Skipping astrid_archivebot_ftp_apc_com_20180329_meta.xml
-2018-03-29 18:00:04,136 INFO root Processing item astrid_archivebot_www_startribune_com_20180329
-2018-03-29 18:00:04,136 INFO root Skipping astrid_archivebot_www_startribune_com_20180329.cdx.idx
-2018-03-29 18:00:04,136 INFO root Skipping astrid_archivebot_www_startribune_com_20180329_archive.torrent
-2018-03-29 18:00:04,136 INFO root Skipping astrid_archivebot_www_startribune_com_20180329_files.xml
-2018-03-29 18:00:04,137 INFO root Skipping astrid_archivebot_www_startribune_com_20180329_meta.sqlite
-2018-03-29 18:00:04,137 INFO root Skipping astrid_archivebot_www_startribune_com_20180329_meta.xml
-2018-03-29 18:00:04,137 INFO root Writing last-update file
-2018-03-29 18:00:04,138 INFO root Done
+2018-03-30 00:00:01,688 DEBU root Last attempt: 2018-03-29T18:00:02Z
+2018-03-30 00:00:01,689 DEBU root Last success: 2018-03-29T18:00:02Z
+2018-03-30 00:00:01,689 INFO root Writing last-update file
+2018-03-30 00:00:01,690 INFO root Query: 'collection:archivebot oai_updatedate:[2018-03-29T18:00:02Z TO null]'
+2018-03-30 00:00:02,812 INFO root Processing item archiveteam_archivebot_go_20180329060001
+2018-03-30 00:00:02,813 INFO root Skipping archiveteam_archivebot_go_20180329060001.cdx.idx
+2018-03-30 00:00:02,813 INFO root Skipping archiveteam_archivebot_go_20180329060001_archive.torrent
+2018-03-30 00:00:02,813 INFO root Skipping archiveteam_archivebot_go_20180329060001_files.xml
+2018-03-30 00:00:02,813 INFO root Skipping archiveteam_archivebot_go_20180329060001_meta.sqlite
+2018-03-30 00:00:02,813 INFO root Skipping archiveteam_archivebot_go_20180329060001_meta.xml
+2018-03-30 00:00:03,243 INFO root Processing item archiveteam_archivebot_go_20180329140001
+2018-03-30 00:00:03,244 INFO root Skipping archiveteam_archivebot_go_20180329140001_archive.torrent
+2018-03-30 00:00:03,244 INFO root Skipping archiveteam_archivebot_go_20180329140001_files.xml
+2018-03-30 00:00:03,244 INFO root Skipping archiveteam_archivebot_go_20180329140001_meta.sqlite
+2018-03-30 00:00:03,244 INFO root Skipping archiveteam_archivebot_go_20180329140001_meta.xml
+2018-03-30 00:00:03,244 ERRO root Size of gothamist.com-inf-20180224-074728-es4w5-00068.warc.os.cdx.gz is missing
+2018-03-30 00:00:03,244 ERRO root Mtime of gothamist.com-inf-20180224-074728-es4w5-00068.warc.os.cdx.gz is missing
+2018-03-30 00:00:03,244 ERRO root Size of kigb.emuunlim.com-inf-20180329-102725-ak0vq-00000.warc.os.cdx.gz is missing
+2018-03-30 00:00:03,244 ERRO root Mtime of kigb.emuunlim.com-inf-20180329-102725-ak0vq-00000.warc.os.cdx.gz is missing
+2018-03-30 00:00:03,245 ERRO root Size of kigb.emuunlim.com-inf-20180329-102725-ak0vq-meta.warc.os.cdx.gz is missing
+2018-03-30 00:00:03,245 ERRO root Mtime of kigb.emuunlim.com-inf-20180329-102725-ak0vq-meta.warc.os.cdx.gz is missing
+2018-03-30 00:00:03,245 ERRO root Size of molbiol.ru-inf-20180327-060934-19lpz-00003.warc.os.cdx.gz is missing
+2018-03-30 00:00:03,245 ERRO root Mtime of molbiol.ru-inf-20180327-060934-19lpz-00003.warc.os.cdx.gz is missing
+2018-03-30 00:00:03,245 ERRO root Size of molbiol.ru-inf-20180327-060934-19lpz-00004.warc.os.cdx.gz is missing
+2018-03-30 00:00:03,245 ERRO root Mtime of molbiol.ru-inf-20180327-060934-19lpz-00004.warc.os.cdx.gz is missing
+2018-03-30 00:00:03,246 ERRO root Size of molbiol.ru-inf-20180327-060934-19lpz-00005.warc.os.cdx.gz is missing
+2018-03-30 00:00:03,246 ERRO root Mtime of molbiol.ru-inf-20180327-060934-19lpz-00005.warc.os.cdx.gz is missing
+2018-03-30 00:00:03,246 ERRO root Size of niketalk.com-inf-20180326-183642-24ihf-00008.warc.os.cdx.gz is missing
+2018-03-30 00:00:03,246 ERRO root Mtime of niketalk.com-inf-20180326-183642-24ihf-00008.warc.os.cdx.gz is missing
+2018-03-30 00:00:03,246 ERRO root Size of pages.uoregon.edu-inf-20180329-093132-1qfbi-00000.warc.os.cdx.gz is missing
+2018-03-30 00:00:03,246 ERRO root Mtime of pages.uoregon.edu-inf-20180329-093132-1qfbi-00000.warc.os.cdx.gz is missing
+2018-03-30 00:00:03,246 ERRO root Size of pages.uoregon.edu-inf-20180329-093132-1qfbi-meta.warc.os.cdx.gz is missing
+2018-03-30 00:00:03,247 ERRO root Mtime of pages.uoregon.edu-inf-20180329-093132-1qfbi-meta.warc.os.cdx.gz is missing
+2018-03-30 00:00:03,247 ERRO root Size of pr0gramm.com-inf-20180328-155410-7r1jz-00020.warc.os.cdx.gz is missing
+2018-03-30 00:00:03,247 ERRO root Mtime of pr0gramm.com-inf-20180328-155410-7r1jz-00020.warc.os.cdx.gz is missing
+2018-03-30 00:00:03,247 ERRO root Size of pr0gramm.com-inf-20180328-155410-7r1jz-00021.warc.os.cdx.gz is missing
+2018-03-30 00:00:03,247 ERRO root Mtime of pr0gramm.com-inf-20180328-155410-7r1jz-00021.warc.os.cdx.gz is missing
+2018-03-30 00:00:03,247 ERRO root Size of pr0gramm.com-inf-20180328-155410-7r1jz-00023.warc.os.cdx.gz is missing
+2018-03-30 00:00:03,247 ERRO root Mtime of pr0gramm.com-inf-20180328-155410-7r1jz-00023.warc.os.cdx.gz is missing
+2018-03-30 00:00:03,247 ERRO root Size of pr0gramm.com-inf-20180328-155410-7r1jz-00024.warc.os.cdx.gz is missing
+2018-03-30 00:00:03,247 ERRO root Mtime of pr0gramm.com-inf-20180328-155410-7r1jz-00024.warc.os.cdx.gz is missing
+2018-03-30 00:00:03,248 ERRO root Size of pr0gramm.com-inf-20180328-155410-7r1jz-00025.warc.os.cdx.gz is missing
+2018-03-30 00:00:03,248 ERRO root Mtime of pr0gramm.com-inf-20180328-155410-7r1jz-00025.warc.os.cdx.gz is missing
+2018-03-30 00:00:03,248 ERRO root Size of pr0gramm.com-inf-20180328-155410-7r1jz-00034.warc.os.cdx.gz is missing
+2018-03-30 00:00:03,248 ERRO root Mtime of pr0gramm.com-inf-20180328-155410-7r1jz-00034.warc.os.cdx.gz is missing
+2018-03-30 00:00:03,432 INFO root Processing item archiveteam_archivebot_go_20180329200001
+2018-03-30 00:00:03,432 INFO root Skipping archiveteam_archivebot_go_20180329200001_archive.torrent
+2018-03-30 00:00:03,432 INFO root Skipping archiveteam_archivebot_go_20180329200001_files.xml
+2018-03-30 00:00:03,432 INFO root Skipping archiveteam_archivebot_go_20180329200001_meta.sqlite
+2018-03-30 00:00:03,432 INFO root Skipping archiveteam_archivebot_go_20180329200001_meta.xml
+2018-03-30 00:00:03,762 INFO root Processing item astrid_archivebot_ftp_apc_com_20180329
+2018-03-30 00:00:03,763 INFO root Skipping astrid_archivebot_ftp_apc_com_20180329.cdx.idx
+2018-03-30 00:00:03,763 INFO root Skipping astrid_archivebot_ftp_apc_com_20180329_archive.torrent
+2018-03-30 00:00:03,763 INFO root Skipping astrid_archivebot_ftp_apc_com_20180329_files.xml
+2018-03-30 00:00:03,763 INFO root Skipping astrid_archivebot_ftp_apc_com_20180329_meta.sqlite
+2018-03-30 00:00:03,763 INFO root Skipping astrid_archivebot_ftp_apc_com_20180329_meta.xml
+2018-03-30 00:00:04,091 INFO root Processing item astrid_archivebot_www_bossies_org_20180329
+2018-03-30 00:00:04,091 INFO root Skipping astrid_archivebot_www_bossies_org_20180329.cdx.idx
+2018-03-30 00:00:04,091 INFO root Skipping astrid_archivebot_www_bossies_org_20180329_archive.torrent
+2018-03-30 00:00:04,091 INFO root Skipping astrid_archivebot_www_bossies_org_20180329_files.xml
+2018-03-30 00:00:04,091 INFO root Skipping astrid_archivebot_www_bossies_org_20180329_meta.sqlite
+2018-03-30 00:00:04,092 INFO root Skipping astrid_archivebot_www_bossies_org_20180329_meta.xml
+2018-03-30 00:00:04,215 INFO root Processing item astrid_archivebot_www_foundsf_org_20180329
+2018-03-30 00:00:04,215 INFO root Skipping astrid_archivebot_www_foundsf_org_20180329.cdx.idx
+2018-03-30 00:00:04,216 INFO root Skipping astrid_archivebot_www_foundsf_org_20180329_archive.torrent
+2018-03-30 00:00:04,216 INFO root Skipping astrid_archivebot_www_foundsf_org_20180329_files.xml
+2018-03-30 00:00:04,216 INFO root Skipping astrid_archivebot_www_foundsf_org_20180329_meta.sqlite
+2018-03-30 00:00:04,216 INFO root Skipping astrid_archivebot_www_foundsf_org_20180329_meta.xml
+2018-03-30 00:00:04,410 INFO root Processing item astrid_archivebot_www_teamxbot_org_20180329
+2018-03-30 00:00:04,411 INFO root Skipping astrid_archivebot_www_teamxbot_org_20180329.cdx.idx
+2018-03-30 00:00:04,411 INFO root Skipping astrid_archivebot_www_teamxbot_org_20180329_archive.torrent
+2018-03-30 00:00:04,411 INFO root Skipping astrid_archivebot_www_teamxbot_org_20180329_files.xml
+2018-03-30 00:00:04,411 INFO root Skipping astrid_archivebot_www_teamxbot_org_20180329_meta.sqlite
+2018-03-30 00:00:04,411 INFO root Skipping astrid_archivebot_www_teamxbot_org_20180329_meta.xml
+2018-03-30 00:00:04,572 INFO root Processing item astrid_archivebot_www_thesun_co_uk_20180329
+2018-03-30 00:00:04,573 INFO root Skipping astrid_archivebot_www_thesun_co_uk_20180329.cdx.idx
+2018-03-30 00:00:04,573 INFO root Skipping astrid_archivebot_www_thesun_co_uk_20180329_archive.torrent
+2018-03-30 00:00:04,573 INFO root Skipping astrid_archivebot_www_thesun_co_uk_20180329_files.xml
+2018-03-30 00:00:04,573 INFO root Skipping astrid_archivebot_www_thesun_co_uk_20180329_meta.sqlite
+2018-03-30 00:00:04,573 INFO root Skipping astrid_archivebot_www_thesun_co_uk_20180329_meta.xml
+2018-03-30 00:00:04,574 INFO root Writing last-update file
+2018-03-30 00:00:04,574 INFO root Done
