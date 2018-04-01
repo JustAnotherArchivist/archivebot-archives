@@ -1,29 +1,68 @@
-2018-04-01 00:00:01,954 DEBU root Last attempt: 2018-03-31T18:00:02Z
-2018-04-01 00:00:01,955 DEBU root Last success: 2018-03-31T18:00:02Z
-2018-04-01 00:00:01,955 INFO root Writing last-update file
-2018-04-01 00:00:01,956 INFO root Query: 'collection:archivebot oai_updatedate:[2018-03-31T18:00:02Z TO null]'
-2018-04-01 00:00:03,631 INFO root Processing item archiveteam_archivebot_go_20180331030002
-2018-04-01 00:00:03,632 INFO root Skipping archiveteam_archivebot_go_20180331030002.cdx.idx
-2018-04-01 00:00:03,632 INFO root Skipping archiveteam_archivebot_go_20180331030002_archive.torrent
-2018-04-01 00:00:03,632 INFO root Skipping archiveteam_archivebot_go_20180331030002_files.xml
-2018-04-01 00:00:03,632 INFO root Skipping archiveteam_archivebot_go_20180331030002_meta.sqlite
-2018-04-01 00:00:03,632 INFO root Skipping archiveteam_archivebot_go_20180331030002_meta.xml
-2018-04-01 00:00:04,213 INFO root Processing item archiveteam_archivebot_go_20180331110002
-2018-04-01 00:00:04,213 INFO root Skipping archiveteam_archivebot_go_20180331110002.cdx.idx
-2018-04-01 00:00:04,213 INFO root Skipping archiveteam_archivebot_go_20180331110002_archive.torrent
-2018-04-01 00:00:04,214 INFO root Skipping archiveteam_archivebot_go_20180331110002_files.xml
-2018-04-01 00:00:04,214 INFO root Skipping archiveteam_archivebot_go_20180331110002_meta.sqlite
-2018-04-01 00:00:04,214 INFO root Skipping archiveteam_archivebot_go_20180331110002_meta.xml
-2018-04-01 00:00:04,849 INFO root Processing item archiveteam_archivebot_go_20180331180001
-2018-04-01 00:00:04,849 INFO root Skipping archiveteam_archivebot_go_20180331180001_archive.torrent
-2018-04-01 00:00:04,849 INFO root Skipping archiveteam_archivebot_go_20180331180001_files.xml
-2018-04-01 00:00:04,849 INFO root Skipping archiveteam_archivebot_go_20180331180001_meta.sqlite
-2018-04-01 00:00:04,849 INFO root Skipping archiveteam_archivebot_go_20180331180001_meta.xml
-2018-04-01 00:00:04,987 INFO root Processing item astrid_archivebot_assemblergames_com_20180330
-2018-04-01 00:00:04,988 INFO root Skipping astrid_archivebot_assemblergames_com_20180330.cdx.idx
-2018-04-01 00:00:04,988 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_archive.torrent
-2018-04-01 00:00:04,988 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_files.xml
-2018-04-01 00:00:04,988 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_meta.sqlite
-2018-04-01 00:00:04,988 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_meta.xml
-2018-04-01 00:00:04,988 INFO root Writing last-update file
-2018-04-01 00:00:04,989 INFO root Done
+2018-04-01 06:00:01,420 DEBU root Last attempt: 2018-04-01T00:00:01Z
+2018-04-01 06:00:01,420 DEBU root Last success: 2018-04-01T00:00:01Z
+2018-04-01 06:00:01,420 INFO root Writing last-update file
+2018-04-01 06:00:01,421 INFO root Query: 'collection:archivebot oai_updatedate:[2018-04-01T00:00:01Z TO null]'
+2018-04-01 06:00:03,874 INFO root Processing item archiveteam_archivebot_go_20180331180001
+2018-04-01 06:00:03,874 INFO root Skipping archiveteam_archivebot_go_20180331180001_archive.torrent
+2018-04-01 06:00:03,875 INFO root Skipping archiveteam_archivebot_go_20180331180001_files.xml
+2018-04-01 06:00:03,875 INFO root Skipping archiveteam_archivebot_go_20180331180001_meta.sqlite
+2018-04-01 06:00:03,875 INFO root Skipping archiveteam_archivebot_go_20180331180001_meta.xml
+2018-04-01 06:00:03,875 ERRO root Size of developers.googleblog.com-shallow-20180331-114210-2lh8h-00000.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,875 ERRO root Mtime of developers.googleblog.com-shallow-20180331-114210-2lh8h-00000.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,875 ERRO root Size of developers.googleblog.com-shallow-20180331-114210-2lh8h-meta.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,875 ERRO root Mtime of developers.googleblog.com-shallow-20180331-114210-2lh8h-meta.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,876 ERRO root Size of lockergnome.com-inf-20180331-081321-3zmye-00000.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,876 ERRO root Mtime of lockergnome.com-inf-20180331-081321-3zmye-00000.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,876 ERRO root Size of marzgurl.tumblr.com-inf-20180331-045856-ey5ar-00000.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,876 ERRO root Mtime of marzgurl.tumblr.com-inf-20180331-045856-ey5ar-00000.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,876 ERRO root Size of marzgurl.tumblr.com-inf-20180331-045856-ey5ar-00001.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,876 ERRO root Mtime of marzgurl.tumblr.com-inf-20180331-045856-ey5ar-00001.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,876 ERRO root Size of niketalk.com-inf-20180326-183642-24ihf-00015.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,876 ERRO root Mtime of niketalk.com-inf-20180326-183642-24ihf-00015.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,876 ERRO root Size of niketalk.com-inf-20180326-183642-24ihf-00016.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,876 ERRO root Mtime of niketalk.com-inf-20180326-183642-24ihf-00016.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,876 ERRO root Size of pr0gramm.com-inf-20180328-155410-7r1jz-00121.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,877 ERRO root Mtime of pr0gramm.com-inf-20180328-155410-7r1jz-00121.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,877 ERRO root Size of pr0gramm.com-inf-20180328-155410-7r1jz-00122.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,877 ERRO root Mtime of pr0gramm.com-inf-20180328-155410-7r1jz-00122.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,877 ERRO root Size of pr0gramm.com-inf-20180328-155410-7r1jz-00123.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,877 ERRO root Mtime of pr0gramm.com-inf-20180328-155410-7r1jz-00123.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,877 ERRO root Size of pr0gramm.com-inf-20180328-155410-7r1jz-00124.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,877 ERRO root Mtime of pr0gramm.com-inf-20180328-155410-7r1jz-00124.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,877 ERRO root Size of pr0gramm.com-inf-20180328-155410-7r1jz-00125.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,877 ERRO root Mtime of pr0gramm.com-inf-20180328-155410-7r1jz-00125.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,877 ERRO root Size of pr0gramm.com-inf-20180328-155410-7r1jz-00126.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,878 ERRO root Mtime of pr0gramm.com-inf-20180328-155410-7r1jz-00126.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,878 ERRO root Size of pr0gramm.com-inf-20180328-155410-7r1jz-00127.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,878 ERRO root Mtime of pr0gramm.com-inf-20180328-155410-7r1jz-00127.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,878 ERRO root Size of pr0gramm.com-inf-20180328-155410-7r1jz-00128.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,878 ERRO root Mtime of pr0gramm.com-inf-20180328-155410-7r1jz-00128.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,878 ERRO root Size of pr0gramm.com-inf-20180328-155410-7r1jz-00129.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,878 ERRO root Mtime of pr0gramm.com-inf-20180328-155410-7r1jz-00129.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,878 ERRO root Size of pr0gramm.com-inf-20180328-155410-7r1jz-00130.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,878 ERRO root Mtime of pr0gramm.com-inf-20180328-155410-7r1jz-00130.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,879 ERRO root Size of pr0gramm.com-inf-20180328-155410-7r1jz-00131.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,879 ERRO root Mtime of pr0gramm.com-inf-20180328-155410-7r1jz-00131.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,879 ERRO root Size of pr0gramm.com-inf-20180328-155410-7r1jz-00132.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,879 ERRO root Mtime of pr0gramm.com-inf-20180328-155410-7r1jz-00132.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,879 ERRO root Size of pr0gramm.com-inf-20180328-155410-7r1jz-00133.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,879 ERRO root Mtime of pr0gramm.com-inf-20180328-155410-7r1jz-00133.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,880 ERRO root Size of rare.us-inf-20180307-015450-1golj-00122.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,880 ERRO root Mtime of rare.us-inf-20180307-015450-1golj-00122.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,880 ERRO root Size of storify.com-inf-20180102-161517-3nozf-00132.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,880 ERRO root Mtime of storify.com-inf-20180102-161517-3nozf-00132.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,880 ERRO root Size of www.metronews.ca-inf-20180313-051702-auqeu-00042.warc.os.cdx.gz is missing
+2018-04-01 06:00:03,881 ERRO root Mtime of www.metronews.ca-inf-20180313-051702-auqeu-00042.warc.os.cdx.gz is missing
+2018-04-01 06:00:04,269 INFO root Processing item archiveteam_archivebot_go_20180401050001
+2018-04-01 06:00:04,269 INFO root Skipping archiveteam_archivebot_go_20180401050001_archive.torrent
+2018-04-01 06:00:04,269 INFO root Skipping archiveteam_archivebot_go_20180401050001_files.xml
+2018-04-01 06:00:04,270 INFO root Skipping archiveteam_archivebot_go_20180401050001_meta.sqlite
+2018-04-01 06:00:04,270 INFO root Skipping archiveteam_archivebot_go_20180401050001_meta.xml
+2018-04-01 06:00:04,570 INFO root Processing item astrid_archivebot_assemblergames_com_20180330
+2018-04-01 06:00:04,570 INFO root Skipping astrid_archivebot_assemblergames_com_20180330.cdx.idx
+2018-04-01 06:00:04,571 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_archive.torrent
+2018-04-01 06:00:04,571 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_files.xml
+2018-04-01 06:00:04,571 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_meta.sqlite
+2018-04-01 06:00:04,571 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_meta.xml
+2018-04-01 06:00:04,571 INFO root Writing last-update file
+2018-04-01 06:00:04,572 INFO root Done
