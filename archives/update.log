@@ -1,70 +1,23 @@
-2018-04-04 06:00:01,862 DEBU root Last attempt: 2018-04-04T00:00:01Z
-2018-04-04 06:00:01,862 DEBU root Last success: 2018-04-04T00:00:01Z
-2018-04-04 06:00:01,863 INFO root Writing last-update file
-2018-04-04 06:00:01,863 INFO root Query: 'collection:archivebot oai_updatedate:[2018-04-04T00:00:01Z TO null]'
-2018-04-04 06:00:03,544 INFO root Processing item archiveteam_archivebot_go_20180403060001
-2018-04-04 06:00:03,545 INFO root Skipping archiveteam_archivebot_go_20180403060001.cdx.idx
-2018-04-04 06:00:03,545 INFO root Skipping archiveteam_archivebot_go_20180403060001_archive.torrent
-2018-04-04 06:00:03,545 INFO root Skipping archiveteam_archivebot_go_20180403060001_files.xml
-2018-04-04 06:00:03,545 INFO root Skipping archiveteam_archivebot_go_20180403060001_meta.sqlite
-2018-04-04 06:00:03,545 INFO root Skipping archiveteam_archivebot_go_20180403060001_meta.xml
-2018-04-04 06:00:03,653 INFO root Processing item archiveteam_archivebot_go_20180403120001
-2018-04-04 06:00:03,654 INFO root Skipping archiveteam_archivebot_go_20180403120001.cdx.idx
-2018-04-04 06:00:03,654 INFO root Skipping archiveteam_archivebot_go_20180403120001_archive.torrent
-2018-04-04 06:00:03,654 INFO root Skipping archiveteam_archivebot_go_20180403120001_files.xml
-2018-04-04 06:00:03,654 INFO root Skipping archiveteam_archivebot_go_20180403120001_meta.sqlite
-2018-04-04 06:00:03,654 INFO root Skipping archiveteam_archivebot_go_20180403120001_meta.xml
-2018-04-04 06:00:03,869 INFO root Processing item archiveteam_archivebot_go_20180403190001
-2018-04-04 06:00:03,869 INFO root Skipping archiveteam_archivebot_go_20180403190001_archive.torrent
-2018-04-04 06:00:03,869 INFO root Skipping archiveteam_archivebot_go_20180403190001_files.xml
-2018-04-04 06:00:03,869 INFO root Skipping archiveteam_archivebot_go_20180403190001_meta.sqlite
-2018-04-04 06:00:03,869 INFO root Skipping archiveteam_archivebot_go_20180403190001_meta.xml
-2018-04-04 06:00:03,870 ERRO root Size of astralis.gg-shallow-20180403-164824-1poxt-00000.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,870 ERRO root Mtime of astralis.gg-shallow-20180403-164824-1poxt-00000.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,870 ERRO root Size of blog.icoalert.com-shallow-20180403-161449-3dayn-00000.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,870 ERRO root Mtime of blog.icoalert.com-shallow-20180403-161449-3dayn-00000.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,870 ERRO root Size of blog.icoalert.com-shallow-20180403-161449-3dayn-meta.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,870 ERRO root Mtime of blog.icoalert.com-shallow-20180403-161449-3dayn-meta.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,870 ERRO root Size of cookmegreek.blogspot.com-inf-20180403-140258-37y9k-00000.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,870 ERRO root Mtime of cookmegreek.blogspot.com-inf-20180403-140258-37y9k-00000.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,871 ERRO root Size of cookmegreek.blogspot.com-inf-20180403-140258-37y9k-meta.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,871 ERRO root Mtime of cookmegreek.blogspot.com-inf-20180403-140258-37y9k-meta.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,871 ERRO root Size of cryptodaily.co.uk-shallow-20180403-170708-24u9g-00000.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,871 ERRO root Mtime of cryptodaily.co.uk-shallow-20180403-170708-24u9g-00000.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,871 ERRO root Size of cryptodaily.co.uk-shallow-20180403-170708-24u9g-meta.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,871 ERRO root Mtime of cryptodaily.co.uk-shallow-20180403-170708-24u9g-meta.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,871 ERRO root Size of de.linkedin.com-shallow-20180403-173141-f4kgv-00000.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,871 ERRO root Mtime of de.linkedin.com-shallow-20180403-173141-f4kgv-00000.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,872 ERRO root Size of de.linkedin.com-shallow-20180403-173141-f4kgv-meta.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,872 ERRO root Mtime of de.linkedin.com-shallow-20180403-173141-f4kgv-meta.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,872 ERRO root Size of eegaming.org-shallow-20180403-170836-1kuzl-00000.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,872 ERRO root Mtime of eegaming.org-shallow-20180403-170836-1kuzl-00000.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,872 ERRO root Size of eegaming.org-shallow-20180403-170836-1kuzl-meta.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,872 ERRO root Mtime of eegaming.org-shallow-20180403-170836-1kuzl-meta.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,872 ERRO root Size of esportsobserver.com-shallow-20180403-170802-50hkg-00000.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,872 ERRO root Mtime of esportsobserver.com-shallow-20180403-170802-50hkg-00000.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,872 ERRO root Size of esportsobserver.com-shallow-20180403-170802-50hkg-meta.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,873 ERRO root Mtime of esportsobserver.com-shallow-20180403-170802-50hkg-meta.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,873 ERRO root Size of esportsobserver.com-shallow-20180403-174133-eoxdd-00000.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,873 ERRO root Mtime of esportsobserver.com-shallow-20180403-174133-eoxdd-00000.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,873 ERRO root Size of lockergnome.com-inf-20180331-081321-3zmye-00017.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,873 ERRO root Mtime of lockergnome.com-inf-20180331-081321-3zmye-00017.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,873 ERRO root Size of lockergnome.com-inf-20180331-081321-3zmye-00018.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,873 ERRO root Mtime of lockergnome.com-inf-20180331-081321-3zmye-00018.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,873 ERRO root Size of twitter.com-shallow-20180403-135212-9n1sn-00000.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,874 ERRO root Mtime of twitter.com-shallow-20180403-135212-9n1sn-00000.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,874 ERRO root Size of twitter.com-shallow-20180403-135212-9n1sn-meta.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,874 ERRO root Mtime of twitter.com-shallow-20180403-135212-9n1sn-meta.warc.os.cdx.gz is missing
-2018-04-04 06:00:03,998 INFO root Processing item archiveteam_archivebot_go_20180404030001
-2018-04-04 06:00:03,999 INFO root Skipping archiveteam_archivebot_go_20180404030001_archive.torrent
-2018-04-04 06:00:03,999 INFO root Skipping archiveteam_archivebot_go_20180404030001_files.xml
-2018-04-04 06:00:03,999 INFO root Skipping archiveteam_archivebot_go_20180404030001_meta.sqlite
-2018-04-04 06:00:03,999 INFO root Skipping archiveteam_archivebot_go_20180404030001_meta.xml
-2018-04-04 06:00:04,101 INFO root Processing item astrid_archivebot_assemblergames_com_20180330
-2018-04-04 06:00:04,102 INFO root Skipping astrid_archivebot_assemblergames_com_20180330.cdx.idx
-2018-04-04 06:00:04,102 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_archive.torrent
-2018-04-04 06:00:04,103 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_files.xml
-2018-04-04 06:00:04,103 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_meta.sqlite
-2018-04-04 06:00:04,103 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_meta.xml
-2018-04-04 06:00:04,103 INFO root Writing last-update file
-2018-04-04 06:00:04,103 INFO root Done
+2018-04-04 12:00:02,348 DEBU root Last attempt: 2018-04-04T06:00:01Z
+2018-04-04 12:00:02,349 DEBU root Last success: 2018-04-04T06:00:01Z
+2018-04-04 12:00:02,349 INFO root Writing last-update file
+2018-04-04 12:00:02,349 INFO root Query: 'collection:archivebot oai_updatedate:[2018-04-04T06:00:01Z TO null]'
+2018-04-04 12:00:04,188 INFO root Processing item archiveteam_archivebot_go_20180403190001
+2018-04-04 12:00:04,189 INFO root Skipping archiveteam_archivebot_go_20180403190001.cdx.idx
+2018-04-04 12:00:04,189 INFO root Skipping archiveteam_archivebot_go_20180403190001_archive.torrent
+2018-04-04 12:00:04,189 INFO root Skipping archiveteam_archivebot_go_20180403190001_files.xml
+2018-04-04 12:00:04,190 INFO root Skipping archiveteam_archivebot_go_20180403190001_meta.sqlite
+2018-04-04 12:00:04,190 INFO root Skipping archiveteam_archivebot_go_20180403190001_meta.xml
+2018-04-04 12:00:04,359 INFO root Processing item archiveteam_archivebot_go_20180404090002
+2018-04-04 12:00:04,360 INFO root Skipping archiveteam_archivebot_go_20180404090002_archive.torrent
+2018-04-04 12:00:04,360 INFO root Skipping archiveteam_archivebot_go_20180404090002_files.xml
+2018-04-04 12:00:04,360 INFO root Skipping archiveteam_archivebot_go_20180404090002_meta.sqlite
+2018-04-04 12:00:04,360 INFO root Skipping archiveteam_archivebot_go_20180404090002_meta.xml
+2018-04-04 12:00:04,456 INFO root Processing item astrid_archivebot_assemblergames_com_20180330
+2018-04-04 12:00:04,457 INFO root Skipping astrid_archivebot_assemblergames_com_20180330.cdx.idx
+2018-04-04 12:00:04,458 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_archive.torrent
+2018-04-04 12:00:04,458 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_files.xml
+2018-04-04 12:00:04,458 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_meta.sqlite
+2018-04-04 12:00:04,458 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_meta.xml
+2018-04-04 12:00:04,458 INFO root Writing last-update file
+2018-04-04 12:00:04,459 INFO root Done
