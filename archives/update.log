@@ -1,60 +1,34 @@
-2018-04-09 12:00:01,736 DEBU root Last attempt: 2018-04-09T06:00:02Z
-2018-04-09 12:00:01,737 DEBU root Last success: 2018-04-09T06:00:02Z
-2018-04-09 12:00:01,737 INFO root Writing last-update file
-2018-04-09 12:00:01,738 INFO root Query: 'collection:archivebot oai_updatedate:[2018-04-09T06:00:02Z TO null]'
-2018-04-09 12:00:02,859 INFO root Processing item archiveteam_archivebot_go_20180408220002
-2018-04-09 12:00:02,860 INFO root Skipping archiveteam_archivebot_go_20180408220002.cdx.idx
-2018-04-09 12:00:02,860 INFO root Skipping archiveteam_archivebot_go_20180408220002_archive.torrent
-2018-04-09 12:00:02,860 INFO root Skipping archiveteam_archivebot_go_20180408220002_files.xml
-2018-04-09 12:00:02,860 INFO root Skipping archiveteam_archivebot_go_20180408220002_meta.sqlite
-2018-04-09 12:00:02,861 INFO root Skipping archiveteam_archivebot_go_20180408220002_meta.xml
-2018-04-09 12:00:03,462 INFO root Processing item archiveteam_archivebot_go_20180409020002
-2018-04-09 12:00:03,463 INFO root Skipping archiveteam_archivebot_go_20180409020002.cdx.idx
-2018-04-09 12:00:03,463 INFO root Skipping archiveteam_archivebot_go_20180409020002_archive.torrent
-2018-04-09 12:00:03,463 INFO root Skipping archiveteam_archivebot_go_20180409020002_files.xml
-2018-04-09 12:00:03,463 INFO root Skipping archiveteam_archivebot_go_20180409020002_meta.sqlite
-2018-04-09 12:00:03,463 INFO root Skipping archiveteam_archivebot_go_20180409020002_meta.xml
-2018-04-09 12:00:05,726 INFO root Processing item archiveteam_archivebot_go_20180409060001
-2018-04-09 12:00:05,726 INFO root Skipping archiveteam_archivebot_go_20180409060001_archive.torrent
-2018-04-09 12:00:05,726 INFO root Skipping archiveteam_archivebot_go_20180409060001_files.xml
-2018-04-09 12:00:05,727 INFO root Skipping archiveteam_archivebot_go_20180409060001_meta.sqlite
-2018-04-09 12:00:05,727 INFO root Skipping archiveteam_archivebot_go_20180409060001_meta.xml
-2018-04-09 12:00:05,727 ERRO root Size of docs.google.com-shallow-20180409-032909-5nvyk-00000.warc.os.cdx.gz is missing
-2018-04-09 12:00:05,727 ERRO root Mtime of docs.google.com-shallow-20180409-032909-5nvyk-00000.warc.os.cdx.gz is missing
-2018-04-09 12:00:05,727 ERRO root Size of esperanto-panorama.net-inf-20180409-002909-7mgka-meta.warc.os.cdx.gz is missing
-2018-04-09 12:00:05,727 ERRO root Mtime of esperanto-panorama.net-inf-20180409-002909-7mgka-meta.warc.os.cdx.gz is missing
-2018-04-09 12:00:05,728 ERRO root Size of forum.ru-board.com-inf-20180408-211629-bqzye-00000.warc.os.cdx.gz is missing
-2018-04-09 12:00:05,728 ERRO root Mtime of forum.ru-board.com-inf-20180408-211629-bqzye-00000.warc.os.cdx.gz is missing
-2018-04-09 12:00:05,728 ERRO root Size of forum.ru-board.com-inf-20180408-211629-bqzye-00001.warc.os.cdx.gz is missing
-2018-04-09 12:00:05,728 ERRO root Mtime of forum.ru-board.com-inf-20180408-211629-bqzye-00001.warc.os.cdx.gz is missing
-2018-04-09 12:00:05,728 ERRO root Size of forum.ru-board.com-inf-20180408-211629-bqzye-00002.warc.os.cdx.gz is missing
-2018-04-09 12:00:05,728 ERRO root Mtime of forum.ru-board.com-inf-20180408-211629-bqzye-00002.warc.os.cdx.gz is missing
-2018-04-09 12:00:05,729 ERRO root Size of forum.ru-board.com-inf-20180408-211629-bqzye-00003.warc.os.cdx.gz is missing
-2018-04-09 12:00:05,729 ERRO root Mtime of forum.ru-board.com-inf-20180408-211629-bqzye-00003.warc.os.cdx.gz is missing
-2018-04-09 12:00:05,729 ERRO root Size of forums.strainhunters.com-inf-20180406-041548-c5b3s-00009.warc.os.cdx.gz is missing
-2018-04-09 12:00:05,729 ERRO root Mtime of forums.strainhunters.com-inf-20180406-041548-c5b3s-00009.warc.os.cdx.gz is missing
-2018-04-09 12:00:05,729 ERRO root Size of gothamist.com-inf-20180224-074728-es4w5-00093.warc.os.cdx.gz is missing
-2018-04-09 12:00:05,729 ERRO root Mtime of gothamist.com-inf-20180224-074728-es4w5-00093.warc.os.cdx.gz is missing
-2018-04-09 12:00:05,730 ERRO root Size of kashtanulo.wordpress.com-inf-20180409-050453-8x9rd-meta.warc.os.cdx.gz is missing
-2018-04-09 12:00:05,730 ERRO root Mtime of kashtanulo.wordpress.com-inf-20180409-050453-8x9rd-meta.warc.os.cdx.gz is missing
-2018-04-09 12:00:05,730 ERRO root Size of www.archerytalk.com-inf-20180406-014947-at82q-00005.warc.os.cdx.gz is missing
-2018-04-09 12:00:05,730 ERRO root Mtime of www.archerytalk.com-inf-20180406-014947-at82q-00005.warc.os.cdx.gz is missing
-2018-04-09 12:00:06,323 INFO root Processing item archiveteam_archivebot_go_20180409100001
-2018-04-09 12:00:06,324 INFO root Skipping archiveteam_archivebot_go_20180409100001_archive.torrent
-2018-04-09 12:00:06,324 INFO root Skipping archiveteam_archivebot_go_20180409100001_files.xml
-2018-04-09 12:00:06,324 INFO root Skipping archiveteam_archivebot_go_20180409100001_meta.sqlite
-2018-04-09 12:00:06,324 INFO root Skipping archiveteam_archivebot_go_20180409100001_meta.xml
-2018-04-09 12:00:06,568 INFO root Processing item astrid_archivebot_assemblergames_com_20180330
-2018-04-09 12:00:06,600 INFO root Skipping astrid_archivebot_assemblergames_com_20180330.cdx.idx
-2018-04-09 12:00:06,600 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_archive.torrent
-2018-04-09 12:00:06,601 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_files.xml
-2018-04-09 12:00:06,601 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_meta.sqlite
-2018-04-09 12:00:06,601 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_meta.xml
-2018-04-09 12:00:06,832 INFO root Processing item astrid_archivebot_growingfruit_org_20180406
-2018-04-09 12:00:06,833 INFO root Skipping astrid_archivebot_growingfruit_org_20180406.cdx.idx
-2018-04-09 12:00:06,833 INFO root Skipping astrid_archivebot_growingfruit_org_20180406_archive.torrent
-2018-04-09 12:00:06,833 INFO root Skipping astrid_archivebot_growingfruit_org_20180406_files.xml
-2018-04-09 12:00:06,833 INFO root Skipping astrid_archivebot_growingfruit_org_20180406_meta.sqlite
-2018-04-09 12:00:06,833 INFO root Skipping astrid_archivebot_growingfruit_org_20180406_meta.xml
-2018-04-09 12:00:06,834 INFO root Writing last-update file
-2018-04-09 12:00:06,835 INFO root Done
+2018-04-09 18:00:02,371 DEBU root Last attempt: 2018-04-09T12:00:01Z
+2018-04-09 18:00:02,371 DEBU root Last success: 2018-04-09T12:00:01Z
+2018-04-09 18:00:02,371 INFO root Writing last-update file
+2018-04-09 18:00:02,372 INFO root Query: 'collection:archivebot oai_updatedate:[2018-04-09T12:00:01Z TO null]'
+2018-04-09 18:00:03,705 INFO root Processing item archiveteam_archivebot_go_20180409060001
+2018-04-09 18:00:03,705 INFO root Skipping archiveteam_archivebot_go_20180409060001.cdx.idx
+2018-04-09 18:00:03,705 INFO root Skipping archiveteam_archivebot_go_20180409060001_archive.torrent
+2018-04-09 18:00:03,705 INFO root Skipping archiveteam_archivebot_go_20180409060001_files.xml
+2018-04-09 18:00:03,705 INFO root Skipping archiveteam_archivebot_go_20180409060001_meta.sqlite
+2018-04-09 18:00:03,705 INFO root Skipping archiveteam_archivebot_go_20180409060001_meta.xml
+2018-04-09 18:00:03,859 INFO root Processing item archiveteam_archivebot_go_20180409100001
+2018-04-09 18:00:03,859 INFO root Skipping archiveteam_archivebot_go_20180409100001_archive.torrent
+2018-04-09 18:00:03,860 INFO root Skipping archiveteam_archivebot_go_20180409100001_files.xml
+2018-04-09 18:00:03,860 INFO root Skipping archiveteam_archivebot_go_20180409100001_meta.sqlite
+2018-04-09 18:00:03,860 INFO root Skipping archiveteam_archivebot_go_20180409100001_meta.xml
+2018-04-09 18:00:04,017 INFO root Processing item archiveteam_archivebot_go_20180409150001
+2018-04-09 18:00:04,017 INFO root Skipping archiveteam_archivebot_go_20180409150001_archive.torrent
+2018-04-09 18:00:04,017 INFO root Skipping archiveteam_archivebot_go_20180409150001_files.xml
+2018-04-09 18:00:04,018 INFO root Skipping archiveteam_archivebot_go_20180409150001_meta.sqlite
+2018-04-09 18:00:04,018 INFO root Skipping archiveteam_archivebot_go_20180409150001_meta.xml
+2018-04-09 18:00:04,123 INFO root Processing item astrid_archivebot_assemblergames_com_20180330
+2018-04-09 18:00:04,124 INFO root Skipping astrid_archivebot_assemblergames_com_20180330.cdx.idx
+2018-04-09 18:00:04,124 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_archive.torrent
+2018-04-09 18:00:04,125 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_files.xml
+2018-04-09 18:00:04,125 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_meta.sqlite
+2018-04-09 18:00:04,125 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_meta.xml
+2018-04-09 18:00:04,240 INFO root Processing item astrid_archivebot_growingfruit_org_20180406
+2018-04-09 18:00:04,240 INFO root Skipping astrid_archivebot_growingfruit_org_20180406.cdx.idx
+2018-04-09 18:00:04,241 INFO root Skipping astrid_archivebot_growingfruit_org_20180406_archive.torrent
+2018-04-09 18:00:04,241 INFO root Skipping astrid_archivebot_growingfruit_org_20180406_files.xml
+2018-04-09 18:00:04,241 INFO root Skipping astrid_archivebot_growingfruit_org_20180406_meta.sqlite
+2018-04-09 18:00:04,241 INFO root Skipping astrid_archivebot_growingfruit_org_20180406_meta.xml
+2018-04-09 18:00:04,243 INFO root Writing last-update file
+2018-04-09 18:00:04,244 INFO root Done
