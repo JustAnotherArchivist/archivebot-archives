@@ -1,144 +1,41 @@
-2018-04-15 00:00:01,370 DEBU root Last attempt: 2018-04-14T18:00:01Z
-2018-04-15 00:00:01,370 DEBU root Last success: 2018-04-14T18:00:01Z
-2018-04-15 00:00:01,370 INFO root Writing last-update file
-2018-04-15 00:00:01,371 INFO root Query: 'collection:archivebot oai_updatedate:[2018-04-14T18:00:01Z TO null]'
-2018-04-15 00:00:03,418 INFO root Processing item archiveteam_archivebot_go_20180414030001
-2018-04-15 00:00:03,419 INFO root Skipping archiveteam_archivebot_go_20180414030001_archive.torrent
-2018-04-15 00:00:03,419 INFO root Skipping archiveteam_archivebot_go_20180414030001_files.xml
-2018-04-15 00:00:03,419 INFO root Skipping archiveteam_archivebot_go_20180414030001_meta.sqlite
-2018-04-15 00:00:03,419 INFO root Skipping archiveteam_archivebot_go_20180414030001_meta.xml
-2018-04-15 00:00:03,419 ERRO root Size of bbs.nextthing.co-inf-20180410-082010-41v6z-00006.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,419 ERRO root Mtime of bbs.nextthing.co-inf-20180410-082010-41v6z-00006.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,419 ERRO root Size of dotnet.judgerc.org-shallow-20180414-010500-25lb8-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,419 ERRO root Mtime of dotnet.judgerc.org-shallow-20180414-010500-25lb8-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,420 ERRO root Size of dotnet.judgerc.org-shallow-20180414-010500-25lb8-meta.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,420 ERRO root Mtime of dotnet.judgerc.org-shallow-20180414-010500-25lb8-meta.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,420 ERRO root Size of dotnet.judgerc.org-shallow-20180414-010625-c9e1l-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,420 ERRO root Mtime of dotnet.judgerc.org-shallow-20180414-010625-c9e1l-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,420 ERRO root Size of dotnet.judgerc.org-shallow-20180414-010625-c9e1l-meta.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,420 ERRO root Mtime of dotnet.judgerc.org-shallow-20180414-010625-c9e1l-meta.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,420 ERRO root Size of hopeacademybr.org-inf-20180414-002222-6ye42-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,421 ERRO root Mtime of hopeacademybr.org-inf-20180414-002222-6ye42-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,421 ERRO root Size of hopeacademybr.org-inf-20180414-002222-6ye42-meta.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,421 ERRO root Mtime of hopeacademybr.org-inf-20180414-002222-6ye42-meta.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,421 ERRO root Size of lockergnome.com-inf-20180331-081321-3zmye-00062.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,421 ERRO root Mtime of lockergnome.com-inf-20180331-081321-3zmye-00062.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,421 ERRO root Size of mno.hu-inf-20180410-190941-1j5qc-00009.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,421 ERRO root Mtime of mno.hu-inf-20180410-190941-1j5qc-00009.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,421 ERRO root Size of molbiol.ru-inf-20180327-060934-19lpz-00035.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,422 ERRO root Mtime of molbiol.ru-inf-20180327-060934-19lpz-00035.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,422 ERRO root Size of niketalk.com-inf-20180326-183642-24ihf-00066.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,422 ERRO root Mtime of niketalk.com-inf-20180326-183642-24ihf-00066.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,422 ERRO root Size of niketalk.com-inf-20180326-183642-24ihf-00067.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,422 ERRO root Mtime of niketalk.com-inf-20180326-183642-24ihf-00067.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,422 ERRO root Size of rare.us-inf-20180307-015450-1golj-00208.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,422 ERRO root Mtime of rare.us-inf-20180307-015450-1golj-00208.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,422 ERRO root Size of roosterteeth.com-inf-20180413-052749-101om-00002.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,422 ERRO root Mtime of roosterteeth.com-inf-20180413-052749-101om-00002.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,423 ERRO root Size of roosterteeth.com-inf-20180413-053326-cc4x5-00003.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,423 ERRO root Mtime of roosterteeth.com-inf-20180413-053326-cc4x5-00003.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,423 ERRO root Size of roosterteeth.com-inf-20180413-053326-cc4x5-00004.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,423 ERRO root Mtime of roosterteeth.com-inf-20180413-053326-cc4x5-00004.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,423 ERRO root Size of roosterteeth.com-inf-20180413-053326-cc4x5-aborted-00005.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,423 ERRO root Mtime of roosterteeth.com-inf-20180413-053326-cc4x5-aborted-00005.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,423 ERRO root Size of roosterteeth.com-inf-20180414-005854-4d76t-aborted-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,424 ERRO root Mtime of roosterteeth.com-inf-20180414-005854-4d76t-aborted-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,424 ERRO root Size of roosterteeth.com-inf-20180414-005900-ctufk-aborted-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,424 ERRO root Mtime of roosterteeth.com-inf-20180414-005900-ctufk-aborted-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,424 ERRO root Size of steamspy.com-inf-20180411-163233-etpl2-00010.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,424 ERRO root Mtime of steamspy.com-inf-20180411-163233-etpl2-00010.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,424 ERRO root Size of steamspy.com-inf-20180411-163233-etpl2-00011.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,424 ERRO root Mtime of steamspy.com-inf-20180411-163233-etpl2-00011.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,424 ERRO root Size of twitter.com-shallow-20180413-204056-b28gp-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,424 ERRO root Mtime of twitter.com-shallow-20180413-204056-b28gp-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,424 ERRO root Size of twitter.com-shallow-20180413-204056-b28gp-meta.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,425 ERRO root Mtime of twitter.com-shallow-20180413-204056-b28gp-meta.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,425 ERRO root Size of twitter.com-shallow-20180413-204128-aoi3x-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,425 ERRO root Mtime of twitter.com-shallow-20180413-204128-aoi3x-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,425 ERRO root Size of twitter.com-shallow-20180413-204128-aoi3x-meta.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,425 ERRO root Mtime of twitter.com-shallow-20180413-204128-aoi3x-meta.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,425 ERRO root Size of twitter.com-shallow-20180414-004015-a2ebo-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,425 ERRO root Mtime of twitter.com-shallow-20180414-004015-a2ebo-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,425 ERRO root Size of twitter.com-shallow-20180414-004015-a2ebo-meta.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,425 ERRO root Mtime of twitter.com-shallow-20180414-004015-a2ebo-meta.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,425 ERRO root Size of twitter.com-shallow-20180414-004038-ailum-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,426 ERRO root Mtime of twitter.com-shallow-20180414-004038-ailum-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,426 ERRO root Size of twitter.com-shallow-20180414-004038-ailum-meta.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,426 ERRO root Mtime of twitter.com-shallow-20180414-004038-ailum-meta.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,426 ERRO root Size of twitter.com-shallow-20180414-004103-9kt5p-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,426 ERRO root Mtime of twitter.com-shallow-20180414-004103-9kt5p-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,426 ERRO root Size of twitter.com-shallow-20180414-004103-9kt5p-meta.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,426 ERRO root Mtime of twitter.com-shallow-20180414-004103-9kt5p-meta.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,426 ERRO root Size of urls-transfer.sh-eevee-tweets-shallow-20180413-102111-azli0-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,426 ERRO root Mtime of urls-transfer.sh-eevee-tweets-shallow-20180413-102111-azli0-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,427 ERRO root Size of urls-transfer.sh-eevee-tweets-shallow-20180413-102111-azli0-00001.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,427 ERRO root Mtime of urls-transfer.sh-eevee-tweets-shallow-20180413-102111-azli0-00001.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,427 ERRO root Size of urls-transfer.sh-eevee-tweets-shallow-20180413-102111-azli0-meta.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,427 ERRO root Mtime of urls-transfer.sh-eevee-tweets-shallow-20180413-102111-azli0-meta.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,427 ERRO root Size of webcache.googleusercontent.com-shallow-20180413-235302-1b5fo-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,427 ERRO root Mtime of webcache.googleusercontent.com-shallow-20180413-235302-1b5fo-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,427 ERRO root Size of webcache.googleusercontent.com-shallow-20180413-235302-1b5fo-meta.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,427 ERRO root Mtime of webcache.googleusercontent.com-shallow-20180413-235302-1b5fo-meta.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,428 ERRO root Size of www.archerytalk.com-inf-20180406-014947-at82q-00057.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,428 ERRO root Mtime of www.archerytalk.com-inf-20180406-014947-at82q-00057.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,428 ERRO root Size of www.betootaadvocate.com-inf-20180413-120655-1hc3g-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,428 ERRO root Mtime of www.betootaadvocate.com-inf-20180413-120655-1hc3g-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,428 ERRO root Size of www.chronofhorse.com-inf-20180320-235041-4udyu-00029.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,428 ERRO root Mtime of www.chronofhorse.com-inf-20180320-235041-4udyu-00029.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,428 ERRO root Size of www.erisnet.org-shallow-20180413-232448-d8nmv-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,428 ERRO root Mtime of www.erisnet.org-shallow-20180413-232448-d8nmv-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,428 ERRO root Size of www.erisnet.org-shallow-20180413-232448-d8nmv-meta.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,429 ERRO root Mtime of www.erisnet.org-shallow-20180413-232448-d8nmv-meta.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,429 ERRO root Size of www.facebook.com-shallow-20180413-195020-1btca-meta.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,429 ERRO root Mtime of www.facebook.com-shallow-20180413-195020-1btca-meta.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,429 ERRO root Size of www.facebook.com-shallow-20180413-202946-dg0yf-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,429 ERRO root Mtime of www.facebook.com-shallow-20180413-202946-dg0yf-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,429 ERRO root Size of www.facebook.com-shallow-20180413-202946-dg0yf-meta.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,429 ERRO root Mtime of www.facebook.com-shallow-20180413-202946-dg0yf-meta.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,429 ERRO root Size of www.facebook.com-shallow-20180413-203523-e0cqm-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,429 ERRO root Mtime of www.facebook.com-shallow-20180413-203523-e0cqm-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,430 ERRO root Size of www.facebook.com-shallow-20180413-203523-e0cqm-meta.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,430 ERRO root Mtime of www.facebook.com-shallow-20180413-203523-e0cqm-meta.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,430 ERRO root Size of www.facebook.com-shallow-20180413-214932-794cw-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,430 ERRO root Mtime of www.facebook.com-shallow-20180413-214932-794cw-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,430 ERRO root Size of www.facebook.com-shallow-20180413-214932-794cw-meta.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,430 ERRO root Mtime of www.facebook.com-shallow-20180413-214932-794cw-meta.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,430 ERRO root Size of www.instagram.com-shallow-20180413-200747-4k18b-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,430 ERRO root Mtime of www.instagram.com-shallow-20180413-200747-4k18b-00000.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,430 ERRO root Size of www.instagram.com-shallow-20180413-200747-4k18b-meta.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,430 ERRO root Mtime of www.instagram.com-shallow-20180413-200747-4k18b-meta.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,430 ERRO root Size of www.lds.org-inf-20180401-225902-5t6yn-00580.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,431 ERRO root Mtime of www.lds.org-inf-20180401-225902-5t6yn-00580.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,431 ERRO root Size of www.lds.org-inf-20180401-225902-5t6yn-00581.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,431 ERRO root Mtime of www.lds.org-inf-20180401-225902-5t6yn-00581.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,431 ERRO root Size of www.lds.org-inf-20180401-225902-5t6yn-00582.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,431 ERRO root Mtime of www.lds.org-inf-20180401-225902-5t6yn-00582.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,431 ERRO root Size of www.lds.org-inf-20180401-225902-5t6yn-00583.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,431 ERRO root Mtime of www.lds.org-inf-20180401-225902-5t6yn-00583.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,431 ERRO root Size of www.lds.org-inf-20180401-225902-5t6yn-00584.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,431 ERRO root Mtime of www.lds.org-inf-20180401-225902-5t6yn-00584.warc.os.cdx.gz is missing
-2018-04-15 00:00:03,543 INFO root Processing item archiveteam_archivebot_go_20180414100002
-2018-04-15 00:00:03,543 INFO root Skipping archiveteam_archivebot_go_20180414100002.cdx.idx
-2018-04-15 00:00:03,543 INFO root Skipping archiveteam_archivebot_go_20180414100002_archive.torrent
-2018-04-15 00:00:03,544 INFO root Skipping archiveteam_archivebot_go_20180414100002_files.xml
-2018-04-15 00:00:03,544 INFO root Skipping archiveteam_archivebot_go_20180414100002_meta.sqlite
-2018-04-15 00:00:03,544 INFO root Skipping archiveteam_archivebot_go_20180414100002_meta.xml
-2018-04-15 00:00:04,075 INFO root Processing item archiveteam_archivebot_go_20180414190001
-2018-04-15 00:00:04,076 INFO root Skipping archiveteam_archivebot_go_20180414190001_archive.torrent
-2018-04-15 00:00:04,076 INFO root Skipping archiveteam_archivebot_go_20180414190001_files.xml
-2018-04-15 00:00:04,076 INFO root Skipping archiveteam_archivebot_go_20180414190001_meta.sqlite
-2018-04-15 00:00:04,076 INFO root Skipping archiveteam_archivebot_go_20180414190001_meta.xml
-2018-04-15 00:00:04,203 INFO root Processing item astrid_archivebot_assemblergames_com_20180330
-2018-04-15 00:00:04,207 INFO root Skipping astrid_archivebot_assemblergames_com_20180330.cdx.idx
-2018-04-15 00:00:04,207 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_archive.torrent
-2018-04-15 00:00:04,207 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_files.xml
-2018-04-15 00:00:04,207 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_meta.sqlite
-2018-04-15 00:00:04,207 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_meta.xml
-2018-04-15 00:00:04,322 INFO root Processing item astrid_archivebot_forum_nolife-tv_com_20180409
-2018-04-15 00:00:04,323 INFO root Skipping astrid_archivebot_forum_nolife-tv_com_20180409.cdx.idx
-2018-04-15 00:00:04,323 INFO root Skipping astrid_archivebot_forum_nolife-tv_com_20180409_archive.torrent
-2018-04-15 00:00:04,323 INFO root Skipping astrid_archivebot_forum_nolife-tv_com_20180409_files.xml
-2018-04-15 00:00:04,323 INFO root Skipping astrid_archivebot_forum_nolife-tv_com_20180409_meta.sqlite
-2018-04-15 00:00:04,323 INFO root Skipping astrid_archivebot_forum_nolife-tv_com_20180409_meta.xml
-2018-04-15 00:00:04,324 INFO root Writing last-update file
-2018-04-15 00:00:04,325 INFO root Done
+2018-04-15 06:00:01,493 DEBU root Last attempt: 2018-04-15T00:00:01Z
+2018-04-15 06:00:01,493 DEBU root Last success: 2018-04-15T00:00:01Z
+2018-04-15 06:00:01,493 INFO root Writing last-update file
+2018-04-15 06:00:01,494 INFO root Query: 'collection:archivebot oai_updatedate:[2018-04-15T00:00:01Z TO null]'
+2018-04-15 06:00:02,640 INFO root Processing item archiveteam_archivebot_go_20180414030001
+2018-04-15 06:00:02,641 INFO root Skipping archiveteam_archivebot_go_20180414030001.cdx.idx
+2018-04-15 06:00:02,641 INFO root Skipping archiveteam_archivebot_go_20180414030001_archive.torrent
+2018-04-15 06:00:02,641 INFO root Skipping archiveteam_archivebot_go_20180414030001_files.xml
+2018-04-15 06:00:02,641 INFO root Skipping archiveteam_archivebot_go_20180414030001_meta.sqlite
+2018-04-15 06:00:02,641 INFO root Skipping archiveteam_archivebot_go_20180414030001_meta.xml
+2018-04-15 06:00:02,750 INFO root Processing item archiveteam_archivebot_go_20180414190001
+2018-04-15 06:00:02,750 INFO root Skipping archiveteam_archivebot_go_20180414190001.cdx.idx
+2018-04-15 06:00:02,750 INFO root Skipping archiveteam_archivebot_go_20180414190001_archive.torrent
+2018-04-15 06:00:02,750 INFO root Skipping archiveteam_archivebot_go_20180414190001_files.xml
+2018-04-15 06:00:02,751 INFO root Skipping archiveteam_archivebot_go_20180414190001_meta.sqlite
+2018-04-15 06:00:02,751 INFO root Skipping archiveteam_archivebot_go_20180414190001_meta.xml
+2018-04-15 06:00:02,864 INFO root Processing item archiveteam_archivebot_go_20180415010002
+2018-04-15 06:00:02,865 INFO root Skipping archiveteam_archivebot_go_20180415010002_archive.torrent
+2018-04-15 06:00:02,865 INFO root Skipping archiveteam_archivebot_go_20180415010002_files.xml
+2018-04-15 06:00:02,865 INFO root Skipping archiveteam_archivebot_go_20180415010002_meta.sqlite
+2018-04-15 06:00:02,865 INFO root Skipping archiveteam_archivebot_go_20180415010002_meta.xml
+2018-04-15 06:00:02,974 INFO root Processing item astrid_archivebot_assemblergames_com_20180330
+2018-04-15 06:00:02,976 INFO root Skipping astrid_archivebot_assemblergames_com_20180330.cdx.idx
+2018-04-15 06:00:02,976 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_archive.torrent
+2018-04-15 06:00:02,976 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_files.xml
+2018-04-15 06:00:02,976 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_meta.sqlite
+2018-04-15 06:00:02,976 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_meta.xml
+2018-04-15 06:00:03,104 INFO root Processing item astrid_archivebot_forum_nolife-tv_com_20180409
+2018-04-15 06:00:03,105 INFO root Skipping astrid_archivebot_forum_nolife-tv_com_20180409.cdx.idx
+2018-04-15 06:00:03,105 INFO root Skipping astrid_archivebot_forum_nolife-tv_com_20180409_archive.torrent
+2018-04-15 06:00:03,105 INFO root Skipping astrid_archivebot_forum_nolife-tv_com_20180409_files.xml
+2018-04-15 06:00:03,105 INFO root Skipping astrid_archivebot_forum_nolife-tv_com_20180409_meta.sqlite
+2018-04-15 06:00:03,105 INFO root Skipping astrid_archivebot_forum_nolife-tv_com_20180409_meta.xml
+2018-04-15 06:00:03,294 INFO root Processing item falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714
+2018-04-15 06:00:03,298 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714.cdx.idx
+2018-04-15 06:00:03,298 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_archive.torrent
+2018-04-15 06:00:03,298 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_files.xml
+2018-04-15 06:00:03,298 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_meta.sqlite
+2018-04-15 06:00:03,298 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_meta.xml
+2018-04-15 06:00:03,304 INFO root Writing last-update file
+2018-04-15 06:00:03,305 INFO root Done
