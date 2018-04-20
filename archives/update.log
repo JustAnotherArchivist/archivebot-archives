@@ -1,23 +1,135 @@
-2018-04-19 18:00:01,545 DEBU root Last attempt: 2018-04-19T12:00:02Z
-2018-04-19 18:00:01,545 DEBU root Last success: 2018-04-19T12:00:02Z
-2018-04-19 18:00:01,546 INFO root Writing last-update file
-2018-04-19 18:00:01,546 INFO root Query: 'collection:archivebot oai_updatedate:[2018-04-19T12:00:02Z TO null]'
-2018-04-19 18:00:03,976 INFO root Processing item archiveteam_archivebot_go_20180419150001
-2018-04-19 18:00:03,976 INFO root Skipping archiveteam_archivebot_go_20180419150001_archive.torrent
-2018-04-19 18:00:03,976 INFO root Skipping archiveteam_archivebot_go_20180419150001_files.xml
-2018-04-19 18:00:03,976 INFO root Skipping archiveteam_archivebot_go_20180419150001_meta.sqlite
-2018-04-19 18:00:03,977 INFO root Skipping archiveteam_archivebot_go_20180419150001_meta.xml
-2018-04-19 18:00:04,194 INFO root Processing item astrid_archivebot_assemblergames_com_20180330
-2018-04-19 18:00:04,198 INFO root Skipping astrid_archivebot_assemblergames_com_20180330.cdx.idx
-2018-04-19 18:00:04,198 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_archive.torrent
-2018-04-19 18:00:04,198 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_files.xml
-2018-04-19 18:00:04,199 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_meta.sqlite
-2018-04-19 18:00:04,199 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_meta.xml
-2018-04-19 18:00:04,306 INFO root Processing item astrid_archivebot_glennsellnow_wordpress_com_20180418
-2018-04-19 18:00:04,307 INFO root Skipping astrid_archivebot_glennsellnow_wordpress_com_20180418.cdx.idx
-2018-04-19 18:00:04,307 INFO root Skipping astrid_archivebot_glennsellnow_wordpress_com_20180418_archive.torrent
-2018-04-19 18:00:04,307 INFO root Skipping astrid_archivebot_glennsellnow_wordpress_com_20180418_files.xml
-2018-04-19 18:00:04,307 INFO root Skipping astrid_archivebot_glennsellnow_wordpress_com_20180418_meta.sqlite
-2018-04-19 18:00:04,307 INFO root Skipping astrid_archivebot_glennsellnow_wordpress_com_20180418_meta.xml
-2018-04-19 18:00:04,308 INFO root Writing last-update file
-2018-04-19 18:00:04,308 INFO root Done
+2018-04-20 00:00:01,719 DEBU root Last attempt: 2018-04-19T18:00:01Z
+2018-04-20 00:00:01,719 DEBU root Last success: 2018-04-19T18:00:01Z
+2018-04-20 00:00:01,720 INFO root Writing last-update file
+2018-04-20 00:00:01,720 INFO root Query: 'collection:archivebot oai_updatedate:[2018-04-19T18:00:01Z TO null]'
+2018-04-20 00:00:03,011 INFO root Processing item archiveteam_archivebot_go_20180419040001
+2018-04-20 00:00:03,012 INFO root Skipping archiveteam_archivebot_go_20180419040001.cdx.idx
+2018-04-20 00:00:03,012 INFO root Skipping archiveteam_archivebot_go_20180419040001_archive.torrent
+2018-04-20 00:00:03,012 INFO root Skipping archiveteam_archivebot_go_20180419040001_files.xml
+2018-04-20 00:00:03,013 INFO root Skipping archiveteam_archivebot_go_20180419040001_meta.sqlite
+2018-04-20 00:00:03,013 INFO root Skipping archiveteam_archivebot_go_20180419040001_meta.xml
+2018-04-20 00:00:03,013 INFO root Skipping archiveteam_archivebot_go_20180419040001_reviews.xml
+2018-04-20 00:00:03,138 INFO root Processing item archiveteam_archivebot_go_20180419100001
+2018-04-20 00:00:03,139 INFO root Skipping archiveteam_archivebot_go_20180419100001.cdx.idx
+2018-04-20 00:00:03,139 INFO root Skipping archiveteam_archivebot_go_20180419100001_archive.torrent
+2018-04-20 00:00:03,139 INFO root Skipping archiveteam_archivebot_go_20180419100001_files.xml
+2018-04-20 00:00:03,139 INFO root Skipping archiveteam_archivebot_go_20180419100001_meta.sqlite
+2018-04-20 00:00:03,139 INFO root Skipping archiveteam_archivebot_go_20180419100001_meta.xml
+2018-04-20 00:00:03,337 INFO root Processing item archiveteam_archivebot_go_20180419150001
+2018-04-20 00:00:03,338 ERRO root Size of anomalyinfo.com-inf-20180419-091851-99uht-00000.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,338 ERRO root Mtime of anomalyinfo.com-inf-20180419-091851-99uht-00000.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,338 ERRO root Size of anomalyinfo.com-inf-20180419-091851-99uht-meta.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,338 ERRO root Mtime of anomalyinfo.com-inf-20180419-091851-99uht-meta.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,338 INFO root Skipping archiveteam_archivebot_go_20180419150001_archive.torrent
+2018-04-20 00:00:03,338 INFO root Skipping archiveteam_archivebot_go_20180419150001_files.xml
+2018-04-20 00:00:03,338 INFO root Skipping archiveteam_archivebot_go_20180419150001_meta.sqlite
+2018-04-20 00:00:03,339 INFO root Skipping archiveteam_archivebot_go_20180419150001_meta.xml
+2018-04-20 00:00:03,339 ERRO root Size of distsn.org-inf-20180419-101308-f1s6r-00000.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,339 ERRO root Mtime of distsn.org-inf-20180419-101308-f1s6r-00000.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,339 ERRO root Size of distsn.org-inf-20180419-101308-f1s6r-meta.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,339 ERRO root Mtime of distsn.org-inf-20180419-101308-f1s6r-meta.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,339 ERRO root Size of distsn.org-inf-20180419-114537-e4o6o-00000.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,339 ERRO root Mtime of distsn.org-inf-20180419-114537-e4o6o-00000.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,339 ERRO root Size of distsn.org-inf-20180419-114537-e4o6o-meta.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,339 ERRO root Mtime of distsn.org-inf-20180419-114537-e4o6o-meta.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,339 ERRO root Size of gothamist.com-inf-20180224-074728-es4w5-00128.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,340 ERRO root Mtime of gothamist.com-inf-20180224-074728-es4w5-00128.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,340 ERRO root Size of lib.reviews-inf-20180419-123426-13do9-00000.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,340 ERRO root Mtime of lib.reviews-inf-20180419-123426-13do9-00000.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,340 ERRO root Size of lib.reviews-inf-20180419-123426-13do9-00001.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,340 ERRO root Mtime of lib.reviews-inf-20180419-123426-13do9-00001.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,340 ERRO root Size of lockergnome.com-inf-20180331-081321-3zmye-00073.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,340 ERRO root Mtime of lockergnome.com-inf-20180331-081321-3zmye-00073.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,340 ERRO root Size of mno.hu-inf-20180410-190941-1j5qc-00036.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,340 ERRO root Mtime of mno.hu-inf-20180410-190941-1j5qc-00036.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,340 ERRO root Size of monstersherethere.com-inf-20180419-093548-dpm5l-00000.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,340 ERRO root Mtime of monstersherethere.com-inf-20180419-093548-dpm5l-00000.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,341 ERRO root Size of monstersherethere.com-inf-20180419-093548-dpm5l-meta.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,341 ERRO root Mtime of monstersherethere.com-inf-20180419-093548-dpm5l-meta.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,341 ERRO root Size of niketalk.com-inf-20180326-183642-24ihf-00095.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,341 ERRO root Mtime of niketalk.com-inf-20180326-183642-24ihf-00095.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,341 ERRO root Size of niketalk.com-inf-20180326-183642-24ihf-00096.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,341 ERRO root Mtime of niketalk.com-inf-20180326-183642-24ihf-00096.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,341 ERRO root Size of richard2496.wordpress.com-inf-20180419-045628-76ubt-00001.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,341 ERRO root Mtime of richard2496.wordpress.com-inf-20180419-045628-76ubt-00001.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,341 ERRO root Size of richard2496.wordpress.com-inf-20180419-045628-76ubt-00002.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,341 ERRO root Mtime of richard2496.wordpress.com-inf-20180419-045628-76ubt-00002.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,341 ERRO root Size of richard2496.wordpress.com-inf-20180419-045628-76ubt-00003.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,342 ERRO root Mtime of richard2496.wordpress.com-inf-20180419-045628-76ubt-00003.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,342 ERRO root Size of richard2496.wordpress.com-inf-20180419-045628-76ubt-00004.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,342 ERRO root Mtime of richard2496.wordpress.com-inf-20180419-045628-76ubt-00004.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,342 ERRO root Size of richard2496.wordpress.com-inf-20180419-045628-76ubt-00005.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,342 ERRO root Mtime of richard2496.wordpress.com-inf-20180419-045628-76ubt-00005.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,342 ERRO root Size of richard2496.wordpress.com-inf-20180419-045628-76ubt-00006.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,342 ERRO root Mtime of richard2496.wordpress.com-inf-20180419-045628-76ubt-00006.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,342 ERRO root Size of soldmy.org-inf-20180419-115515-8reol-00000.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,342 ERRO root Mtime of soldmy.org-inf-20180419-115515-8reol-00000.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,342 ERRO root Size of soldmy.org-inf-20180419-115515-8reol-meta.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,342 ERRO root Mtime of soldmy.org-inf-20180419-115515-8reol-meta.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,343 ERRO root Size of sonm.uk-inf-20180417-160815-9qmc9-00007.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,343 ERRO root Mtime of sonm.uk-inf-20180417-160815-9qmc9-00007.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,343 ERRO root Size of twitter.com-shallow-20180419-121336-16a90-00000.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,343 ERRO root Mtime of twitter.com-shallow-20180419-121336-16a90-00000.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,343 ERRO root Size of twitter.com-shallow-20180419-121336-16a90-meta.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,343 ERRO root Mtime of twitter.com-shallow-20180419-121336-16a90-meta.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,343 ERRO root Size of twitter.com-shallow-20180419-121342-72xhk-00000.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,343 ERRO root Mtime of twitter.com-shallow-20180419-121342-72xhk-00000.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,343 ERRO root Size of twitter.com-shallow-20180419-121342-72xhk-meta.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,343 ERRO root Mtime of twitter.com-shallow-20180419-121342-72xhk-meta.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,344 ERRO root Size of vegetarismo.info-inf-20180419-123351-3v19q-00000.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,344 ERRO root Mtime of vegetarismo.info-inf-20180419-123351-3v19q-00000.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,344 ERRO root Size of vegetarismo.info-inf-20180419-123351-3v19q-meta.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,344 ERRO root Mtime of vegetarismo.info-inf-20180419-123351-3v19q-meta.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,344 ERRO root Size of www.canberratimes.com.au-inf-20180418-062459-4mkbg-00001.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,344 ERRO root Mtime of www.canberratimes.com.au-inf-20180418-062459-4mkbg-00001.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,344 ERRO root Size of www.canberratimes.com.au-inf-20180418-062459-4mkbg-meta.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,344 ERRO root Mtime of www.canberratimes.com.au-inf-20180418-062459-4mkbg-meta.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,344 ERRO root Size of www.coasttocoastam.com-inf-20180416-181431-c4q3f-00016.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,344 ERRO root Mtime of www.coasttocoastam.com-inf-20180416-181431-c4q3f-00016.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,344 ERRO root Size of www.esperanto-panorama.net-inf-20180419-124443-6t0u1-00000.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,345 ERRO root Mtime of www.esperanto-panorama.net-inf-20180419-124443-6t0u1-00000.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,345 ERRO root Size of www.esperanto-panorama.net-inf-20180419-124443-6t0u1-meta.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,345 ERRO root Mtime of www.esperanto-panorama.net-inf-20180419-124443-6t0u1-meta.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,345 ERRO root Size of www.ghi.ch-inf-20180418-213611-7ynu8-00002.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,345 ERRO root Mtime of www.ghi.ch-inf-20180418-213611-7ynu8-00002.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,345 ERRO root Size of www.ghi.ch-inf-20180418-213611-7ynu8-meta.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,345 ERRO root Mtime of www.ghi.ch-inf-20180418-213611-7ynu8-meta.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,345 ERRO root Size of www.lds.org-inf-20180401-225902-5t6yn-00910.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,345 ERRO root Mtime of www.lds.org-inf-20180401-225902-5t6yn-00910.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,345 ERRO root Size of www.lds.org-inf-20180401-225902-5t6yn-00911.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,345 ERRO root Mtime of www.lds.org-inf-20180401-225902-5t6yn-00911.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,346 ERRO root Size of www.lds.org-inf-20180401-225902-5t6yn-00912.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,346 ERRO root Mtime of www.lds.org-inf-20180401-225902-5t6yn-00912.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,346 ERRO root Size of www.lds.org-inf-20180401-225902-5t6yn-00913.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,346 ERRO root Mtime of www.lds.org-inf-20180401-225902-5t6yn-00913.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,346 ERRO root Size of www.lds.org-inf-20180401-225902-5t6yn-00914.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,346 ERRO root Mtime of www.lds.org-inf-20180401-225902-5t6yn-00914.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,346 ERRO root Size of www.lds.org-inf-20180401-225902-5t6yn-00915.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,346 ERRO root Mtime of www.lds.org-inf-20180401-225902-5t6yn-00915.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,346 ERRO root Size of www.lds.org-inf-20180401-225902-5t6yn-00916.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,346 ERRO root Mtime of www.lds.org-inf-20180401-225902-5t6yn-00916.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,347 ERRO root Size of www.lds.org-inf-20180401-225902-5t6yn-00917.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,347 ERRO root Mtime of www.lds.org-inf-20180401-225902-5t6yn-00917.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,347 ERRO root Size of www.lds.org-inf-20180401-225902-5t6yn-00918.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,347 ERRO root Mtime of www.lds.org-inf-20180401-225902-5t6yn-00918.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,347 ERRO root Size of www.reddit.com-inf-20180417-220906-8trae-00007.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,347 ERRO root Mtime of www.reddit.com-inf-20180417-220906-8trae-00007.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,347 ERRO root Size of www.reddit.com-inf-20180417-220906-8trae-00008.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,347 ERRO root Mtime of www.reddit.com-inf-20180417-220906-8trae-00008.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,347 ERRO root Size of www.sidetalking.com-inf-20180419-115201-4cvl3-00000.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,347 ERRO root Mtime of www.sidetalking.com-inf-20180419-115201-4cvl3-00000.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,348 ERRO root Size of www.sidetalking.com-inf-20180419-115201-4cvl3-meta.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,348 ERRO root Mtime of www.sidetalking.com-inf-20180419-115201-4cvl3-meta.warc.os.cdx.gz is missing
+2018-04-20 00:00:03,527 INFO root Processing item archiveteam_archivebot_go_20180419200001
+2018-04-20 00:00:03,528 INFO root Skipping archiveteam_archivebot_go_20180419200001_archive.torrent
+2018-04-20 00:00:03,528 INFO root Skipping archiveteam_archivebot_go_20180419200001_files.xml
+2018-04-20 00:00:03,528 INFO root Skipping archiveteam_archivebot_go_20180419200001_meta.sqlite
+2018-04-20 00:00:03,528 INFO root Skipping archiveteam_archivebot_go_20180419200001_meta.xml
+2018-04-20 00:00:03,738 INFO root Processing item astrid_archivebot_assemblergames_com_20180330
+2018-04-20 00:00:03,740 INFO root Skipping astrid_archivebot_assemblergames_com_20180330.cdx.idx
+2018-04-20 00:00:03,741 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_archive.torrent
+2018-04-20 00:00:03,741 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_files.xml
+2018-04-20 00:00:03,741 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_meta.sqlite
+2018-04-20 00:00:03,741 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_meta.xml
+2018-04-20 00:00:03,742 INFO root Writing last-update file
+2018-04-20 00:00:03,742 INFO root Done
