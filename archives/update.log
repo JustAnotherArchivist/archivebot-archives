@@ -1,28 +1,38 @@
-2018-04-24 06:00:01,889 DEBU root Last attempt: 2018-04-24T00:00:03Z
-2018-04-24 06:00:01,889 DEBU root Last success: 2018-04-24T00:00:03Z
-2018-04-24 06:00:01,889 INFO root Writing last-update file
-2018-04-24 06:00:01,890 INFO root Query: 'collection:archivebot oai_updatedate:[2018-04-24T00:00:03Z TO null]'
-2018-04-24 06:00:06,734 INFO root Processing item archiveteam_archivebot_go_20180423180002
-2018-04-24 06:00:06,739 INFO root Skipping archiveteam_archivebot_go_20180423180002.cdx.idx
-2018-04-24 06:00:06,739 INFO root Skipping archiveteam_archivebot_go_20180423180002_archive.torrent
-2018-04-24 06:00:06,739 INFO root Skipping archiveteam_archivebot_go_20180423180002_files.xml
-2018-04-24 06:00:06,740 INFO root Skipping archiveteam_archivebot_go_20180423180002_meta.sqlite
-2018-04-24 06:00:06,740 INFO root Skipping archiveteam_archivebot_go_20180423180002_meta.xml
-2018-04-24 06:00:06,858 INFO root Processing item archiveteam_archivebot_go_20180423230001
-2018-04-24 06:00:06,859 INFO root Skipping archiveteam_archivebot_go_20180423230001_archive.torrent
-2018-04-24 06:00:06,859 INFO root Skipping archiveteam_archivebot_go_20180423230001_files.xml
-2018-04-24 06:00:06,859 INFO root Skipping archiveteam_archivebot_go_20180423230001_meta.sqlite
-2018-04-24 06:00:06,859 INFO root Skipping archiveteam_archivebot_go_20180423230001_meta.xml
-2018-04-24 06:00:07,090 INFO root Processing item archiveteam_archivebot_go_20180424020001
-2018-04-24 06:00:07,090 INFO root Skipping archiveteam_archivebot_go_20180424020001_archive.torrent
-2018-04-24 06:00:07,090 INFO root Skipping archiveteam_archivebot_go_20180424020001_files.xml
-2018-04-24 06:00:07,090 INFO root Skipping archiveteam_archivebot_go_20180424020001_meta.sqlite
-2018-04-24 06:00:07,090 INFO root Skipping archiveteam_archivebot_go_20180424020001_meta.xml
-2018-04-24 06:00:07,229 INFO root Processing item astrid_archivebot_bbs_nextthing_co_20180420
-2018-04-24 06:00:07,230 INFO root Skipping astrid_archivebot_bbs_nextthing_co_20180420.cdx.idx
-2018-04-24 06:00:07,230 INFO root Skipping astrid_archivebot_bbs_nextthing_co_20180420_archive.torrent
-2018-04-24 06:00:07,230 INFO root Skipping astrid_archivebot_bbs_nextthing_co_20180420_files.xml
-2018-04-24 06:00:07,230 INFO root Skipping astrid_archivebot_bbs_nextthing_co_20180420_meta.sqlite
-2018-04-24 06:00:07,230 INFO root Skipping astrid_archivebot_bbs_nextthing_co_20180420_meta.xml
-2018-04-24 06:00:07,231 INFO root Writing last-update file
-2018-04-24 06:00:07,231 INFO root Done
+2018-04-24 12:00:02,804 DEBU root Last attempt: 2018-04-24T06:00:01Z
+2018-04-24 12:00:02,804 DEBU root Last success: 2018-04-24T06:00:01Z
+2018-04-24 12:00:02,804 INFO root Writing last-update file
+2018-04-24 12:00:02,805 INFO root Query: 'collection:archivebot oai_updatedate:[2018-04-24T06:00:01Z TO null]'
+2018-04-24 12:00:05,593 INFO root Processing item archiveteam_archivebot_go_20180423230001
+2018-04-24 12:00:05,594 INFO root Skipping archiveteam_archivebot_go_20180423230001_archive.torrent
+2018-04-24 12:00:05,595 INFO root Skipping archiveteam_archivebot_go_20180423230001_files.xml
+2018-04-24 12:00:05,595 INFO root Skipping archiveteam_archivebot_go_20180423230001_meta.sqlite
+2018-04-24 12:00:05,595 INFO root Skipping archiveteam_archivebot_go_20180423230001_meta.xml
+2018-04-24 12:00:05,943 INFO root Processing item archiveteam_archivebot_go_20180424020001
+2018-04-24 12:00:05,944 INFO root Skipping archiveteam_archivebot_go_20180424020001_archive.torrent
+2018-04-24 12:00:05,944 INFO root Skipping archiveteam_archivebot_go_20180424020001_files.xml
+2018-04-24 12:00:05,944 INFO root Skipping archiveteam_archivebot_go_20180424020001_meta.sqlite
+2018-04-24 12:00:05,944 INFO root Skipping archiveteam_archivebot_go_20180424020001_meta.xml
+2018-04-24 12:00:05,944 ERRO root Size of arcmage.org-inf-20180423-210037-c1b9p-00000.warc.os.cdx.gz is missing
+2018-04-24 12:00:05,944 ERRO root Mtime of arcmage.org-inf-20180423-210037-c1b9p-00000.warc.os.cdx.gz is missing
+2018-04-24 12:00:05,944 ERRO root Size of arcmage.org-inf-20180423-210107-5cc4r-00000.warc.os.cdx.gz is missing
+2018-04-24 12:00:05,945 ERRO root Mtime of arcmage.org-inf-20180423-210107-5cc4r-00000.warc.os.cdx.gz is missing
+2018-04-24 12:00:05,945 ERRO root Size of urls-pastebin.com-PbxFJcaC-shallow-20180424-004232-a4d6i-00000.warc.os.cdx.gz is missing
+2018-04-24 12:00:05,945 ERRO root Mtime of urls-pastebin.com-PbxFJcaC-shallow-20180424-004232-a4d6i-00000.warc.os.cdx.gz is missing
+2018-04-24 12:00:06,122 INFO root Processing item archiveteam_archivebot_go_20180424080002
+2018-04-24 12:00:06,125 INFO root Skipping archiveteam_archivebot_go_20180424080002_files.xml
+2018-04-24 12:00:06,126 INFO root Skipping archiveteam_archivebot_go_20180424080002_meta.sqlite
+2018-04-24 12:00:06,126 INFO root Skipping archiveteam_archivebot_go_20180424080002_meta.xml
+2018-04-24 12:00:06,450 INFO root Processing item astrid_archivebot_assemblergames_com_20180330
+2018-04-24 12:00:06,455 INFO root Skipping astrid_archivebot_assemblergames_com_20180330.cdx.idx
+2018-04-24 12:00:06,455 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_archive.torrent
+2018-04-24 12:00:06,455 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_files.xml
+2018-04-24 12:00:06,455 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_meta.sqlite
+2018-04-24 12:00:06,456 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_meta.xml
+2018-04-24 12:00:06,558 INFO root Processing item astrid_archivebot_bbs_nextthing_co_20180420
+2018-04-24 12:00:06,559 INFO root Skipping astrid_archivebot_bbs_nextthing_co_20180420.cdx.idx
+2018-04-24 12:00:06,559 INFO root Skipping astrid_archivebot_bbs_nextthing_co_20180420_archive.torrent
+2018-04-24 12:00:06,559 INFO root Skipping astrid_archivebot_bbs_nextthing_co_20180420_files.xml
+2018-04-24 12:00:06,559 INFO root Skipping astrid_archivebot_bbs_nextthing_co_20180420_meta.sqlite
+2018-04-24 12:00:06,560 INFO root Skipping astrid_archivebot_bbs_nextthing_co_20180420_meta.xml
+2018-04-24 12:00:06,561 INFO root Writing last-update file
+2018-04-24 12:00:06,561 INFO root Done
