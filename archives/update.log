@@ -1,83 +1,28 @@
-2018-04-28 06:00:01,744 DEBU root Last attempt: 2018-04-28T00:00:01Z
-2018-04-28 06:00:01,745 DEBU root Last success: 2018-04-28T00:00:01Z
-2018-04-28 06:00:01,745 INFO root Writing last-update file
-2018-04-28 06:00:01,746 INFO root Query: 'collection:archivebot oai_updatedate:[2018-04-28T00:00:01Z TO null]'
-2018-04-28 06:00:03,064 INFO root Processing item archiveteam_archivebot_go_20180427150002
-2018-04-28 06:00:03,065 INFO root Skipping archiveteam_archivebot_go_20180427150002.cdx.idx
-2018-04-28 06:00:03,065 INFO root Skipping archiveteam_archivebot_go_20180427150002_archive.torrent
-2018-04-28 06:00:03,065 INFO root Skipping archiveteam_archivebot_go_20180427150002_files.xml
-2018-04-28 06:00:03,065 INFO root Skipping archiveteam_archivebot_go_20180427150002_meta.sqlite
-2018-04-28 06:00:03,065 INFO root Skipping archiveteam_archivebot_go_20180427150002_meta.xml
-2018-04-28 06:00:03,245 INFO root Processing item archiveteam_archivebot_go_20180427220001
-2018-04-28 06:00:03,246 ERRO root Size of af11.wordpress.com-inf-20180422-115533-6wrhg-00027.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,246 ERRO root Mtime of af11.wordpress.com-inf-20180422-115533-6wrhg-00027.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,246 INFO root Skipping archiveteam_archivebot_go_20180427220001_archive.torrent
-2018-04-28 06:00:03,246 INFO root Skipping archiveteam_archivebot_go_20180427220001_files.xml
-2018-04-28 06:00:03,246 INFO root Skipping archiveteam_archivebot_go_20180427220001_meta.sqlite
-2018-04-28 06:00:03,247 INFO root Skipping archiveteam_archivebot_go_20180427220001_meta.xml
-2018-04-28 06:00:03,247 ERRO root Size of bazonline.ch-inf-20180418-210851-5gvhe-00023.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,247 ERRO root Mtime of bazonline.ch-inf-20180418-210851-5gvhe-00023.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,247 ERRO root Size of daeken.svbtle.com-shallow-20180427-151511-biq5o-00000.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,247 ERRO root Mtime of daeken.svbtle.com-shallow-20180427-151511-biq5o-00000.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,247 ERRO root Size of daeken.svbtle.com-shallow-20180427-151511-biq5o-meta.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,247 ERRO root Mtime of daeken.svbtle.com-shallow-20180427-151511-biq5o-meta.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,248 ERRO root Size of gothamist.com-inf-20180224-074728-es4w5-00159.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,248 ERRO root Mtime of gothamist.com-inf-20180224-074728-es4w5-00159.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,248 ERRO root Size of libregraphicsworld.org-inf-20180427-190551-1gqsf-00001.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,248 ERRO root Mtime of libregraphicsworld.org-inf-20180427-190551-1gqsf-00001.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,248 ERRO root Size of niketalk.com-inf-20180326-183642-24ihf-00127.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,248 ERRO root Mtime of niketalk.com-inf-20180326-183642-24ihf-00127.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,248 ERRO root Size of perrykchavers.wordpress.com-inf-20180423-205901-bqzyo-00020.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,249 ERRO root Mtime of perrykchavers.wordpress.com-inf-20180423-205901-bqzyo-00020.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,249 ERRO root Size of roosterteeth.com-inf-20180413-052749-101om-00049.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,249 ERRO root Mtime of roosterteeth.com-inf-20180413-052749-101om-00049.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,249 ERRO root Size of roosterteeth.com-inf-20180414-005903-5r2x0-00026.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,249 ERRO root Mtime of roosterteeth.com-inf-20180414-005903-5r2x0-00026.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,249 ERRO root Size of www.arcadepunks.com-inf-20180427-061249-95d4j-00001.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,249 ERRO root Mtime of www.arcadepunks.com-inf-20180427-061249-95d4j-00001.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,249 ERRO root Size of www.arcadepunks.com-inf-20180427-061249-95d4j-00002.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,250 ERRO root Mtime of www.arcadepunks.com-inf-20180427-061249-95d4j-00002.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,250 ERRO root Size of www.arcadepunks.com-inf-20180427-061249-95d4j-meta.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,250 ERRO root Mtime of www.arcadepunks.com-inf-20180427-061249-95d4j-meta.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,250 ERRO root Size of www.archerytalk.com-inf-20180406-014947-at82q-00093.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,250 ERRO root Mtime of www.archerytalk.com-inf-20180406-014947-at82q-00093.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,250 ERRO root Size of www.lds.org-inf-20180401-225902-5t6yn-01370.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,250 ERRO root Mtime of www.lds.org-inf-20180401-225902-5t6yn-01370.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,251 ERRO root Size of www.lds.org-inf-20180401-225902-5t6yn-01371.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,251 ERRO root Mtime of www.lds.org-inf-20180401-225902-5t6yn-01371.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,251 ERRO root Size of www.lds.org-inf-20180401-225902-5t6yn-01372.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,251 ERRO root Mtime of www.lds.org-inf-20180401-225902-5t6yn-01372.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,251 ERRO root Size of www.lds.org-inf-20180401-225902-5t6yn-01373.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,251 ERRO root Mtime of www.lds.org-inf-20180401-225902-5t6yn-01373.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,251 ERRO root Size of www.lds.org-inf-20180401-225902-5t6yn-01374.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,251 ERRO root Mtime of www.lds.org-inf-20180401-225902-5t6yn-01374.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,252 ERRO root Size of www.lds.org-inf-20180401-225902-5t6yn-01375.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,252 ERRO root Mtime of www.lds.org-inf-20180401-225902-5t6yn-01375.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,252 ERRO root Size of www.lds.org-inf-20180401-225902-5t6yn-01376.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,252 ERRO root Mtime of www.lds.org-inf-20180401-225902-5t6yn-01376.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,252 ERRO root Size of www.lds.org-inf-20180401-225902-5t6yn-01377.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,252 ERRO root Mtime of www.lds.org-inf-20180401-225902-5t6yn-01377.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,252 ERRO root Size of www.lds.org-inf-20180401-225902-5t6yn-01378.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,252 ERRO root Mtime of www.lds.org-inf-20180401-225902-5t6yn-01378.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,253 ERRO root Size of www.maangchi.com-inf-20180427-015939-3rs2w-00001.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,253 ERRO root Mtime of www.maangchi.com-inf-20180427-015939-3rs2w-00001.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,253 ERRO root Size of www.reddit.com-inf-20180423-011837-7lwme-00029.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,253 ERRO root Mtime of www.reddit.com-inf-20180423-011837-7lwme-00029.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,253 ERRO root Size of www.reddit.com-inf-20180423-062327-4qlsk-00029.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,253 ERRO root Mtime of www.reddit.com-inf-20180423-062327-4qlsk-00029.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,254 ERRO root Size of www.reddit.com-inf-20180424-201921-5l22t-00024.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,254 ERRO root Mtime of www.reddit.com-inf-20180424-201921-5l22t-00024.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,254 ERRO root Size of www.reddit.com-inf-20180424-201921-5l22t-00025.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,254 ERRO root Mtime of www.reddit.com-inf-20180424-201921-5l22t-00025.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,254 ERRO root Size of www.reddit.com-inf-20180425-114554-bpqd3-00019.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,254 ERRO root Mtime of www.reddit.com-inf-20180425-114554-bpqd3-00019.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,254 ERRO root Size of www.reddit.com-inf-20180425-114554-bpqd3-00020.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,254 ERRO root Mtime of www.reddit.com-inf-20180425-114554-bpqd3-00020.warc.os.cdx.gz is missing
-2018-04-28 06:00:03,378 INFO root Processing item astrid_archivebot_bbs_nextthing_co_20180420
-2018-04-28 06:00:03,378 INFO root Skipping astrid_archivebot_bbs_nextthing_co_20180420.cdx.idx
-2018-04-28 06:00:03,378 INFO root Skipping astrid_archivebot_bbs_nextthing_co_20180420_archive.torrent
-2018-04-28 06:00:03,379 INFO root Skipping astrid_archivebot_bbs_nextthing_co_20180420_files.xml
-2018-04-28 06:00:03,379 INFO root Skipping astrid_archivebot_bbs_nextthing_co_20180420_meta.sqlite
-2018-04-28 06:00:03,379 INFO root Skipping astrid_archivebot_bbs_nextthing_co_20180420_meta.xml
-2018-04-28 06:00:03,380 INFO root Writing last-update file
-2018-04-28 06:00:03,380 INFO root Done
+2018-04-28 12:00:01,675 DEBU root Last attempt: 2018-04-28T06:00:01Z
+2018-04-28 12:00:01,675 DEBU root Last success: 2018-04-28T06:00:01Z
+2018-04-28 12:00:01,675 INFO root Writing last-update file
+2018-04-28 12:00:01,676 INFO root Query: 'collection:archivebot oai_updatedate:[2018-04-28T06:00:01Z TO null]'
+2018-04-28 12:00:02,933 INFO root Processing item archiveteam_archivebot_go_20180427220001
+2018-04-28 12:00:02,934 INFO root Skipping archiveteam_archivebot_go_20180427220001.cdx.idx
+2018-04-28 12:00:02,934 INFO root Skipping archiveteam_archivebot_go_20180427220001_archive.torrent
+2018-04-28 12:00:02,934 INFO root Skipping archiveteam_archivebot_go_20180427220001_files.xml
+2018-04-28 12:00:02,934 INFO root Skipping archiveteam_archivebot_go_20180427220001_meta.sqlite
+2018-04-28 12:00:02,934 INFO root Skipping archiveteam_archivebot_go_20180427220001_meta.xml
+2018-04-28 12:00:03,210 INFO root Processing item archiveteam_archivebot_go_20180428060001
+2018-04-28 12:00:03,211 INFO root Skipping archiveteam_archivebot_go_20180428060001_archive.torrent
+2018-04-28 12:00:03,211 INFO root Skipping archiveteam_archivebot_go_20180428060001_files.xml
+2018-04-28 12:00:03,211 INFO root Skipping archiveteam_archivebot_go_20180428060001_meta.sqlite
+2018-04-28 12:00:03,211 INFO root Skipping archiveteam_archivebot_go_20180428060001_meta.xml
+2018-04-28 12:00:03,358 INFO root Processing item archiveteam_archivebot_go_20180428110001
+2018-04-28 12:00:03,359 INFO root Skipping archiveteam_archivebot_go_20180428110001_archive.torrent
+2018-04-28 12:00:03,359 INFO root Skipping archiveteam_archivebot_go_20180428110001_files.xml
+2018-04-28 12:00:03,359 INFO root Skipping archiveteam_archivebot_go_20180428110001_meta.sqlite
+2018-04-28 12:00:03,359 INFO root Skipping archiveteam_archivebot_go_20180428110001_meta.xml
+2018-04-28 12:00:03,517 INFO root Processing item astrid_archivebot_bbs_nextthing_co_20180420
+2018-04-28 12:00:03,517 INFO root Skipping astrid_archivebot_bbs_nextthing_co_20180420.cdx.idx
+2018-04-28 12:00:03,517 INFO root Skipping astrid_archivebot_bbs_nextthing_co_20180420_archive.torrent
+2018-04-28 12:00:03,517 INFO root Skipping astrid_archivebot_bbs_nextthing_co_20180420_files.xml
+2018-04-28 12:00:03,517 INFO root Skipping astrid_archivebot_bbs_nextthing_co_20180420_meta.sqlite
+2018-04-28 12:00:03,518 INFO root Skipping astrid_archivebot_bbs_nextthing_co_20180420_meta.xml
+2018-04-28 12:00:03,518 INFO root Writing last-update file
+2018-04-28 12:00:03,519 INFO root Done
