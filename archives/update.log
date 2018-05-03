@@ -1,51 +1,29 @@
-2018-05-02 18:00:02,134 DEBU root Last attempt: 2018-05-02T12:00:01Z
-2018-05-02 18:00:02,135 DEBU root Last success: 2018-05-02T12:00:01Z
-2018-05-02 18:00:02,135 INFO root Writing last-update file
-2018-05-02 18:00:02,136 INFO root Query: 'collection:archivebot oai_updatedate:[2018-05-02T12:00:01Z TO null]'
-2018-05-02 18:00:04,458 INFO root Processing item archiveteam_archivebot_go_20180501230001
-2018-05-02 18:00:04,458 ERRO root Size of af11.wordpress.com-inf-20180422-115533-6wrhg-00039.warc.os.cdx.gz is missing
-2018-05-02 18:00:04,458 ERRO root Mtime of af11.wordpress.com-inf-20180422-115533-6wrhg-00039.warc.os.cdx.gz is missing
-2018-05-02 18:00:04,459 INFO root Skipping archiveteam_archivebot_go_20180501230001_archive.torrent
-2018-05-02 18:00:04,459 INFO root Skipping archiveteam_archivebot_go_20180501230001_files.xml
-2018-05-02 18:00:04,459 INFO root Skipping archiveteam_archivebot_go_20180501230001_meta.sqlite
-2018-05-02 18:00:04,459 INFO root Skipping archiveteam_archivebot_go_20180501230001_meta.xml
-2018-05-02 18:00:04,459 ERRO root Size of calagator.org-inf-20180429-213530-erzg5-00005.warc.os.cdx.gz is missing
-2018-05-02 18:00:04,459 ERRO root Mtime of calagator.org-inf-20180429-213530-erzg5-00005.warc.os.cdx.gz is missing
-2018-05-02 18:00:04,459 ERRO root Size of calagator.org-inf-20180429-213530-erzg5-meta.warc.os.cdx.gz is missing
-2018-05-02 18:00:04,459 ERRO root Mtime of calagator.org-inf-20180429-213530-erzg5-meta.warc.os.cdx.gz is missing
-2018-05-02 18:00:04,459 ERRO root Size of digitalorientalist.com-shallow-20180501-192602-6gq3p-00000.warc.os.cdx.gz is missing
-2018-05-02 18:00:04,460 ERRO root Mtime of digitalorientalist.com-shallow-20180501-192602-6gq3p-00000.warc.os.cdx.gz is missing
-2018-05-02 18:00:04,460 ERRO root Size of digitalorientalist.com-shallow-20180501-192602-6gq3p-meta.warc.os.cdx.gz is missing
-2018-05-02 18:00:04,460 ERRO root Mtime of digitalorientalist.com-shallow-20180501-192602-6gq3p-meta.warc.os.cdx.gz is missing
-2018-05-02 18:00:04,460 ERRO root Size of digitalorientalist.com-shallow-20180501-192609-ezdbm-00000.warc.os.cdx.gz is missing
-2018-05-02 18:00:04,460 ERRO root Mtime of digitalorientalist.com-shallow-20180501-192609-ezdbm-00000.warc.os.cdx.gz is missing
-2018-05-02 18:00:04,460 ERRO root Size of digitalorientalist.com-shallow-20180501-192609-ezdbm-meta.warc.os.cdx.gz is missing
-2018-05-02 18:00:04,460 ERRO root Mtime of digitalorientalist.com-shallow-20180501-192609-ezdbm-meta.warc.os.cdx.gz is missing
-2018-05-02 18:00:04,460 ERRO root Size of endchan.xyz-inf-20180501-084804-efonv-00004.warc.os.cdx.gz is missing
-2018-05-02 18:00:04,460 ERRO root Mtime of endchan.xyz-inf-20180501-084804-efonv-00004.warc.os.cdx.gz is missing
-2018-05-02 18:00:04,461 ERRO root Size of endchan.xyz-inf-20180501-084804-efonv-00005.warc.os.cdx.gz is missing
-2018-05-02 18:00:04,461 ERRO root Mtime of endchan.xyz-inf-20180501-084804-efonv-00005.warc.os.cdx.gz is missing
-2018-05-02 18:00:04,461 ERRO root Size of endchan.xyz-inf-20180501-084804-efonv-00006.warc.os.cdx.gz is missing
-2018-05-02 18:00:04,461 ERRO root Mtime of endchan.xyz-inf-20180501-084804-efonv-00006.warc.os.cdx.gz is missing
-2018-05-02 18:00:04,461 ERRO root Size of endchan.xyz-inf-20180501-084804-efonv-00007.warc.os.cdx.gz is missing
-2018-05-02 18:00:04,461 ERRO root Mtime of endchan.xyz-inf-20180501-084804-efonv-00007.warc.os.cdx.gz is missing
-2018-05-02 18:00:04,461 ERRO root Size of endchan.xyz-inf-20180501-084804-efonv-00008.warc.os.cdx.gz is missing
-2018-05-02 18:00:04,461 ERRO root Mtime of endchan.xyz-inf-20180501-084804-efonv-00008.warc.os.cdx.gz is missing
-2018-05-02 18:00:04,461 ERRO root Size of endchan.xyz-inf-20180501-084804-efonv-00009.warc.os.cdx.gz is missing
-2018-05-02 18:00:04,461 ERRO root Mtime of endchan.xyz-inf-20180501-084804-efonv-00009.warc.os.cdx.gz is missing
-2018-05-02 18:00:04,462 ERRO root Size of endchan.xyz-inf-20180501-084804-efonv-00010.warc.os.cdx.gz is missing
-2018-05-02 18:00:04,462 ERRO root Mtime of endchan.xyz-inf-20180501-084804-efonv-00010.warc.os.cdx.gz is missing
-2018-05-02 18:00:04,462 ERRO root Size of hackerpublicradio.org-inf-20180429-024810-3iig1-00009.warc.os.cdx.gz is missing
-2018-05-02 18:00:04,462 ERRO root Mtime of hackerpublicradio.org-inf-20180429-024810-3iig1-00009.warc.os.cdx.gz is missing
-2018-05-02 18:00:05,137 INFO root Processing item archiveteam_archivebot_go_20180502060001
-2018-05-02 18:00:05,137 INFO root Skipping archiveteam_archivebot_go_20180502060001_archive.torrent
-2018-05-02 18:00:05,137 INFO root Skipping archiveteam_archivebot_go_20180502060001_files.xml
-2018-05-02 18:00:05,138 INFO root Skipping archiveteam_archivebot_go_20180502060001_meta.sqlite
-2018-05-02 18:00:05,138 INFO root Skipping archiveteam_archivebot_go_20180502060001_meta.xml
-2018-05-02 18:00:05,725 INFO root Processing item archiveteam_archivebot_go_20180502130001
-2018-05-02 18:00:05,725 INFO root Skipping archiveteam_archivebot_go_20180502130001_archive.torrent
-2018-05-02 18:00:05,725 INFO root Skipping archiveteam_archivebot_go_20180502130001_files.xml
-2018-05-02 18:00:05,725 INFO root Skipping archiveteam_archivebot_go_20180502130001_meta.sqlite
-2018-05-02 18:00:05,726 INFO root Skipping archiveteam_archivebot_go_20180502130001_meta.xml
-2018-05-02 18:00:05,727 INFO root Writing last-update file
-2018-05-02 18:00:05,728 INFO root Done
+2018-05-03 00:00:01,565 DEBU root Last attempt: 2018-05-02T18:00:02Z
+2018-05-03 00:00:01,566 DEBU root Last success: 2018-05-02T18:00:02Z
+2018-05-03 00:00:01,566 INFO root Writing last-update file
+2018-05-03 00:00:01,567 INFO root Query: 'collection:archivebot oai_updatedate:[2018-05-02T18:00:02Z TO null]'
+2018-05-03 00:00:03,646 INFO root Processing item archiveteam_archivebot_go_20180501230001
+2018-05-03 00:00:03,646 INFO root Skipping archiveteam_archivebot_go_20180501230001.cdx.idx
+2018-05-03 00:00:03,646 INFO root Skipping archiveteam_archivebot_go_20180501230001_archive.torrent
+2018-05-03 00:00:03,646 INFO root Skipping archiveteam_archivebot_go_20180501230001_files.xml
+2018-05-03 00:00:03,647 INFO root Skipping archiveteam_archivebot_go_20180501230001_meta.sqlite
+2018-05-03 00:00:03,647 INFO root Skipping archiveteam_archivebot_go_20180501230001_meta.xml
+2018-05-03 00:00:03,753 INFO root Processing item archiveteam_archivebot_go_20180502060001
+2018-05-03 00:00:03,753 INFO root Skipping archiveteam_archivebot_go_20180502060001.cdx.idx
+2018-05-03 00:00:03,753 INFO root Skipping archiveteam_archivebot_go_20180502060001_archive.torrent
+2018-05-03 00:00:03,753 INFO root Skipping archiveteam_archivebot_go_20180502060001_files.xml
+2018-05-03 00:00:03,753 INFO root Skipping archiveteam_archivebot_go_20180502060001_meta.sqlite
+2018-05-03 00:00:03,754 INFO root Skipping archiveteam_archivebot_go_20180502060001_meta.xml
+2018-05-03 00:00:04,227 INFO root Processing item archiveteam_archivebot_go_20180502130001
+2018-05-03 00:00:04,228 INFO root Skipping archiveteam_archivebot_go_20180502130001.cdx.idx
+2018-05-03 00:00:04,228 INFO root Skipping archiveteam_archivebot_go_20180502130001_archive.torrent
+2018-05-03 00:00:04,228 INFO root Skipping archiveteam_archivebot_go_20180502130001_files.xml
+2018-05-03 00:00:04,228 INFO root Skipping archiveteam_archivebot_go_20180502130001_meta.sqlite
+2018-05-03 00:00:04,228 INFO root Skipping archiveteam_archivebot_go_20180502130001_meta.xml
+2018-05-03 00:00:05,386 INFO root Processing item archiveteam_archivebot_go_20180502220001
+2018-05-03 00:00:05,387 INFO root Skipping archiveteam_archivebot_go_20180502220001_archive.torrent
+2018-05-03 00:00:05,387 INFO root Skipping archiveteam_archivebot_go_20180502220001_files.xml
+2018-05-03 00:00:05,387 INFO root Skipping archiveteam_archivebot_go_20180502220001_meta.sqlite
+2018-05-03 00:00:05,387 INFO root Skipping archiveteam_archivebot_go_20180502220001_meta.xml
+2018-05-03 00:00:05,388 INFO root Writing last-update file
+2018-05-03 00:00:05,388 INFO root Done
