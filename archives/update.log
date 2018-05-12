@@ -1,104 +1,23 @@
-2018-05-11 18:00:01,463 DEBU root Last attempt: 2018-05-11T12:00:02Z
-2018-05-11 18:00:01,463 DEBU root Last success: 2018-05-11T12:00:02Z
-2018-05-11 18:00:01,463 INFO root Writing last-update file
-2018-05-11 18:00:01,464 INFO root Query: 'collection:archivebot oai_updatedate:[2018-05-11T12:00:02Z TO null]'
-2018-05-11 18:00:02,848 INFO root Processing item archiveteam_archivebot_go_20180511060001
-2018-05-11 18:00:02,848 INFO root Skipping archiveteam_archivebot_go_20180511060001_archive.torrent
-2018-05-11 18:00:02,849 INFO root Skipping archiveteam_archivebot_go_20180511060001_files.xml
-2018-05-11 18:00:02,849 INFO root Skipping archiveteam_archivebot_go_20180511060001_meta.sqlite
-2018-05-11 18:00:02,849 INFO root Skipping archiveteam_archivebot_go_20180511060001_meta.xml
-2018-05-11 18:00:02,849 ERRO root Size of ciberduvidas.iscte-iul.pt-inf-20180508-105016-wkrhq-00006.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,849 ERRO root Mtime of ciberduvidas.iscte-iul.pt-inf-20180508-105016-wkrhq-00006.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,849 ERRO root Size of community.akamai.com-inf-20180510-180611-8ihgo-00000.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,849 ERRO root Mtime of community.akamai.com-inf-20180510-180611-8ihgo-00000.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,849 ERRO root Size of community.akamai.com-inf-20180510-180611-8ihgo-00001.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,850 ERRO root Mtime of community.akamai.com-inf-20180510-180611-8ihgo-00001.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,850 ERRO root Size of community.akamai.com-inf-20180510-180611-8ihgo-00002.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,850 ERRO root Mtime of community.akamai.com-inf-20180510-180611-8ihgo-00002.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,850 ERRO root Size of community.lithium.com-shallow-20180510-215807-d9dbu-00000.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,850 ERRO root Mtime of community.lithium.com-shallow-20180510-215807-d9dbu-00000.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,850 ERRO root Size of community.lithium.com-shallow-20180510-215807-d9dbu-meta.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,850 ERRO root Mtime of community.lithium.com-shallow-20180510-215807-d9dbu-meta.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,850 ERRO root Size of developer.klout.com-shallow-20180510-220200-4xbej-00000.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,850 ERRO root Mtime of developer.klout.com-shallow-20180510-220200-4xbej-00000.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,851 ERRO root Size of developer.klout.com-shallow-20180510-220200-4xbej-meta.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,851 ERRO root Mtime of developer.klout.com-shallow-20180510-220200-4xbej-meta.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,851 ERRO root Size of e926.net-inf-20180509-215331-zn9fz-00002.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,851 ERRO root Mtime of e926.net-inf-20180509-215331-zn9fz-00002.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,851 ERRO root Size of e926.net-inf-20180509-215331-zn9fz-00003.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,851 ERRO root Mtime of e926.net-inf-20180509-215331-zn9fz-00003.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,851 ERRO root Size of getsatisfaction.com-inf-20180509-020136-8tv9v-00001.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,851 ERRO root Mtime of getsatisfaction.com-inf-20180509-020136-8tv9v-00001.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,851 ERRO root Size of gothamist.com-inf-20180224-074728-es4w5-00194.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,851 ERRO root Mtime of gothamist.com-inf-20180224-074728-es4w5-00194.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,852 ERRO root Size of gphsphoto.smugmug.com-inf-20180501-124911-adlv6-00042.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,852 ERRO root Mtime of gphsphoto.smugmug.com-inf-20180501-124911-adlv6-00042.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,852 ERRO root Size of gphsphoto.smugmug.com-inf-20180501-124911-adlv6-00043.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,852 ERRO root Mtime of gphsphoto.smugmug.com-inf-20180501-124911-adlv6-00043.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,853 ERRO root Size of gphsphoto.smugmug.com-inf-20180501-124911-adlv6-00044.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,853 ERRO root Mtime of gphsphoto.smugmug.com-inf-20180501-124911-adlv6-00044.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,853 ERRO root Size of klout.com-inf-20180510-215823-d46hi-00000.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,853 ERRO root Mtime of klout.com-inf-20180510-215823-d46hi-00000.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,853 ERRO root Size of klout.com-inf-20180510-215823-d46hi-00001.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,853 ERRO root Mtime of klout.com-inf-20180510-215823-d46hi-00001.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,853 ERRO root Size of klout.com-inf-20180510-215823-d46hi-00002.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,853 ERRO root Mtime of klout.com-inf-20180510-215823-d46hi-00002.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,854 ERRO root Size of klout.com-shallow-20180510-215942-79nel-00000.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,854 ERRO root Mtime of klout.com-shallow-20180510-215942-79nel-00000.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,854 ERRO root Size of klout.com-shallow-20180510-215942-79nel-meta.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,854 ERRO root Mtime of klout.com-shallow-20180510-215942-79nel-meta.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,854 ERRO root Size of linuxrocks.online-inf-20180509-023634-2bnic-00008.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,854 ERRO root Mtime of linuxrocks.online-inf-20180509-023634-2bnic-00008.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,854 ERRO root Size of linuxrocks.online-inf-20180509-023634-2bnic-00009.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,855 ERRO root Mtime of linuxrocks.online-inf-20180509-023634-2bnic-00009.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,855 ERRO root Size of ngemu.com-inf-20180508-131937-qig58-00005.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,855 ERRO root Mtime of ngemu.com-inf-20180508-131937-qig58-00005.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,855 ERRO root Size of noagendasocial.com-inf-20180501-055956-9f7jt-00032.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,855 ERRO root Mtime of noagendasocial.com-inf-20180501-055956-9f7jt-00032.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,855 ERRO root Size of noagendasocial.com-inf-20180501-055956-9f7jt-00033.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,855 ERRO root Mtime of noagendasocial.com-inf-20180501-055956-9f7jt-00033.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,855 ERRO root Size of roosterteeth.com-inf-20180413-052749-101om-00093.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,855 ERRO root Mtime of roosterteeth.com-inf-20180413-052749-101om-00093.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,855 ERRO root Size of roosterteeth.com-inf-20180414-005903-5r2x0-00046.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,856 ERRO root Mtime of roosterteeth.com-inf-20180414-005903-5r2x0-00046.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,856 ERRO root Size of twitter.com-shallow-20180510-221531-aq253-00000.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,856 ERRO root Mtime of twitter.com-shallow-20180510-221531-aq253-00000.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,856 ERRO root Size of twitter.com-shallow-20180510-221531-aq253-meta.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,856 ERRO root Mtime of twitter.com-shallow-20180510-221531-aq253-meta.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,856 ERRO root Size of urls-transfer.sh-KloutAPI-tweets-shallow-20180510-221455-eisou-00000.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,856 ERRO root Mtime of urls-transfer.sh-KloutAPI-tweets-shallow-20180510-221455-eisou-00000.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,856 ERRO root Size of urls-transfer.sh-KloutAPI-tweets-shallow-20180510-221455-eisou-meta.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,856 ERRO root Mtime of urls-transfer.sh-KloutAPI-tweets-shallow-20180510-221455-eisou-meta.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,856 ERRO root Size of urls-transfer.sh-KloutSupport-tweets-shallow-20180511-002843-39g94-00000.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,857 ERRO root Mtime of urls-transfer.sh-KloutSupport-tweets-shallow-20180511-002843-39g94-00000.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,857 ERRO root Size of urls-transfer.sh-KloutSupport-tweets-shallow-20180511-002843-39g94-meta.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,857 ERRO root Mtime of urls-transfer.sh-KloutSupport-tweets-shallow-20180511-002843-39g94-meta.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,857 ERRO root Size of urls-transfer.sh-klout-tweets-shallow-20180510-221730-a98xu-00000.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,857 ERRO root Mtime of urls-transfer.sh-klout-tweets-shallow-20180510-221730-a98xu-00000.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,857 ERRO root Size of urls-transfer.sh-klout-tweets-shallow-20180510-221730-a98xu-meta.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,857 ERRO root Mtime of urls-transfer.sh-klout-tweets-shallow-20180510-221730-a98xu-meta.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,857 ERRO root Size of urls-transfer.sh-kloutfb-facebook-posts-shallow-20180510-222230-cez59-00000.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,858 ERRO root Mtime of urls-transfer.sh-kloutfb-facebook-posts-shallow-20180510-222230-cez59-00000.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,858 ERRO root Size of urls-transfer.sh-kloutfb-facebook-posts-shallow-20180510-222230-cez59-meta.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,858 ERRO root Mtime of urls-transfer.sh-kloutfb-facebook-posts-shallow-20180510-222230-cez59-meta.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,858 ERRO root Size of urls-transfer.sh-kloutperks-instagram-posts-shallow-20180510-221806-7xzf7-00000.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,858 ERRO root Mtime of urls-transfer.sh-kloutperks-instagram-posts-shallow-20180510-221806-7xzf7-00000.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,858 ERRO root Size of urls-transfer.sh-kloutperks-instagram-posts-shallow-20180510-221806-7xzf7-meta.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,858 ERRO root Mtime of urls-transfer.sh-kloutperks-instagram-posts-shallow-20180510-221806-7xzf7-meta.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,858 ERRO root Size of www.browardschools1.com-inf-20180509-114759-d80j1-00010.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,858 ERRO root Mtime of www.browardschools1.com-inf-20180509-114759-d80j1-00010.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,859 ERRO root Size of www.browardschools1.com-inf-20180509-114759-d80j1-00011.warc.os.cdx.gz is missing
-2018-05-11 18:00:02,859 ERRO root Mtime of www.browardschools1.com-inf-20180509-114759-d80j1-00011.warc.os.cdx.gz is missing
-2018-05-11 18:00:03,034 INFO root Processing item archiveteam_archivebot_go_20180511150001
-2018-05-11 18:00:03,034 INFO root Skipping archiveteam_archivebot_go_20180511150001_archive.torrent
-2018-05-11 18:00:03,034 INFO root Skipping archiveteam_archivebot_go_20180511150001_files.xml
-2018-05-11 18:00:03,035 INFO root Skipping archiveteam_archivebot_go_20180511150001_meta.sqlite
-2018-05-11 18:00:03,035 INFO root Skipping archiveteam_archivebot_go_20180511150001_meta.xml
-2018-05-11 18:00:03,246 INFO root Processing item astrid_archivebot_assemblergames_com_20180330
-2018-05-11 18:00:03,247 INFO root Skipping astrid_archivebot_assemblergames_com_20180330.cdx.idx
-2018-05-11 18:00:03,247 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_archive.torrent
-2018-05-11 18:00:03,248 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_files.xml
-2018-05-11 18:00:03,248 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_meta.sqlite
-2018-05-11 18:00:03,248 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_meta.xml
-2018-05-11 18:00:03,248 INFO root Writing last-update file
-2018-05-11 18:00:03,248 INFO root Done
+2018-05-12 00:00:01,659 DEBU root Last attempt: 2018-05-11T18:00:01Z
+2018-05-12 00:00:01,660 DEBU root Last success: 2018-05-11T18:00:01Z
+2018-05-12 00:00:01,660 INFO root Writing last-update file
+2018-05-12 00:00:01,661 INFO root Query: 'collection:archivebot oai_updatedate:[2018-05-11T18:00:01Z TO null]'
+2018-05-12 00:00:02,973 INFO root Processing item archiveteam_archivebot_go_20180511060001
+2018-05-12 00:00:02,973 INFO root Skipping archiveteam_archivebot_go_20180511060001.cdx.idx
+2018-05-12 00:00:02,973 INFO root Skipping archiveteam_archivebot_go_20180511060001_archive.torrent
+2018-05-12 00:00:02,973 INFO root Skipping archiveteam_archivebot_go_20180511060001_files.xml
+2018-05-12 00:00:02,973 INFO root Skipping archiveteam_archivebot_go_20180511060001_meta.sqlite
+2018-05-12 00:00:02,974 INFO root Skipping archiveteam_archivebot_go_20180511060001_meta.xml
+2018-05-12 00:00:03,818 INFO root Processing item archiveteam_archivebot_go_20180511220001
+2018-05-12 00:00:03,818 INFO root Skipping archiveteam_archivebot_go_20180511220001_archive.torrent
+2018-05-12 00:00:03,818 INFO root Skipping archiveteam_archivebot_go_20180511220001_files.xml
+2018-05-12 00:00:03,818 INFO root Skipping archiveteam_archivebot_go_20180511220001_meta.sqlite
+2018-05-12 00:00:03,818 INFO root Skipping archiveteam_archivebot_go_20180511220001_meta.xml
+2018-05-12 00:00:03,925 INFO root Processing item astrid_archivebot_forums_zeroin_co_uk_20180503
+2018-05-12 00:00:03,926 INFO root Skipping astrid_archivebot_forums_zeroin_co_uk_20180503.cdx.idx
+2018-05-12 00:00:03,926 INFO root Skipping astrid_archivebot_forums_zeroin_co_uk_20180503_archive.torrent
+2018-05-12 00:00:03,926 INFO root Skipping astrid_archivebot_forums_zeroin_co_uk_20180503_files.xml
+2018-05-12 00:00:03,926 INFO root Skipping astrid_archivebot_forums_zeroin_co_uk_20180503_meta.sqlite
+2018-05-12 00:00:03,926 INFO root Skipping astrid_archivebot_forums_zeroin_co_uk_20180503_meta.xml
+2018-05-12 00:00:03,927 INFO root Writing last-update file
+2018-05-12 00:00:03,927 INFO root Done
