@@ -1,23 +1,109 @@
-2018-05-14 00:00:01,504 DEBU root Last attempt: 2018-05-13T18:00:02Z
-2018-05-14 00:00:01,504 DEBU root Last success: 2018-05-13T18:00:02Z
-2018-05-14 00:00:01,505 INFO root Writing last-update file
-2018-05-14 00:00:01,505 INFO root Query: 'collection:archivebot oai_updatedate:[2018-05-13T18:00:02Z TO null]'
-2018-05-14 00:00:02,680 INFO root Processing item archiveteam_archivebot_go_20180513120001
-2018-05-14 00:00:02,681 INFO root Skipping archiveteam_archivebot_go_20180513120001.cdx.idx
-2018-05-14 00:00:02,681 INFO root Skipping archiveteam_archivebot_go_20180513120001_archive.torrent
-2018-05-14 00:00:02,681 INFO root Skipping archiveteam_archivebot_go_20180513120001_files.xml
-2018-05-14 00:00:02,681 INFO root Skipping archiveteam_archivebot_go_20180513120001_meta.sqlite
-2018-05-14 00:00:02,681 INFO root Skipping archiveteam_archivebot_go_20180513120001_meta.xml
-2018-05-14 00:00:02,819 INFO root Processing item archiveteam_archivebot_go_20180513210001
-2018-05-14 00:00:02,826 INFO root Skipping archiveteam_archivebot_go_20180513210001_archive.torrent
-2018-05-14 00:00:02,826 INFO root Skipping archiveteam_archivebot_go_20180513210001_files.xml
-2018-05-14 00:00:02,826 INFO root Skipping archiveteam_archivebot_go_20180513210001_meta.sqlite
-2018-05-14 00:00:02,827 INFO root Skipping archiveteam_archivebot_go_20180513210001_meta.xml
-2018-05-14 00:00:03,068 INFO root Processing item astrid_archivebot_assemblergames_com_20180330
-2018-05-14 00:00:03,070 INFO root Skipping astrid_archivebot_assemblergames_com_20180330.cdx.idx
-2018-05-14 00:00:03,071 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_archive.torrent
-2018-05-14 00:00:03,071 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_files.xml
-2018-05-14 00:00:03,071 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_meta.sqlite
-2018-05-14 00:00:03,071 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_meta.xml
-2018-05-14 00:00:03,071 INFO root Writing last-update file
-2018-05-14 00:00:03,071 INFO root Done
+2018-05-14 06:00:01,955 DEBU root Last attempt: 2018-05-14T00:00:01Z
+2018-05-14 06:00:01,956 DEBU root Last success: 2018-05-14T00:00:01Z
+2018-05-14 06:00:01,956 INFO root Writing last-update file
+2018-05-14 06:00:01,958 INFO root Query: 'collection:archivebot oai_updatedate:[2018-05-14T00:00:01Z TO null]'
+2018-05-14 06:00:03,698 INFO root Processing item archiveteam_archivebot_go_20180513210001
+2018-05-14 06:00:03,698 INFO root Skipping archiveteam_archivebot_go_20180513210001_archive.torrent
+2018-05-14 06:00:03,698 INFO root Skipping archiveteam_archivebot_go_20180513210001_files.xml
+2018-05-14 06:00:03,698 INFO root Skipping archiveteam_archivebot_go_20180513210001_meta.sqlite
+2018-05-14 06:00:03,698 INFO root Skipping archiveteam_archivebot_go_20180513210001_meta.xml
+2018-05-14 06:00:03,699 ERRO root Size of blog.shiftyjelly.com-inf-20180513-123331-x584w-00000.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,699 ERRO root Mtime of blog.shiftyjelly.com-inf-20180513-123331-x584w-00000.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,699 ERRO root Size of blog.shiftyjelly.com-inf-20180513-123331-x584w-meta.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,699 ERRO root Mtime of blog.shiftyjelly.com-inf-20180513-123331-x584w-meta.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,699 ERRO root Size of e926.net-inf-20180509-215331-zn9fz-00012.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,699 ERRO root Mtime of e926.net-inf-20180509-215331-zn9fz-00012.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,699 ERRO root Size of e926.net-inf-20180509-215331-zn9fz-00013.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,699 ERRO root Mtime of e926.net-inf-20180509-215331-zn9fz-00013.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,699 ERRO root Size of electronjs.org-shallow-20180513-134721-931jq-00000.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,700 ERRO root Mtime of electronjs.org-shallow-20180513-134721-931jq-00000.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,700 ERRO root Size of electronjs.org-shallow-20180513-134721-931jq-meta.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,700 ERRO root Mtime of electronjs.org-shallow-20180513-134721-931jq-meta.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,700 ERRO root Size of en.wikifur.com-inf-20180505-111336-6mbjl-00006.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,700 ERRO root Mtime of en.wikifur.com-inf-20180505-111336-6mbjl-00006.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,700 ERRO root Size of eurovision.tv-inf-20180512-231040-7ic3g-00004.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,700 ERRO root Mtime of eurovision.tv-inf-20180512-231040-7ic3g-00004.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,700 ERRO root Size of forum.palemoon.org-inf-20180512-090809-4de84-00003.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,700 ERRO root Mtime of forum.palemoon.org-inf-20180512-090809-4de84-00003.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,701 ERRO root Size of forums.pokemonspeedruns.com-inf-20180513-103516-4mdgk-00000.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,701 ERRO root Mtime of forums.pokemonspeedruns.com-inf-20180513-103516-4mdgk-00000.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,701 ERRO root Size of forums.pokemonspeedruns.com-inf-20180513-103516-4mdgk-meta.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,701 ERRO root Mtime of forums.pokemonspeedruns.com-inf-20180513-103516-4mdgk-meta.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,701 ERRO root Size of foto.digitalarkivet.no-inf-20180511-180001-4o10j-00004.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,701 ERRO root Mtime of foto.digitalarkivet.no-inf-20180511-180001-4o10j-00004.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,701 ERRO root Size of frua.rosedragon.org-inf-20180513-142537-43goa-00000.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,701 ERRO root Mtime of frua.rosedragon.org-inf-20180513-142537-43goa-00000.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,702 ERRO root Size of frua.rosedragon.org-inf-20180513-142537-43goa-meta.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,702 ERRO root Mtime of frua.rosedragon.org-inf-20180513-142537-43goa-meta.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,702 ERRO root Size of gothamist.com-inf-20180224-074728-es4w5-00201.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,702 ERRO root Mtime of gothamist.com-inf-20180224-074728-es4w5-00201.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,702 ERRO root Size of gphsphoto.smugmug.com-inf-20180501-124911-adlv6-00065.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,702 ERRO root Mtime of gphsphoto.smugmug.com-inf-20180501-124911-adlv6-00065.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,702 ERRO root Size of gphsphoto.smugmug.com-inf-20180501-124911-adlv6-00066.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,702 ERRO root Mtime of gphsphoto.smugmug.com-inf-20180501-124911-adlv6-00066.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,702 ERRO root Size of gphsphoto.smugmug.com-inf-20180501-124911-adlv6-00067.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,703 ERRO root Mtime of gphsphoto.smugmug.com-inf-20180501-124911-adlv6-00067.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,703 ERRO root Size of israblog.nana10.co.il-inf-20180504-164036-cfy5n-00003.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,703 ERRO root Mtime of israblog.nana10.co.il-inf-20180504-164036-cfy5n-00003.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,703 ERRO root Size of jyanich.com-inf-20180511-121254-aju2e-00008.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,703 ERRO root Mtime of jyanich.com-inf-20180511-121254-aju2e-00008.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,703 ERRO root Size of jyanich.com-inf-20180511-121254-aju2e-00009.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,703 ERRO root Mtime of jyanich.com-inf-20180511-121254-aju2e-00009.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,703 ERRO root Size of ngemu.com-inf-20180508-131937-qig58-00012.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,703 ERRO root Mtime of ngemu.com-inf-20180508-131937-qig58-00012.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,704 ERRO root Size of noagendasocial.com-inf-20180501-055956-9f7jt-00046.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,704 ERRO root Mtime of noagendasocial.com-inf-20180501-055956-9f7jt-00046.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,704 ERRO root Size of papayakitty.com-inf-20180513-142920-ei12f-00000.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,704 ERRO root Mtime of papayakitty.com-inf-20180513-142920-ei12f-00000.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,704 ERRO root Size of papayakitty.com-inf-20180513-142920-ei12f-meta.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,704 ERRO root Mtime of papayakitty.com-inf-20180513-142920-ei12f-meta.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,704 ERRO root Size of papayakitty.com-inf-20180513-151824-64h28-00000.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,704 ERRO root Mtime of papayakitty.com-inf-20180513-151824-64h28-00000.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,704 ERRO root Size of papayakitty.com-inf-20180513-151824-64h28-meta.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,705 ERRO root Mtime of papayakitty.com-inf-20180513-151824-64h28-meta.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,705 ERRO root Size of papayakitty.com-inf-20180513-172857-8yftn-00000.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,705 ERRO root Mtime of papayakitty.com-inf-20180513-172857-8yftn-00000.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,705 ERRO root Size of papayakitty.com-inf-20180513-172857-8yftn-meta.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,705 ERRO root Mtime of papayakitty.com-inf-20180513-172857-8yftn-meta.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,705 ERRO root Size of papayakitty.com-inf-20180513-192506-dddck-00000.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,705 ERRO root Mtime of papayakitty.com-inf-20180513-192506-dddck-00000.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,705 ERRO root Size of papayakitty.com-inf-20180513-192506-dddck-meta.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,706 ERRO root Mtime of papayakitty.com-inf-20180513-192506-dddck-meta.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,706 ERRO root Size of roosterteeth.com-inf-20180413-052749-101om-00099.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,706 ERRO root Mtime of roosterteeth.com-inf-20180413-052749-101om-00099.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,706 ERRO root Size of seobook.com-inf-20180513-200545-5t6ll-00000.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,706 ERRO root Mtime of seobook.com-inf-20180513-200545-5t6ll-00000.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,706 ERRO root Size of seobook.com-inf-20180513-200545-5t6ll-meta.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,706 ERRO root Mtime of seobook.com-inf-20180513-200545-5t6ll-meta.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,706 ERRO root Size of urls-pastebin.com-TsRSf7PA-inf-20180105-103151-a5l5n-00144.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,707 ERRO root Mtime of urls-pastebin.com-TsRSf7PA-inf-20180105-103151-a5l5n-00144.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,707 ERRO root Size of urls-pastebin.com-VwTAAjDa-shallow-20180513-123550-e1gnr-00000.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,707 ERRO root Mtime of urls-pastebin.com-VwTAAjDa-shallow-20180513-123550-e1gnr-00000.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,707 ERRO root Size of urls-pastebin.com-VwTAAjDa-shallow-20180513-123550-e1gnr-meta.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,707 ERRO root Mtime of urls-pastebin.com-VwTAAjDa-shallow-20180513-123550-e1gnr-meta.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,707 ERRO root Size of www.20min.ch-shallow-20180513-205211-6uj5n-00000.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,707 ERRO root Mtime of www.20min.ch-shallow-20180513-205211-6uj5n-00000.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,707 ERRO root Size of www.20min.ch-shallow-20180513-205211-6uj5n-meta.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,707 ERRO root Mtime of www.20min.ch-shallow-20180513-205211-6uj5n-meta.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,708 ERRO root Size of www.blick.ch-shallow-20180513-205138-5xg4c-00000.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,708 ERRO root Mtime of www.blick.ch-shallow-20180513-205138-5xg4c-00000.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,708 ERRO root Size of www.cityofpaloalto.org-shallow-20180513-121439-70gnb-00000.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,708 ERRO root Mtime of www.cityofpaloalto.org-shallow-20180513-121439-70gnb-00000.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,708 ERRO root Size of www.cityofpaloalto.org-shallow-20180513-121439-70gnb-meta.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,708 ERRO root Mtime of www.cityofpaloalto.org-shallow-20180513-121439-70gnb-meta.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,709 ERRO root Size of www.docracy.com-inf-20180507-122456-bfbx9-00004.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,709 ERRO root Mtime of www.docracy.com-inf-20180507-122456-bfbx9-00004.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,709 ERRO root Size of www.facebook.com-inf-20180512-213831-cw40j-00000.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,709 ERRO root Mtime of www.facebook.com-inf-20180512-213831-cw40j-00000.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,709 ERRO root Size of www.nintendoplayer.com-inf-20180513-062310-2x2ci-00000.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,709 ERRO root Mtime of www.nintendoplayer.com-inf-20180513-062310-2x2ci-00000.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,709 ERRO root Size of www.nintendoplayer.com-inf-20180513-062310-2x2ci-meta.warc.os.cdx.gz is missing
+2018-05-14 06:00:03,709 ERRO root Mtime of www.nintendoplayer.com-inf-20180513-062310-2x2ci-meta.warc.os.cdx.gz is missing
+2018-05-14 06:00:04,039 INFO root Processing item astrid_archivebot_assemblergames_com_20180330
+2018-05-14 06:00:04,044 INFO root Skipping astrid_archivebot_assemblergames_com_20180330.cdx.idx
+2018-05-14 06:00:04,045 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_archive.torrent
+2018-05-14 06:00:04,045 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_files.xml
+2018-05-14 06:00:04,045 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_meta.sqlite
+2018-05-14 06:00:04,045 INFO root Skipping astrid_archivebot_assemblergames_com_20180330_meta.xml
+2018-05-14 06:00:04,046 INFO root Writing last-update file
+2018-05-14 06:00:04,046 INFO root Done
