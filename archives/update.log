@@ -1,22 +1,32 @@
-2018-05-22 18:00:02,185 DEBU root Last attempt: 2018-05-22T12:00:02Z
-2018-05-22 18:00:02,186 DEBU root Last success: 2018-05-22T12:00:02Z
-2018-05-22 18:00:02,186 INFO root Writing last-update file
-2018-05-22 18:00:02,187 INFO root Query: 'collection:archivebot oai_updatedate:[2018-05-22T12:00:02Z TO null]'
-2018-05-22 18:00:03,382 INFO root Processing item archiveteam_archivebot_go_20180522050001
-2018-05-22 18:00:03,382 INFO root Skipping archiveteam_archivebot_go_20180522050001.cdx.idx
-2018-05-22 18:00:03,382 INFO root Skipping archiveteam_archivebot_go_20180522050001_archive.torrent
-2018-05-22 18:00:03,383 INFO root Skipping archiveteam_archivebot_go_20180522050001_files.xml
-2018-05-22 18:00:03,383 INFO root Skipping archiveteam_archivebot_go_20180522050001_meta.sqlite
-2018-05-22 18:00:03,383 INFO root Skipping archiveteam_archivebot_go_20180522050001_meta.xml
-2018-05-22 18:00:04,174 INFO root Processing item archiveteam_archivebot_go_20180522130001
-2018-05-22 18:00:04,175 INFO root Skipping archiveteam_archivebot_go_20180522130001_files.xml
-2018-05-22 18:00:04,175 INFO root Skipping archiveteam_archivebot_go_20180522130001_meta.sqlite
-2018-05-22 18:00:04,175 INFO root Skipping archiveteam_archivebot_go_20180522130001_meta.xml
-2018-05-22 18:00:04,282 INFO root Processing item astrid_archivebot_www_ellegirltalk_nl_20180516
-2018-05-22 18:00:04,284 INFO root Skipping astrid_archivebot_www_ellegirltalk_nl_20180516.cdx.idx
-2018-05-22 18:00:04,284 INFO root Skipping astrid_archivebot_www_ellegirltalk_nl_20180516_archive.torrent
-2018-05-22 18:00:04,284 INFO root Skipping astrid_archivebot_www_ellegirltalk_nl_20180516_files.xml
-2018-05-22 18:00:04,284 INFO root Skipping astrid_archivebot_www_ellegirltalk_nl_20180516_meta.sqlite
-2018-05-22 18:00:04,284 INFO root Skipping astrid_archivebot_www_ellegirltalk_nl_20180516_meta.xml
-2018-05-22 18:00:04,285 INFO root Writing last-update file
-2018-05-22 18:00:04,286 INFO root Done
+2018-05-23 00:00:01,979 DEBU root Last attempt: 2018-05-22T18:00:02Z
+2018-05-23 00:00:01,980 DEBU root Last success: 2018-05-22T18:00:02Z
+2018-05-23 00:00:01,980 INFO root Writing last-update file
+2018-05-23 00:00:01,981 INFO root Query: 'collection:archivebot oai_updatedate:[2018-05-22T18:00:02Z TO null]'
+2018-05-23 00:00:03,607 INFO root Processing item archiveteam_archivebot_go_20180522130001
+2018-05-23 00:00:03,608 INFO root Skipping archiveteam_archivebot_go_20180522130001_archive.torrent
+2018-05-23 00:00:03,608 INFO root Skipping archiveteam_archivebot_go_20180522130001_files.xml
+2018-05-23 00:00:03,608 INFO root Skipping archiveteam_archivebot_go_20180522130001_meta.sqlite
+2018-05-23 00:00:03,608 INFO root Skipping archiveteam_archivebot_go_20180522130001_meta.xml
+2018-05-23 00:00:03,608 ERRO root Size of dwarffortresswiki.org-inf-20180516-155827-7nnci-00002.warc.os.cdx.gz is missing
+2018-05-23 00:00:03,608 ERRO root Mtime of dwarffortresswiki.org-inf-20180516-155827-7nnci-00002.warc.os.cdx.gz is missing
+2018-05-23 00:00:03,609 ERRO root Size of security.stackexchange.com-shallow-20180522-084543-ei60f-00000.warc.os.cdx.gz is missing
+2018-05-23 00:00:03,609 ERRO root Mtime of security.stackexchange.com-shallow-20180522-084543-ei60f-00000.warc.os.cdx.gz is missing
+2018-05-23 00:00:03,782 INFO root Processing item archiveteam_archivebot_go_20180522210002
+2018-05-23 00:00:03,783 INFO root Skipping archiveteam_archivebot_go_20180522210002_archive.torrent
+2018-05-23 00:00:03,783 INFO root Skipping archiveteam_archivebot_go_20180522210002_files.xml
+2018-05-23 00:00:03,783 INFO root Skipping archiveteam_archivebot_go_20180522210002_meta.sqlite
+2018-05-23 00:00:03,783 INFO root Skipping archiveteam_archivebot_go_20180522210002_meta.xml
+2018-05-23 00:00:03,892 INFO root Processing item astrid_archivebot_builds_casparcg_com_20180522
+2018-05-23 00:00:03,893 INFO root Skipping astrid_archivebot_builds_casparcg_com_20180522.cdx.idx
+2018-05-23 00:00:03,893 INFO root Skipping astrid_archivebot_builds_casparcg_com_20180522_archive.torrent
+2018-05-23 00:00:03,894 INFO root Skipping astrid_archivebot_builds_casparcg_com_20180522_files.xml
+2018-05-23 00:00:03,894 INFO root Skipping astrid_archivebot_builds_casparcg_com_20180522_meta.sqlite
+2018-05-23 00:00:03,894 INFO root Skipping astrid_archivebot_builds_casparcg_com_20180522_meta.xml
+2018-05-23 00:00:04,362 INFO root Processing item astrid_archivebot_www_ontario_ca_20180522
+2018-05-23 00:00:04,362 INFO root Skipping astrid_archivebot_www_ontario_ca_20180522.cdx.idx
+2018-05-23 00:00:04,362 INFO root Skipping astrid_archivebot_www_ontario_ca_20180522_archive.torrent
+2018-05-23 00:00:04,362 INFO root Skipping astrid_archivebot_www_ontario_ca_20180522_files.xml
+2018-05-23 00:00:04,363 INFO root Skipping astrid_archivebot_www_ontario_ca_20180522_meta.sqlite
+2018-05-23 00:00:04,363 INFO root Skipping astrid_archivebot_www_ontario_ca_20180522_meta.xml
+2018-05-23 00:00:04,363 INFO root Writing last-update file
+2018-05-23 00:00:04,363 INFO root Done
