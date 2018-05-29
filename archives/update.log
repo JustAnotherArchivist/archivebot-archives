@@ -1,23 +1,73 @@
-2018-05-28 18:00:02,354 DEBU root Last attempt: 2018-05-28T12:00:01Z
-2018-05-28 18:00:02,359 DEBU root Last success: 2018-05-28T12:00:01Z
-2018-05-28 18:00:02,359 INFO root Writing last-update file
-2018-05-28 18:00:02,360 INFO root Query: 'collection:archivebot oai_updatedate:[2018-05-28T12:00:01Z TO null]'
-2018-05-28 18:00:04,790 INFO root Processing item archiveteam_archivebot_go_20180528030002
-2018-05-28 18:00:04,793 INFO root Skipping archiveteam_archivebot_go_20180528030002.cdx.idx
-2018-05-28 18:00:04,793 INFO root Skipping archiveteam_archivebot_go_20180528030002_archive.torrent
-2018-05-28 18:00:04,793 INFO root Skipping archiveteam_archivebot_go_20180528030002_files.xml
-2018-05-28 18:00:04,793 INFO root Skipping archiveteam_archivebot_go_20180528030002_meta.sqlite
-2018-05-28 18:00:04,794 INFO root Skipping archiveteam_archivebot_go_20180528030002_meta.xml
-2018-05-28 18:00:04,917 INFO root Processing item archiveteam_archivebot_go_20180528170001
-2018-05-28 18:00:04,921 INFO root Skipping archiveteam_archivebot_go_20180528170001_archive.torrent
-2018-05-28 18:00:04,921 INFO root Skipping archiveteam_archivebot_go_20180528170001_files.xml
-2018-05-28 18:00:04,921 INFO root Skipping archiveteam_archivebot_go_20180528170001_meta.sqlite
-2018-05-28 18:00:04,921 INFO root Skipping archiveteam_archivebot_go_20180528170001_meta.xml
-2018-05-28 18:00:05,023 INFO root Processing item astrid_archivebot_www_reddit_com_20180528
-2018-05-28 18:00:05,024 INFO root Skipping astrid_archivebot_www_reddit_com_20180528.cdx.idx
-2018-05-28 18:00:05,024 INFO root Skipping astrid_archivebot_www_reddit_com_20180528_archive.torrent
-2018-05-28 18:00:05,025 INFO root Skipping astrid_archivebot_www_reddit_com_20180528_files.xml
-2018-05-28 18:00:05,025 INFO root Skipping astrid_archivebot_www_reddit_com_20180528_meta.sqlite
-2018-05-28 18:00:05,025 INFO root Skipping astrid_archivebot_www_reddit_com_20180528_meta.xml
-2018-05-28 18:00:05,025 INFO root Writing last-update file
-2018-05-28 18:00:05,026 INFO root Done
+2018-05-29 00:00:02,203 DEBU root Last attempt: 2018-05-28T18:00:02Z
+2018-05-29 00:00:02,203 DEBU root Last success: 2018-05-28T18:00:02Z
+2018-05-29 00:00:02,203 INFO root Writing last-update file
+2018-05-29 00:00:02,204 INFO root Query: 'collection:archivebot oai_updatedate:[2018-05-28T18:00:02Z TO null]'
+2018-05-29 00:00:03,423 INFO root Processing item archiveteam_archivebot_go_20180528170001
+2018-05-29 00:00:03,424 ERRO root Size of activitypub.rocks-inf-20180528-115633-29es0-00000.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,424 ERRO root Mtime of activitypub.rocks-inf-20180528-115633-29es0-00000.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,424 INFO root Skipping archiveteam_archivebot_go_20180528170001_archive.torrent
+2018-05-29 00:00:03,425 INFO root Skipping archiveteam_archivebot_go_20180528170001_files.xml
+2018-05-29 00:00:03,425 INFO root Skipping archiveteam_archivebot_go_20180528170001_meta.sqlite
+2018-05-29 00:00:03,425 INFO root Skipping archiveteam_archivebot_go_20180528170001_meta.xml
+2018-05-29 00:00:03,425 ERRO root Size of build.voidlinux.eu-inf-20180525-200005-7qrj0-00001.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,425 ERRO root Mtime of build.voidlinux.eu-inf-20180525-200005-7qrj0-00001.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,426 ERRO root Size of build.voidlinux.eu-inf-20180525-200005-7qrj0-meta.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,426 ERRO root Mtime of build.voidlinux.eu-inf-20180525-200005-7qrj0-meta.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,426 ERRO root Size of cdn.discordapp.com-shallow-20180528-075433-3lqzc-00000.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,426 ERRO root Mtime of cdn.discordapp.com-shallow-20180528-075433-3lqzc-00000.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,426 ERRO root Size of cdn.discordapp.com-shallow-20180528-075433-3lqzc-meta.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,426 ERRO root Mtime of cdn.discordapp.com-shallow-20180528-075433-3lqzc-meta.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,426 ERRO root Size of cdn.discordapp.com-shallow-20180528-075517-7azuf-00000.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,427 ERRO root Mtime of cdn.discordapp.com-shallow-20180528-075517-7azuf-00000.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,427 ERRO root Size of cdn.discordapp.com-shallow-20180528-075517-7azuf-meta.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,427 ERRO root Mtime of cdn.discordapp.com-shallow-20180528-075517-7azuf-meta.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,427 ERRO root Size of cdn.discordapp.com-shallow-20180528-075628-7azuf-00000.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,427 ERRO root Mtime of cdn.discordapp.com-shallow-20180528-075628-7azuf-00000.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,427 ERRO root Size of cdn.discordapp.com-shallow-20180528-075628-7azuf-meta.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,427 ERRO root Mtime of cdn.discordapp.com-shallow-20180528-075628-7azuf-meta.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,428 ERRO root Size of cdn.discordapp.com-shallow-20180528-075710-7azuf-00000.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,428 ERRO root Mtime of cdn.discordapp.com-shallow-20180528-075710-7azuf-00000.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,428 ERRO root Size of cdn.discordapp.com-shallow-20180528-075710-7azuf-meta.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,428 ERRO root Mtime of cdn.discordapp.com-shallow-20180528-075710-7azuf-meta.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,428 ERRO root Size of cdn.discordapp.com-shallow-20180528-075851-3lqzc-00000.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,428 ERRO root Mtime of cdn.discordapp.com-shallow-20180528-075851-3lqzc-00000.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,429 ERRO root Size of cdn.discordapp.com-shallow-20180528-075851-3lqzc-meta.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,429 ERRO root Mtime of cdn.discordapp.com-shallow-20180528-075851-3lqzc-meta.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,429 ERRO root Size of cdn.discordapp.com-shallow-20180528-075953-bzlln-00000.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,429 ERRO root Mtime of cdn.discordapp.com-shallow-20180528-075953-bzlln-00000.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,429 ERRO root Size of cdn.discordapp.com-shallow-20180528-075953-bzlln-meta.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,429 ERRO root Mtime of cdn.discordapp.com-shallow-20180528-075953-bzlln-meta.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,430 ERRO root Size of cdn.discordapp.com-shallow-20180528-080126-9832j-00000.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,430 ERRO root Mtime of cdn.discordapp.com-shallow-20180528-080126-9832j-00000.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,430 ERRO root Size of cdn.discordapp.com-shallow-20180528-080126-9832j-meta.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,430 ERRO root Mtime of cdn.discordapp.com-shallow-20180528-080126-9832j-meta.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,430 ERRO root Size of hydrogenaud.io-inf-20180520-180521-a76e9-00011.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,430 ERRO root Mtime of hydrogenaud.io-inf-20180520-180521-a76e9-00011.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,431 ERRO root Size of infoproc.blogspot.com-inf-20180526-225543-4kosq-00005.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,431 ERRO root Mtime of infoproc.blogspot.com-inf-20180526-225543-4kosq-00005.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,431 ERRO root Size of infoproc.blogspot.com-inf-20180526-225543-4kosq-00006.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,431 ERRO root Mtime of infoproc.blogspot.com-inf-20180526-225543-4kosq-00006.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,431 ERRO root Size of infoproc.blogspot.com-inf-20180526-225543-4kosq-meta.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,431 ERRO root Mtime of infoproc.blogspot.com-inf-20180526-225543-4kosq-meta.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,431 ERRO root Size of instances.joinpeertube.org-inf-20180528-120021-cp9r8-00000.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,432 ERRO root Mtime of instances.joinpeertube.org-inf-20180528-120021-cp9r8-00000.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,432 ERRO root Size of instances.joinpeertube.org-inf-20180528-120021-cp9r8-meta.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,432 ERRO root Mtime of instances.joinpeertube.org-inf-20180528-120021-cp9r8-meta.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,432 ERRO root Size of molbiol.ru-inf-20180327-060934-19lpz-00055.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,432 ERRO root Mtime of molbiol.ru-inf-20180327-060934-19lpz-00055.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,432 ERRO root Size of roosterteeth.com-inf-20180413-052749-101om-00131.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,433 ERRO root Mtime of roosterteeth.com-inf-20180413-052749-101om-00131.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,433 ERRO root Size of roosterteeth.com-inf-20180413-052749-101om-00132.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,433 ERRO root Mtime of roosterteeth.com-inf-20180413-052749-101om-00132.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,433 ERRO root Size of roosterteeth.com-inf-20180413-052749-101om-00133.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,433 ERRO root Mtime of roosterteeth.com-inf-20180413-052749-101om-00133.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,433 ERRO root Size of roosterteeth.com-inf-20180414-005903-5r2x0-00078.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,433 ERRO root Mtime of roosterteeth.com-inf-20180414-005903-5r2x0-00078.warc.os.cdx.gz is missing
+2018-05-29 00:00:03,626 INFO root Processing item astrid_archivebot_www_reddit_com_20180528
+2018-05-29 00:00:03,627 INFO root Skipping astrid_archivebot_www_reddit_com_20180528.cdx.idx
+2018-05-29 00:00:03,627 INFO root Skipping astrid_archivebot_www_reddit_com_20180528_archive.torrent
+2018-05-29 00:00:03,627 INFO root Skipping astrid_archivebot_www_reddit_com_20180528_files.xml
+2018-05-29 00:00:03,627 INFO root Skipping astrid_archivebot_www_reddit_com_20180528_meta.sqlite
+2018-05-29 00:00:03,627 INFO root Skipping astrid_archivebot_www_reddit_com_20180528_meta.xml
+2018-05-29 00:00:03,628 INFO root Writing last-update file
+2018-05-29 00:00:03,628 INFO root Done
