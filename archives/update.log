@@ -1,11 +1,169 @@
-2018-05-31 12:00:01,286 DEBU root Last attempt: 2018-05-31T06:00:02Z
-2018-05-31 12:00:01,286 DEBU root Last success: 2018-05-31T06:00:02Z
-2018-05-31 12:00:01,286 INFO root Writing last-update file
-2018-05-31 12:00:01,287 INFO root Query: 'collection:archivebot oai_updatedate:[2018-05-31T06:00:02Z TO null]'
-2018-05-31 12:00:07,243 INFO root Processing item archiveteam_archivebot_go_20180531060002
-2018-05-31 12:00:07,244 INFO root Skipping archiveteam_archivebot_go_20180531060002_archive.torrent
-2018-05-31 12:00:07,244 INFO root Skipping archiveteam_archivebot_go_20180531060002_files.xml
-2018-05-31 12:00:07,244 INFO root Skipping archiveteam_archivebot_go_20180531060002_meta.sqlite
-2018-05-31 12:00:07,244 INFO root Skipping archiveteam_archivebot_go_20180531060002_meta.xml
-2018-05-31 12:00:07,245 INFO root Writing last-update file
-2018-05-31 12:00:07,245 INFO root Done
+2018-05-31 18:00:01,318 DEBU root Last attempt: 2018-05-31T12:00:01Z
+2018-05-31 18:00:01,318 DEBU root Last success: 2018-05-31T12:00:01Z
+2018-05-31 18:00:01,318 INFO root Writing last-update file
+2018-05-31 18:00:01,319 INFO root Query: 'collection:archivebot oai_updatedate:[2018-05-31T12:00:01Z TO null]'
+2018-05-31 18:00:02,646 INFO root Processing item archiveteam_archivebot_go_20180531060002
+2018-05-31 18:00:02,646 ERRO root Size of afd-fraktion-hamburg.de-shallow-20180530-222010-9i0je-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,646 ERRO root Mtime of afd-fraktion-hamburg.de-shallow-20180530-222010-9i0je-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,647 ERRO root Size of afd-fraktion-hamburg.de-shallow-20180530-222010-9i0je-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,647 ERRO root Mtime of afd-fraktion-hamburg.de-shallow-20180530-222010-9i0je-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,647 ERRO root Size of answersingenesis.org-inf-20180528-153910-clzfo-00030.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,647 ERRO root Mtime of answersingenesis.org-inf-20180528-153910-clzfo-00030.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,647 ERRO root Size of answersingenesis.org-inf-20180528-153910-clzfo-00031.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,647 ERRO root Mtime of answersingenesis.org-inf-20180528-153910-clzfo-00031.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,648 ERRO root Size of answersingenesis.org-inf-20180528-153910-clzfo-00032.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,648 ERRO root Mtime of answersingenesis.org-inf-20180528-153910-clzfo-00032.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,648 INFO root Skipping archiveteam_archivebot_go_20180531060002_archive.torrent
+2018-05-31 18:00:02,648 INFO root Skipping archiveteam_archivebot_go_20180531060002_files.xml
+2018-05-31 18:00:02,648 INFO root Skipping archiveteam_archivebot_go_20180531060002_meta.sqlite
+2018-05-31 18:00:02,648 INFO root Skipping archiveteam_archivebot_go_20180531060002_meta.xml
+2018-05-31 18:00:02,648 ERRO root Size of arstechnica.com-shallow-20180530-111846-aimwa-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,649 ERRO root Mtime of arstechnica.com-shallow-20180530-111846-aimwa-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,649 ERRO root Size of arstechnica.com-shallow-20180530-111846-aimwa-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,649 ERRO root Mtime of arstechnica.com-shallow-20180530-111846-aimwa-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,649 ERRO root Size of beta.worldcat.org-inf-20180522-001011-61l26-00007.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,649 ERRO root Mtime of beta.worldcat.org-inf-20180522-001011-61l26-00007.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,649 ERRO root Size of blogs.msdn.microsoft.com-shallow-20180530-132024-dek0j-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,650 ERRO root Mtime of blogs.msdn.microsoft.com-shallow-20180530-132024-dek0j-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,650 ERRO root Size of blogs.msdn.microsoft.com-shallow-20180530-132024-dek0j-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,650 ERRO root Mtime of blogs.msdn.microsoft.com-shallow-20180530-132024-dek0j-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,650 ERRO root Size of bubbleheads.blogspot.com-inf-20180529-202212-f55kn-00002.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,650 ERRO root Mtime of bubbleheads.blogspot.com-inf-20180529-202212-f55kn-00002.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,650 ERRO root Size of bubbleheads.blogspot.com-inf-20180529-202212-f55kn-00003.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,651 ERRO root Mtime of bubbleheads.blogspot.com-inf-20180529-202212-f55kn-00003.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,651 ERRO root Size of changecopyright.org-inf-20180530-153859-8vlkj-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,651 ERRO root Mtime of changecopyright.org-inf-20180530-153859-8vlkj-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,651 ERRO root Size of changecopyright.org-inf-20180530-153859-8vlkj-00001.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,651 ERRO root Mtime of changecopyright.org-inf-20180530-153859-8vlkj-00001.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,651 ERRO root Size of changecopyright.org-inf-20180530-153859-8vlkj-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,651 ERRO root Mtime of changecopyright.org-inf-20180530-153859-8vlkj-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,652 ERRO root Size of edri.org-shallow-20180530-153639-4u16s-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,652 ERRO root Mtime of edri.org-shallow-20180530-153639-4u16s-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,652 ERRO root Size of edri.org-shallow-20180530-153639-4u16s-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,652 ERRO root Mtime of edri.org-shallow-20180530-153639-4u16s-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,652 ERRO root Size of facebook.com-shallow-20180530-193650-1bz2p-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,652 ERRO root Mtime of facebook.com-shallow-20180530-193650-1bz2p-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,652 ERRO root Size of facebook.com-shallow-20180530-193650-1bz2p-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,653 ERRO root Mtime of facebook.com-shallow-20180530-193650-1bz2p-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,653 ERRO root Size of fediverse.network-inf-20180524-124819-33p8y-00002.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,653 ERRO root Mtime of fediverse.network-inf-20180524-124819-33p8y-00002.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,653 ERRO root Size of fediverse.network-inf-20180524-124819-33p8y-00003.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,653 ERRO root Mtime of fediverse.network-inf-20180524-124819-33p8y-00003.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,653 ERRO root Size of fediverse.network-inf-20180524-124819-33p8y-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,653 ERRO root Mtime of fediverse.network-inf-20180524-124819-33p8y-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,654 ERRO root Size of forums.kingsoftherealm.com-inf-20180530-222954-6sc6y-aborted-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,654 ERRO root Mtime of forums.kingsoftherealm.com-inf-20180530-222954-6sc6y-aborted-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,654 ERRO root Size of forums.kingsoftherealm.com-shallow-20180530-222716-63aq4-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,654 ERRO root Mtime of forums.kingsoftherealm.com-shallow-20180530-222716-63aq4-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,654 ERRO root Size of forums.kingsoftherealm.com-shallow-20180530-222716-63aq4-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,654 ERRO root Mtime of forums.kingsoftherealm.com-shallow-20180530-222716-63aq4-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,655 ERRO root Size of gphsphoto.smugmug.com-inf-20180501-124911-adlv6-00153.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,655 ERRO root Mtime of gphsphoto.smugmug.com-inf-20180501-124911-adlv6-00153.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,655 ERRO root Size of hydrogenaud.io-inf-20180520-180521-a76e9-00015.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,655 ERRO root Mtime of hydrogenaud.io-inf-20180520-180521-a76e9-00015.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,655 ERRO root Size of hydrogenaud.io-inf-20180520-180521-a76e9-00016.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,655 ERRO root Mtime of hydrogenaud.io-inf-20180520-180521-a76e9-00016.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,655 ERRO root Size of juliareda.eu-shallow-20180530-173626-aiy86-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,656 ERRO root Mtime of juliareda.eu-shallow-20180530-173626-aiy86-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,656 ERRO root Size of juliareda.eu-shallow-20180530-173626-aiy86-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,656 ERRO root Mtime of juliareda.eu-shallow-20180530-173626-aiy86-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,656 ERRO root Size of marc.info-shallow-20180530-111927-56ag1-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,656 ERRO root Mtime of marc.info-shallow-20180530-111927-56ag1-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,656 ERRO root Size of marc.info-shallow-20180530-111927-56ag1-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,656 ERRO root Mtime of marc.info-shallow-20180530-111927-56ag1-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,657 ERRO root Size of marc.rawer.de-inf-20180530-180607-cfwdy-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,657 ERRO root Mtime of marc.rawer.de-inf-20180530-180607-cfwdy-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,657 ERRO root Size of marc.rawer.de-inf-20180530-180607-cfwdy-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,657 ERRO root Mtime of marc.rawer.de-inf-20180530-180607-cfwdy-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,657 ERRO root Size of marc.rawer.de-shallow-20180530-180600-9u5fm-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,657 ERRO root Mtime of marc.rawer.de-shallow-20180530-180600-9u5fm-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,658 ERRO root Size of marc.rawer.de-shallow-20180530-180600-9u5fm-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,658 ERRO root Mtime of marc.rawer.de-shallow-20180530-180600-9u5fm-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,658 ERRO root Size of mlechler.wikispaces.com-inf-20180530-150810-6zpp9-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,658 ERRO root Mtime of mlechler.wikispaces.com-inf-20180530-150810-6zpp9-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,658 ERRO root Size of mlechler.wikispaces.com-inf-20180530-150810-6zpp9-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,659 ERRO root Mtime of mlechler.wikispaces.com-inf-20180530-150810-6zpp9-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,659 ERRO root Size of molbiol.ru-inf-20180327-060934-19lpz-00056.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,659 ERRO root Mtime of molbiol.ru-inf-20180327-060934-19lpz-00056.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,659 ERRO root Size of myanimelist.net-shallow-20180530-215549-cfv66-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,659 ERRO root Mtime of myanimelist.net-shallow-20180530-215549-cfv66-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,659 ERRO root Size of myanimelist.net-shallow-20180530-215549-cfv66-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,660 ERRO root Mtime of myanimelist.net-shallow-20180530-215549-cfv66-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,660 ERRO root Size of nbc24.com-shallow-20180530-144352-6engq-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,660 ERRO root Mtime of nbc24.com-shallow-20180530-144352-6engq-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,660 ERRO root Size of nbc24.com-shallow-20180530-144352-6engq-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,660 ERRO root Mtime of nbc24.com-shallow-20180530-144352-6engq-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,660 ERRO root Size of paleofuture.gizmodo.com-shallow-20180530-154226-3alcp-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,661 ERRO root Mtime of paleofuture.gizmodo.com-shallow-20180530-154226-3alcp-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,661 ERRO root Size of paleofuture.gizmodo.com-shallow-20180530-154226-3alcp-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,661 ERRO root Mtime of paleofuture.gizmodo.com-shallow-20180530-154226-3alcp-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,661 ERRO root Size of roosterteeth.com-inf-20180413-052749-101om-00137.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,661 ERRO root Mtime of roosterteeth.com-inf-20180413-052749-101om-00137.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,661 ERRO root Size of roosterteeth.com-inf-20180413-052749-101om-00138.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,662 ERRO root Mtime of roosterteeth.com-inf-20180413-052749-101om-00138.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,662 ERRO root Size of roosterteeth.com-inf-20180414-005903-5r2x0-00082.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,662 ERRO root Mtime of roosterteeth.com-inf-20180414-005903-5r2x0-00082.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,662 ERRO root Size of socialscud.com-shallow-20180530-215919-3fwj3-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,664 ERRO root Mtime of socialscud.com-shallow-20180530-215919-3fwj3-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,665 ERRO root Size of socialscud.com-shallow-20180530-215919-3fwj3-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,665 ERRO root Mtime of socialscud.com-shallow-20180530-215919-3fwj3-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,665 ERRO root Size of storify.com-inf-20180102-161517-3nozf-00159.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,665 ERRO root Mtime of storify.com-inf-20180102-161517-3nozf-00159.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,665 ERRO root Size of twitter.com-shallow-20180530-220100-b6cu0-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,666 ERRO root Mtime of twitter.com-shallow-20180530-220100-b6cu0-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,666 ERRO root Size of twitter.com-shallow-20180530-220100-b6cu0-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,666 ERRO root Mtime of twitter.com-shallow-20180530-220100-b6cu0-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,666 ERRO root Size of twitter.com-shallow-20180530-222102-esieo-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,666 ERRO root Mtime of twitter.com-shallow-20180530-222102-esieo-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,666 ERRO root Size of twitter.com-shallow-20180530-222102-esieo-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,667 ERRO root Mtime of twitter.com-shallow-20180530-222102-esieo-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,667 ERRO root Size of urls-gist.githubusercontent.com-TB-ao-links-2.txt-shallow-20180530-230503-e0bgj-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,667 ERRO root Mtime of urls-gist.githubusercontent.com-TB-ao-links-2.txt-shallow-20180530-230503-e0bgj-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,667 ERRO root Size of urls-gist.githubusercontent.com-TB-ao-links-2.txt-shallow-20180530-230503-e0bgj-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,667 ERRO root Mtime of urls-gist.githubusercontent.com-TB-ao-links-2.txt-shallow-20180530-230503-e0bgj-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,667 ERRO root Size of urls-pastebin.com-TsRSf7PA-inf-20180105-103151-a5l5n-00154.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,667 ERRO root Mtime of urls-pastebin.com-TsRSf7PA-inf-20180105-103151-a5l5n-00154.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,668 ERRO root Size of www.addforums.com-inf-20180525-055527-4ujxp-00015.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,668 ERRO root Mtime of www.addforums.com-inf-20180525-055527-4ujxp-00015.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,668 ERRO root Size of www.addforums.com-inf-20180525-055527-4ujxp-00016.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,671 ERRO root Mtime of www.addforums.com-inf-20180525-055527-4ujxp-00016.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,671 ERRO root Size of www.addforums.com-inf-20180525-055527-4ujxp-00017.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,671 ERRO root Mtime of www.addforums.com-inf-20180525-055527-4ujxp-00017.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,671 ERRO root Size of www.buergerschaft-hh.de-shallow-20180530-222029-a8frz-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,671 ERRO root Mtime of www.buergerschaft-hh.de-shallow-20180530-222029-a8frz-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,671 ERRO root Size of www.buergerschaft-hh.de-shallow-20180530-222029-a8frz-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,672 ERRO root Mtime of www.buergerschaft-hh.de-shallow-20180530-222029-a8frz-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,672 ERRO root Size of www.chronofhorse.com-inf-20180320-235041-4udyu-00072.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,672 ERRO root Mtime of www.chronofhorse.com-inf-20180320-235041-4udyu-00072.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,672 ERRO root Size of www.crypto-coinz.net-shallow-20180530-190250-amtlc-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,672 ERRO root Mtime of www.crypto-coinz.net-shallow-20180530-190250-amtlc-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,672 ERRO root Size of www.crypto-coinz.net-shallow-20180530-190250-amtlc-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,673 ERRO root Mtime of www.crypto-coinz.net-shallow-20180530-190250-amtlc-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,673 ERRO root Size of www.devrs.com-inf-20180530-181324-dnha3-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,673 ERRO root Mtime of www.devrs.com-inf-20180530-181324-dnha3-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,673 ERRO root Size of www.devrs.com-inf-20180530-181324-dnha3-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,673 ERRO root Mtime of www.devrs.com-inf-20180530-181324-dnha3-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,674 ERRO root Size of www.digital-circuitry.com-inf-20180530-181223-arr3y-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,674 ERRO root Mtime of www.digital-circuitry.com-inf-20180530-181223-arr3y-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,674 ERRO root Size of www.digital-circuitry.com-inf-20180530-181223-arr3y-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,674 ERRO root Mtime of www.digital-circuitry.com-inf-20180530-181223-arr3y-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,675 ERRO root Size of www.facebook.com-shallow-20180530-201506-2fufb-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,675 ERRO root Mtime of www.facebook.com-shallow-20180530-201506-2fufb-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,675 ERRO root Size of www.facebook.com-shallow-20180530-201506-2fufb-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,675 ERRO root Mtime of www.facebook.com-shallow-20180530-201506-2fufb-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,675 ERRO root Size of www.gamesindustry.biz-shallow-20180531-021424-3n4jx-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,675 ERRO root Mtime of www.gamesindustry.biz-shallow-20180531-021424-3n4jx-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,676 ERRO root Size of www.gamesindustry.biz-shallow-20180531-021424-3n4jx-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,676 ERRO root Mtime of www.gamesindustry.biz-shallow-20180531-021424-3n4jx-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,676 ERRO root Size of www.icmag.com-inf-20180406-015058-4kp54-00092.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,676 ERRO root Mtime of www.icmag.com-inf-20180406-015058-4kp54-00092.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,676 ERRO root Size of www.kn-online.de-shallow-20180530-221918-2sh2t-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,676 ERRO root Mtime of www.kn-online.de-shallow-20180530-221918-2sh2t-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,677 ERRO root Size of www.kn-online.de-shallow-20180530-221918-2sh2t-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,677 ERRO root Mtime of www.kn-online.de-shallow-20180530-221918-2sh2t-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,677 ERRO root Size of www.ndr.de-shallow-20180530-222005-dks4y-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,677 ERRO root Mtime of www.ndr.de-shallow-20180530-222005-dks4y-00000.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,677 ERRO root Size of www.ndr.de-shallow-20180530-222005-dks4y-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,678 ERRO root Mtime of www.ndr.de-shallow-20180530-222005-dks4y-meta.warc.os.cdx.gz is missing
+2018-05-31 18:00:02,678 INFO root Writing last-update file
+2018-05-31 18:00:02,679 INFO root Done
