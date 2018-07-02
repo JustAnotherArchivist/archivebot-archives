@@ -1,90 +1,89 @@
-2018-07-02 12:00:01,404 DEBU root Last attempt: 2018-07-02T06:00:01Z
-2018-07-02 12:00:01,405 DEBU root Last success: 2018-07-02T06:00:01Z
-2018-07-02 12:00:01,405 INFO root Writing last-update file
-2018-07-02 12:00:01,406 INFO root Query: 'collection:archivebot oai_updatedate:[2018-07-02T06:00:01Z TO null]'
-2018-07-02 12:00:02,991 INFO root Processing item archiveteam_archivebot_go_20180625110002
-2018-07-02 12:00:02,991 INFO root Skipping archiveteam_archivebot_go_20180625110002.cdx.idx
-2018-07-02 12:00:02,991 INFO root Skipping archiveteam_archivebot_go_20180625110002_archive.torrent
-2018-07-02 12:00:02,992 INFO root Skipping archiveteam_archivebot_go_20180625110002_files.xml
-2018-07-02 12:00:02,992 INFO root Skipping archiveteam_archivebot_go_20180625110002_meta.sqlite
-2018-07-02 12:00:02,992 INFO root Skipping archiveteam_archivebot_go_20180625110002_meta.xml
-2018-07-02 12:00:03,159 INFO root Processing item archiveteam_archivebot_go_20180625160001
-2018-07-02 12:00:03,160 INFO root Skipping archiveteam_archivebot_go_20180625160001_archive.torrent
-2018-07-02 12:00:03,160 INFO root Skipping archiveteam_archivebot_go_20180625160001_files.xml
-2018-07-02 12:00:03,160 INFO root Skipping archiveteam_archivebot_go_20180625160001_meta.sqlite
-2018-07-02 12:00:03,160 INFO root Skipping archiveteam_archivebot_go_20180625160001_meta.xml
-2018-07-02 12:00:03,160 ERRO root Size of beanball.wcbn.org-inf-20180614-085003-bv5xj-00588.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,160 ERRO root Mtime of beanball.wcbn.org-inf-20180614-085003-bv5xj-00588.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,160 ERRO root Size of beanball.wcbn.org-inf-20180614-085003-bv5xj-00590.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,161 ERRO root Mtime of beanball.wcbn.org-inf-20180614-085003-bv5xj-00590.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,161 ERRO root Size of beanball.wcbn.org-inf-20180614-085003-bv5xj-00591.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,161 ERRO root Mtime of beanball.wcbn.org-inf-20180614-085003-bv5xj-00591.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,161 ERRO root Size of beanball.wcbn.org-inf-20180614-085003-bv5xj-00592.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,161 ERRO root Mtime of beanball.wcbn.org-inf-20180614-085003-bv5xj-00592.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,161 ERRO root Size of beanball.wcbn.org-inf-20180614-085003-bv5xj-00593.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,161 ERRO root Mtime of beanball.wcbn.org-inf-20180614-085003-bv5xj-00593.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,161 ERRO root Size of beanball.wcbn.org-inf-20180614-085003-bv5xj-00594.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,161 ERRO root Mtime of beanball.wcbn.org-inf-20180614-085003-bv5xj-00594.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,161 ERRO root Size of beanball.wcbn.org-inf-20180614-085003-bv5xj-00595.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,161 ERRO root Mtime of beanball.wcbn.org-inf-20180614-085003-bv5xj-00595.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,161 ERRO root Size of beanball.wcbn.org-inf-20180614-085003-bv5xj-00596.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,162 ERRO root Mtime of beanball.wcbn.org-inf-20180614-085003-bv5xj-00596.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,162 ERRO root Size of beanball.wcbn.org-inf-20180614-085003-bv5xj-00597.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,162 ERRO root Mtime of beanball.wcbn.org-inf-20180614-085003-bv5xj-00597.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,162 ERRO root Size of beanball.wcbn.org-inf-20180614-085003-bv5xj-00598.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,162 ERRO root Mtime of beanball.wcbn.org-inf-20180614-085003-bv5xj-00598.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,162 ERRO root Size of beanball.wcbn.org-inf-20180614-085003-bv5xj-00599.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,162 ERRO root Mtime of beanball.wcbn.org-inf-20180614-085003-bv5xj-00599.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,162 ERRO root Size of beanball.wcbn.org-inf-20180614-085003-bv5xj-00600.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,163 ERRO root Mtime of beanball.wcbn.org-inf-20180614-085003-bv5xj-00600.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,163 ERRO root Size of beanball.wcbn.org-inf-20180614-085003-bv5xj-00601.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,163 ERRO root Mtime of beanball.wcbn.org-inf-20180614-085003-bv5xj-00601.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,163 ERRO root Size of beanball.wcbn.org-inf-20180614-085003-bv5xj-00602.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,163 ERRO root Mtime of beanball.wcbn.org-inf-20180614-085003-bv5xj-00602.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,163 ERRO root Size of beanball.wcbn.org-inf-20180614-085003-bv5xj-00603.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,163 ERRO root Mtime of beanball.wcbn.org-inf-20180614-085003-bv5xj-00603.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,164 ERRO root Size of beanball.wcbn.org-inf-20180614-085003-bv5xj-00605.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,164 ERRO root Mtime of beanball.wcbn.org-inf-20180614-085003-bv5xj-00605.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,164 ERRO root Size of gnusocial.no-inf-20180619-225833-6sike-00018.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,164 ERRO root Mtime of gnusocial.no-inf-20180619-225833-6sike-00018.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,164 ERRO root Size of halo.bungie.net-inf-20180623-084722-dlc7t-00009.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,164 ERRO root Mtime of halo.bungie.net-inf-20180623-084722-dlc7t-00009.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,164 ERRO root Size of halo.bungie.net-inf-20180623-084722-dlc7t-00010.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,164 ERRO root Mtime of halo.bungie.net-inf-20180623-084722-dlc7t-00010.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,164 ERRO root Size of nerdist.com-inf-20180615-210455-7krqx-00097.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,164 ERRO root Mtime of nerdist.com-inf-20180615-210455-7krqx-00097.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,164 ERRO root Size of nerdist.com-inf-20180615-210455-7krqx-00098.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,165 ERRO root Mtime of nerdist.com-inf-20180615-210455-7krqx-00098.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,165 ERRO root Size of niketalk.com-inf-20180326-183642-24ihf-00143.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,165 ERRO root Mtime of niketalk.com-inf-20180326-183642-24ihf-00143.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,165 ERRO root Size of roosterteeth.com-inf-20180413-052749-101om-00177.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,165 ERRO root Mtime of roosterteeth.com-inf-20180413-052749-101om-00177.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,165 ERRO root Size of rpg.rem.uz-inf-20180624-035218-4s0mz-00067.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,165 ERRO root Mtime of rpg.rem.uz-inf-20180624-035218-4s0mz-00067.warc.os.cdx.gz is missing
-2018-07-02 12:00:03,466 INFO root Processing item archiveteam_archivebot_go_20180625200001
-2018-07-02 12:00:03,466 INFO root Skipping archiveteam_archivebot_go_20180625200001_archive.torrent
-2018-07-02 12:00:03,466 INFO root Skipping archiveteam_archivebot_go_20180625200001_files.xml
-2018-07-02 12:00:03,466 INFO root Skipping archiveteam_archivebot_go_20180625200001_meta.sqlite
-2018-07-02 12:00:03,466 INFO root Skipping archiveteam_archivebot_go_20180625200001_meta.xml
-2018-07-02 12:00:03,722 INFO root Processing item archiveteam_archivebot_go_20180626080001
-2018-07-02 12:00:03,723 INFO root Skipping archiveteam_archivebot_go_20180626080001_archive.torrent
-2018-07-02 12:00:03,723 INFO root Skipping archiveteam_archivebot_go_20180626080001_files.xml
-2018-07-02 12:00:03,723 INFO root Skipping archiveteam_archivebot_go_20180626080001_meta.sqlite
-2018-07-02 12:00:03,723 INFO root Skipping archiveteam_archivebot_go_20180626080001_meta.xml
-2018-07-02 12:00:03,993 INFO root Processing item archiveteam_archivebot_go_20180626140002
-2018-07-02 12:00:03,993 INFO root Skipping archiveteam_archivebot_go_20180626140002_archive.torrent
-2018-07-02 12:00:03,994 INFO root Skipping archiveteam_archivebot_go_20180626140002_files.xml
-2018-07-02 12:00:03,994 INFO root Skipping archiveteam_archivebot_go_20180626140002_meta.sqlite
-2018-07-02 12:00:03,994 INFO root Skipping archiveteam_archivebot_go_20180626140002_meta.xml
-2018-07-02 12:00:04,372 INFO root Processing item archiveteam_archivebot_go_20180626180001
-2018-07-02 12:00:04,373 INFO root Skipping archiveteam_archivebot_go_20180626180001_archive.torrent
-2018-07-02 12:00:04,373 INFO root Skipping archiveteam_archivebot_go_20180626180001_files.xml
-2018-07-02 12:00:04,373 INFO root Skipping archiveteam_archivebot_go_20180626180001_meta.sqlite
-2018-07-02 12:00:04,373 INFO root Skipping archiveteam_archivebot_go_20180626180001_meta.xml
-2018-07-02 12:00:04,647 INFO root Processing item archiveteam_archivebot_go_20180627000002
-2018-07-02 12:00:04,647 INFO root Skipping archiveteam_archivebot_go_20180627000002_archive.torrent
-2018-07-02 12:00:04,648 INFO root Skipping archiveteam_archivebot_go_20180627000002_files.xml
-2018-07-02 12:00:04,648 INFO root Skipping archiveteam_archivebot_go_20180627000002_meta.sqlite
-2018-07-02 12:00:04,648 INFO root Skipping archiveteam_archivebot_go_20180627000002_meta.xml
-2018-07-02 12:00:04,648 INFO root Writing last-update file
-2018-07-02 12:00:04,649 INFO root Done
+2018-07-02 18:00:01,497 DEBU root Last attempt: 2018-07-02T12:00:01Z
+2018-07-02 18:00:01,497 DEBU root Last success: 2018-07-02T12:00:01Z
+2018-07-02 18:00:01,497 INFO root Writing last-update file
+2018-07-02 18:00:01,498 INFO root Query: 'collection:archivebot oai_updatedate:[2018-07-02T12:00:01Z TO null]'
+2018-07-02 18:00:03,001 INFO root Processing item archiveteam_archivebot_go_20180625070002
+2018-07-02 18:00:03,002 INFO root Skipping archiveteam_archivebot_go_20180625070002.cdx.idx
+2018-07-02 18:00:03,002 INFO root Skipping archiveteam_archivebot_go_20180625070002_archive.torrent
+2018-07-02 18:00:03,002 INFO root Skipping archiveteam_archivebot_go_20180625070002_files.xml
+2018-07-02 18:00:03,002 INFO root Skipping archiveteam_archivebot_go_20180625070002_meta.sqlite
+2018-07-02 18:00:03,002 INFO root Skipping archiveteam_archivebot_go_20180625070002_meta.xml
+2018-07-02 18:00:03,210 INFO root Processing item archiveteam_archivebot_go_20180625160001
+2018-07-02 18:00:03,210 INFO root Skipping archiveteam_archivebot_go_20180625160001.cdx.idx
+2018-07-02 18:00:03,210 INFO root Skipping archiveteam_archivebot_go_20180625160001_archive.torrent
+2018-07-02 18:00:03,210 INFO root Skipping archiveteam_archivebot_go_20180625160001_files.xml
+2018-07-02 18:00:03,210 INFO root Skipping archiveteam_archivebot_go_20180625160001_meta.sqlite
+2018-07-02 18:00:03,211 INFO root Skipping archiveteam_archivebot_go_20180625160001_meta.xml
+2018-07-02 18:00:03,395 INFO root Processing item archiveteam_archivebot_go_20180625200001
+2018-07-02 18:00:03,395 INFO root Skipping archiveteam_archivebot_go_20180625200001.cdx.idx
+2018-07-02 18:00:03,395 INFO root Skipping archiveteam_archivebot_go_20180625200001_archive.torrent
+2018-07-02 18:00:03,396 INFO root Skipping archiveteam_archivebot_go_20180625200001_files.xml
+2018-07-02 18:00:03,396 INFO root Skipping archiveteam_archivebot_go_20180625200001_meta.sqlite
+2018-07-02 18:00:03,396 INFO root Skipping archiveteam_archivebot_go_20180625200001_meta.xml
+2018-07-02 18:00:03,836 INFO root Processing item archiveteam_archivebot_go_20180626020001
+2018-07-02 18:00:03,837 INFO root Skipping archiveteam_archivebot_go_20180626020001.cdx.idx
+2018-07-02 18:00:03,837 INFO root Skipping archiveteam_archivebot_go_20180626020001_archive.torrent
+2018-07-02 18:00:03,837 INFO root Skipping archiveteam_archivebot_go_20180626020001_files.xml
+2018-07-02 18:00:03,837 INFO root Skipping archiveteam_archivebot_go_20180626020001_meta.sqlite
+2018-07-02 18:00:03,837 INFO root Skipping archiveteam_archivebot_go_20180626020001_meta.xml
+2018-07-02 18:00:04,265 INFO root Processing item archiveteam_archivebot_go_20180626080001
+2018-07-02 18:00:04,265 INFO root Skipping archiveteam_archivebot_go_20180626080001_archive.torrent
+2018-07-02 18:00:04,265 INFO root Skipping archiveteam_archivebot_go_20180626080001_files.xml
+2018-07-02 18:00:04,265 INFO root Skipping archiveteam_archivebot_go_20180626080001_meta.sqlite
+2018-07-02 18:00:04,265 INFO root Skipping archiveteam_archivebot_go_20180626080001_meta.xml
+2018-07-02 18:00:04,621 INFO root Processing item archiveteam_archivebot_go_20180626180001
+2018-07-02 18:00:04,621 INFO root Skipping archiveteam_archivebot_go_20180626180001_archive.torrent
+2018-07-02 18:00:04,621 INFO root Skipping archiveteam_archivebot_go_20180626180001_files.xml
+2018-07-02 18:00:04,621 INFO root Skipping archiveteam_archivebot_go_20180626180001_meta.sqlite
+2018-07-02 18:00:04,622 INFO root Skipping archiveteam_archivebot_go_20180626180001_meta.xml
+2018-07-02 18:00:04,828 INFO root Processing item archiveteam_archivebot_go_20180627000002
+2018-07-02 18:00:04,828 INFO root Skipping archiveteam_archivebot_go_20180627000002_archive.torrent
+2018-07-02 18:00:04,828 INFO root Skipping archiveteam_archivebot_go_20180627000002_files.xml
+2018-07-02 18:00:04,828 INFO root Skipping archiveteam_archivebot_go_20180627000002_meta.sqlite
+2018-07-02 18:00:04,829 INFO root Skipping archiveteam_archivebot_go_20180627000002_meta.xml
+2018-07-02 18:00:05,480 INFO root Processing item archiveteam_archivebot_go_20180627050001
+2018-07-02 18:00:05,480 INFO root Skipping archiveteam_archivebot_go_20180627050001_archive.torrent
+2018-07-02 18:00:05,480 INFO root Skipping archiveteam_archivebot_go_20180627050001_files.xml
+2018-07-02 18:00:05,481 INFO root Skipping archiveteam_archivebot_go_20180627050001_meta.sqlite
+2018-07-02 18:00:05,481 INFO root Skipping archiveteam_archivebot_go_20180627050001_meta.xml
+2018-07-02 18:00:05,481 ERRO root Size of beanball.wcbn.org-inf-20180614-085003-bv5xj-00700.warc.os.cdx.gz is missing
+2018-07-02 18:00:05,481 ERRO root Mtime of beanball.wcbn.org-inf-20180614-085003-bv5xj-00700.warc.os.cdx.gz is missing
+2018-07-02 18:00:05,481 ERRO root Size of beanball.wcbn.org-inf-20180614-085003-bv5xj-00703.warc.os.cdx.gz is missing
+2018-07-02 18:00:05,481 ERRO root Mtime of beanball.wcbn.org-inf-20180614-085003-bv5xj-00703.warc.os.cdx.gz is missing
+2018-07-02 18:00:05,481 ERRO root Size of beanball.wcbn.org-inf-20180614-085003-bv5xj-00704.warc.os.cdx.gz is missing
+2018-07-02 18:00:05,481 ERRO root Mtime of beanball.wcbn.org-inf-20180614-085003-bv5xj-00704.warc.os.cdx.gz is missing
+2018-07-02 18:00:05,481 ERRO root Size of beanball.wcbn.org-inf-20180614-085003-bv5xj-00705.warc.os.cdx.gz is missing
+2018-07-02 18:00:05,481 ERRO root Mtime of beanball.wcbn.org-inf-20180614-085003-bv5xj-00705.warc.os.cdx.gz is missing
+2018-07-02 18:00:05,482 ERRO root Size of beanball.wcbn.org-inf-20180614-085003-bv5xj-00706.warc.os.cdx.gz is missing
+2018-07-02 18:00:05,482 ERRO root Mtime of beanball.wcbn.org-inf-20180614-085003-bv5xj-00706.warc.os.cdx.gz is missing
+2018-07-02 18:00:05,482 ERRO root Size of beanball.wcbn.org-inf-20180614-085003-bv5xj-00707.warc.os.cdx.gz is missing
+2018-07-02 18:00:05,482 ERRO root Mtime of beanball.wcbn.org-inf-20180614-085003-bv5xj-00707.warc.os.cdx.gz is missing
+2018-07-02 18:00:05,482 ERRO root Size of beanball.wcbn.org-inf-20180614-085003-bv5xj-00708.warc.os.cdx.gz is missing
+2018-07-02 18:00:05,482 ERRO root Mtime of beanball.wcbn.org-inf-20180614-085003-bv5xj-00708.warc.os.cdx.gz is missing
+2018-07-02 18:00:05,482 ERRO root Size of beanball.wcbn.org-inf-20180614-085003-bv5xj-00709.warc.os.cdx.gz is missing
+2018-07-02 18:00:05,482 ERRO root Mtime of beanball.wcbn.org-inf-20180614-085003-bv5xj-00709.warc.os.cdx.gz is missing
+2018-07-02 18:00:05,482 ERRO root Size of beanball.wcbn.org-inf-20180614-085003-bv5xj-00710.warc.os.cdx.gz is missing
+2018-07-02 18:00:05,482 ERRO root Mtime of beanball.wcbn.org-inf-20180614-085003-bv5xj-00710.warc.os.cdx.gz is missing
+2018-07-02 18:00:05,482 ERRO root Size of beanball.wcbn.org-inf-20180614-085003-bv5xj-00711.warc.os.cdx.gz is missing
+2018-07-02 18:00:05,483 ERRO root Mtime of beanball.wcbn.org-inf-20180614-085003-bv5xj-00711.warc.os.cdx.gz is missing
+2018-07-02 18:00:05,483 ERRO root Size of bons.ai-inf-20180627-001622-edw22-00000.warc.os.cdx.gz is missing
+2018-07-02 18:00:05,483 ERRO root Mtime of bons.ai-inf-20180627-001622-edw22-00000.warc.os.cdx.gz is missing
+2018-07-02 18:00:05,645 INFO root Processing item archiveteam_archivebot_go_20180627120002
+2018-07-02 18:00:05,646 INFO root Skipping archiveteam_archivebot_go_20180627120002_archive.torrent
+2018-07-02 18:00:05,646 INFO root Skipping archiveteam_archivebot_go_20180627120002_files.xml
+2018-07-02 18:00:05,646 INFO root Skipping archiveteam_archivebot_go_20180627120002_meta.sqlite
+2018-07-02 18:00:05,646 INFO root Skipping archiveteam_archivebot_go_20180627120002_meta.xml
+2018-07-02 18:00:05,944 INFO root Processing item astrid_archivebot_forum_giga_de_20170928
+2018-07-02 18:00:05,944 INFO root Skipping astrid_archivebot_forum_giga_de_20170928.cdx.idx
+2018-07-02 18:00:05,944 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_archive.torrent
+2018-07-02 18:00:05,944 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_files.xml
+2018-07-02 18:00:05,944 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.sqlite
+2018-07-02 18:00:05,944 INFO root Skipping astrid_archivebot_forum_giga_de_20170928_meta.xml
+2018-07-02 18:00:06,073 INFO root Processing item falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714
+2018-07-02 18:00:06,073 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714.cdx.idx
+2018-07-02 18:00:06,073 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_archive.torrent
+2018-07-02 18:00:06,074 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_files.xml
+2018-07-02 18:00:06,074 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_meta.sqlite
+2018-07-02 18:00:06,074 INFO root Skipping falconk_archivebot_urls-gist_githubusercontent_com-tiscali_txt_20170714_meta.xml
+2018-07-02 18:00:06,076 INFO root Writing last-update file
+2018-07-02 18:00:06,076 INFO root Done
