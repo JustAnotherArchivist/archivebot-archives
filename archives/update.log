@@ -1,51 +1,61 @@
-2018-07-02 00:00:01,579 DEBU root Last attempt: 2018-07-01T18:00:01Z
-2018-07-02 00:00:01,579 DEBU root Last success: 2018-07-01T18:00:01Z
-2018-07-02 00:00:01,579 INFO root Writing last-update file
-2018-07-02 00:00:01,580 INFO root Query: 'collection:archivebot oai_updatedate:[2018-07-01T18:00:01Z TO null]'
-2018-07-02 00:00:02,764 INFO root Processing item archiveteam_archivebot_go_20180624000001
-2018-07-02 00:00:02,765 INFO root Skipping archiveteam_archivebot_go_20180624000001.cdx.idx
-2018-07-02 00:00:02,765 INFO root Skipping archiveteam_archivebot_go_20180624000001_archive.torrent
-2018-07-02 00:00:02,765 INFO root Skipping archiveteam_archivebot_go_20180624000001_files.xml
-2018-07-02 00:00:02,765 INFO root Skipping archiveteam_archivebot_go_20180624000001_meta.sqlite
-2018-07-02 00:00:02,765 INFO root Skipping archiveteam_archivebot_go_20180624000001_meta.xml
-2018-07-02 00:00:02,958 INFO root Processing item archiveteam_archivebot_go_20180624050003
-2018-07-02 00:00:02,959 INFO root Skipping archiveteam_archivebot_go_20180624050003_archive.torrent
-2018-07-02 00:00:02,959 INFO root Skipping archiveteam_archivebot_go_20180624050003_files.xml
-2018-07-02 00:00:02,959 INFO root Skipping archiveteam_archivebot_go_20180624050003_meta.sqlite
-2018-07-02 00:00:02,960 INFO root Skipping archiveteam_archivebot_go_20180624050003_meta.xml
-2018-07-02 00:00:02,960 ERRO root Size of barrapunto.com-inf-20180610-140525-1oqct-00022.warc.os.cdx.gz is missing
-2018-07-02 00:00:02,960 ERRO root Mtime of barrapunto.com-inf-20180610-140525-1oqct-00022.warc.os.cdx.gz is missing
-2018-07-02 00:00:02,960 ERRO root Size of beanball.wcbn.org-inf-20180614-085003-bv5xj-00493.warc.os.cdx.gz is missing
-2018-07-02 00:00:02,960 ERRO root Mtime of beanball.wcbn.org-inf-20180614-085003-bv5xj-00493.warc.os.cdx.gz is missing
-2018-07-02 00:00:02,960 ERRO root Size of beanball.wcbn.org-inf-20180614-085003-bv5xj-00494.warc.os.cdx.gz is missing
-2018-07-02 00:00:02,961 ERRO root Mtime of beanball.wcbn.org-inf-20180614-085003-bv5xj-00494.warc.os.cdx.gz is missing
-2018-07-02 00:00:02,961 ERRO root Size of beanball.wcbn.org-inf-20180614-085003-bv5xj-00495.warc.os.cdx.gz is missing
-2018-07-02 00:00:02,961 ERRO root Mtime of beanball.wcbn.org-inf-20180614-085003-bv5xj-00495.warc.os.cdx.gz is missing
-2018-07-02 00:00:02,962 ERRO root Size of nerdist.com-inf-20180615-210455-7krqx-00079.warc.os.cdx.gz is missing
-2018-07-02 00:00:02,962 ERRO root Mtime of nerdist.com-inf-20180615-210455-7krqx-00079.warc.os.cdx.gz is missing
-2018-07-02 00:00:03,117 INFO root Processing item archiveteam_archivebot_go_20180624080002
-2018-07-02 00:00:03,118 INFO root Skipping archiveteam_archivebot_go_20180624080002_archive.torrent
-2018-07-02 00:00:03,118 INFO root Skipping archiveteam_archivebot_go_20180624080002_files.xml
-2018-07-02 00:00:03,118 INFO root Skipping archiveteam_archivebot_go_20180624080002_meta.sqlite
-2018-07-02 00:00:03,118 INFO root Skipping archiveteam_archivebot_go_20180624080002_meta.xml
-2018-07-02 00:00:03,234 INFO root Processing item archiveteam_archivebot_go_20180624220001
-2018-07-02 00:00:03,234 INFO root Skipping archiveteam_archivebot_go_20180624220001_files.xml
-2018-07-02 00:00:03,235 INFO root Skipping archiveteam_archivebot_go_20180624220001_meta.sqlite
-2018-07-02 00:00:03,235 INFO root Skipping archiveteam_archivebot_go_20180624220001_meta.xml
-2018-07-02 00:00:03,403 INFO root Processing item archiveteam_archivebot_go_20180625030001
-2018-07-02 00:00:03,404 INFO root Skipping archiveteam_archivebot_go_20180625030001_archive.torrent
-2018-07-02 00:00:03,404 INFO root Skipping archiveteam_archivebot_go_20180625030001_files.xml
-2018-07-02 00:00:03,404 INFO root Skipping archiveteam_archivebot_go_20180625030001_meta.sqlite
-2018-07-02 00:00:03,404 INFO root Skipping archiveteam_archivebot_go_20180625030001_meta.xml
-2018-07-02 00:00:03,523 INFO root Processing item archiveteam_archivebot_go_20180625070002
-2018-07-02 00:00:03,524 INFO root Skipping archiveteam_archivebot_go_20180625070002_archive.torrent
-2018-07-02 00:00:03,524 INFO root Skipping archiveteam_archivebot_go_20180625070002_files.xml
-2018-07-02 00:00:03,524 INFO root Skipping archiveteam_archivebot_go_20180625070002_meta.sqlite
-2018-07-02 00:00:03,524 INFO root Skipping archiveteam_archivebot_go_20180625070002_meta.xml
-2018-07-02 00:00:03,641 INFO root Processing item archiveteam_archivebot_go_20180625110002
-2018-07-02 00:00:03,641 INFO root Skipping archiveteam_archivebot_go_20180625110002_archive.torrent
-2018-07-02 00:00:03,641 INFO root Skipping archiveteam_archivebot_go_20180625110002_files.xml
-2018-07-02 00:00:03,641 INFO root Skipping archiveteam_archivebot_go_20180625110002_meta.sqlite
-2018-07-02 00:00:03,641 INFO root Skipping archiveteam_archivebot_go_20180625110002_meta.xml
-2018-07-02 00:00:03,642 INFO root Writing last-update file
-2018-07-02 00:00:03,642 INFO root Done
+2018-07-02 06:00:01,431 DEBU root Last attempt: 2018-07-02T00:00:01Z
+2018-07-02 06:00:01,432 DEBU root Last success: 2018-07-02T00:00:01Z
+2018-07-02 06:00:01,432 INFO root Writing last-update file
+2018-07-02 06:00:01,433 INFO root Query: 'collection:archivebot oai_updatedate:[2018-07-02T00:00:01Z TO null]'
+2018-07-02 06:00:02,714 INFO root Processing item archiveteam_archivebot_go_20180623190001
+2018-07-02 06:00:02,715 INFO root Skipping archiveteam_archivebot_go_20180623190001.cdx.idx
+2018-07-02 06:00:02,715 INFO root Skipping archiveteam_archivebot_go_20180623190001_archive.torrent
+2018-07-02 06:00:02,715 INFO root Skipping archiveteam_archivebot_go_20180623190001_files.xml
+2018-07-02 06:00:02,715 INFO root Skipping archiveteam_archivebot_go_20180623190001_meta.sqlite
+2018-07-02 06:00:02,715 INFO root Skipping archiveteam_archivebot_go_20180623190001_meta.xml
+2018-07-02 06:00:03,339 INFO root Processing item archiveteam_archivebot_go_20180624050003
+2018-07-02 06:00:03,339 INFO root Skipping archiveteam_archivebot_go_20180624050003.cdx.idx
+2018-07-02 06:00:03,339 INFO root Skipping archiveteam_archivebot_go_20180624050003_archive.torrent
+2018-07-02 06:00:03,340 INFO root Skipping archiveteam_archivebot_go_20180624050003_files.xml
+2018-07-02 06:00:03,340 INFO root Skipping archiveteam_archivebot_go_20180624050003_meta.sqlite
+2018-07-02 06:00:03,340 INFO root Skipping archiveteam_archivebot_go_20180624050003_meta.xml
+2018-07-02 06:00:03,440 INFO root Processing item archiveteam_archivebot_go_20180624080002
+2018-07-02 06:00:03,441 INFO root Skipping archiveteam_archivebot_go_20180624080002.cdx.idx
+2018-07-02 06:00:03,441 INFO root Skipping archiveteam_archivebot_go_20180624080002_archive.torrent
+2018-07-02 06:00:03,441 INFO root Skipping archiveteam_archivebot_go_20180624080002_files.xml
+2018-07-02 06:00:03,441 INFO root Skipping archiveteam_archivebot_go_20180624080002_meta.sqlite
+2018-07-02 06:00:03,441 INFO root Skipping archiveteam_archivebot_go_20180624080002_meta.xml
+2018-07-02 06:00:03,601 INFO root Processing item archiveteam_archivebot_go_20180624220001
+2018-07-02 06:00:03,602 INFO root Skipping archiveteam_archivebot_go_20180624220001.cdx.idx
+2018-07-02 06:00:03,602 INFO root Skipping archiveteam_archivebot_go_20180624220001_archive.torrent
+2018-07-02 06:00:03,602 INFO root Skipping archiveteam_archivebot_go_20180624220001_files.xml
+2018-07-02 06:00:03,602 INFO root Skipping archiveteam_archivebot_go_20180624220001_meta.sqlite
+2018-07-02 06:00:03,602 INFO root Skipping archiveteam_archivebot_go_20180624220001_meta.xml
+2018-07-02 06:00:03,705 INFO root Processing item archiveteam_archivebot_go_20180625030001
+2018-07-02 06:00:03,705 INFO root Skipping archiveteam_archivebot_go_20180625030001.cdx.idx
+2018-07-02 06:00:03,705 INFO root Skipping archiveteam_archivebot_go_20180625030001_archive.torrent
+2018-07-02 06:00:03,705 INFO root Skipping archiveteam_archivebot_go_20180625030001_files.xml
+2018-07-02 06:00:03,705 INFO root Skipping archiveteam_archivebot_go_20180625030001_meta.sqlite
+2018-07-02 06:00:03,705 INFO root Skipping archiveteam_archivebot_go_20180625030001_meta.xml
+2018-07-02 06:00:04,053 INFO root Processing item archiveteam_archivebot_go_20180625070002
+2018-07-02 06:00:04,053 INFO root Skipping archiveteam_archivebot_go_20180625070002_archive.torrent
+2018-07-02 06:00:04,053 INFO root Skipping archiveteam_archivebot_go_20180625070002_files.xml
+2018-07-02 06:00:04,053 INFO root Skipping archiveteam_archivebot_go_20180625070002_meta.sqlite
+2018-07-02 06:00:04,054 INFO root Skipping archiveteam_archivebot_go_20180625070002_meta.xml
+2018-07-02 06:00:04,259 INFO root Processing item archiveteam_archivebot_go_20180625110002
+2018-07-02 06:00:04,260 INFO root Skipping archiveteam_archivebot_go_20180625110002_archive.torrent
+2018-07-02 06:00:04,260 INFO root Skipping archiveteam_archivebot_go_20180625110002_files.xml
+2018-07-02 06:00:04,260 INFO root Skipping archiveteam_archivebot_go_20180625110002_meta.sqlite
+2018-07-02 06:00:04,260 INFO root Skipping archiveteam_archivebot_go_20180625110002_meta.xml
+2018-07-02 06:00:04,406 INFO root Processing item archiveteam_archivebot_go_20180625160001
+2018-07-02 06:00:04,406 INFO root Skipping archiveteam_archivebot_go_20180625160001_archive.torrent
+2018-07-02 06:00:04,406 INFO root Skipping archiveteam_archivebot_go_20180625160001_files.xml
+2018-07-02 06:00:04,407 INFO root Skipping archiveteam_archivebot_go_20180625160001_meta.sqlite
+2018-07-02 06:00:04,407 INFO root Skipping archiveteam_archivebot_go_20180625160001_meta.xml
+2018-07-02 06:00:04,607 INFO root Processing item archiveteam_archivebot_go_20180625200001
+2018-07-02 06:00:04,608 INFO root Skipping archiveteam_archivebot_go_20180625200001_archive.torrent
+2018-07-02 06:00:04,608 INFO root Skipping archiveteam_archivebot_go_20180625200001_files.xml
+2018-07-02 06:00:04,608 INFO root Skipping archiveteam_archivebot_go_20180625200001_meta.sqlite
+2018-07-02 06:00:04,608 INFO root Skipping archiveteam_archivebot_go_20180625200001_meta.xml
+2018-07-02 06:00:04,772 INFO root Processing item archiveteam_archivebot_go_20180626020001
+2018-07-02 06:00:04,772 INFO root Skipping archiveteam_archivebot_go_20180626020001_archive.torrent
+2018-07-02 06:00:04,772 INFO root Skipping archiveteam_archivebot_go_20180626020001_files.xml
+2018-07-02 06:00:04,772 INFO root Skipping archiveteam_archivebot_go_20180626020001_meta.sqlite
+2018-07-02 06:00:04,773 INFO root Skipping archiveteam_archivebot_go_20180626020001_meta.xml
+2018-07-02 06:00:04,773 INFO root Writing last-update file
+2018-07-02 06:00:04,773 INFO root Done
