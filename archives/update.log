@@ -1,23 +1,336 @@
-2018-07-09 18:00:01,516 DEBU root Last attempt: 2018-07-09T12:00:01Z
-2018-07-09 18:00:01,516 DEBU root Last success: 2018-07-09T12:00:01Z
-2018-07-09 18:00:01,516 INFO root Writing last-update file
-2018-07-09 18:00:01,517 INFO root Query: 'collection:archivebot oai_updatedate:[2018-07-09T12:00:01Z TO null]'
-2018-07-09 18:00:03,761 INFO root Processing item archiveteam_archivebot_go_20180709080002
-2018-07-09 18:00:03,761 INFO root Skipping archiveteam_archivebot_go_20180709080002_archive.torrent
-2018-07-09 18:00:03,762 INFO root Skipping archiveteam_archivebot_go_20180709080002_files.xml
-2018-07-09 18:00:03,762 INFO root Skipping archiveteam_archivebot_go_20180709080002_meta.sqlite
-2018-07-09 18:00:03,762 INFO root Skipping archiveteam_archivebot_go_20180709080002_meta.xml
-2018-07-09 18:00:04,782 INFO root Processing item astrid_archivebot_nixontapes_org_20180708
-2018-07-09 18:00:04,783 INFO root Skipping astrid_archivebot_nixontapes_org_20180708.cdx.idx
-2018-07-09 18:00:04,783 INFO root Skipping astrid_archivebot_nixontapes_org_20180708_archive.torrent
-2018-07-09 18:00:04,783 INFO root Skipping astrid_archivebot_nixontapes_org_20180708_files.xml
-2018-07-09 18:00:04,783 INFO root Skipping astrid_archivebot_nixontapes_org_20180708_meta.sqlite
-2018-07-09 18:00:04,783 INFO root Skipping astrid_archivebot_nixontapes_org_20180708_meta.xml
-2018-07-09 18:00:04,946 INFO root Processing item astrid_archivebot_www_xt660_com_20180708
-2018-07-09 18:00:04,947 INFO root Skipping astrid_archivebot_www_xt660_com_20180708.cdx.idx
-2018-07-09 18:00:04,947 INFO root Skipping astrid_archivebot_www_xt660_com_20180708_archive.torrent
-2018-07-09 18:00:04,947 INFO root Skipping astrid_archivebot_www_xt660_com_20180708_files.xml
-2018-07-09 18:00:04,947 INFO root Skipping astrid_archivebot_www_xt660_com_20180708_meta.sqlite
-2018-07-09 18:00:04,947 INFO root Skipping astrid_archivebot_www_xt660_com_20180708_meta.xml
-2018-07-09 18:00:04,948 INFO root Writing last-update file
-2018-07-09 18:00:04,948 INFO root Done
+2018-07-10 00:00:02,048 DEBU root Last attempt: 2018-07-09T18:00:01Z
+2018-07-10 00:00:02,048 DEBU root Last success: 2018-07-09T18:00:01Z
+2018-07-10 00:00:02,049 INFO root Writing last-update file
+2018-07-10 00:00:02,049 INFO root Query: 'collection:archivebot oai_updatedate:[2018-07-09T18:00:01Z TO null]'
+2018-07-10 00:00:03,412 INFO root Processing item archiveteam_archivebot_go_20180709080002
+2018-07-10 00:00:03,413 INFO root Skipping archiveteam_archivebot_go_20180709080002_archive.torrent
+2018-07-10 00:00:03,413 INFO root Skipping archiveteam_archivebot_go_20180709080002_files.xml
+2018-07-10 00:00:03,413 INFO root Skipping archiveteam_archivebot_go_20180709080002_meta.sqlite
+2018-07-10 00:00:03,413 INFO root Skipping archiveteam_archivebot_go_20180709080002_meta.xml
+2018-07-10 00:00:03,413 ERRO root Size of arstechnica.com-shallow-20180709-063141-2d9s4-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,413 ERRO root Mtime of arstechnica.com-shallow-20180709-063141-2d9s4-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,414 ERRO root Size of arstechnica.com-shallow-20180709-063141-2d9s4-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,414 ERRO root Mtime of arstechnica.com-shallow-20180709-063141-2d9s4-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,414 ERRO root Size of audioboom.com-shallow-20180709-035428-dvfgi-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,414 ERRO root Mtime of audioboom.com-shallow-20180709-035428-dvfgi-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,414 ERRO root Size of audioboom.com-shallow-20180709-035428-dvfgi-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,414 ERRO root Mtime of audioboom.com-shallow-20180709-035428-dvfgi-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,414 ERRO root Size of boards.straightdope.com-inf-20180705-045000-3cz7m-00006.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,414 ERRO root Mtime of boards.straightdope.com-inf-20180705-045000-3cz7m-00006.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,414 ERRO root Size of boards.straightdope.com-inf-20180705-045000-3cz7m-00007.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,414 ERRO root Mtime of boards.straightdope.com-inf-20180705-045000-3cz7m-00007.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,414 ERRO root Size of community.mts.ca-shallow-20180708-210230-dh5ae-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,415 ERRO root Mtime of community.mts.ca-shallow-20180708-210230-dh5ae-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,415 ERRO root Size of community.mts.ca-shallow-20180708-210230-dh5ae-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,415 ERRO root Mtime of community.mts.ca-shallow-20180708-210230-dh5ae-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,415 ERRO root Size of community.mts.ca-shallow-20180708-210316-dh5ae-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,415 ERRO root Mtime of community.mts.ca-shallow-20180708-210316-dh5ae-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,415 ERRO root Size of community.mts.ca-shallow-20180708-210316-dh5ae-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,415 ERRO root Mtime of community.mts.ca-shallow-20180708-210316-dh5ae-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,415 ERRO root Size of forum.bodybuilding.com-inf-20180525-005751-dl5zr-00012.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,415 ERRO root Mtime of forum.bodybuilding.com-inf-20180525-005751-dl5zr-00012.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,415 ERRO root Size of forums.icyboards.net-inf-20180708-144655-aei77-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,415 ERRO root Mtime of forums.icyboards.net-inf-20180708-144655-aei77-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,416 ERRO root Size of forums.icyboards.net-shallow-20180709-060242-4ijui-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,416 ERRO root Mtime of forums.icyboards.net-shallow-20180709-060242-4ijui-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,416 ERRO root Size of forums.icyboards.net-shallow-20180709-060242-4ijui-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,416 ERRO root Mtime of forums.icyboards.net-shallow-20180709-060242-4ijui-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,416 ERRO root Size of geekhack.org-inf-20180703-132606-2cmx5-00046.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,416 ERRO root Mtime of geekhack.org-inf-20180703-132606-2cmx5-00046.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,416 ERRO root Size of geekhack.org-inf-20180703-132606-2cmx5-00047.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,416 ERRO root Mtime of geekhack.org-inf-20180703-132606-2cmx5-00047.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,416 ERRO root Size of geekhack.org-inf-20180703-132606-2cmx5-00048.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,416 ERRO root Mtime of geekhack.org-inf-20180703-132606-2cmx5-00048.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,417 ERRO root Size of github.com-shallow-20180709-015948-aoald-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,417 ERRO root Mtime of github.com-shallow-20180709-015948-aoald-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,417 ERRO root Size of github.com-shallow-20180709-015948-aoald-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,417 ERRO root Mtime of github.com-shallow-20180709-015948-aoald-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,417 ERRO root Size of github.com-shallow-20180709-020019-82pi0-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,417 ERRO root Mtime of github.com-shallow-20180709-020019-82pi0-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,417 ERRO root Size of github.com-shallow-20180709-020019-82pi0-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,417 ERRO root Mtime of github.com-shallow-20180709-020019-82pi0-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,417 ERRO root Size of gnusocial.no-inf-20180619-225833-6sike-00065.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,417 ERRO root Mtime of gnusocial.no-inf-20180619-225833-6sike-00065.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,417 ERRO root Size of gnusocial.no-inf-20180619-225833-6sike-00066.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,417 ERRO root Mtime of gnusocial.no-inf-20180619-225833-6sike-00066.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,418 ERRO root Size of goodereader.com-shallow-20180709-044757-4sbo6-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,418 ERRO root Mtime of goodereader.com-shallow-20180709-044757-4sbo6-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,418 ERRO root Size of goodereader.com-shallow-20180709-044757-4sbo6-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,418 ERRO root Mtime of goodereader.com-shallow-20180709-044757-4sbo6-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,418 ERRO root Size of hackaday.com-shallow-20180709-064413-39ola-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,418 ERRO root Mtime of hackaday.com-shallow-20180709-064413-39ola-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,418 ERRO root Size of hackaday.com-shallow-20180709-064413-39ola-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,418 ERRO root Mtime of hackaday.com-shallow-20180709-064413-39ola-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,418 ERRO root Size of i.kym-cdn.com-shallow-20180708-220503-2p6bg-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,418 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-220503-2p6bg-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,418 ERRO root Size of i.kym-cdn.com-shallow-20180708-220503-2p6bg-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,418 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-220503-2p6bg-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,419 ERRO root Size of i.kym-cdn.com-shallow-20180708-220544-5jziw-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,419 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-220544-5jziw-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,419 ERRO root Size of i.kym-cdn.com-shallow-20180708-220544-5jziw-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,419 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-220544-5jziw-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,419 ERRO root Size of i.kym-cdn.com-shallow-20180708-220635-8z7i3-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,419 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-220635-8z7i3-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,419 ERRO root Size of i.kym-cdn.com-shallow-20180708-220635-8z7i3-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,419 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-220635-8z7i3-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,419 ERRO root Size of i.kym-cdn.com-shallow-20180708-220958-5id4a-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,419 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-220958-5id4a-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,419 ERRO root Size of i.kym-cdn.com-shallow-20180708-220958-5id4a-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,420 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-220958-5id4a-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,420 ERRO root Size of i.kym-cdn.com-shallow-20180708-221033-7h3sk-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,420 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-221033-7h3sk-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,420 ERRO root Size of i.kym-cdn.com-shallow-20180708-221033-7h3sk-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,420 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-221033-7h3sk-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,420 ERRO root Size of i.kym-cdn.com-shallow-20180708-221120-6wk4d-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,420 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-221120-6wk4d-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,420 ERRO root Size of i.kym-cdn.com-shallow-20180708-221120-6wk4d-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,421 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-221120-6wk4d-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,421 ERRO root Size of i.kym-cdn.com-shallow-20180708-221247-apmx0-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,421 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-221247-apmx0-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,421 ERRO root Size of i.kym-cdn.com-shallow-20180708-221247-apmx0-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,421 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-221247-apmx0-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,421 ERRO root Size of i.kym-cdn.com-shallow-20180708-221256-4ckje-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,421 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-221256-4ckje-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,421 ERRO root Size of i.kym-cdn.com-shallow-20180708-221256-4ckje-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,421 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-221256-4ckje-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,421 ERRO root Size of i.kym-cdn.com-shallow-20180708-221519-5s1rq-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,421 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-221519-5s1rq-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,421 ERRO root Size of i.kym-cdn.com-shallow-20180708-221519-5s1rq-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,422 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-221519-5s1rq-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,422 ERRO root Size of i.kym-cdn.com-shallow-20180708-221821-7dixm-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,422 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-221821-7dixm-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,422 ERRO root Size of i.kym-cdn.com-shallow-20180708-221821-7dixm-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,422 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-221821-7dixm-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,422 ERRO root Size of i.kym-cdn.com-shallow-20180708-221909-cpx8z-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,422 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-221909-cpx8z-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,423 ERRO root Size of i.kym-cdn.com-shallow-20180708-221909-cpx8z-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,423 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-221909-cpx8z-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,423 ERRO root Size of i.kym-cdn.com-shallow-20180708-224016-7ra5z-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,423 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-224016-7ra5z-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,423 ERRO root Size of i.kym-cdn.com-shallow-20180708-224016-7ra5z-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,423 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-224016-7ra5z-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,423 ERRO root Size of i.kym-cdn.com-shallow-20180708-224237-dzca0-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,424 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-224237-dzca0-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,424 ERRO root Size of i.kym-cdn.com-shallow-20180708-224237-dzca0-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,424 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-224237-dzca0-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,424 ERRO root Size of i.kym-cdn.com-shallow-20180708-224458-4cgvm-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,424 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-224458-4cgvm-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,424 ERRO root Size of i.kym-cdn.com-shallow-20180708-224458-4cgvm-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,424 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-224458-4cgvm-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,425 ERRO root Size of i.kym-cdn.com-shallow-20180708-224533-ah5wb-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,425 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-224533-ah5wb-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,425 ERRO root Size of i.kym-cdn.com-shallow-20180708-224533-ah5wb-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,425 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-224533-ah5wb-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,425 ERRO root Size of i.kym-cdn.com-shallow-20180708-224620-ufc7i-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,425 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-224620-ufc7i-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,425 ERRO root Size of i.kym-cdn.com-shallow-20180708-224620-ufc7i-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,425 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-224620-ufc7i-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,425 ERRO root Size of i.kym-cdn.com-shallow-20180708-224741-75wnb-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,425 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-224741-75wnb-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,425 ERRO root Size of i.kym-cdn.com-shallow-20180708-224741-75wnb-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,425 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-224741-75wnb-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,426 ERRO root Size of i.kym-cdn.com-shallow-20180708-224806-77lu7-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,426 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-224806-77lu7-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,426 ERRO root Size of i.kym-cdn.com-shallow-20180708-224806-77lu7-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,426 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-224806-77lu7-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,426 ERRO root Size of i.kym-cdn.com-shallow-20180708-224902-d80dy-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,426 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-224902-d80dy-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,426 ERRO root Size of i.kym-cdn.com-shallow-20180708-224902-d80dy-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,426 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-224902-d80dy-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,426 ERRO root Size of i.kym-cdn.com-shallow-20180708-224941-ddn04-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,426 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-224941-ddn04-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,426 ERRO root Size of i.kym-cdn.com-shallow-20180708-224941-ddn04-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,427 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-224941-ddn04-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,427 ERRO root Size of i.kym-cdn.com-shallow-20180708-225023-2mfab-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,427 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-225023-2mfab-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,427 ERRO root Size of i.kym-cdn.com-shallow-20180708-225023-2mfab-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,427 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-225023-2mfab-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,427 ERRO root Size of i.kym-cdn.com-shallow-20180708-225049-40mlq-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,427 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-225049-40mlq-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,427 ERRO root Size of i.kym-cdn.com-shallow-20180708-225049-40mlq-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,427 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-225049-40mlq-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,427 ERRO root Size of i.kym-cdn.com-shallow-20180708-225131-305b8-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,427 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-225131-305b8-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,427 ERRO root Size of i.kym-cdn.com-shallow-20180708-225131-305b8-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,428 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-225131-305b8-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,428 ERRO root Size of i.kym-cdn.com-shallow-20180708-225224-6fu8n-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,428 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-225224-6fu8n-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,428 ERRO root Size of i.kym-cdn.com-shallow-20180708-225224-6fu8n-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,428 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-225224-6fu8n-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,428 ERRO root Size of i.kym-cdn.com-shallow-20180708-225250-513l8-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,428 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-225250-513l8-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,428 ERRO root Size of i.kym-cdn.com-shallow-20180708-225250-513l8-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,429 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-225250-513l8-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,429 ERRO root Size of i.kym-cdn.com-shallow-20180708-225336-c4z7n-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,429 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-225336-c4z7n-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,429 ERRO root Size of i.kym-cdn.com-shallow-20180708-225336-c4z7n-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,429 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-225336-c4z7n-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,429 ERRO root Size of i.kym-cdn.com-shallow-20180708-225403-442zk-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,429 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-225403-442zk-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,429 ERRO root Size of i.kym-cdn.com-shallow-20180708-225403-442zk-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,429 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-225403-442zk-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,429 ERRO root Size of i.kym-cdn.com-shallow-20180708-230153-11tm7-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,429 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-230153-11tm7-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,430 ERRO root Size of i.kym-cdn.com-shallow-20180708-230153-11tm7-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,430 ERRO root Mtime of i.kym-cdn.com-shallow-20180708-230153-11tm7-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,430 ERRO root Size of knowyourmeme.com-shallow-20180708-220409-c2y0g-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,430 ERRO root Mtime of knowyourmeme.com-shallow-20180708-220409-c2y0g-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,430 ERRO root Size of knowyourmeme.com-shallow-20180708-220409-c2y0g-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,430 ERRO root Mtime of knowyourmeme.com-shallow-20180708-220409-c2y0g-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,430 ERRO root Size of knowyourmeme.com-shallow-20180708-220525-e76v9-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,430 ERRO root Mtime of knowyourmeme.com-shallow-20180708-220525-e76v9-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,430 ERRO root Size of knowyourmeme.com-shallow-20180708-220525-e76v9-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,430 ERRO root Mtime of knowyourmeme.com-shallow-20180708-220525-e76v9-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,430 ERRO root Size of knowyourmeme.com-shallow-20180708-220610-2mmyn-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,431 ERRO root Mtime of knowyourmeme.com-shallow-20180708-220610-2mmyn-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,431 ERRO root Size of knowyourmeme.com-shallow-20180708-220610-2mmyn-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,431 ERRO root Mtime of knowyourmeme.com-shallow-20180708-220610-2mmyn-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,431 ERRO root Size of knowyourmeme.com-shallow-20180708-220905-7muuj-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,431 ERRO root Mtime of knowyourmeme.com-shallow-20180708-220905-7muuj-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,431 ERRO root Size of knowyourmeme.com-shallow-20180708-220905-7muuj-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,431 ERRO root Mtime of knowyourmeme.com-shallow-20180708-220905-7muuj-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,431 ERRO root Size of knowyourmeme.com-shallow-20180708-221014-au6or-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,431 ERRO root Mtime of knowyourmeme.com-shallow-20180708-221014-au6or-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,431 ERRO root Size of knowyourmeme.com-shallow-20180708-221014-au6or-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,431 ERRO root Mtime of knowyourmeme.com-shallow-20180708-221014-au6or-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,431 ERRO root Size of knowyourmeme.com-shallow-20180708-221110-cpto6-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,432 ERRO root Mtime of knowyourmeme.com-shallow-20180708-221110-cpto6-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,432 ERRO root Size of knowyourmeme.com-shallow-20180708-221110-cpto6-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,432 ERRO root Mtime of knowyourmeme.com-shallow-20180708-221110-cpto6-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,432 ERRO root Size of knowyourmeme.com-shallow-20180708-221144-22qel-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,432 ERRO root Mtime of knowyourmeme.com-shallow-20180708-221144-22qel-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,432 ERRO root Size of knowyourmeme.com-shallow-20180708-221144-22qel-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,432 ERRO root Mtime of knowyourmeme.com-shallow-20180708-221144-22qel-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,432 ERRO root Size of knowyourmeme.com-shallow-20180708-221411-ehf5d-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,432 ERRO root Mtime of knowyourmeme.com-shallow-20180708-221411-ehf5d-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,432 ERRO root Size of knowyourmeme.com-shallow-20180708-221411-ehf5d-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,432 ERRO root Mtime of knowyourmeme.com-shallow-20180708-221411-ehf5d-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,433 ERRO root Size of knowyourmeme.com-shallow-20180708-221635-eug2f-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,433 ERRO root Mtime of knowyourmeme.com-shallow-20180708-221635-eug2f-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,433 ERRO root Size of knowyourmeme.com-shallow-20180708-221635-eug2f-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,433 ERRO root Mtime of knowyourmeme.com-shallow-20180708-221635-eug2f-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,433 ERRO root Size of knowyourmeme.com-shallow-20180708-221902-9h81j-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,433 ERRO root Mtime of knowyourmeme.com-shallow-20180708-221902-9h81j-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,433 ERRO root Size of knowyourmeme.com-shallow-20180708-221902-9h81j-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,433 ERRO root Mtime of knowyourmeme.com-shallow-20180708-221902-9h81j-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,433 ERRO root Size of knowyourmeme.com-shallow-20180708-221959-3c7vy-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,433 ERRO root Mtime of knowyourmeme.com-shallow-20180708-221959-3c7vy-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,433 ERRO root Size of knowyourmeme.com-shallow-20180708-221959-3c7vy-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,433 ERRO root Mtime of knowyourmeme.com-shallow-20180708-221959-3c7vy-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,434 ERRO root Size of knowyourmeme.com-shallow-20180708-223700-34j3t-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,434 ERRO root Mtime of knowyourmeme.com-shallow-20180708-223700-34j3t-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,434 ERRO root Size of knowyourmeme.com-shallow-20180708-223700-34j3t-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,434 ERRO root Mtime of knowyourmeme.com-shallow-20180708-223700-34j3t-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,434 ERRO root Size of knowyourmeme.com-shallow-20180708-224300-6wxtc-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,434 ERRO root Mtime of knowyourmeme.com-shallow-20180708-224300-6wxtc-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,434 ERRO root Size of knowyourmeme.com-shallow-20180708-224300-6wxtc-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,434 ERRO root Mtime of knowyourmeme.com-shallow-20180708-224300-6wxtc-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,434 ERRO root Size of knowyourmeme.com-shallow-20180708-224423-92ay4-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,434 ERRO root Mtime of knowyourmeme.com-shallow-20180708-224423-92ay4-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,434 ERRO root Size of knowyourmeme.com-shallow-20180708-224423-92ay4-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,435 ERRO root Mtime of knowyourmeme.com-shallow-20180708-224423-92ay4-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,435 ERRO root Size of knowyourmeme.com-shallow-20180708-224523-9gh8t-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,435 ERRO root Mtime of knowyourmeme.com-shallow-20180708-224523-9gh8t-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,435 ERRO root Size of knowyourmeme.com-shallow-20180708-224523-9gh8t-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,435 ERRO root Mtime of knowyourmeme.com-shallow-20180708-224523-9gh8t-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,435 ERRO root Size of knowyourmeme.com-shallow-20180708-224602-89vbv-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,435 ERRO root Mtime of knowyourmeme.com-shallow-20180708-224602-89vbv-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,435 ERRO root Size of knowyourmeme.com-shallow-20180708-224602-89vbv-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,435 ERRO root Mtime of knowyourmeme.com-shallow-20180708-224602-89vbv-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,435 ERRO root Size of knowyourmeme.com-shallow-20180708-224701-9gcup-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,435 ERRO root Mtime of knowyourmeme.com-shallow-20180708-224701-9gcup-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,435 ERRO root Size of knowyourmeme.com-shallow-20180708-224701-9gcup-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,436 ERRO root Mtime of knowyourmeme.com-shallow-20180708-224701-9gcup-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,436 ERRO root Size of knowyourmeme.com-shallow-20180708-224753-6bs5y-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,436 ERRO root Mtime of knowyourmeme.com-shallow-20180708-224753-6bs5y-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,436 ERRO root Size of knowyourmeme.com-shallow-20180708-224753-6bs5y-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,436 ERRO root Mtime of knowyourmeme.com-shallow-20180708-224753-6bs5y-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,436 ERRO root Size of knowyourmeme.com-shallow-20180708-224820-4ofp9-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,436 ERRO root Mtime of knowyourmeme.com-shallow-20180708-224820-4ofp9-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,436 ERRO root Size of knowyourmeme.com-shallow-20180708-224820-4ofp9-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,436 ERRO root Mtime of knowyourmeme.com-shallow-20180708-224820-4ofp9-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,436 ERRO root Size of knowyourmeme.com-shallow-20180708-224916-69wr8-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,436 ERRO root Mtime of knowyourmeme.com-shallow-20180708-224916-69wr8-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,437 ERRO root Size of knowyourmeme.com-shallow-20180708-224916-69wr8-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,437 ERRO root Mtime of knowyourmeme.com-shallow-20180708-224916-69wr8-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,437 ERRO root Size of knowyourmeme.com-shallow-20180708-224954-co7ce-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,437 ERRO root Mtime of knowyourmeme.com-shallow-20180708-224954-co7ce-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,437 ERRO root Size of knowyourmeme.com-shallow-20180708-224954-co7ce-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,437 ERRO root Mtime of knowyourmeme.com-shallow-20180708-224954-co7ce-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,437 ERRO root Size of knowyourmeme.com-shallow-20180708-225036-9ddsv-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,437 ERRO root Mtime of knowyourmeme.com-shallow-20180708-225036-9ddsv-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,437 ERRO root Size of knowyourmeme.com-shallow-20180708-225036-9ddsv-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,437 ERRO root Mtime of knowyourmeme.com-shallow-20180708-225036-9ddsv-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,437 ERRO root Size of knowyourmeme.com-shallow-20180708-225104-2obcz-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,438 ERRO root Mtime of knowyourmeme.com-shallow-20180708-225104-2obcz-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,438 ERRO root Size of knowyourmeme.com-shallow-20180708-225104-2obcz-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,438 ERRO root Mtime of knowyourmeme.com-shallow-20180708-225104-2obcz-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,438 ERRO root Size of knowyourmeme.com-shallow-20180708-225145-4d1a1-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,438 ERRO root Mtime of knowyourmeme.com-shallow-20180708-225145-4d1a1-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,438 ERRO root Size of knowyourmeme.com-shallow-20180708-225145-4d1a1-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,438 ERRO root Mtime of knowyourmeme.com-shallow-20180708-225145-4d1a1-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,438 ERRO root Size of knowyourmeme.com-shallow-20180708-225237-8vc1d-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,438 ERRO root Mtime of knowyourmeme.com-shallow-20180708-225237-8vc1d-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,438 ERRO root Size of knowyourmeme.com-shallow-20180708-225237-8vc1d-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,439 ERRO root Mtime of knowyourmeme.com-shallow-20180708-225237-8vc1d-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,439 ERRO root Size of knowyourmeme.com-shallow-20180708-225304-3g7f9-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,439 ERRO root Mtime of knowyourmeme.com-shallow-20180708-225304-3g7f9-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,439 ERRO root Size of knowyourmeme.com-shallow-20180708-225304-3g7f9-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,439 ERRO root Mtime of knowyourmeme.com-shallow-20180708-225304-3g7f9-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,439 ERRO root Size of knowyourmeme.com-shallow-20180708-225350-6z0xt-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,439 ERRO root Mtime of knowyourmeme.com-shallow-20180708-225350-6z0xt-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,439 ERRO root Size of knowyourmeme.com-shallow-20180708-225350-6z0xt-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,439 ERRO root Mtime of knowyourmeme.com-shallow-20180708-225350-6z0xt-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,439 ERRO root Size of knowyourmeme.com-shallow-20180708-225419-db2i2-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,439 ERRO root Mtime of knowyourmeme.com-shallow-20180708-225419-db2i2-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,440 ERRO root Size of knowyourmeme.com-shallow-20180708-225419-db2i2-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,440 ERRO root Mtime of knowyourmeme.com-shallow-20180708-225419-db2i2-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,440 ERRO root Size of roosterteeth.com-inf-20180413-052749-101om-00202.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,440 ERRO root Mtime of roosterteeth.com-inf-20180413-052749-101om-00202.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,440 ERRO root Size of roosterteeth.com-inf-20180414-005903-5r2x0-00154.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,440 ERRO root Mtime of roosterteeth.com-inf-20180414-005903-5r2x0-00154.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,440 ERRO root Size of rrrola.wz.cz-shallow-20180709-042150-2ewaj-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,440 ERRO root Mtime of rrrola.wz.cz-shallow-20180709-042150-2ewaj-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,440 ERRO root Size of theconversation.com-shallow-20180709-072919-az0do-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,440 ERRO root Mtime of theconversation.com-shallow-20180709-072919-az0do-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,441 ERRO root Size of urls-gist.githubusercontent.com-gistfile1.txt-shallow-20180709-032636-autu6-aborted-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,441 ERRO root Mtime of urls-gist.githubusercontent.com-gistfile1.txt-shallow-20180709-032636-autu6-aborted-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,441 ERRO root Size of urls-gist.githubusercontent.com-gistfile1.txt-shallow-20180709-032742-autu6-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,441 ERRO root Mtime of urls-gist.githubusercontent.com-gistfile1.txt-shallow-20180709-032742-autu6-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,441 ERRO root Size of urls-pastebin.com-R41bZmVS-shallow-20180709-000619-8jfe7-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,441 ERRO root Mtime of urls-pastebin.com-R41bZmVS-shallow-20180709-000619-8jfe7-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,441 ERRO root Size of urls-pastebin.com-R41bZmVS-shallow-20180709-000619-8jfe7-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,441 ERRO root Mtime of urls-pastebin.com-R41bZmVS-shallow-20180709-000619-8jfe7-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,441 ERRO root Size of urls-pastebin.com-TsRSf7PA-inf-20180105-103151-a5l5n-00191.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,441 ERRO root Mtime of urls-pastebin.com-TsRSf7PA-inf-20180105-103151-a5l5n-00191.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,441 ERRO root Size of urls-transfer.sh-community.bellmts.ca-sitemap-urls-fixed-shallow-20180708-210538-1nzap-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,441 ERRO root Mtime of urls-transfer.sh-community.bellmts.ca-sitemap-urls-fixed-shallow-20180708-210538-1nzap-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,442 ERRO root Size of urls-transfer.sh-community.bellmts.ca-sitemap-urls-fixed-shallow-20180708-210538-1nzap-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,442 ERRO root Mtime of urls-transfer.sh-community.bellmts.ca-sitemap-urls-fixed-shallow-20180708-210538-1nzap-meta.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,442 ERRO root Size of variety.com-shallow-20180709-043156-bu7lk-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,442 ERRO root Mtime of variety.com-shallow-20180709-043156-bu7lk-00000.warc.os.cdx.gz is missing
+2018-07-10 00:00:03,618 INFO root Processing item archiveteam_archivebot_go_20180709190001
+2018-07-10 00:00:03,619 INFO root Skipping archiveteam_archivebot_go_20180709190001_archive.torrent
+2018-07-10 00:00:03,619 INFO root Skipping archiveteam_archivebot_go_20180709190001_files.xml
+2018-07-10 00:00:03,619 INFO root Skipping archiveteam_archivebot_go_20180709190001_meta.sqlite
+2018-07-10 00:00:03,619 INFO root Skipping archiveteam_archivebot_go_20180709190001_meta.xml
+2018-07-10 00:00:04,277 INFO root Processing item astrid_archivebot_demokrasi78_com_20180709
+2018-07-10 00:00:04,277 INFO root Skipping astrid_archivebot_demokrasi78_com_20180709.cdx.idx
+2018-07-10 00:00:04,277 INFO root Skipping astrid_archivebot_demokrasi78_com_20180709_archive.torrent
+2018-07-10 00:00:04,277 INFO root Skipping astrid_archivebot_demokrasi78_com_20180709_files.xml
+2018-07-10 00:00:04,277 INFO root Skipping astrid_archivebot_demokrasi78_com_20180709_meta.sqlite
+2018-07-10 00:00:04,278 INFO root Skipping astrid_archivebot_demokrasi78_com_20180709_meta.xml
+2018-07-10 00:00:04,504 INFO root Processing item astrid_archivebot_nixontapes_org_20180708
+2018-07-10 00:00:04,504 INFO root Skipping astrid_archivebot_nixontapes_org_20180708.cdx.idx
+2018-07-10 00:00:04,504 INFO root Skipping astrid_archivebot_nixontapes_org_20180708_archive.torrent
+2018-07-10 00:00:04,504 INFO root Skipping astrid_archivebot_nixontapes_org_20180708_files.xml
+2018-07-10 00:00:04,505 INFO root Skipping astrid_archivebot_nixontapes_org_20180708_meta.sqlite
+2018-07-10 00:00:04,505 INFO root Skipping astrid_archivebot_nixontapes_org_20180708_meta.xml
+2018-07-10 00:00:04,819 INFO root Processing item astrid_archivebot_theranchsmokehouseandgrille_com_20180709
+2018-07-10 00:00:04,820 INFO root Skipping astrid_archivebot_theranchsmokehouseandgrille_com_20180709.cdx.idx
+2018-07-10 00:00:04,820 INFO root Skipping astrid_archivebot_theranchsmokehouseandgrille_com_20180709_archive.torrent
+2018-07-10 00:00:04,820 INFO root Skipping astrid_archivebot_theranchsmokehouseandgrille_com_20180709_files.xml
+2018-07-10 00:00:04,820 INFO root Skipping astrid_archivebot_theranchsmokehouseandgrille_com_20180709_meta.sqlite
+2018-07-10 00:00:04,820 INFO root Skipping astrid_archivebot_theranchsmokehouseandgrille_com_20180709_meta.xml
+2018-07-10 00:00:04,821 INFO root Writing last-update file
+2018-07-10 00:00:04,821 INFO root Done
