@@ -1,91 +1,23 @@
-2018-07-11 12:00:01,448 DEBU root Last attempt: 2018-07-11T06:00:01Z
-2018-07-11 12:00:01,449 DEBU root Last success: 2018-07-11T06:00:01Z
-2018-07-11 12:00:01,449 INFO root Writing last-update file
-2018-07-11 12:00:01,449 INFO root Query: 'collection:archivebot oai_updatedate:[2018-07-11T06:00:01Z TO null]'
-2018-07-11 12:00:03,367 INFO root Processing item archiveteam_archivebot_go_20180711010001
-2018-07-11 12:00:03,367 INFO root Skipping archiveteam_archivebot_go_20180711010001_archive.torrent
-2018-07-11 12:00:03,367 INFO root Skipping archiveteam_archivebot_go_20180711010001_files.xml
-2018-07-11 12:00:03,367 INFO root Skipping archiveteam_archivebot_go_20180711010001_meta.sqlite
-2018-07-11 12:00:03,367 INFO root Skipping archiveteam_archivebot_go_20180711010001_meta.xml
-2018-07-11 12:00:03,367 ERRO root Size of board.eu.runesofmagic.gameforge.com-inf-20180710-141007-40p4c-00000.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,367 ERRO root Mtime of board.eu.runesofmagic.gameforge.com-inf-20180710-141007-40p4c-00000.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,368 ERRO root Size of board.eu.runesofmagic.gameforge.com-inf-20180710-141007-40p4c-00002.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,368 ERRO root Mtime of board.eu.runesofmagic.gameforge.com-inf-20180710-141007-40p4c-00002.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,368 ERRO root Size of board.eu.runesofmagic.gameforge.com-inf-20180710-141007-40p4c-00003.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,368 ERRO root Mtime of board.eu.runesofmagic.gameforge.com-inf-20180710-141007-40p4c-00003.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,368 ERRO root Size of favstar.fm-inf-20180526-151959-128cr-00014.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,368 ERRO root Mtime of favstar.fm-inf-20180526-151959-128cr-00014.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,368 ERRO root Size of firepig.tartarus.feralhosting.com-inf-20180628-030152-4y59e-00019.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,368 ERRO root Mtime of firepig.tartarus.feralhosting.com-inf-20180628-030152-4y59e-00019.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,368 ERRO root Size of forum.bodybuilding.com-inf-20180525-005751-dl5zr-00013.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,368 ERRO root Mtime of forum.bodybuilding.com-inf-20180525-005751-dl5zr-00013.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,368 ERRO root Size of geekhack.org-inf-20180703-132606-2cmx5-00058.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,369 ERRO root Mtime of geekhack.org-inf-20180703-132606-2cmx5-00058.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,369 ERRO root Size of github.com-inf-20180602-234152-51lhc-00019.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,369 ERRO root Mtime of github.com-inf-20180602-234152-51lhc-00019.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,369 ERRO root Size of gnusocial.no-inf-20180619-225833-6sike-00069.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,369 ERRO root Mtime of gnusocial.no-inf-20180619-225833-6sike-00069.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,369 ERRO root Size of hydrogenaud.io-inf-20180520-180521-a76e9-00024.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,369 ERRO root Mtime of hydrogenaud.io-inf-20180520-180521-a76e9-00024.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,369 ERRO root Size of hydrogenaud.io-inf-20180520-180521-a76e9-meta.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,369 ERRO root Mtime of hydrogenaud.io-inf-20180520-180521-a76e9-meta.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,369 ERRO root Size of nymag.com-shallow-20180711-000821-1zbob-00000.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,369 ERRO root Mtime of nymag.com-shallow-20180711-000821-1zbob-00000.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,370 ERRO root Size of old.reddit.com-inf-20180710-010229-2k0tk-00000.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,370 ERRO root Mtime of old.reddit.com-inf-20180710-010229-2k0tk-00000.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,370 ERRO root Size of old.reddit.com-inf-20180710-010229-2k0tk-00001.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,370 ERRO root Mtime of old.reddit.com-inf-20180710-010229-2k0tk-00001.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,370 ERRO root Size of old.reddit.com-inf-20180710-010229-2k0tk-meta.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,370 ERRO root Mtime of old.reddit.com-inf-20180710-010229-2k0tk-meta.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,370 ERRO root Size of old.reddit.com-inf-20180710-214006-d18gz-00000.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,370 ERRO root Mtime of old.reddit.com-inf-20180710-214006-d18gz-00000.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,371 ERRO root Size of reddit.com-inf-20180710-214758-9bx0s-aborted-00000.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,371 ERRO root Mtime of reddit.com-inf-20180710-214758-9bx0s-aborted-00000.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,371 ERRO root Size of storify.com-inf-20180102-161517-3nozf-00192.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,371 ERRO root Mtime of storify.com-inf-20180102-161517-3nozf-00192.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,371 ERRO root Size of tb.rg-adguard.net-inf-20180710-151438-a3kpo-00000.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,371 ERRO root Mtime of tb.rg-adguard.net-inf-20180710-151438-a3kpo-00000.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,371 ERRO root Size of tb.rg-adguard.net-inf-20180710-151438-a3kpo-meta.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,371 ERRO root Mtime of tb.rg-adguard.net-inf-20180710-151438-a3kpo-meta.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,371 ERRO root Size of thebengalsboard.com-inf-20180709-135541-ihzcd-00008.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,371 ERRO root Mtime of thebengalsboard.com-inf-20180709-135541-ihzcd-00008.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,371 ERRO root Size of thebengalsboard.com-inf-20180709-135541-ihzcd-00009.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,371 ERRO root Mtime of thebengalsboard.com-inf-20180709-135541-ihzcd-00009.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,372 ERRO root Size of urls-pastebin.com-yF0uDugZ-inf-20180710-050133-4h9yo-00000.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,372 ERRO root Mtime of urls-pastebin.com-yF0uDugZ-inf-20180710-050133-4h9yo-00000.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,372 ERRO root Size of urls-pastebin.com-yF0uDugZ-inf-20180710-050133-4h9yo-00001.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,372 ERRO root Mtime of urls-pastebin.com-yF0uDugZ-inf-20180710-050133-4h9yo-00001.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,372 ERRO root Size of urls-transfer.sh-borisjohnson-facebook-posts-shallow-20180710-104226-4dfly-00000.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,372 ERRO root Mtime of urls-transfer.sh-borisjohnson-facebook-posts-shallow-20180710-104226-4dfly-00000.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,372 ERRO root Size of urls-transfer.sh-borisjohnson-facebook-posts-shallow-20180710-104226-4dfly-meta.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,372 ERRO root Mtime of urls-transfer.sh-borisjohnson-facebook-posts-shallow-20180710-104226-4dfly-meta.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,372 ERRO root Size of us.vclart.net-inf-20180708-153557-aodwo-00005.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,372 ERRO root Mtime of us.vclart.net-inf-20180708-153557-aodwo-00005.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,372 ERRO root Size of us.vclart.net-inf-20180708-153557-aodwo-meta.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,373 ERRO root Mtime of us.vclart.net-inf-20180708-153557-aodwo-meta.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,373 ERRO root Size of www.bookwitty.com-inf-20180624-212235-9f8s9-00008.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,373 ERRO root Mtime of www.bookwitty.com-inf-20180624-212235-9f8s9-00008.warc.os.cdx.gz is missing
-2018-07-11 12:00:03,512 INFO root Processing item archiveteam_archivebot_go_20180711080003
-2018-07-11 12:00:03,513 INFO root Skipping archiveteam_archivebot_go_20180711080003_files.xml
-2018-07-11 12:00:03,513 INFO root Skipping archiveteam_archivebot_go_20180711080003_meta.sqlite
-2018-07-11 12:00:03,513 INFO root Skipping archiveteam_archivebot_go_20180711080003_meta.xml
-2018-07-11 12:00:03,769 INFO root Processing item astrid_archivebot_www_cgd_pt_20180710
-2018-07-11 12:00:03,769 INFO root Skipping astrid_archivebot_www_cgd_pt_20180710.cdx.idx
-2018-07-11 12:00:03,769 INFO root Skipping astrid_archivebot_www_cgd_pt_20180710_archive.torrent
-2018-07-11 12:00:03,769 INFO root Skipping astrid_archivebot_www_cgd_pt_20180710_files.xml
-2018-07-11 12:00:03,769 INFO root Skipping astrid_archivebot_www_cgd_pt_20180710_meta.sqlite
-2018-07-11 12:00:03,770 INFO root Skipping astrid_archivebot_www_cgd_pt_20180710_meta.xml
-2018-07-11 12:00:03,931 INFO root Processing item astrid_archivebot_www_ghostery_com_20180710
-2018-07-11 12:00:03,932 INFO root Skipping astrid_archivebot_www_ghostery_com_20180710.cdx.idx
-2018-07-11 12:00:03,932 INFO root Skipping astrid_archivebot_www_ghostery_com_20180710_archive.torrent
-2018-07-11 12:00:03,932 INFO root Skipping astrid_archivebot_www_ghostery_com_20180710_files.xml
-2018-07-11 12:00:03,933 INFO root Skipping astrid_archivebot_www_ghostery_com_20180710_meta.sqlite
-2018-07-11 12:00:03,933 INFO root Skipping astrid_archivebot_www_ghostery_com_20180710_meta.xml
-2018-07-11 12:00:04,038 INFO root Processing item astrid_archivebot_www_xt660_com_20180708
-2018-07-11 12:00:04,038 INFO root Skipping astrid_archivebot_www_xt660_com_20180708.cdx.idx
-2018-07-11 12:00:04,038 INFO root Skipping astrid_archivebot_www_xt660_com_20180708_archive.torrent
-2018-07-11 12:00:04,038 INFO root Skipping astrid_archivebot_www_xt660_com_20180708_files.xml
-2018-07-11 12:00:04,038 INFO root Skipping astrid_archivebot_www_xt660_com_20180708_meta.sqlite
-2018-07-11 12:00:04,039 INFO root Skipping astrid_archivebot_www_xt660_com_20180708_meta.xml
-2018-07-11 12:00:04,039 INFO root Writing last-update file
-2018-07-11 12:00:04,040 INFO root Done
+2018-07-11 18:00:01,486 DEBU root Last attempt: 2018-07-11T12:00:01Z
+2018-07-11 18:00:01,486 DEBU root Last success: 2018-07-11T12:00:01Z
+2018-07-11 18:00:01,486 INFO root Writing last-update file
+2018-07-11 18:00:01,487 INFO root Query: 'collection:archivebot oai_updatedate:[2018-07-11T12:00:01Z TO null]'
+2018-07-11 18:00:03,223 INFO root Processing item archiveteam_archivebot_go_20180711010001
+2018-07-11 18:00:03,224 INFO root Skipping archiveteam_archivebot_go_20180711010001.cdx.idx
+2018-07-11 18:00:03,224 INFO root Skipping archiveteam_archivebot_go_20180711010001_archive.torrent
+2018-07-11 18:00:03,224 INFO root Skipping archiveteam_archivebot_go_20180711010001_files.xml
+2018-07-11 18:00:03,224 INFO root Skipping archiveteam_archivebot_go_20180711010001_meta.sqlite
+2018-07-11 18:00:03,224 INFO root Skipping archiveteam_archivebot_go_20180711010001_meta.xml
+2018-07-11 18:00:03,581 INFO root Processing item archiveteam_archivebot_go_20180711080003
+2018-07-11 18:00:03,581 INFO root Skipping archiveteam_archivebot_go_20180711080003.cdx.idx
+2018-07-11 18:00:03,581 INFO root Skipping archiveteam_archivebot_go_20180711080003_archive.torrent
+2018-07-11 18:00:03,581 INFO root Skipping archiveteam_archivebot_go_20180711080003_files.xml
+2018-07-11 18:00:03,581 INFO root Skipping archiveteam_archivebot_go_20180711080003_meta.sqlite
+2018-07-11 18:00:03,581 INFO root Skipping archiveteam_archivebot_go_20180711080003_meta.xml
+2018-07-11 18:00:03,687 INFO root Processing item archiveteam_archivebot_go_20180711130001
+2018-07-11 18:00:03,687 INFO root Skipping archiveteam_archivebot_go_20180711130001_archive.torrent
+2018-07-11 18:00:03,687 INFO root Skipping archiveteam_archivebot_go_20180711130001_files.xml
+2018-07-11 18:00:03,687 INFO root Skipping archiveteam_archivebot_go_20180711130001_meta.sqlite
+2018-07-11 18:00:03,687 INFO root Skipping archiveteam_archivebot_go_20180711130001_meta.xml
+2018-07-11 18:00:03,688 INFO root Writing last-update file
+2018-07-11 18:00:03,689 INFO root Done
