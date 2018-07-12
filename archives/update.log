@@ -1,29 +1,54 @@
-2018-07-12 06:00:01,753 DEBU root Last attempt: 2018-07-12T00:00:01Z
-2018-07-12 06:00:01,754 DEBU root Last success: 2018-07-12T00:00:01Z
-2018-07-12 06:00:01,754 INFO root Writing last-update file
-2018-07-12 06:00:01,754 INFO root Query: 'collection:archivebot oai_updatedate:[2018-07-12T00:00:01Z TO null]'
-2018-07-12 06:00:03,059 INFO root Processing item archiveteam_archivebot_go_20180711190002
-2018-07-12 06:00:03,059 INFO root Skipping archiveteam_archivebot_go_20180711190002.cdx.idx
-2018-07-12 06:00:03,059 INFO root Skipping archiveteam_archivebot_go_20180711190002_archive.torrent
-2018-07-12 06:00:03,059 INFO root Skipping archiveteam_archivebot_go_20180711190002_files.xml
-2018-07-12 06:00:03,059 INFO root Skipping archiveteam_archivebot_go_20180711190002_meta.sqlite
-2018-07-12 06:00:03,060 INFO root Skipping archiveteam_archivebot_go_20180711190002_meta.xml
-2018-07-12 06:00:03,301 INFO root Processing item archiveteam_archivebot_go_20180712030001
-2018-07-12 06:00:03,302 INFO root Skipping archiveteam_archivebot_go_20180712030001_archive.torrent
-2018-07-12 06:00:03,302 INFO root Skipping archiveteam_archivebot_go_20180712030001_files.xml
-2018-07-12 06:00:03,302 INFO root Skipping archiveteam_archivebot_go_20180712030001_meta.sqlite
-2018-07-12 06:00:03,302 INFO root Skipping archiveteam_archivebot_go_20180712030001_meta.xml
-2018-07-12 06:00:03,916 INFO root Processing item astrid_archivebot_bazaar_tf_20180710
-2018-07-12 06:00:03,916 INFO root Skipping astrid_archivebot_bazaar_tf_20180710.cdx.idx
-2018-07-12 06:00:03,917 INFO root Skipping astrid_archivebot_bazaar_tf_20180710_archive.torrent
-2018-07-12 06:00:03,917 INFO root Skipping astrid_archivebot_bazaar_tf_20180710_files.xml
-2018-07-12 06:00:03,917 INFO root Skipping astrid_archivebot_bazaar_tf_20180710_meta.sqlite
-2018-07-12 06:00:03,917 INFO root Skipping astrid_archivebot_bazaar_tf_20180710_meta.xml
-2018-07-12 06:00:04,083 INFO root Processing item astrid_archivebot_www_xt660_com_20180708
-2018-07-12 06:00:04,084 INFO root Skipping astrid_archivebot_www_xt660_com_20180708.cdx.idx
-2018-07-12 06:00:04,084 INFO root Skipping astrid_archivebot_www_xt660_com_20180708_archive.torrent
-2018-07-12 06:00:04,084 INFO root Skipping astrid_archivebot_www_xt660_com_20180708_files.xml
-2018-07-12 06:00:04,084 INFO root Skipping astrid_archivebot_www_xt660_com_20180708_meta.sqlite
-2018-07-12 06:00:04,084 INFO root Skipping astrid_archivebot_www_xt660_com_20180708_meta.xml
-2018-07-12 06:00:04,085 INFO root Writing last-update file
-2018-07-12 06:00:04,085 INFO root Done
+2018-07-12 12:00:02,033 DEBU root Last attempt: 2018-07-12T06:00:01Z
+2018-07-12 12:00:02,034 DEBU root Last success: 2018-07-12T06:00:01Z
+2018-07-12 12:00:02,034 INFO root Writing last-update file
+2018-07-12 12:00:02,035 INFO root Query: 'collection:archivebot oai_updatedate:[2018-07-12T06:00:01Z TO null]'
+2018-07-12 12:00:04,713 INFO root Processing item archiveteam_archivebot_go_20180712030001
+2018-07-12 12:00:04,714 INFO root Skipping archiveteam_archivebot_go_20180712030001_archive.torrent
+2018-07-12 12:00:04,714 INFO root Skipping archiveteam_archivebot_go_20180712030001_files.xml
+2018-07-12 12:00:04,714 INFO root Skipping archiveteam_archivebot_go_20180712030001_meta.sqlite
+2018-07-12 12:00:04,714 INFO root Skipping archiveteam_archivebot_go_20180712030001_meta.xml
+2018-07-12 12:00:04,714 ERRO root Size of board.eu.runesofmagic.gameforge.com-inf-20180710-141007-40p4c-00009.warc.os.cdx.gz is missing
+2018-07-12 12:00:04,714 ERRO root Mtime of board.eu.runesofmagic.gameforge.com-inf-20180710-141007-40p4c-00009.warc.os.cdx.gz is missing
+2018-07-12 12:00:04,714 ERRO root Size of digg.com-shallow-20180712-014059-axr79-00000.warc.os.cdx.gz is missing
+2018-07-12 12:00:04,714 ERRO root Mtime of digg.com-shallow-20180712-014059-axr79-00000.warc.os.cdx.gz is missing
+2018-07-12 12:00:04,714 ERRO root Size of digg.com-shallow-20180712-014059-axr79-meta.warc.os.cdx.gz is missing
+2018-07-12 12:00:04,715 ERRO root Mtime of digg.com-shallow-20180712-014059-axr79-meta.warc.os.cdx.gz is missing
+2018-07-12 12:00:04,715 ERRO root Size of geekhack.org-inf-20180703-132606-2cmx5-00063.warc.os.cdx.gz is missing
+2018-07-12 12:00:04,715 ERRO root Mtime of geekhack.org-inf-20180703-132606-2cmx5-00063.warc.os.cdx.gz is missing
+2018-07-12 12:00:04,715 ERRO root Size of gnusocial.no-inf-20180619-225833-6sike-00071.warc.os.cdx.gz is missing
+2018-07-12 12:00:04,715 ERRO root Mtime of gnusocial.no-inf-20180619-225833-6sike-00071.warc.os.cdx.gz is missing
+2018-07-12 12:00:04,715 ERRO root Size of kiwis.world-inf-20180711-131551-ewbqz-00000.warc.os.cdx.gz is missing
+2018-07-12 12:00:04,715 ERRO root Mtime of kiwis.world-inf-20180711-131551-ewbqz-00000.warc.os.cdx.gz is missing
+2018-07-12 12:00:04,715 ERRO root Size of roosterteeth.com-inf-20180413-052749-101om-00205.warc.os.cdx.gz is missing
+2018-07-12 12:00:04,715 ERRO root Mtime of roosterteeth.com-inf-20180413-052749-101om-00205.warc.os.cdx.gz is missing
+2018-07-12 12:00:04,715 ERRO root Size of triptohell.info-inf-20180712-021154-6ei8d-00000.warc.os.cdx.gz is missing
+2018-07-12 12:00:04,715 ERRO root Mtime of triptohell.info-inf-20180712-021154-6ei8d-00000.warc.os.cdx.gz is missing
+2018-07-12 12:00:04,715 ERRO root Size of www.cs.cmu.edu-shallow-20180712-002950-3274z-00000.warc.os.cdx.gz is missing
+2018-07-12 12:00:04,716 ERRO root Mtime of www.cs.cmu.edu-shallow-20180712-002950-3274z-00000.warc.os.cdx.gz is missing
+2018-07-12 12:00:04,716 ERRO root Size of www.cs.cmu.edu-shallow-20180712-002950-3274z-meta.warc.os.cdx.gz is missing
+2018-07-12 12:00:04,716 ERRO root Mtime of www.cs.cmu.edu-shallow-20180712-002950-3274z-meta.warc.os.cdx.gz is missing
+2018-07-12 12:00:04,716 ERRO root Size of www.emotioneric.com-inf-20180712-005943-2yf07-00000.warc.os.cdx.gz is missing
+2018-07-12 12:00:04,716 ERRO root Mtime of www.emotioneric.com-inf-20180712-005943-2yf07-00000.warc.os.cdx.gz is missing
+2018-07-12 12:00:04,716 ERRO root Size of www.emotioneric.com-inf-20180712-005943-2yf07-meta.warc.os.cdx.gz is missing
+2018-07-12 12:00:04,716 ERRO root Mtime of www.emotioneric.com-inf-20180712-005943-2yf07-meta.warc.os.cdx.gz is missing
+2018-07-12 12:00:04,716 ERRO root Size of www.quaddicted.com-inf-20180711-094520-3vgx9-00007.warc.os.cdx.gz is missing
+2018-07-12 12:00:04,716 ERRO root Mtime of www.quaddicted.com-inf-20180711-094520-3vgx9-00007.warc.os.cdx.gz is missing
+2018-07-12 12:00:04,961 INFO root Processing item archiveteam_archivebot_go_20180712080001
+2018-07-12 12:00:04,963 INFO root Skipping archiveteam_archivebot_go_20180712080001_archive.torrent
+2018-07-12 12:00:04,963 INFO root Skipping archiveteam_archivebot_go_20180712080001_files.xml
+2018-07-12 12:00:04,963 INFO root Skipping archiveteam_archivebot_go_20180712080001_meta.sqlite
+2018-07-12 12:00:04,963 INFO root Skipping archiveteam_archivebot_go_20180712080001_meta.xml
+2018-07-12 12:00:05,860 INFO root Processing item astrid_archivebot_www_reddit_com_20180711
+2018-07-12 12:00:05,860 INFO root Skipping astrid_archivebot_www_reddit_com_20180711.cdx.idx
+2018-07-12 12:00:05,860 INFO root Skipping astrid_archivebot_www_reddit_com_20180711_archive.torrent
+2018-07-12 12:00:05,861 INFO root Skipping astrid_archivebot_www_reddit_com_20180711_files.xml
+2018-07-12 12:00:05,861 INFO root Skipping astrid_archivebot_www_reddit_com_20180711_meta.sqlite
+2018-07-12 12:00:05,861 INFO root Skipping astrid_archivebot_www_reddit_com_20180711_meta.xml
+2018-07-12 12:00:06,593 INFO root Processing item astrid_archivebot_www_xt660_com_20180708
+2018-07-12 12:00:06,594 INFO root Skipping astrid_archivebot_www_xt660_com_20180708.cdx.idx
+2018-07-12 12:00:06,594 INFO root Skipping astrid_archivebot_www_xt660_com_20180708_archive.torrent
+2018-07-12 12:00:06,594 INFO root Skipping astrid_archivebot_www_xt660_com_20180708_files.xml
+2018-07-12 12:00:06,594 INFO root Skipping astrid_archivebot_www_xt660_com_20180708_meta.sqlite
+2018-07-12 12:00:06,594 INFO root Skipping astrid_archivebot_www_xt660_com_20180708_meta.xml
+2018-07-12 12:00:06,595 INFO root Writing last-update file
+2018-07-12 12:00:06,595 INFO root Done
