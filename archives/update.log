@@ -1,23 +1,144 @@
-2018-07-15 12:00:02,070 DEBU root Last attempt: 2018-07-15T06:00:02Z
-2018-07-15 12:00:02,071 DEBU root Last success: 2018-07-15T06:00:02Z
-2018-07-15 12:00:02,071 INFO root Writing last-update file
-2018-07-15 12:00:02,071 INFO root Query: 'collection:archivebot oai_updatedate:[2018-07-15T06:00:02Z TO null]'
-2018-07-15 12:00:03,109 INFO root Processing item archiveteam_archivebot_go_20180714230001
-2018-07-15 12:00:03,110 INFO root Skipping archiveteam_archivebot_go_20180714230001.cdx.idx
-2018-07-15 12:00:03,110 INFO root Skipping archiveteam_archivebot_go_20180714230001_archive.torrent
-2018-07-15 12:00:03,110 INFO root Skipping archiveteam_archivebot_go_20180714230001_files.xml
-2018-07-15 12:00:03,110 INFO root Skipping archiveteam_archivebot_go_20180714230001_meta.sqlite
-2018-07-15 12:00:03,110 INFO root Skipping archiveteam_archivebot_go_20180714230001_meta.xml
-2018-07-15 12:00:03,265 INFO root Processing item archiveteam_archivebot_go_20180715070001
-2018-07-15 12:00:03,265 INFO root Skipping archiveteam_archivebot_go_20180715070001_archive.torrent
-2018-07-15 12:00:03,266 INFO root Skipping archiveteam_archivebot_go_20180715070001_files.xml
-2018-07-15 12:00:03,266 INFO root Skipping archiveteam_archivebot_go_20180715070001_meta.sqlite
-2018-07-15 12:00:03,266 INFO root Skipping archiveteam_archivebot_go_20180715070001_meta.xml
-2018-07-15 12:00:03,379 INFO root Processing item astrid_archivebot_tindeck_com_20180712
-2018-07-15 12:00:03,379 INFO root Skipping astrid_archivebot_tindeck_com_20180712.cdx.idx
-2018-07-15 12:00:03,380 INFO root Skipping astrid_archivebot_tindeck_com_20180712_archive.torrent
-2018-07-15 12:00:03,380 INFO root Skipping astrid_archivebot_tindeck_com_20180712_files.xml
-2018-07-15 12:00:03,380 INFO root Skipping astrid_archivebot_tindeck_com_20180712_meta.sqlite
-2018-07-15 12:00:03,380 INFO root Skipping astrid_archivebot_tindeck_com_20180712_meta.xml
-2018-07-15 12:00:03,382 INFO root Writing last-update file
-2018-07-15 12:00:03,382 INFO root Done
+2018-07-15 18:00:01,444 DEBU root Last attempt: 2018-07-15T12:00:02Z
+2018-07-15 18:00:01,444 DEBU root Last success: 2018-07-15T12:00:02Z
+2018-07-15 18:00:01,444 INFO root Writing last-update file
+2018-07-15 18:00:01,445 INFO root Query: 'collection:archivebot oai_updatedate:[2018-07-15T12:00:02Z TO null]'
+2018-07-15 18:00:02,703 INFO root Processing item archiveteam_archivebot_go_20180715070001
+2018-07-15 18:00:02,703 ERRO root Size of archiveofourown.org-shallow-20180715-002133-9mkrf-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,703 ERRO root Mtime of archiveofourown.org-shallow-20180715-002133-9mkrf-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,704 ERRO root Size of archiveofourown.org-shallow-20180715-002133-9mkrf-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,704 ERRO root Mtime of archiveofourown.org-shallow-20180715-002133-9mkrf-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,704 INFO root Skipping archiveteam_archivebot_go_20180715070001_archive.torrent
+2018-07-15 18:00:02,704 INFO root Skipping archiveteam_archivebot_go_20180715070001_files.xml
+2018-07-15 18:00:02,704 INFO root Skipping archiveteam_archivebot_go_20180715070001_meta.sqlite
+2018-07-15 18:00:02,704 INFO root Skipping archiveteam_archivebot_go_20180715070001_meta.xml
+2018-07-15 18:00:02,704 ERRO root Size of bermtoerist.org-inf-20180714-184734-31oxg-00001.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,704 ERRO root Mtime of bermtoerist.org-inf-20180714-184734-31oxg-00001.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,705 ERRO root Size of bermtoerist.org-inf-20180714-184734-31oxg-00002.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,705 ERRO root Mtime of bermtoerist.org-inf-20180714-184734-31oxg-00002.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,705 ERRO root Size of bermtoerist.org-inf-20180714-184734-31oxg-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,705 ERRO root Mtime of bermtoerist.org-inf-20180714-184734-31oxg-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,705 ERRO root Size of bit.ly-shallow-20180715-032004-296ux-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,705 ERRO root Mtime of bit.ly-shallow-20180715-032004-296ux-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,705 ERRO root Size of bit.ly-shallow-20180715-032004-296ux-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,705 ERRO root Mtime of bit.ly-shallow-20180715-032004-296ux-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,706 ERRO root Size of chessprogramming.wikispaces.com-inf-20180713-061319-3nicf-00005.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,706 ERRO root Mtime of chessprogramming.wikispaces.com-inf-20180713-061319-3nicf-00005.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,706 ERRO root Size of chessprogramming.wikispaces.com-inf-20180713-061319-3nicf-00006.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,706 ERRO root Mtime of chessprogramming.wikispaces.com-inf-20180713-061319-3nicf-00006.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,706 ERRO root Size of fantasysci5.livejournal.com-shallow-20180715-002238-8a94q-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,706 ERRO root Mtime of fantasysci5.livejournal.com-shallow-20180715-002238-8a94q-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,706 ERRO root Size of fantasysci5.livejournal.com-shallow-20180715-002238-8a94q-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,706 ERRO root Mtime of fantasysci5.livejournal.com-shallow-20180715-002238-8a94q-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,707 ERRO root Size of favstar.fm-inf-20180526-151959-128cr-00024.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,707 ERRO root Mtime of favstar.fm-inf-20180526-151959-128cr-00024.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,707 ERRO root Size of gnusocial.no-inf-20180619-225833-6sike-00083.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,707 ERRO root Mtime of gnusocial.no-inf-20180619-225833-6sike-00083.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,707 ERRO root Size of hookup-usa.com-shallow-20180715-031018-8nxpo-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,707 ERRO root Mtime of hookup-usa.com-shallow-20180715-031018-8nxpo-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,708 ERRO root Size of hookup-usa.com-shallow-20180715-031018-8nxpo-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,708 ERRO root Mtime of hookup-usa.com-shallow-20180715-031018-8nxpo-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,708 ERRO root Size of lnpyi.win-shallow-20180715-053932-br1ct-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,708 ERRO root Mtime of lnpyi.win-shallow-20180715-053932-br1ct-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,708 ERRO root Size of lnpyi.win-shallow-20180715-053932-br1ct-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,708 ERRO root Mtime of lnpyi.win-shallow-20180715-053932-br1ct-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,708 ERRO root Size of lnpyi.win-shallow-20180715-065423-65dn7-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,708 ERRO root Mtime of lnpyi.win-shallow-20180715-065423-65dn7-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,709 ERRO root Size of nerdist.com-inf-20180615-210455-7krqx-00230.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,709 ERRO root Mtime of nerdist.com-inf-20180615-210455-7krqx-00230.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,709 ERRO root Size of omegle-virgin.com-shallow-20180715-031136-b4yb8-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,709 ERRO root Mtime of omegle-virgin.com-shallow-20180715-031136-b4yb8-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,709 ERRO root Size of omegle-virgin.com-shallow-20180715-031136-b4yb8-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,709 ERRO root Mtime of omegle-virgin.com-shallow-20180715-031136-b4yb8-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,709 ERRO root Size of reinsweb.ddns.net-inf-20180714-113303-eq4ha-00002.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,710 ERRO root Mtime of reinsweb.ddns.net-inf-20180714-113303-eq4ha-00002.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,710 ERRO root Size of reinsweb.ddns.net-inf-20180714-113303-eq4ha-00003.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,710 ERRO root Mtime of reinsweb.ddns.net-inf-20180714-113303-eq4ha-00003.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,710 ERRO root Size of roosterteeth.com-inf-20180413-052749-101om-00208.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,710 ERRO root Mtime of roosterteeth.com-inf-20180413-052749-101om-00208.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,710 ERRO root Size of roosterteeth.com-inf-20180414-005903-5r2x0-00163.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,710 ERRO root Mtime of roosterteeth.com-inf-20180414-005903-5r2x0-00163.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,710 ERRO root Size of www.excite.com-inf-20180712-155848-ex8wn-00001.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,711 ERRO root Mtime of www.excite.com-inf-20180712-155848-ex8wn-00001.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,711 ERRO root Size of www.excite.com-inf-20180712-155848-ex8wn-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,711 ERRO root Mtime of www.excite.com-inf-20180712-155848-ex8wn-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,711 ERRO root Size of www.fanfiction.net-shallow-20180715-002406-a836w-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,711 ERRO root Mtime of www.fanfiction.net-shallow-20180715-002406-a836w-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,711 ERRO root Size of www.fanfiction.net-shallow-20180715-002406-a836w-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,711 ERRO root Mtime of www.fanfiction.net-shallow-20180715-002406-a836w-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,712 ERRO root Size of www.fanfiction.net-shallow-20180715-002446-5u7vl-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,712 ERRO root Mtime of www.fanfiction.net-shallow-20180715-002446-5u7vl-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,712 ERRO root Size of www.fanfiction.net-shallow-20180715-002446-5u7vl-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,712 ERRO root Mtime of www.fanfiction.net-shallow-20180715-002446-5u7vl-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,712 ERRO root Size of www.fanfiction.net-shallow-20180715-002617-a0bym-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,712 ERRO root Mtime of www.fanfiction.net-shallow-20180715-002617-a0bym-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,712 ERRO root Size of www.fanfiction.net-shallow-20180715-002617-a0bym-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,712 ERRO root Mtime of www.fanfiction.net-shallow-20180715-002617-a0bym-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,713 ERRO root Size of www.fanfiction.net-shallow-20180715-002630-ap5lm-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,713 ERRO root Mtime of www.fanfiction.net-shallow-20180715-002630-ap5lm-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,713 ERRO root Size of www.fanfiction.net-shallow-20180715-002630-ap5lm-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,713 ERRO root Mtime of www.fanfiction.net-shallow-20180715-002630-ap5lm-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,713 ERRO root Size of www.fanfiction.net-shallow-20180715-003543-52m88-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,713 ERRO root Mtime of www.fanfiction.net-shallow-20180715-003543-52m88-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,713 ERRO root Size of www.fanfiction.net-shallow-20180715-003543-52m88-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,714 ERRO root Mtime of www.fanfiction.net-shallow-20180715-003543-52m88-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,714 ERRO root Size of www.fanfiction.net-shallow-20180715-004027-6jvza-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,714 ERRO root Mtime of www.fanfiction.net-shallow-20180715-004027-6jvza-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,714 ERRO root Size of www.fanfiction.net-shallow-20180715-004027-6jvza-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,714 ERRO root Mtime of www.fanfiction.net-shallow-20180715-004027-6jvza-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,714 ERRO root Size of www.fanfiction.net-shallow-20180715-004109-4fw9u-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,714 ERRO root Mtime of www.fanfiction.net-shallow-20180715-004109-4fw9u-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,714 ERRO root Size of www.fanfiction.net-shallow-20180715-004109-4fw9u-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,715 ERRO root Mtime of www.fanfiction.net-shallow-20180715-004109-4fw9u-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,715 ERRO root Size of www.fictionpress.com-shallow-20180715-001913-dvxet-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,715 ERRO root Mtime of www.fictionpress.com-shallow-20180715-001913-dvxet-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,715 ERRO root Size of www.fictionpress.com-shallow-20180715-001913-dvxet-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,715 ERRO root Mtime of www.fictionpress.com-shallow-20180715-001913-dvxet-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,715 ERRO root Size of www.fictionpress.com-shallow-20180715-001942-ev292-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,715 ERRO root Mtime of www.fictionpress.com-shallow-20180715-001942-ev292-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,716 ERRO root Size of www.fictionpress.com-shallow-20180715-001942-ev292-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,716 ERRO root Mtime of www.fictionpress.com-shallow-20180715-001942-ev292-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,716 ERRO root Size of www.fictionpress.com-shallow-20180715-001954-64741-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,716 ERRO root Mtime of www.fictionpress.com-shallow-20180715-001954-64741-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,716 ERRO root Size of www.fictionpress.com-shallow-20180715-001954-64741-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,716 ERRO root Mtime of www.fictionpress.com-shallow-20180715-001954-64741-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,717 ERRO root Size of www.fictionpress.com-shallow-20180715-002011-3vfgc-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,717 ERRO root Mtime of www.fictionpress.com-shallow-20180715-002011-3vfgc-00000.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,717 ERRO root Size of www.fictionpress.com-shallow-20180715-002011-3vfgc-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,717 ERRO root Mtime of www.fictionpress.com-shallow-20180715-002011-3vfgc-meta.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,717 ERRO root Size of www.gob.mx-inf-20180628-234728-1fwh4-00087.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,717 ERRO root Mtime of www.gob.mx-inf-20180628-234728-1fwh4-00087.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,717 ERRO root Size of www.gog.com-inf-20180603-063227-aqz8a-00043.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,718 ERRO root Mtime of www.gog.com-inf-20180603-063227-aqz8a-00043.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,718 ERRO root Size of www.jamiiforums.com-inf-20180707-101128-8jgoz-00012.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,718 ERRO root Mtime of www.jamiiforums.com-inf-20180707-101128-8jgoz-00012.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,718 ERRO root Size of www.moviemags.com-inf-20180711-090332-3pevw-00004.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,718 ERRO root Mtime of www.moviemags.com-inf-20180711-090332-3pevw-00004.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,718 ERRO root Size of www.skany.przemysl.ap.gov.pl-inf-20180629-161954-ddr6n-00187.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,719 ERRO root Mtime of www.skany.przemysl.ap.gov.pl-inf-20180629-161954-ddr6n-00187.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,719 ERRO root Size of www.zastavki.com-inf-20180714-112124-5ih4e-00030.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,719 ERRO root Mtime of www.zastavki.com-inf-20180714-112124-5ih4e-00030.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,719 ERRO root Size of www.zastavki.com-inf-20180714-112124-5ih4e-00031.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,719 ERRO root Mtime of www.zastavki.com-inf-20180714-112124-5ih4e-00031.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,719 ERRO root Size of www.zastavki.com-inf-20180714-112124-5ih4e-00032.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,719 ERRO root Mtime of www.zastavki.com-inf-20180714-112124-5ih4e-00032.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,720 ERRO root Size of www.zastavki.com-inf-20180714-112124-5ih4e-00033.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,720 ERRO root Mtime of www.zastavki.com-inf-20180714-112124-5ih4e-00033.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,720 ERRO root Size of www.zastavki.com-inf-20180714-112124-5ih4e-00034.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,720 ERRO root Mtime of www.zastavki.com-inf-20180714-112124-5ih4e-00034.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,720 ERRO root Size of www.zastavki.com-inf-20180714-112124-5ih4e-00035.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,720 ERRO root Mtime of www.zastavki.com-inf-20180714-112124-5ih4e-00035.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,720 ERRO root Size of www.zastavki.com-inf-20180714-112124-5ih4e-00036.warc.os.cdx.gz is missing
+2018-07-15 18:00:02,720 ERRO root Mtime of www.zastavki.com-inf-20180714-112124-5ih4e-00036.warc.os.cdx.gz is missing
+2018-07-15 18:00:03,287 INFO root Processing item archiveteam_archivebot_go_20180715140001
+2018-07-15 18:00:03,288 INFO root Skipping archiveteam_archivebot_go_20180715140001_archive.torrent
+2018-07-15 18:00:03,288 INFO root Skipping archiveteam_archivebot_go_20180715140001_files.xml
+2018-07-15 18:00:03,288 INFO root Skipping archiveteam_archivebot_go_20180715140001_meta.sqlite
+2018-07-15 18:00:03,288 INFO root Skipping archiveteam_archivebot_go_20180715140001_meta.xml
+2018-07-15 18:00:03,735 INFO root Processing item astrid_archivebot_tindeck_com_20180712
+2018-07-15 18:00:03,735 INFO root Skipping astrid_archivebot_tindeck_com_20180712.cdx.idx
+2018-07-15 18:00:03,735 INFO root Skipping astrid_archivebot_tindeck_com_20180712_archive.torrent
+2018-07-15 18:00:03,735 INFO root Skipping astrid_archivebot_tindeck_com_20180712_files.xml
+2018-07-15 18:00:03,735 INFO root Skipping astrid_archivebot_tindeck_com_20180712_meta.sqlite
+2018-07-15 18:00:03,735 INFO root Skipping astrid_archivebot_tindeck_com_20180712_meta.xml
+2018-07-15 18:00:03,736 INFO root Writing last-update file
+2018-07-15 18:00:03,737 INFO root Done
