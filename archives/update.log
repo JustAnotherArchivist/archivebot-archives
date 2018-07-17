@@ -1,211 +1,34 @@
-2018-07-17 06:00:01,591 DEBU root Last attempt: 2018-07-17T00:00:02Z
-2018-07-17 06:00:01,591 DEBU root Last success: 2018-07-17T00:00:02Z
-2018-07-17 06:00:01,592 INFO root Writing last-update file
-2018-07-17 06:00:01,592 INFO root Query: 'collection:archivebot oai_updatedate:[2018-07-17T00:00:02Z TO null]'
-2018-07-17 06:00:02,931 INFO root Processing item archiveteam_archivebot_go_20180716150001
-2018-07-17 06:00:02,932 ERRO root Size of acscricket.com-inf-20180716-115625-c48x1-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,932 ERRO root Mtime of acscricket.com-inf-20180716-115625-c48x1-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,932 ERRO root Size of acscricket.com-inf-20180716-115625-c48x1-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,932 ERRO root Mtime of acscricket.com-inf-20180716-115625-c48x1-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,932 INFO root Skipping archiveteam_archivebot_go_20180716150001_archive.torrent
-2018-07-17 06:00:02,932 INFO root Skipping archiveteam_archivebot_go_20180716150001_files.xml
-2018-07-17 06:00:02,932 INFO root Skipping archiveteam_archivebot_go_20180716150001_meta.sqlite
-2018-07-17 06:00:02,933 INFO root Skipping archiveteam_archivebot_go_20180716150001_meta.xml
-2018-07-17 06:00:02,933 ERRO root Size of bit.ly-shallow-20180716-055316-6xf8k-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,933 ERRO root Mtime of bit.ly-shallow-20180716-055316-6xf8k-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,933 ERRO root Size of bit.ly-shallow-20180716-055316-6xf8k-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,933 ERRO root Mtime of bit.ly-shallow-20180716-055316-6xf8k-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,933 ERRO root Size of bit.ly-shallow-20180716-055556-f3e8i-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,933 ERRO root Mtime of bit.ly-shallow-20180716-055556-f3e8i-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,933 ERRO root Size of bit.ly-shallow-20180716-055556-f3e8i-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,933 ERRO root Mtime of bit.ly-shallow-20180716-055556-f3e8i-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,934 ERRO root Size of boards.straightdope.com-inf-20180705-045000-3cz7m-00016.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,934 ERRO root Mtime of boards.straightdope.com-inf-20180705-045000-3cz7m-00016.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,934 ERRO root Size of chessprogramming.wikispaces.com-inf-20180713-061319-3nicf-00009.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,934 ERRO root Mtime of chessprogramming.wikispaces.com-inf-20180713-061319-3nicf-00009.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,934 ERRO root Size of ecmjournal.org-inf-20180716-114516-52l32-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,934 ERRO root Mtime of ecmjournal.org-inf-20180716-114516-52l32-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,934 ERRO root Size of ecmjournal.org-inf-20180716-114516-52l32-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,934 ERRO root Mtime of ecmjournal.org-inf-20180716-114516-52l32-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,935 ERRO root Size of geekhack.org-inf-20180703-132606-2cmx5-00075.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,935 ERRO root Mtime of geekhack.org-inf-20180703-132606-2cmx5-00075.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,935 ERRO root Size of gnusocial.no-inf-20180619-225833-6sike-00085.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,935 ERRO root Mtime of gnusocial.no-inf-20180619-225833-6sike-00085.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,935 ERRO root Size of jasobrecht.com-inf-20180716-131536-dzhe2-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,935 ERRO root Mtime of jasobrecht.com-inf-20180716-131536-dzhe2-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,935 ERRO root Size of jasobrecht.com-inf-20180716-131536-dzhe2-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,935 ERRO root Mtime of jasobrecht.com-inf-20180716-131536-dzhe2-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,936 ERRO root Size of nerdist.com-inf-20180615-210455-7krqx-00234.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,936 ERRO root Mtime of nerdist.com-inf-20180615-210455-7krqx-00234.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,936 ERRO root Size of nerdist.com-inf-20180615-210455-7krqx-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,936 ERRO root Mtime of nerdist.com-inf-20180615-210455-7krqx-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,936 ERRO root Size of nifflas.lp1.nl-inf-20180715-205033-7683b-00001.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,936 ERRO root Mtime of nifflas.lp1.nl-inf-20180715-205033-7683b-00001.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,936 ERRO root Size of nifflas.lp1.nl-inf-20180715-205033-7683b-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,936 ERRO root Mtime of nifflas.lp1.nl-inf-20180715-205033-7683b-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,937 ERRO root Size of reinsweb.ddns.net-inf-20180714-113303-eq4ha-00009.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,937 ERRO root Mtime of reinsweb.ddns.net-inf-20180714-113303-eq4ha-00009.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,937 ERRO root Size of reinsweb.ddns.net-inf-20180714-113303-eq4ha-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,937 ERRO root Mtime of reinsweb.ddns.net-inf-20180714-113303-eq4ha-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,937 ERRO root Size of roosterteeth.com-inf-20180414-005903-5r2x0-00165.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,937 ERRO root Mtime of roosterteeth.com-inf-20180414-005903-5r2x0-00165.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,937 ERRO root Size of storify.com-inf-20180102-161517-3nozf-00196.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,937 ERRO root Mtime of storify.com-inf-20180102-161517-3nozf-00196.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,938 ERRO root Size of trkbin.com-inf-20180716-123055-9zedl-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,938 ERRO root Mtime of trkbin.com-inf-20180716-123055-9zedl-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,938 ERRO root Size of trkbin.com-inf-20180716-123055-9zedl-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,938 ERRO root Mtime of trkbin.com-inf-20180716-123055-9zedl-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,938 ERRO root Size of twitter.com-inf-20180716-085051-7bvie-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,938 ERRO root Mtime of twitter.com-inf-20180716-085051-7bvie-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,938 ERRO root Size of twitter.com-inf-20180716-085051-7bvie-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,938 ERRO root Mtime of twitter.com-inf-20180716-085051-7bvie-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,939 ERRO root Size of twitter.com-shallow-20180716-083110-8yvkq-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,939 ERRO root Mtime of twitter.com-shallow-20180716-083110-8yvkq-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,939 ERRO root Size of twitter.com-shallow-20180716-083110-8yvkq-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,939 ERRO root Mtime of twitter.com-shallow-20180716-083110-8yvkq-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,939 ERRO root Size of twitter.com-shallow-20180716-083153-dvt0z-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,939 ERRO root Mtime of twitter.com-shallow-20180716-083153-dvt0z-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,939 ERRO root Size of twitter.com-shallow-20180716-083153-dvt0z-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,939 ERRO root Mtime of twitter.com-shallow-20180716-083153-dvt0z-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,940 ERRO root Size of twitter.com-shallow-20180716-085719-d4hk3-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,940 ERRO root Mtime of twitter.com-shallow-20180716-085719-d4hk3-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,940 ERRO root Size of twitter.com-shallow-20180716-085719-d4hk3-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,940 ERRO root Mtime of twitter.com-shallow-20180716-085719-d4hk3-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,940 ERRO root Size of urls-pastebin.com-TsRSf7PA-inf-20180105-103151-a5l5n-00199.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,940 ERRO root Mtime of urls-pastebin.com-TsRSf7PA-inf-20180105-103151-a5l5n-00199.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,940 ERRO root Size of urls-transfer.sh-dsl.pipex.com-dnshistory-inf-20180715-030045-4738i-00003.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,940 ERRO root Mtime of urls-transfer.sh-dsl.pipex.com-dnshistory-inf-20180715-030045-4738i-00003.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,941 ERRO root Size of urls-transfer.sh-elonmusk-instagram-posts-shallow-20180716-104435-4w104-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,941 ERRO root Mtime of urls-transfer.sh-elonmusk-instagram-posts-shallow-20180716-104435-4w104-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,941 ERRO root Size of urls-transfer.sh-elonmusk-instagram-posts-shallow-20180716-104435-4w104-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,941 ERRO root Mtime of urls-transfer.sh-elonmusk-instagram-posts-shallow-20180716-104435-4w104-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,941 ERRO root Size of urls-transfer.sh-elonmusk-tweets-shallow-20180716-104526-se38k-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,941 ERRO root Mtime of urls-transfer.sh-elonmusk-tweets-shallow-20180716-104526-se38k-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,941 ERRO root Size of urls-transfer.sh-elonmusk-tweets-shallow-20180716-104526-se38k-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,941 ERRO root Mtime of urls-transfer.sh-elonmusk-tweets-shallow-20180716-104526-se38k-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,942 ERRO root Size of www.akyumen.com-inf-20180716-101331-6d0fu-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,942 ERRO root Mtime of www.akyumen.com-inf-20180716-101331-6d0fu-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,942 ERRO root Size of www.akyumen.com-inf-20180716-101331-6d0fu-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,942 ERRO root Mtime of www.akyumen.com-inf-20180716-101331-6d0fu-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,942 ERRO root Size of www.cclibraries.com-inf-20180716-115954-ei0oz-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,942 ERRO root Mtime of www.cclibraries.com-inf-20180716-115954-ei0oz-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,942 ERRO root Size of www.cclibraries.com-inf-20180716-115954-ei0oz-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,942 ERRO root Mtime of www.cclibraries.com-inf-20180716-115954-ei0oz-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,943 ERRO root Size of www.chiefdelphi.com-inf-20180629-063833-7peri-00029.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,943 ERRO root Mtime of www.chiefdelphi.com-inf-20180629-063833-7peri-00029.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,943 ERRO root Size of www.chronofhorse.com-inf-20180320-235041-4udyu-00111.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,943 ERRO root Mtime of www.chronofhorse.com-inf-20180320-235041-4udyu-00111.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,943 ERRO root Size of www.demilovato.com-inf-20180716-105919-eb6lh-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,943 ERRO root Mtime of www.demilovato.com-inf-20180716-105919-eb6lh-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,943 ERRO root Size of www.demilovato.com-inf-20180716-105919-eb6lh-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,943 ERRO root Mtime of www.demilovato.com-inf-20180716-105919-eb6lh-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,944 ERRO root Size of www.gob.mx-inf-20180628-234728-1fwh4-00092.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,944 ERRO root Mtime of www.gob.mx-inf-20180628-234728-1fwh4-00092.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,944 ERRO root Size of www.gog.com-inf-20180603-063227-aqz8a-00046.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,944 ERRO root Mtime of www.gog.com-inf-20180603-063227-aqz8a-00046.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,944 ERRO root Size of www.gremlinarchive.com-inf-20180716-120208-coo0c-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,944 ERRO root Mtime of www.gremlinarchive.com-inf-20180716-120208-coo0c-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,944 ERRO root Size of www.gremlinarchive.com-inf-20180716-120208-coo0c-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,944 ERRO root Mtime of www.gremlinarchive.com-inf-20180716-120208-coo0c-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,945 ERRO root Size of www.jamiiforums.com-inf-20180707-101128-8jgoz-00014.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,945 ERRO root Mtime of www.jamiiforums.com-inf-20180707-101128-8jgoz-00014.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,945 ERRO root Size of www.marxists.org-inf-20180715-071602-e61sv-00021.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,945 ERRO root Mtime of www.marxists.org-inf-20180715-071602-e61sv-00021.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,945 ERRO root Size of www.marxists.org-inf-20180715-071602-e61sv-00022.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,945 ERRO root Mtime of www.marxists.org-inf-20180715-071602-e61sv-00022.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,945 ERRO root Size of www.marxists.org-inf-20180715-071602-e61sv-00023.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,945 ERRO root Mtime of www.marxists.org-inf-20180715-071602-e61sv-00023.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,945 ERRO root Size of www.marxists.org-inf-20180715-071602-e61sv-00027.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,946 ERRO root Mtime of www.marxists.org-inf-20180715-071602-e61sv-00027.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,946 ERRO root Size of www.moviemags.com-inf-20180711-090332-3pevw-00006.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,946 ERRO root Mtime of www.moviemags.com-inf-20180711-090332-3pevw-00006.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,946 ERRO root Size of www.observatorij.org-inf-20180716-134204-6gfsn-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,946 ERRO root Mtime of www.observatorij.org-inf-20180716-134204-6gfsn-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,946 ERRO root Size of www.reddit.com-inf-20180716-100916-9hu8o-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,946 ERRO root Mtime of www.reddit.com-inf-20180716-100916-9hu8o-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,946 ERRO root Size of www.reddit.com-inf-20180716-100916-9hu8o-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,946 ERRO root Mtime of www.reddit.com-inf-20180716-100916-9hu8o-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,947 ERRO root Size of www.skany.przemysl.ap.gov.pl-inf-20180629-161954-ddr6n-00204.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,947 ERRO root Mtime of www.skany.przemysl.ap.gov.pl-inf-20180629-161954-ddr6n-00204.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,947 ERRO root Size of www.skany.przemysl.ap.gov.pl-inf-20180629-161954-ddr6n-00205.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,947 ERRO root Mtime of www.skany.przemysl.ap.gov.pl-inf-20180629-161954-ddr6n-00205.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,947 ERRO root Size of www.skany.przemysl.ap.gov.pl-inf-20180629-161954-ddr6n-00206.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,947 ERRO root Mtime of www.skany.przemysl.ap.gov.pl-inf-20180629-161954-ddr6n-00206.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,947 ERRO root Size of www.skany.przemysl.ap.gov.pl-inf-20180629-161954-ddr6n-00207.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,947 ERRO root Mtime of www.skany.przemysl.ap.gov.pl-inf-20180629-161954-ddr6n-00207.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,948 ERRO root Size of www.theblaze.com-shallow-20180716-105652-d8xrw-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,948 ERRO root Mtime of www.theblaze.com-shallow-20180716-105652-d8xrw-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,948 ERRO root Size of www.theblaze.com-shallow-20180716-105652-d8xrw-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,948 ERRO root Mtime of www.theblaze.com-shallow-20180716-105652-d8xrw-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,948 ERRO root Size of www.truthbrary.org-inf-20180716-115831-cydgd-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,948 ERRO root Mtime of www.truthbrary.org-inf-20180716-115831-cydgd-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,948 ERRO root Size of www.truthbrary.org-inf-20180716-115831-cydgd-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,948 ERRO root Mtime of www.truthbrary.org-inf-20180716-115831-cydgd-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,949 ERRO root Size of www.yamahapubs.com-inf-20180704-042851-2j0gv-00010.warc.os.cdx.gz is missing
-2018-07-17 06:00:02,949 ERRO root Mtime of www.yamahapubs.com-inf-20180704-042851-2j0gv-00010.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,438 INFO root Processing item archiveteam_archivebot_go_20180716210001
-2018-07-17 06:00:03,438 INFO root Skipping archiveteam_archivebot_go_20180716210001_archive.torrent
-2018-07-17 06:00:03,438 INFO root Skipping archiveteam_archivebot_go_20180716210001_files.xml
-2018-07-17 06:00:03,438 INFO root Skipping archiveteam_archivebot_go_20180716210001_meta.sqlite
-2018-07-17 06:00:03,439 INFO root Skipping archiveteam_archivebot_go_20180716210001_meta.xml
-2018-07-17 06:00:03,439 ERRO root Size of favstar.fm-inf-20180526-151959-128cr-00028.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,439 ERRO root Mtime of favstar.fm-inf-20180526-151959-128cr-00028.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,439 ERRO root Size of geekhack.org-inf-20180703-132606-2cmx5-00076.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,439 ERRO root Mtime of geekhack.org-inf-20180703-132606-2cmx5-00076.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,439 ERRO root Size of geekhack.org-inf-20180703-132606-2cmx5-00077.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,439 ERRO root Mtime of geekhack.org-inf-20180703-132606-2cmx5-00077.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,440 ERRO root Size of greenspun.com-inf-20180715-231202-bs7kj-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,440 ERRO root Mtime of greenspun.com-inf-20180715-231202-bs7kj-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,440 ERRO root Size of ournetworks.ca-inf-20180716-120935-emudv-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,440 ERRO root Mtime of ournetworks.ca-inf-20180716-120935-emudv-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,440 ERRO root Size of ournetworks.ca-inf-20180716-120935-emudv-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,440 ERRO root Mtime of ournetworks.ca-inf-20180716-120935-emudv-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,440 ERRO root Size of roosterteeth.com-inf-20180414-005903-5r2x0-00166.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,440 ERRO root Mtime of roosterteeth.com-inf-20180414-005903-5r2x0-00166.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,441 ERRO root Size of stpetersburgconferenceonworldaffairs.com-shallow-20180716-192243-7z6ua-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,441 ERRO root Mtime of stpetersburgconferenceonworldaffairs.com-shallow-20180716-192243-7z6ua-00000.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,441 ERRO root Size of stpetersburgconferenceonworldaffairs.com-shallow-20180716-192243-7z6ua-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,441 ERRO root Mtime of stpetersburgconferenceonworldaffairs.com-shallow-20180716-192243-7z6ua-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,441 ERRO root Size of www.marxists.org-inf-20180715-071602-e61sv-00024.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,441 ERRO root Mtime of www.marxists.org-inf-20180715-071602-e61sv-00024.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,441 ERRO root Size of www.marxists.org-inf-20180715-071602-e61sv-00025.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,441 ERRO root Mtime of www.marxists.org-inf-20180715-071602-e61sv-00025.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,441 ERRO root Size of www.marxists.org-inf-20180715-071602-e61sv-00026.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,442 ERRO root Mtime of www.marxists.org-inf-20180715-071602-e61sv-00026.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,442 ERRO root Size of www.marxists.org-inf-20180715-071602-e61sv-00028.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,442 ERRO root Mtime of www.marxists.org-inf-20180715-071602-e61sv-00028.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,442 ERRO root Size of www.marxists.org-inf-20180715-071602-e61sv-00029.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,442 ERRO root Mtime of www.marxists.org-inf-20180715-071602-e61sv-00029.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,442 ERRO root Size of www.marxists.org-inf-20180715-071602-e61sv-00030.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,442 ERRO root Mtime of www.marxists.org-inf-20180715-071602-e61sv-00030.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,442 ERRO root Size of www.marxists.org-inf-20180715-071602-e61sv-00031.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,443 ERRO root Mtime of www.marxists.org-inf-20180715-071602-e61sv-00031.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,443 ERRO root Size of www.marxists.org-inf-20180715-071602-e61sv-00032.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,443 ERRO root Mtime of www.marxists.org-inf-20180715-071602-e61sv-00032.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,443 ERRO root Size of www.marxists.org-inf-20180715-071602-e61sv-00033.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,443 ERRO root Mtime of www.marxists.org-inf-20180715-071602-e61sv-00033.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,444 ERRO root Size of www.marxists.org-inf-20180715-071602-e61sv-00034.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,444 ERRO root Mtime of www.marxists.org-inf-20180715-071602-e61sv-00034.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,444 ERRO root Size of www.marxists.org-inf-20180715-071602-e61sv-00036.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,444 ERRO root Mtime of www.marxists.org-inf-20180715-071602-e61sv-00036.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,445 ERRO root Size of www.motherjones.com-shallow-20180716-192225-dir4r-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,445 ERRO root Mtime of www.motherjones.com-shallow-20180716-192225-dir4r-meta.warc.os.cdx.gz is missing
-2018-07-17 06:00:03,606 INFO root Processing item archiveteam_archivebot_go_20180717030001
-2018-07-17 06:00:03,606 INFO root Skipping archiveteam_archivebot_go_20180717030001_archive.torrent
-2018-07-17 06:00:03,606 INFO root Skipping archiveteam_archivebot_go_20180717030001_files.xml
-2018-07-17 06:00:03,607 INFO root Skipping archiveteam_archivebot_go_20180717030001_meta.sqlite
-2018-07-17 06:00:03,607 INFO root Skipping archiveteam_archivebot_go_20180717030001_meta.xml
-2018-07-17 06:00:03,843 INFO root Processing item astrid_archivebot_bazaar_tf_20180710
-2018-07-17 06:00:03,843 INFO root Skipping astrid_archivebot_bazaar_tf_20180710.cdx.idx
-2018-07-17 06:00:03,844 INFO root Skipping astrid_archivebot_bazaar_tf_20180710_archive.torrent
-2018-07-17 06:00:03,844 INFO root Skipping astrid_archivebot_bazaar_tf_20180710_files.xml
-2018-07-17 06:00:03,844 INFO root Skipping astrid_archivebot_bazaar_tf_20180710_meta.sqlite
-2018-07-17 06:00:03,844 INFO root Skipping astrid_archivebot_bazaar_tf_20180710_meta.xml
-2018-07-17 06:00:04,077 INFO root Processing item astrid_archivebot_tindeck_com_20180712
-2018-07-17 06:00:04,078 INFO root Skipping astrid_archivebot_tindeck_com_20180712.cdx.idx
-2018-07-17 06:00:04,078 INFO root Skipping astrid_archivebot_tindeck_com_20180712_archive.torrent
-2018-07-17 06:00:04,078 INFO root Skipping astrid_archivebot_tindeck_com_20180712_files.xml
-2018-07-17 06:00:04,078 INFO root Skipping astrid_archivebot_tindeck_com_20180712_meta.sqlite
-2018-07-17 06:00:04,078 INFO root Skipping astrid_archivebot_tindeck_com_20180712_meta.xml
-2018-07-17 06:00:04,080 INFO root Writing last-update file
-2018-07-17 06:00:04,080 INFO root Done
+2018-07-17 12:00:01,897 DEBU root Last attempt: 2018-07-17T06:00:01Z
+2018-07-17 12:00:01,898 DEBU root Last success: 2018-07-17T06:00:01Z
+2018-07-17 12:00:01,898 INFO root Writing last-update file
+2018-07-17 12:00:01,899 INFO root Query: 'collection:archivebot oai_updatedate:[2018-07-17T06:00:01Z TO null]'
+2018-07-17 12:00:03,963 INFO root Processing item archiveteam_archivebot_go_20180716150001
+2018-07-17 12:00:03,963 INFO root Skipping archiveteam_archivebot_go_20180716150001.cdx.idx
+2018-07-17 12:00:03,963 INFO root Skipping archiveteam_archivebot_go_20180716150001_archive.torrent
+2018-07-17 12:00:03,963 INFO root Skipping archiveteam_archivebot_go_20180716150001_files.xml
+2018-07-17 12:00:03,964 INFO root Skipping archiveteam_archivebot_go_20180716150001_meta.sqlite
+2018-07-17 12:00:03,964 INFO root Skipping archiveteam_archivebot_go_20180716150001_meta.xml
+2018-07-17 12:00:04,352 INFO root Processing item archiveteam_archivebot_go_20180716210001
+2018-07-17 12:00:04,352 INFO root Skipping archiveteam_archivebot_go_20180716210001.cdx.idx
+2018-07-17 12:00:04,352 INFO root Skipping archiveteam_archivebot_go_20180716210001_archive.torrent
+2018-07-17 12:00:04,352 INFO root Skipping archiveteam_archivebot_go_20180716210001_files.xml
+2018-07-17 12:00:04,353 INFO root Skipping archiveteam_archivebot_go_20180716210001_meta.sqlite
+2018-07-17 12:00:04,353 INFO root Skipping archiveteam_archivebot_go_20180716210001_meta.xml
+2018-07-17 12:00:05,139 INFO root Processing item archiveteam_archivebot_go_20180717030001
+2018-07-17 12:00:05,140 INFO root Skipping archiveteam_archivebot_go_20180717030001_archive.torrent
+2018-07-17 12:00:05,140 INFO root Skipping archiveteam_archivebot_go_20180717030001_files.xml
+2018-07-17 12:00:05,140 INFO root Skipping archiveteam_archivebot_go_20180717030001_meta.sqlite
+2018-07-17 12:00:05,140 INFO root Skipping archiveteam_archivebot_go_20180717030001_meta.xml
+2018-07-17 12:00:05,340 INFO root Processing item archiveteam_archivebot_go_20180717110002
+2018-07-17 12:00:05,341 INFO root Skipping archiveteam_archivebot_go_20180717110002_archive.torrent
+2018-07-17 12:00:05,342 INFO root Skipping archiveteam_archivebot_go_20180717110002_files.xml
+2018-07-17 12:00:05,342 INFO root Skipping archiveteam_archivebot_go_20180717110002_meta.sqlite
+2018-07-17 12:00:05,342 INFO root Skipping archiveteam_archivebot_go_20180717110002_meta.xml
+2018-07-17 12:00:05,876 INFO root Processing item astrid_archivebot_tindeck_com_20180712
+2018-07-17 12:00:05,877 INFO root Skipping astrid_archivebot_tindeck_com_20180712.cdx.idx
+2018-07-17 12:00:05,877 INFO root Skipping astrid_archivebot_tindeck_com_20180712_archive.torrent
+2018-07-17 12:00:05,877 INFO root Skipping astrid_archivebot_tindeck_com_20180712_files.xml
+2018-07-17 12:00:05,877 INFO root Skipping astrid_archivebot_tindeck_com_20180712_meta.sqlite
+2018-07-17 12:00:05,877 INFO root Skipping astrid_archivebot_tindeck_com_20180712_meta.xml
+2018-07-17 12:00:05,879 INFO root Writing last-update file
+2018-07-17 12:00:05,880 INFO root Done
