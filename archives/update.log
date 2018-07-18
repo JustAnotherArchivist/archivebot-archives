@@ -1,22 +1,47 @@
-2018-07-18 00:00:02,164 DEBU root Last attempt: 2018-07-17T18:00:01Z
-2018-07-18 00:00:02,164 DEBU root Last success: 2018-07-17T18:00:01Z
-2018-07-18 00:00:02,164 INFO root Writing last-update file
-2018-07-18 00:00:02,165 INFO root Query: 'collection:archivebot oai_updatedate:[2018-07-17T18:00:01Z TO null]'
-2018-07-18 00:00:04,068 INFO root Processing item archiveteam_archivebot_go_20180717110002
-2018-07-18 00:00:04,069 INFO root Skipping archiveteam_archivebot_go_20180717110002.cdx.idx
-2018-07-18 00:00:04,072 INFO root Skipping archiveteam_archivebot_go_20180717110002_archive.torrent
-2018-07-18 00:00:04,073 INFO root Skipping archiveteam_archivebot_go_20180717110002_files.xml
-2018-07-18 00:00:04,073 INFO root Skipping archiveteam_archivebot_go_20180717110002_meta.sqlite
-2018-07-18 00:00:04,073 INFO root Skipping archiveteam_archivebot_go_20180717110002_meta.xml
-2018-07-18 00:00:04,439 INFO root Processing item archiveteam_archivebot_go_20180717140002
-2018-07-18 00:00:04,439 INFO root Skipping archiveteam_archivebot_go_20180717140002_archive.torrent
-2018-07-18 00:00:04,439 INFO root Skipping archiveteam_archivebot_go_20180717140002_files.xml
-2018-07-18 00:00:04,439 INFO root Skipping archiveteam_archivebot_go_20180717140002_meta.sqlite
-2018-07-18 00:00:04,439 INFO root Skipping archiveteam_archivebot_go_20180717140002_meta.xml
-2018-07-18 00:00:04,559 INFO root Processing item archiveteam_archivebot_go_20180717210001
-2018-07-18 00:00:04,559 INFO root Skipping archiveteam_archivebot_go_20180717210001_archive.torrent
-2018-07-18 00:00:04,559 INFO root Skipping archiveteam_archivebot_go_20180717210001_files.xml
-2018-07-18 00:00:04,560 INFO root Skipping archiveteam_archivebot_go_20180717210001_meta.sqlite
-2018-07-18 00:00:04,560 INFO root Skipping archiveteam_archivebot_go_20180717210001_meta.xml
-2018-07-18 00:00:04,561 INFO root Writing last-update file
-2018-07-18 00:00:04,561 INFO root Done
+2018-07-18 06:00:01,938 DEBU root Last attempt: 2018-07-18T00:00:02Z
+2018-07-18 06:00:01,938 DEBU root Last success: 2018-07-18T00:00:02Z
+2018-07-18 06:00:01,939 INFO root Writing last-update file
+2018-07-18 06:00:01,939 INFO root Query: 'collection:archivebot oai_updatedate:[2018-07-18T00:00:02Z TO null]'
+2018-07-18 06:00:03,103 INFO root Processing item archiveteam_archivebot_go_20180717140002
+2018-07-18 06:00:03,103 INFO root Skipping archiveteam_archivebot_go_20180717140002.cdx.idx
+2018-07-18 06:00:03,103 INFO root Skipping archiveteam_archivebot_go_20180717140002_archive.torrent
+2018-07-18 06:00:03,103 INFO root Skipping archiveteam_archivebot_go_20180717140002_files.xml
+2018-07-18 06:00:03,103 INFO root Skipping archiveteam_archivebot_go_20180717140002_meta.sqlite
+2018-07-18 06:00:03,103 INFO root Skipping archiveteam_archivebot_go_20180717140002_meta.xml
+2018-07-18 06:00:03,308 INFO root Processing item archiveteam_archivebot_go_20180717210001
+2018-07-18 06:00:03,308 INFO root Skipping archiveteam_archivebot_go_20180717210001_archive.torrent
+2018-07-18 06:00:03,308 INFO root Skipping archiveteam_archivebot_go_20180717210001_files.xml
+2018-07-18 06:00:03,308 INFO root Skipping archiveteam_archivebot_go_20180717210001_meta.sqlite
+2018-07-18 06:00:03,308 INFO root Skipping archiveteam_archivebot_go_20180717210001_meta.xml
+2018-07-18 06:00:03,308 ERRO root Size of barrapunto.com-inf-20180610-140525-1oqct-00041.warc.os.cdx.gz is missing
+2018-07-18 06:00:03,308 ERRO root Mtime of barrapunto.com-inf-20180610-140525-1oqct-00041.warc.os.cdx.gz is missing
+2018-07-18 06:00:03,309 ERRO root Size of echo.msk.ru-inf-20180717-145705-covpr-meta.warc.os.cdx.gz is missing
+2018-07-18 06:00:03,309 ERRO root Mtime of echo.msk.ru-inf-20180717-145705-covpr-meta.warc.os.cdx.gz is missing
+2018-07-18 06:00:03,309 ERRO root Size of favstar.fm-inf-20180526-151959-128cr-00031.warc.os.cdx.gz is missing
+2018-07-18 06:00:03,309 ERRO root Mtime of favstar.fm-inf-20180526-151959-128cr-00031.warc.os.cdx.gz is missing
+2018-07-18 06:00:03,309 ERRO root Size of geekhack.org-inf-20180703-132606-2cmx5-00080.warc.os.cdx.gz is missing
+2018-07-18 06:00:03,309 ERRO root Mtime of geekhack.org-inf-20180703-132606-2cmx5-00080.warc.os.cdx.gz is missing
+2018-07-18 06:00:03,309 ERRO root Size of gnusocial.no-inf-20180619-225833-6sike-00086.warc.os.cdx.gz is missing
+2018-07-18 06:00:03,310 ERRO root Mtime of gnusocial.no-inf-20180619-225833-6sike-00086.warc.os.cdx.gz is missing
+2018-07-18 06:00:03,310 ERRO root Size of vk.com-inf-20180716-201423-1fgr6-00007.warc.os.cdx.gz is missing
+2018-07-18 06:00:03,310 ERRO root Mtime of vk.com-inf-20180716-201423-1fgr6-00007.warc.os.cdx.gz is missing
+2018-07-18 06:00:04,031 INFO root Processing item astrid_archivebot_bazaar_tf_20180710
+2018-07-18 06:00:04,031 INFO root Skipping astrid_archivebot_bazaar_tf_20180710.cdx.idx
+2018-07-18 06:00:04,031 INFO root Skipping astrid_archivebot_bazaar_tf_20180710_archive.torrent
+2018-07-18 06:00:04,031 INFO root Skipping astrid_archivebot_bazaar_tf_20180710_files.xml
+2018-07-18 06:00:04,032 INFO root Skipping astrid_archivebot_bazaar_tf_20180710_meta.sqlite
+2018-07-18 06:00:04,032 INFO root Skipping astrid_archivebot_bazaar_tf_20180710_meta.xml
+2018-07-18 06:00:04,251 INFO root Processing item astrid_archivebot_forums_zeroin_co_uk_20180503
+2018-07-18 06:00:04,251 INFO root Skipping astrid_archivebot_forums_zeroin_co_uk_20180503.cdx.idx
+2018-07-18 06:00:04,251 INFO root Skipping astrid_archivebot_forums_zeroin_co_uk_20180503_archive.torrent
+2018-07-18 06:00:04,252 INFO root Skipping astrid_archivebot_forums_zeroin_co_uk_20180503_files.xml
+2018-07-18 06:00:04,252 INFO root Skipping astrid_archivebot_forums_zeroin_co_uk_20180503_meta.sqlite
+2018-07-18 06:00:04,252 INFO root Skipping astrid_archivebot_forums_zeroin_co_uk_20180503_meta.xml
+2018-07-18 06:00:04,454 INFO root Processing item astrid_archivebot_tindeck_com_20180712
+2018-07-18 06:00:04,454 INFO root Skipping astrid_archivebot_tindeck_com_20180712.cdx.idx
+2018-07-18 06:00:04,454 INFO root Skipping astrid_archivebot_tindeck_com_20180712_archive.torrent
+2018-07-18 06:00:04,454 INFO root Skipping astrid_archivebot_tindeck_com_20180712_files.xml
+2018-07-18 06:00:04,455 INFO root Skipping astrid_archivebot_tindeck_com_20180712_meta.sqlite
+2018-07-18 06:00:04,455 INFO root Skipping astrid_archivebot_tindeck_com_20180712_meta.xml
+2018-07-18 06:00:04,459 INFO root Writing last-update file
+2018-07-18 06:00:04,460 INFO root Done
