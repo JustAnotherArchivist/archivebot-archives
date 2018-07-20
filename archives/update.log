@@ -1,23 +1,84 @@
-2018-07-19 18:00:02,196 DEBU root Last attempt: 2018-07-19T12:00:01Z
-2018-07-19 18:00:02,197 DEBU root Last success: 2018-07-19T12:00:01Z
-2018-07-19 18:00:02,197 INFO root Writing last-update file
-2018-07-19 18:00:02,197 INFO root Query: 'collection:archivebot oai_updatedate:[2018-07-19T12:00:01Z TO null]'
-2018-07-19 18:00:04,008 INFO root Processing item archiveteam_archivebot_go_20180719000001
-2018-07-19 18:00:04,009 INFO root Skipping archiveteam_archivebot_go_20180719000001.cdx.idx
-2018-07-19 18:00:04,009 INFO root Skipping archiveteam_archivebot_go_20180719000001_archive.torrent
-2018-07-19 18:00:04,009 INFO root Skipping archiveteam_archivebot_go_20180719000001_files.xml
-2018-07-19 18:00:04,009 INFO root Skipping archiveteam_archivebot_go_20180719000001_meta.sqlite
-2018-07-19 18:00:04,010 INFO root Skipping archiveteam_archivebot_go_20180719000001_meta.xml
-2018-07-19 18:00:04,290 INFO root Processing item archiveteam_archivebot_go_20180719120001
-2018-07-19 18:00:04,291 INFO root Skipping archiveteam_archivebot_go_20180719120001_archive.torrent
-2018-07-19 18:00:04,291 INFO root Skipping archiveteam_archivebot_go_20180719120001_files.xml
-2018-07-19 18:00:04,291 INFO root Skipping archiveteam_archivebot_go_20180719120001_meta.sqlite
-2018-07-19 18:00:04,292 INFO root Skipping archiveteam_archivebot_go_20180719120001_meta.xml
-2018-07-19 18:00:04,723 INFO root Processing item astrid_archivebot_tindeck_com_20180712
-2018-07-19 18:00:04,723 INFO root Skipping astrid_archivebot_tindeck_com_20180712.cdx.idx
-2018-07-19 18:00:04,723 INFO root Skipping astrid_archivebot_tindeck_com_20180712_archive.torrent
-2018-07-19 18:00:04,724 INFO root Skipping astrid_archivebot_tindeck_com_20180712_files.xml
-2018-07-19 18:00:04,724 INFO root Skipping astrid_archivebot_tindeck_com_20180712_meta.sqlite
-2018-07-19 18:00:04,724 INFO root Skipping astrid_archivebot_tindeck_com_20180712_meta.xml
-2018-07-19 18:00:04,733 INFO root Writing last-update file
-2018-07-19 18:00:04,733 INFO root Done
+2018-07-20 00:00:01,718 DEBU root Last attempt: 2018-07-19T18:00:02Z
+2018-07-20 00:00:01,718 DEBU root Last success: 2018-07-19T18:00:02Z
+2018-07-20 00:00:01,718 INFO root Writing last-update file
+2018-07-20 00:00:01,719 INFO root Query: 'collection:archivebot oai_updatedate:[2018-07-19T18:00:02Z TO null]'
+2018-07-20 00:00:08,663 INFO root Processing item archiveteam_archivebot_go_20180719120001
+2018-07-20 00:00:08,664 INFO root Skipping archiveteam_archivebot_go_20180719120001_archive.torrent
+2018-07-20 00:00:08,664 INFO root Skipping archiveteam_archivebot_go_20180719120001_files.xml
+2018-07-20 00:00:08,664 INFO root Skipping archiveteam_archivebot_go_20180719120001_meta.sqlite
+2018-07-20 00:00:08,664 INFO root Skipping archiveteam_archivebot_go_20180719120001_meta.xml
+2018-07-20 00:00:21,985 INFO root Processing item archiveteam_archivebot_go_20180719220001
+2018-07-20 00:00:21,985 INFO root Skipping archiveteam_archivebot_go_20180719220001_archive.torrent
+2018-07-20 00:00:21,985 INFO root Skipping archiveteam_archivebot_go_20180719220001_files.xml
+2018-07-20 00:00:21,985 INFO root Skipping archiveteam_archivebot_go_20180719220001_meta.sqlite
+2018-07-20 00:00:21,986 INFO root Skipping archiveteam_archivebot_go_20180719220001_meta.xml
+2018-07-20 00:00:21,986 INFO root Skipping tyzoid-pipeline-tmp-wpull-warc-al9g1wjc.log.gz
+2018-07-20 00:00:21,986 INFO root Skipping tyzoid-pipeline-tmp-wpull-warc-dl7yu13f.log.gz
+2018-07-20 00:00:21,986 INFO root Skipping tyzoid-pipeline-tmp-wpull-warc-i98m0xty.log.gz
+2018-07-20 00:00:21,986 INFO root Skipping tyzoid-pipeline-tmp-wpull-warc-nc595ad6.log.gz
+2018-07-20 00:00:21,986 INFO root Skipping tyzoid-pipeline-tmp-wpull-warc-rr409wfk.log.gz
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 350, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 837, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 323, in connect
+    ssl_context=context)
+  File "/usr/lib/python3/dist-packages/urllib3/util/ssl_.py", line 324, in ssl_wrap_socket
+    return context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 385, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 760, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 996, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 641, in do_handshake
+    self._sslobj.do_handshake()
+socket.timeout: _ssl.c:704: The handshake operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 594, in urlopen
+    chunked=chunked)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 353, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=conn.timeout)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 313, in _raise_timeout
+    raise ReadTimeoutError(self, url, "Read timed out. (read timeout=%s)" % timeout_value)
+requests.packages.urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='archive.org', port=443): Read timed out. (read timeout=12)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/archivebot-archives/.local/lib/python3.5/site-packages/internetarchive/session.py", line 250, in get_metadata
+    resp = self.get(url, **request_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 501, in get
+    return self.request('GET', url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 488, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/archivebot-archives/.local/lib/python3.5/site-packages/internetarchive/session.py", line 368, in send
+    r = super(ArchiveSession, self).send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 609, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 423, in send
+    timeout=timeout
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 643, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 315, in increment
+    total -= 1
+TypeError: unsupported operand type(s) for -=: 'Retry' and 'int'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/archivebot-archives/archivebot-archives/code/update.py", line 101, in <module>
+    for i in internetarchive.search_items(query, request_kwargs = {'timeout': 60}).iter_as_items(): #TODO: add max_retries
+  File "/home/archivebot-archives/.local/lib/python3.5/site-packages/internetarchive/search.py", line 204, in __next__
+    return self.iterator.__next__()
+  File "/home/archivebot-archives/.local/lib/python3.5/site-packages/internetarchive/search.py", line 173, in _get_item_from_search_result
+    return self.session.get_item(search_result['identifier'])
+  File "/home/archivebot-archives/.local/lib/python3.5/site-packages/internetarchive/session.py", line 227, in get_item
+    item_metadata = self.get_metadata(identifier, request_kwargs)
+  File "/home/archivebot-archives/.local/lib/python3.5/site-packages/internetarchive/session.py", line 255, in get_metadata
+    raise type(exc)(error_msg)
+TypeError: Error retrieving metadata from https://archive.org/metadata/astrid_archivebot_tindeck_com_20180712, unsupported operand type(s) for -=: 'Retry' and 'int'
