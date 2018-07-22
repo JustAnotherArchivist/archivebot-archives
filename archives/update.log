@@ -1,378 +1,45 @@
-2018-07-22 12:00:01,891 DEBU root Last attempt: 2018-07-22T06:00:01Z
-2018-07-22 12:00:01,892 DEBU root Last success: 2018-07-22T06:00:01Z
-2018-07-22 12:00:01,892 INFO root Writing last-update file
-2018-07-22 12:00:01,893 INFO root Query: 'collection:archivebot oai_updatedate:[2018-07-22T06:00:01Z TO null]'
-2018-07-22 12:00:04,039 INFO root Processing item archiveteam_archivebot_go_20180721220002
-2018-07-22 12:00:04,040 INFO root Skipping archiveteam_archivebot_go_20180721220002_archive.torrent
-2018-07-22 12:00:04,040 INFO root Skipping archiveteam_archivebot_go_20180721220002_files.xml
-2018-07-22 12:00:04,040 INFO root Skipping archiveteam_archivebot_go_20180721220002_meta.sqlite
-2018-07-22 12:00:04,040 INFO root Skipping archiveteam_archivebot_go_20180721220002_meta.xml
-2018-07-22 12:00:04,041 ERRO root Size of barrapunto.com-inf-20180610-140525-1oqct-00044.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,041 ERRO root Mtime of barrapunto.com-inf-20180610-140525-1oqct-00044.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,041 ERRO root Size of blog.bne.es-inf-20180721-122658-t9rql-aborted-00000.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,041 ERRO root Mtime of blog.bne.es-inf-20180721-122658-t9rql-aborted-00000.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,041 ERRO root Size of boards.straightdope.com-inf-20180705-045000-3cz7m-00030.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,041 ERRO root Mtime of boards.straightdope.com-inf-20180705-045000-3cz7m-00030.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,041 ERRO root Size of butina.livejournal.com-inf-20180717-101425-3mekc-00002.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,042 ERRO root Mtime of butina.livejournal.com-inf-20180717-101425-3mekc-00002.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,042 ERRO root Size of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00048.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,042 ERRO root Mtime of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00048.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,042 ERRO root Size of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00049.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,042 ERRO root Mtime of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00049.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,042 ERRO root Size of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00050.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,042 ERRO root Mtime of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00050.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,042 ERRO root Size of community.talktalk.co.uk-shallow-20180721-215313-1vhdq-00000.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,043 ERRO root Mtime of community.talktalk.co.uk-shallow-20180721-215313-1vhdq-00000.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,043 ERRO root Size of egyptianchronicles.blogspot.com-inf-20180718-014456-5t9iv-00012.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,043 ERRO root Mtime of egyptianchronicles.blogspot.com-inf-20180718-014456-5t9iv-00012.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,043 ERRO root Size of forums.comicgenesis.com-inf-20180719-202803-ep981-00003.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,043 ERRO root Mtime of forums.comicgenesis.com-inf-20180719-202803-ep981-00003.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,043 ERRO root Size of forums.comicgenesis.com-inf-20180719-202803-ep981-00004.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,043 ERRO root Mtime of forums.comicgenesis.com-inf-20180719-202803-ep981-00004.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,043 ERRO root Size of forums.vainglorygame.com-inf-20180721-054541-ep8cm-00000.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,044 ERRO root Mtime of forums.vainglorygame.com-inf-20180721-054541-ep8cm-00000.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,044 ERRO root Size of geekhack.org-inf-20180703-132606-2cmx5-00095.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,044 ERRO root Mtime of geekhack.org-inf-20180703-132606-2cmx5-00095.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,044 ERRO root Size of gnusocial.no-inf-20180619-225833-6sike-00094.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,044 ERRO root Mtime of gnusocial.no-inf-20180619-225833-6sike-00094.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,044 ERRO root Size of gratisjogos.uol.com.br-inf-20180719-102935-cunzt-00006.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,045 ERRO root Mtime of gratisjogos.uol.com.br-inf-20180719-102935-cunzt-00006.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,045 ERRO root Size of greenspun.com-inf-20180715-231202-bs7kj-00009.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,045 ERRO root Mtime of greenspun.com-inf-20180715-231202-bs7kj-00009.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,045 ERRO root Size of greenspun.com-inf-20180715-231202-bs7kj-meta.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,045 ERRO root Mtime of greenspun.com-inf-20180715-231202-bs7kj-meta.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,045 ERRO root Size of kworb.net-inf-20180721-084028-5mr3h-00000.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,045 ERRO root Mtime of kworb.net-inf-20180721-084028-5mr3h-00000.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,046 ERRO root Size of kworb.net-inf-20180721-084028-5mr3h-meta.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,046 ERRO root Mtime of kworb.net-inf-20180721-084028-5mr3h-meta.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,046 ERRO root Size of niketalk.com-inf-20180326-183642-24ihf-00155.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,046 ERRO root Mtime of niketalk.com-inf-20180326-183642-24ihf-00155.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,046 ERRO root Size of old.reddit.com-shallow-20180721-162829-bxil5-00000.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,046 ERRO root Mtime of old.reddit.com-shallow-20180721-162829-bxil5-00000.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,046 ERRO root Size of old.reddit.com-shallow-20180721-162829-bxil5-meta.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,046 ERRO root Mtime of old.reddit.com-shallow-20180721-162829-bxil5-meta.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,046 ERRO root Size of opnsec.com-shallow-20180721-100415-dtkjf-00000.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,047 ERRO root Mtime of opnsec.com-shallow-20180721-100415-dtkjf-00000.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,047 ERRO root Size of opnsec.com-shallow-20180721-100415-dtkjf-meta.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,047 ERRO root Mtime of opnsec.com-shallow-20180721-100415-dtkjf-meta.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,047 ERRO root Size of pensionsdashboardproject.uk-inf-20180721-142555-7dbd8-00000.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,047 ERRO root Mtime of pensionsdashboardproject.uk-inf-20180721-142555-7dbd8-00000.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,047 ERRO root Size of pensionsdashboardproject.uk-inf-20180721-142555-7dbd8-meta.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,047 ERRO root Mtime of pensionsdashboardproject.uk-inf-20180721-142555-7dbd8-meta.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,047 ERRO root Size of roosterteeth.com-inf-20180414-005903-5r2x0-00177.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,048 ERRO root Mtime of roosterteeth.com-inf-20180414-005903-5r2x0-00177.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,048 ERRO root Size of urls-transfer.sh-archivebot-wikispaces02-shallow-20180718-155101-1sut1-00000.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,048 ERRO root Mtime of urls-transfer.sh-archivebot-wikispaces02-shallow-20180718-155101-1sut1-00000.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,048 ERRO root Size of www.abinia.org-inf-20180721-132228-4zmmw-00000.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,048 ERRO root Mtime of www.abinia.org-inf-20180721-132228-4zmmw-00000.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,048 ERRO root Size of www.abinia.org-inf-20180721-132228-4zmmw-meta.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,048 ERRO root Mtime of www.abinia.org-inf-20180721-132228-4zmmw-meta.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,049 ERRO root Size of www.archerytalk.com-inf-20180406-014947-at82q-00105.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,049 ERRO root Mtime of www.archerytalk.com-inf-20180406-014947-at82q-00105.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,049 ERRO root Size of www.azcode.com-inf-20180721-122546-390uw-00000.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,049 ERRO root Mtime of www.azcode.com-inf-20180721-122546-390uw-00000.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,049 ERRO root Size of www.azcode.com-inf-20180721-122546-390uw-meta.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,049 ERRO root Mtime of www.azcode.com-inf-20180721-122546-390uw-meta.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,050 ERRO root Size of www.chiefdelphi.com-inf-20180629-063833-7peri-00041.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,050 ERRO root Mtime of www.chiefdelphi.com-inf-20180629-063833-7peri-00041.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,050 ERRO root Size of www.gob.mx-inf-20180628-234728-1fwh4-00107.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,050 ERRO root Mtime of www.gob.mx-inf-20180628-234728-1fwh4-00107.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,050 ERRO root Size of www.gob.mx-inf-20180628-234728-1fwh4-00108.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,050 ERRO root Mtime of www.gob.mx-inf-20180628-234728-1fwh4-00108.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,050 ERRO root Size of www.growforagecookferment.com-inf-20180721-110028-29cr2-00000.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,051 ERRO root Mtime of www.growforagecookferment.com-inf-20180721-110028-29cr2-00000.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,051 ERRO root Size of www.growforagecookferment.com-inf-20180721-110028-29cr2-meta.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,051 ERRO root Mtime of www.growforagecookferment.com-inf-20180721-110028-29cr2-meta.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,051 ERRO root Size of www.jamiiforums.com-inf-20180707-101128-8jgoz-00021.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,051 ERRO root Mtime of www.jamiiforums.com-inf-20180707-101128-8jgoz-00021.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,052 ERRO root Size of www.ld4all.com-inf-20180720-205317-asc0i-00000.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,052 ERRO root Mtime of www.ld4all.com-inf-20180720-205317-asc0i-00000.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,052 ERRO root Size of www.moviemags.com-inf-20180711-090332-3pevw-00013.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,052 ERRO root Mtime of www.moviemags.com-inf-20180711-090332-3pevw-00013.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,052 ERRO root Size of www.ncix.com-inf-20180717-135809-8c2dx-00001.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,052 ERRO root Mtime of www.ncix.com-inf-20180717-135809-8c2dx-00001.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,052 ERRO root Size of www.purevolume.com-inf-20180424-221829-97mda-00146.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,052 ERRO root Mtime of www.purevolume.com-inf-20180424-221829-97mda-00146.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,053 ERRO root Size of www.reddit.com-shallow-20180721-162837-cct3r-00000.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,053 ERRO root Mtime of www.reddit.com-shallow-20180721-162837-cct3r-00000.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,053 ERRO root Size of www.reddit.com-shallow-20180721-162837-cct3r-meta.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,053 ERRO root Mtime of www.reddit.com-shallow-20180721-162837-cct3r-meta.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,053 ERRO root Size of www.reddit.com-shallow-20180721-174539-b6prh-00000.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,053 ERRO root Mtime of www.reddit.com-shallow-20180721-174539-b6prh-00000.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,053 ERRO root Size of www.reddit.com-shallow-20180721-174539-b6prh-meta.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,053 ERRO root Mtime of www.reddit.com-shallow-20180721-174539-b6prh-meta.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,054 ERRO root Size of www.skytopia.com-inf-20180720-215528-4xn1a-00002.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,054 ERRO root Mtime of www.skytopia.com-inf-20180720-215528-4xn1a-00002.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,054 ERRO root Size of www.skytopia.com-inf-20180720-215528-4xn1a-meta.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,054 ERRO root Mtime of www.skytopia.com-inf-20180720-215528-4xn1a-meta.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,280 INFO root Processing item archiveteam_archivebot_go_20180722090001
-2018-07-22 12:00:04,280 INFO root Skipping archiveteam_archivebot_go_20180722090001_archive.torrent
-2018-07-22 12:00:04,280 INFO root Skipping archiveteam_archivebot_go_20180722090001_files.xml
-2018-07-22 12:00:04,280 INFO root Skipping archiveteam_archivebot_go_20180722090001_meta.sqlite
-2018-07-22 12:00:04,281 INFO root Skipping archiveteam_archivebot_go_20180722090001_meta.xml
-2018-07-22 12:00:04,380 INFO root Processing item astrid_archivebot_forums_zeroin_co_uk_20180503
-2018-07-22 12:00:04,380 INFO root Skipping astrid_archivebot_forums_zeroin_co_uk_20180503.cdx.idx
-2018-07-22 12:00:04,381 INFO root Skipping astrid_archivebot_forums_zeroin_co_uk_20180503_archive.torrent
-2018-07-22 12:00:04,381 INFO root Skipping astrid_archivebot_forums_zeroin_co_uk_20180503_files.xml
-2018-07-22 12:00:04,381 INFO root Skipping astrid_archivebot_forums_zeroin_co_uk_20180503_meta.sqlite
-2018-07-22 12:00:04,381 INFO root Skipping astrid_archivebot_forums_zeroin_co_uk_20180503_meta.xml
-2018-07-22 12:00:04,658 INFO root Processing item astrid_archivebot_tindeck_com_20180712
-2018-07-22 12:00:04,659 INFO root Skipping astrid_archivebot_tindeck_com_20180712.cdx.idx
-2018-07-22 12:00:04,659 INFO root Skipping astrid_archivebot_tindeck_com_20180712_archive.torrent
-2018-07-22 12:00:04,659 INFO root Skipping astrid_archivebot_tindeck_com_20180712_files.xml
-2018-07-22 12:00:04,659 INFO root Skipping astrid_archivebot_tindeck_com_20180712_meta.sqlite
-2018-07-22 12:00:04,659 INFO root Skipping astrid_archivebot_tindeck_com_20180712_meta.xml
-2018-07-22 12:00:04,661 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00095.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,661 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00095.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,661 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00096.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,661 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00096.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,661 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00097.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,662 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00097.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,662 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00098.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,662 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00098.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,662 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00099.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,662 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00099.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,662 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00100.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,662 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00100.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,662 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00101.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,662 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00101.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,662 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00102.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,662 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00102.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,663 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00103.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,663 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00103.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,663 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00104.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,663 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00104.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,663 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00105.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,663 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00105.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,663 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00106.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,663 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00106.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,663 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00107.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,663 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00107.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,663 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00108.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,664 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00108.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,664 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00109.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,664 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00109.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,664 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00110.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,664 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00110.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,664 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00111.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,664 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00111.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,664 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00112.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,664 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00112.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,664 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00113.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,664 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00113.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,664 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00114.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,665 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00114.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,665 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00115.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,665 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00115.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,665 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00116.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,665 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00116.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,665 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00117.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,665 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00117.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,665 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00118.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,665 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00118.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,665 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00119.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,665 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00119.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,665 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00120.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,666 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00120.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,666 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00121.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,666 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00121.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,666 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00122.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,666 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00122.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,666 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00123.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,666 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00123.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,666 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00124.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,666 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00124.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,667 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00125.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,667 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00125.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,667 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00126.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,667 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00126.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,667 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00127.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,667 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00127.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,667 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00128.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,667 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00128.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,667 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00129.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,667 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00129.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,667 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00130.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,668 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00130.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,668 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00131.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,668 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00131.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,668 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00132.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,668 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00132.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,668 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00133.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,668 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00133.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,668 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00134.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,668 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00134.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,668 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00135.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,668 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00135.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,669 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00136.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,669 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00136.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,669 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00137.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,669 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00137.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,669 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00138.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,669 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00138.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,669 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00139.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,669 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00139.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,669 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00140.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,669 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00140.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,669 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00141.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,669 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00141.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,670 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00142.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,670 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00142.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,670 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00143.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,670 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00143.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,670 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00144.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,670 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00144.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,670 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00145.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,670 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00145.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,670 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00146.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,670 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00146.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,671 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00147.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,671 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00147.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,671 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00148.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,671 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00148.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,671 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00149.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,671 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00149.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,671 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00150.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,671 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00150.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,672 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00151.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,672 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00151.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,672 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00152.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,672 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00152.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,672 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00153.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,672 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00153.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,672 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00154.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,672 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00154.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,672 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00155.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,672 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00155.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,673 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00156.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,673 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00156.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,673 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00157.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,673 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00157.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,673 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00158.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,673 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00158.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,673 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00159.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,673 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00159.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,673 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00160.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,674 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00160.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,674 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00161.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,674 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00161.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,674 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00162.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,674 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00162.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,674 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00163.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,674 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00163.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,674 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00164.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,674 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00164.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,674 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00165.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,675 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00165.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,675 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00166.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,675 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00166.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,675 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00167.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,675 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00167.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,675 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00168.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,675 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00168.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,675 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00169.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,675 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00169.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,676 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00170.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,676 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00170.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,676 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00171.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,676 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00171.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,676 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00172.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,676 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00172.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,676 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00173.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,676 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00173.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,676 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00174.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,676 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00174.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,676 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00175.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,677 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00175.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,677 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00176.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,677 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00176.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,677 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00177.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,677 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00177.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,677 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00178.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,677 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00178.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,677 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00179.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,677 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00179.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,677 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00180.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,678 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00180.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,678 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00181.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,678 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00181.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,678 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00182.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,678 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00182.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,678 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00183.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,678 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00183.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,678 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00184.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,678 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00184.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,678 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00185.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,678 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00185.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,678 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00186.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,679 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00186.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,679 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00187.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,679 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00187.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,679 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00190.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,679 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00190.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,679 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00191.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,679 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00191.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,679 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00192.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,679 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00192.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,679 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00193.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,680 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00193.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,680 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00194.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,680 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00194.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,680 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00195.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,680 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00195.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,680 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00196.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,680 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00196.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,680 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00197.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,681 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00197.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,681 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00198.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,681 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00198.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,681 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00199.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,681 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00199.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,681 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00200.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,681 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00200.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,681 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00201.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,681 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00201.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,681 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00202.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,682 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00202.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,682 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00203.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,682 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00203.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,682 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00204.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,682 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00204.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,682 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00205.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,682 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00205.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,682 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00206.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,682 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00206.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,682 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00207.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,682 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00207.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,682 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00208.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,682 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00208.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,683 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00209.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,683 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00209.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,683 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00210.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,683 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00210.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,683 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00213.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,683 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00213.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,683 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00214.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,683 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00214.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,683 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00215.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,683 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00215.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,684 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00216.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,684 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00216.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,684 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00217.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,684 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00217.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,684 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00218.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,684 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00218.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,684 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00219.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,684 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00219.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,684 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00220.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,684 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00220.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,685 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00221.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,685 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00221.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,685 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00222.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,685 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00222.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,685 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00233.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,685 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00233.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,685 ERRO root Size of tindeck.com-inf-20180712-080013-85tki-00234.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,685 ERRO root Mtime of tindeck.com-inf-20180712-080013-85tki-00234.warc.os.cdx.gz is missing
-2018-07-22 12:00:04,686 INFO root Writing last-update file
-2018-07-22 12:00:04,686 INFO root Done
+2018-07-22 18:00:01,585 DEBU root Last attempt: 2018-07-22T12:00:01Z
+2018-07-22 18:00:01,585 DEBU root Last success: 2018-07-22T12:00:01Z
+2018-07-22 18:00:01,585 INFO root Writing last-update file
+2018-07-22 18:00:01,586 INFO root Query: 'collection:archivebot oai_updatedate:[2018-07-22T12:00:01Z TO null]'
+2018-07-22 18:00:03,161 INFO root Processing item archiveteam_archivebot_go_20180721220002
+2018-07-22 18:00:03,161 INFO root Skipping archiveteam_archivebot_go_20180721220002.cdx.idx
+2018-07-22 18:00:03,162 INFO root Skipping archiveteam_archivebot_go_20180721220002_archive.torrent
+2018-07-22 18:00:03,162 INFO root Skipping archiveteam_archivebot_go_20180721220002_files.xml
+2018-07-22 18:00:03,162 INFO root Skipping archiveteam_archivebot_go_20180721220002_meta.sqlite
+2018-07-22 18:00:03,162 INFO root Skipping archiveteam_archivebot_go_20180721220002_meta.xml
+2018-07-22 18:00:03,803 INFO root Processing item archiveteam_archivebot_go_20180722090001
+2018-07-22 18:00:03,804 INFO root Skipping archiveteam_archivebot_go_20180722090001_archive.torrent
+2018-07-22 18:00:03,804 INFO root Skipping archiveteam_archivebot_go_20180722090001_files.xml
+2018-07-22 18:00:03,804 INFO root Skipping archiveteam_archivebot_go_20180722090001_meta.sqlite
+2018-07-22 18:00:03,804 INFO root Skipping archiveteam_archivebot_go_20180722090001_meta.xml
+2018-07-22 18:00:03,804 ERRO root Size of boards.straightdope.com-inf-20180705-045000-3cz7m-00031.warc.os.cdx.gz is missing
+2018-07-22 18:00:03,804 ERRO root Mtime of boards.straightdope.com-inf-20180705-045000-3cz7m-00031.warc.os.cdx.gz is missing
+2018-07-22 18:00:03,805 ERRO root Size of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00052.warc.os.cdx.gz is missing
+2018-07-22 18:00:03,805 ERRO root Mtime of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00052.warc.os.cdx.gz is missing
+2018-07-22 18:00:03,805 ERRO root Size of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00053.warc.os.cdx.gz is missing
+2018-07-22 18:00:03,805 ERRO root Mtime of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00053.warc.os.cdx.gz is missing
+2018-07-22 18:00:03,805 ERRO root Size of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00054.warc.os.cdx.gz is missing
+2018-07-22 18:00:03,805 ERRO root Mtime of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00054.warc.os.cdx.gz is missing
+2018-07-22 18:00:03,806 ERRO root Size of chessprogramming.wikispaces.com-inf-20180713-061319-3nicf-00016.warc.os.cdx.gz is missing
+2018-07-22 18:00:03,806 ERRO root Mtime of chessprogramming.wikispaces.com-inf-20180713-061319-3nicf-00016.warc.os.cdx.gz is missing
+2018-07-22 18:00:03,806 ERRO root Size of community.talktalk.co.uk-shallow-20180721-215313-1vhdq-meta.warc.os.cdx.gz is missing
+2018-07-22 18:00:03,806 ERRO root Mtime of community.talktalk.co.uk-shallow-20180721-215313-1vhdq-meta.warc.os.cdx.gz is missing
+2018-07-22 18:00:03,806 ERRO root Size of forum.bodybuilding.com-inf-20180525-005751-dl5zr-00020.warc.os.cdx.gz is missing
+2018-07-22 18:00:03,806 ERRO root Mtime of forum.bodybuilding.com-inf-20180525-005751-dl5zr-00020.warc.os.cdx.gz is missing
+2018-07-22 18:00:03,806 ERRO root Size of gratisjogos.uol.com.br-inf-20180719-102935-cunzt-00008.warc.os.cdx.gz is missing
+2018-07-22 18:00:03,807 ERRO root Mtime of gratisjogos.uol.com.br-inf-20180719-102935-cunzt-00008.warc.os.cdx.gz is missing
+2018-07-22 18:00:04,055 INFO root Processing item astrid_archivebot_bazaar_tf_20180710
+2018-07-22 18:00:04,055 INFO root Skipping astrid_archivebot_bazaar_tf_20180710.cdx.idx
+2018-07-22 18:00:04,055 INFO root Skipping astrid_archivebot_bazaar_tf_20180710_archive.torrent
+2018-07-22 18:00:04,055 INFO root Skipping astrid_archivebot_bazaar_tf_20180710_files.xml
+2018-07-22 18:00:04,056 INFO root Skipping astrid_archivebot_bazaar_tf_20180710_meta.sqlite
+2018-07-22 18:00:04,056 INFO root Skipping astrid_archivebot_bazaar_tf_20180710_meta.xml
+2018-07-22 18:00:04,383 INFO root Processing item astrid_archivebot_tindeck_com_20180712
+2018-07-22 18:00:04,384 INFO root Skipping astrid_archivebot_tindeck_com_20180712.cdx.idx
+2018-07-22 18:00:04,384 INFO root Skipping astrid_archivebot_tindeck_com_20180712_archive.torrent
+2018-07-22 18:00:04,384 INFO root Skipping astrid_archivebot_tindeck_com_20180712_files.xml
+2018-07-22 18:00:04,384 INFO root Skipping astrid_archivebot_tindeck_com_20180712_meta.sqlite
+2018-07-22 18:00:04,385 INFO root Skipping astrid_archivebot_tindeck_com_20180712_meta.xml
+2018-07-22 18:00:04,394 INFO root Writing last-update file
+2018-07-22 18:00:04,394 INFO root Done
