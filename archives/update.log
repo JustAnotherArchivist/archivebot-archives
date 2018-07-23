@@ -1,45 +1,18 @@
-2018-07-22 18:00:01,585 DEBU root Last attempt: 2018-07-22T12:00:01Z
-2018-07-22 18:00:01,585 DEBU root Last success: 2018-07-22T12:00:01Z
-2018-07-22 18:00:01,585 INFO root Writing last-update file
-2018-07-22 18:00:01,586 INFO root Query: 'collection:archivebot oai_updatedate:[2018-07-22T12:00:01Z TO null]'
-2018-07-22 18:00:03,161 INFO root Processing item archiveteam_archivebot_go_20180721220002
-2018-07-22 18:00:03,161 INFO root Skipping archiveteam_archivebot_go_20180721220002.cdx.idx
-2018-07-22 18:00:03,162 INFO root Skipping archiveteam_archivebot_go_20180721220002_archive.torrent
-2018-07-22 18:00:03,162 INFO root Skipping archiveteam_archivebot_go_20180721220002_files.xml
-2018-07-22 18:00:03,162 INFO root Skipping archiveteam_archivebot_go_20180721220002_meta.sqlite
-2018-07-22 18:00:03,162 INFO root Skipping archiveteam_archivebot_go_20180721220002_meta.xml
-2018-07-22 18:00:03,803 INFO root Processing item archiveteam_archivebot_go_20180722090001
-2018-07-22 18:00:03,804 INFO root Skipping archiveteam_archivebot_go_20180722090001_archive.torrent
-2018-07-22 18:00:03,804 INFO root Skipping archiveteam_archivebot_go_20180722090001_files.xml
-2018-07-22 18:00:03,804 INFO root Skipping archiveteam_archivebot_go_20180722090001_meta.sqlite
-2018-07-22 18:00:03,804 INFO root Skipping archiveteam_archivebot_go_20180722090001_meta.xml
-2018-07-22 18:00:03,804 ERRO root Size of boards.straightdope.com-inf-20180705-045000-3cz7m-00031.warc.os.cdx.gz is missing
-2018-07-22 18:00:03,804 ERRO root Mtime of boards.straightdope.com-inf-20180705-045000-3cz7m-00031.warc.os.cdx.gz is missing
-2018-07-22 18:00:03,805 ERRO root Size of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00052.warc.os.cdx.gz is missing
-2018-07-22 18:00:03,805 ERRO root Mtime of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00052.warc.os.cdx.gz is missing
-2018-07-22 18:00:03,805 ERRO root Size of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00053.warc.os.cdx.gz is missing
-2018-07-22 18:00:03,805 ERRO root Mtime of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00053.warc.os.cdx.gz is missing
-2018-07-22 18:00:03,805 ERRO root Size of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00054.warc.os.cdx.gz is missing
-2018-07-22 18:00:03,805 ERRO root Mtime of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00054.warc.os.cdx.gz is missing
-2018-07-22 18:00:03,806 ERRO root Size of chessprogramming.wikispaces.com-inf-20180713-061319-3nicf-00016.warc.os.cdx.gz is missing
-2018-07-22 18:00:03,806 ERRO root Mtime of chessprogramming.wikispaces.com-inf-20180713-061319-3nicf-00016.warc.os.cdx.gz is missing
-2018-07-22 18:00:03,806 ERRO root Size of community.talktalk.co.uk-shallow-20180721-215313-1vhdq-meta.warc.os.cdx.gz is missing
-2018-07-22 18:00:03,806 ERRO root Mtime of community.talktalk.co.uk-shallow-20180721-215313-1vhdq-meta.warc.os.cdx.gz is missing
-2018-07-22 18:00:03,806 ERRO root Size of forum.bodybuilding.com-inf-20180525-005751-dl5zr-00020.warc.os.cdx.gz is missing
-2018-07-22 18:00:03,806 ERRO root Mtime of forum.bodybuilding.com-inf-20180525-005751-dl5zr-00020.warc.os.cdx.gz is missing
-2018-07-22 18:00:03,806 ERRO root Size of gratisjogos.uol.com.br-inf-20180719-102935-cunzt-00008.warc.os.cdx.gz is missing
-2018-07-22 18:00:03,807 ERRO root Mtime of gratisjogos.uol.com.br-inf-20180719-102935-cunzt-00008.warc.os.cdx.gz is missing
-2018-07-22 18:00:04,055 INFO root Processing item astrid_archivebot_bazaar_tf_20180710
-2018-07-22 18:00:04,055 INFO root Skipping astrid_archivebot_bazaar_tf_20180710.cdx.idx
-2018-07-22 18:00:04,055 INFO root Skipping astrid_archivebot_bazaar_tf_20180710_archive.torrent
-2018-07-22 18:00:04,055 INFO root Skipping astrid_archivebot_bazaar_tf_20180710_files.xml
-2018-07-22 18:00:04,056 INFO root Skipping astrid_archivebot_bazaar_tf_20180710_meta.sqlite
-2018-07-22 18:00:04,056 INFO root Skipping astrid_archivebot_bazaar_tf_20180710_meta.xml
-2018-07-22 18:00:04,383 INFO root Processing item astrid_archivebot_tindeck_com_20180712
-2018-07-22 18:00:04,384 INFO root Skipping astrid_archivebot_tindeck_com_20180712.cdx.idx
-2018-07-22 18:00:04,384 INFO root Skipping astrid_archivebot_tindeck_com_20180712_archive.torrent
-2018-07-22 18:00:04,384 INFO root Skipping astrid_archivebot_tindeck_com_20180712_files.xml
-2018-07-22 18:00:04,384 INFO root Skipping astrid_archivebot_tindeck_com_20180712_meta.sqlite
-2018-07-22 18:00:04,385 INFO root Skipping astrid_archivebot_tindeck_com_20180712_meta.xml
-2018-07-22 18:00:04,394 INFO root Writing last-update file
-2018-07-22 18:00:04,394 INFO root Done
+2018-07-23 00:00:02,137 DEBU root Last attempt: 2018-07-22T18:00:01Z
+2018-07-23 00:00:02,137 DEBU root Last success: 2018-07-22T18:00:01Z
+2018-07-23 00:00:02,137 INFO root Writing last-update file
+2018-07-23 00:00:02,138 INFO root Query: 'collection:archivebot oai_updatedate:[2018-07-22T18:00:01Z TO null]'
+2018-07-23 00:00:03,252 INFO root Processing item archiveteam_archivebot_go_20180722090001
+2018-07-23 00:00:03,253 INFO root Skipping archiveteam_archivebot_go_20180722090001.cdx.idx
+2018-07-23 00:00:03,253 INFO root Skipping archiveteam_archivebot_go_20180722090001_archive.torrent
+2018-07-23 00:00:03,253 INFO root Skipping archiveteam_archivebot_go_20180722090001_files.xml
+2018-07-23 00:00:03,253 INFO root Skipping archiveteam_archivebot_go_20180722090001_meta.sqlite
+2018-07-23 00:00:03,253 INFO root Skipping archiveteam_archivebot_go_20180722090001_meta.xml
+2018-07-23 00:00:03,542 INFO root Processing item astrid_archivebot_tindeck_com_20180712
+2018-07-23 00:00:03,543 INFO root Skipping astrid_archivebot_tindeck_com_20180712.cdx.idx
+2018-07-23 00:00:03,543 INFO root Skipping astrid_archivebot_tindeck_com_20180712_archive.torrent
+2018-07-23 00:00:03,543 INFO root Skipping astrid_archivebot_tindeck_com_20180712_files.xml
+2018-07-23 00:00:03,543 INFO root Skipping astrid_archivebot_tindeck_com_20180712_meta.sqlite
+2018-07-23 00:00:03,543 INFO root Skipping astrid_archivebot_tindeck_com_20180712_meta.xml
+2018-07-23 00:00:03,548 INFO root Writing last-update file
+2018-07-23 00:00:03,549 INFO root Done
