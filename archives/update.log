@@ -1,34 +1,91 @@
-2018-07-25 00:00:02,083 DEBU root Last attempt: 2018-07-24T18:00:01Z
-2018-07-25 00:00:02,083 DEBU root Last success: 2018-07-24T18:00:01Z
-2018-07-25 00:00:02,083 INFO root Writing last-update file
-2018-07-25 00:00:02,084 INFO root Query: 'collection:archivebot oai_updatedate:[2018-07-24T18:00:01Z TO null]'
-2018-07-25 00:00:03,202 INFO root Processing item archiveteam_archivebot_go_20180724110001
-2018-07-25 00:00:03,202 INFO root Skipping archiveteam_archivebot_go_20180724110001_archive.torrent
-2018-07-25 00:00:03,202 INFO root Skipping archiveteam_archivebot_go_20180724110001_files.xml
-2018-07-25 00:00:03,203 INFO root Skipping archiveteam_archivebot_go_20180724110001_meta.sqlite
-2018-07-25 00:00:03,203 INFO root Skipping archiveteam_archivebot_go_20180724110001_meta.xml
-2018-07-25 00:00:03,465 INFO root Processing item archiveteam_archivebot_go_20180724200001
-2018-07-25 00:00:03,466 INFO root Skipping archiveteam_archivebot_go_20180724200001_archive.torrent
-2018-07-25 00:00:03,466 INFO root Skipping archiveteam_archivebot_go_20180724200001_files.xml
-2018-07-25 00:00:03,466 INFO root Skipping archiveteam_archivebot_go_20180724200001_meta.sqlite
-2018-07-25 00:00:03,466 INFO root Skipping archiveteam_archivebot_go_20180724200001_meta.xml
-2018-07-25 00:00:03,557 INFO root Processing item astrid_archivebot_desmume_org_20180724
-2018-07-25 00:00:03,557 INFO root Skipping astrid_archivebot_desmume_org_20180724.cdx.idx
-2018-07-25 00:00:03,557 INFO root Skipping astrid_archivebot_desmume_org_20180724_archive.torrent
-2018-07-25 00:00:03,557 INFO root Skipping astrid_archivebot_desmume_org_20180724_files.xml
-2018-07-25 00:00:03,558 INFO root Skipping astrid_archivebot_desmume_org_20180724_meta.sqlite
-2018-07-25 00:00:03,558 INFO root Skipping astrid_archivebot_desmume_org_20180724_meta.xml
-2018-07-25 00:00:03,651 INFO root Processing item astrid_archivebot_news_dailytoast_com_20180723
-2018-07-25 00:00:03,652 INFO root Skipping astrid_archivebot_news_dailytoast_com_20180723.cdx.idx
-2018-07-25 00:00:03,652 INFO root Skipping astrid_archivebot_news_dailytoast_com_20180723_archive.torrent
-2018-07-25 00:00:03,652 INFO root Skipping astrid_archivebot_news_dailytoast_com_20180723_files.xml
-2018-07-25 00:00:03,652 INFO root Skipping astrid_archivebot_news_dailytoast_com_20180723_meta.sqlite
-2018-07-25 00:00:03,652 INFO root Skipping astrid_archivebot_news_dailytoast_com_20180723_meta.xml
-2018-07-25 00:00:03,763 INFO root Processing item astrid_archivebot_www_fceux_com_20180724
-2018-07-25 00:00:03,763 INFO root Skipping astrid_archivebot_www_fceux_com_20180724.cdx.idx
-2018-07-25 00:00:03,763 INFO root Skipping astrid_archivebot_www_fceux_com_20180724_archive.torrent
-2018-07-25 00:00:03,764 INFO root Skipping astrid_archivebot_www_fceux_com_20180724_files.xml
-2018-07-25 00:00:03,764 INFO root Skipping astrid_archivebot_www_fceux_com_20180724_meta.sqlite
-2018-07-25 00:00:03,764 INFO root Skipping astrid_archivebot_www_fceux_com_20180724_meta.xml
-2018-07-25 00:00:03,764 INFO root Writing last-update file
-2018-07-25 00:00:03,766 INFO root Done
+2018-07-25 06:00:01,576 DEBU root Last attempt: 2018-07-25T00:00:02Z
+2018-07-25 06:00:01,577 DEBU root Last success: 2018-07-25T00:00:02Z
+2018-07-25 06:00:01,577 INFO root Writing last-update file
+2018-07-25 06:00:01,577 INFO root Query: 'collection:archivebot oai_updatedate:[2018-07-25T00:00:02Z TO null]'
+2018-07-25 06:00:03,777 INFO root Processing item archiveteam_archivebot_go_20180724110001
+2018-07-25 06:00:03,778 INFO root Skipping archiveteam_archivebot_go_20180724110001.cdx.idx
+2018-07-25 06:00:03,778 INFO root Skipping archiveteam_archivebot_go_20180724110001_archive.torrent
+2018-07-25 06:00:03,778 INFO root Skipping archiveteam_archivebot_go_20180724110001_files.xml
+2018-07-25 06:00:03,778 INFO root Skipping archiveteam_archivebot_go_20180724110001_meta.sqlite
+2018-07-25 06:00:03,778 INFO root Skipping archiveteam_archivebot_go_20180724110001_meta.xml
+2018-07-25 06:00:03,941 INFO root Processing item archiveteam_archivebot_go_20180724200001
+2018-07-25 06:00:03,942 INFO root Skipping archiveteam_archivebot_go_20180724200001_archive.torrent
+2018-07-25 06:00:03,942 INFO root Skipping archiveteam_archivebot_go_20180724200001_files.xml
+2018-07-25 06:00:03,942 INFO root Skipping archiveteam_archivebot_go_20180724200001_meta.sqlite
+2018-07-25 06:00:03,942 INFO root Skipping archiveteam_archivebot_go_20180724200001_meta.xml
+2018-07-25 06:00:03,942 ERRO root Size of boinc.gorlaeus.net-inf-20180723-124821-1czz6-00000.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,942 ERRO root Mtime of boinc.gorlaeus.net-inf-20180723-124821-1czz6-00000.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,942 ERRO root Size of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00103.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,942 ERRO root Mtime of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00103.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,943 ERRO root Size of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00104.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,943 ERRO root Mtime of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00104.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,943 ERRO root Size of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00105.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,943 ERRO root Mtime of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00105.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,943 ERRO root Size of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00106.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,943 ERRO root Mtime of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00106.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,943 ERRO root Size of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00107.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,943 ERRO root Mtime of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00107.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,943 ERRO root Size of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00108.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,943 ERRO root Mtime of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00108.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,944 ERRO root Size of diyhpl.us-inf-20180724-014345-1skto-00001.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,944 ERRO root Mtime of diyhpl.us-inf-20180724-014345-1skto-00001.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,944 ERRO root Size of diyhpl.us-inf-20180724-014345-1skto-00002.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,944 ERRO root Mtime of diyhpl.us-inf-20180724-014345-1skto-00002.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,944 ERRO root Size of diyhpl.us-inf-20180724-014345-1skto-00003.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,944 ERRO root Mtime of diyhpl.us-inf-20180724-014345-1skto-00003.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,944 ERRO root Size of geekhack.org-inf-20180703-132606-2cmx5-00103.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,944 ERRO root Mtime of geekhack.org-inf-20180703-132606-2cmx5-00103.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,944 ERRO root Size of gnusocial.no-inf-20180619-225833-6sike-00098.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,944 ERRO root Mtime of gnusocial.no-inf-20180619-225833-6sike-00098.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,945 ERRO root Size of gnusocial.no-inf-20180619-225833-6sike-00099.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,945 ERRO root Mtime of gnusocial.no-inf-20180619-225833-6sike-00099.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,945 ERRO root Size of gnusocial.no-inf-20180619-225833-6sike-00100.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,945 ERRO root Mtime of gnusocial.no-inf-20180619-225833-6sike-00100.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,945 ERRO root Size of lowendbox.com-inf-20180723-202742-3sh24-00005.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,945 ERRO root Mtime of lowendbox.com-inf-20180723-202742-3sh24-00005.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,945 ERRO root Size of np.reddit.com-shallow-20180724-134602-c2hi5-00000.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,945 ERRO root Mtime of np.reddit.com-shallow-20180724-134602-c2hi5-00000.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,945 ERRO root Size of np.reddit.com-shallow-20180724-134602-c2hi5-meta.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,946 ERRO root Mtime of np.reddit.com-shallow-20180724-134602-c2hi5-meta.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,946 ERRO root Size of old.reddit.com-inf-20180723-201432-duhic-00003.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,946 ERRO root Mtime of old.reddit.com-inf-20180723-201432-duhic-00003.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,946 ERRO root Size of old.reddit.com-inf-20180723-201432-duhic-00004.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,946 ERRO root Mtime of old.reddit.com-inf-20180723-201432-duhic-00004.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,946 ERRO root Size of old.reddit.com-shallow-20180724-134550-d3g33-00000.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,946 ERRO root Mtime of old.reddit.com-shallow-20180724-134550-d3g33-00000.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,946 ERRO root Size of old.reddit.com-shallow-20180724-134550-d3g33-meta.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,946 ERRO root Mtime of old.reddit.com-shallow-20180724-134550-d3g33-meta.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,946 ERRO root Size of www.archerytalk.com-inf-20180406-014947-at82q-00108.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,947 ERRO root Mtime of www.archerytalk.com-inf-20180406-014947-at82q-00108.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,947 ERRO root Size of www.chiefdelphi.com-inf-20180629-063833-7peri-00057.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,947 ERRO root Mtime of www.chiefdelphi.com-inf-20180629-063833-7peri-00057.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,947 ERRO root Size of www.gob.mx-inf-20180628-234728-1fwh4-00116.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,947 ERRO root Mtime of www.gob.mx-inf-20180628-234728-1fwh4-00116.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,947 ERRO root Size of www.lowendtalk.com-inf-20180723-211306-6rh67-00002.warc.os.cdx.gz is missing
+2018-07-25 06:00:03,947 ERRO root Mtime of www.lowendtalk.com-inf-20180723-211306-6rh67-00002.warc.os.cdx.gz is missing
+2018-07-25 06:00:04,211 INFO root Processing item archiveteam_archivebot_go_20180725040001
+2018-07-25 06:00:04,211 INFO root Skipping 1czz691hvabj4c1j2zaj0xglo.log.gz
+2018-07-25 06:00:04,212 INFO root Skipping archiveteam_archivebot_go_20180725040001_archive.torrent
+2018-07-25 06:00:04,212 INFO root Skipping archiveteam_archivebot_go_20180725040001_files.xml
+2018-07-25 06:00:04,212 INFO root Skipping archiveteam_archivebot_go_20180725040001_meta.sqlite
+2018-07-25 06:00:04,212 INFO root Skipping archiveteam_archivebot_go_20180725040001_meta.xml
+2018-07-25 06:00:04,493 INFO root Processing item astrid_archivebot_bazaar_tf_20180710
+2018-07-25 06:00:04,493 INFO root Skipping astrid_archivebot_bazaar_tf_20180710.cdx.idx
+2018-07-25 06:00:04,493 INFO root Skipping astrid_archivebot_bazaar_tf_20180710_archive.torrent
+2018-07-25 06:00:04,493 INFO root Skipping astrid_archivebot_bazaar_tf_20180710_files.xml
+2018-07-25 06:00:04,494 INFO root Skipping astrid_archivebot_bazaar_tf_20180710_meta.sqlite
+2018-07-25 06:00:04,494 INFO root Skipping astrid_archivebot_bazaar_tf_20180710_meta.xml
+2018-07-25 06:00:04,584 INFO root Processing item astrid_archivebot_news_dailytoast_com_20180723
+2018-07-25 06:00:04,584 INFO root Skipping astrid_archivebot_news_dailytoast_com_20180723.cdx.idx
+2018-07-25 06:00:04,584 INFO root Skipping astrid_archivebot_news_dailytoast_com_20180723_archive.torrent
+2018-07-25 06:00:04,584 INFO root Skipping astrid_archivebot_news_dailytoast_com_20180723_files.xml
+2018-07-25 06:00:04,585 INFO root Skipping astrid_archivebot_news_dailytoast_com_20180723_meta.sqlite
+2018-07-25 06:00:04,585 INFO root Skipping astrid_archivebot_news_dailytoast_com_20180723_meta.xml
+2018-07-25 06:00:04,680 INFO root Processing item astrid_archivebot_www_ivankatrump_com_20180724
+2018-07-25 06:00:04,680 INFO root Skipping astrid_archivebot_www_ivankatrump_com_20180724.cdx.idx
+2018-07-25 06:00:04,680 INFO root Skipping astrid_archivebot_www_ivankatrump_com_20180724_archive.torrent
+2018-07-25 06:00:04,680 INFO root Skipping astrid_archivebot_www_ivankatrump_com_20180724_files.xml
+2018-07-25 06:00:04,680 INFO root Skipping astrid_archivebot_www_ivankatrump_com_20180724_meta.sqlite
+2018-07-25 06:00:04,681 INFO root Skipping astrid_archivebot_www_ivankatrump_com_20180724_meta.xml
+2018-07-25 06:00:04,681 INFO root Writing last-update file
+2018-07-25 06:00:04,681 INFO root Done
