@@ -1,108 +1,41 @@
-2018-07-26 12:00:01,609 DEBU root Last attempt: 2018-07-26T06:00:01Z
-2018-07-26 12:00:01,609 DEBU root Last success: 2018-07-26T06:00:01Z
-2018-07-26 12:00:01,609 INFO root Writing last-update file
-2018-07-26 12:00:01,610 INFO root Query: 'collection:archivebot oai_updatedate:[2018-07-26T06:00:01Z TO null]'
-2018-07-26 12:00:02,929 INFO root Processing item archiveteam_archivebot_go_20180725150001
-2018-07-26 12:00:02,930 INFO root Skipping archiveteam_archivebot_go_20180725150001.cdx.idx
-2018-07-26 12:00:02,930 INFO root Skipping archiveteam_archivebot_go_20180725150001_archive.torrent
-2018-07-26 12:00:02,930 INFO root Skipping archiveteam_archivebot_go_20180725150001_files.xml
-2018-07-26 12:00:02,930 INFO root Skipping archiveteam_archivebot_go_20180725150001_meta.sqlite
-2018-07-26 12:00:02,930 INFO root Skipping archiveteam_archivebot_go_20180725150001_meta.xml
-2018-07-26 12:00:03,973 INFO root Processing item archiveteam_archivebot_go_20180726040001
-2018-07-26 12:00:03,974 INFO root Skipping archiveteam_archivebot_go_20180726040001_archive.torrent
-2018-07-26 12:00:03,974 INFO root Skipping archiveteam_archivebot_go_20180726040001_files.xml
-2018-07-26 12:00:03,974 INFO root Skipping archiveteam_archivebot_go_20180726040001_meta.sqlite
-2018-07-26 12:00:03,974 INFO root Skipping archiveteam_archivebot_go_20180726040001_meta.xml
-2018-07-26 12:00:03,974 ERRO root Size of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00123.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,974 ERRO root Mtime of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00123.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,974 ERRO root Size of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00124.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,974 ERRO root Mtime of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00124.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,975 ERRO root Size of elsmar.com-inf-20180726-024108-7r7nl-00000.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,975 ERRO root Mtime of elsmar.com-inf-20180726-024108-7r7nl-00000.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,975 ERRO root Size of elsmar.com-inf-20180726-024108-7r7nl-meta.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,975 ERRO root Mtime of elsmar.com-inf-20180726-024108-7r7nl-meta.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,975 ERRO root Size of finance.nine.com.au-shallow-20180725-230909-accv4-00000.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,975 ERRO root Mtime of finance.nine.com.au-shallow-20180725-230909-accv4-00000.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,975 ERRO root Size of finance.nine.com.au-shallow-20180725-230909-accv4-meta.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,976 ERRO root Mtime of finance.nine.com.au-shallow-20180725-230909-accv4-meta.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,976 ERRO root Size of forums.vainglorygame.com-inf-20180721-054541-ep8cm-00009.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,976 ERRO root Mtime of forums.vainglorygame.com-inf-20180721-054541-ep8cm-00009.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,976 ERRO root Size of gary3dfxtech.net-inf-20180726-050640-borpf-00000.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,976 ERRO root Mtime of gary3dfxtech.net-inf-20180726-050640-borpf-00000.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,976 ERRO root Size of gary3dfxtech.net-inf-20180726-050640-borpf-meta.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,976 ERRO root Mtime of gary3dfxtech.net-inf-20180726-050640-borpf-meta.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,976 ERRO root Size of geekhack.org-inf-20180703-132606-2cmx5-00105.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,976 ERRO root Mtime of geekhack.org-inf-20180703-132606-2cmx5-00105.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,976 ERRO root Size of iemulators.com-inf-20180725-234242-8eh1g-00000.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,977 ERRO root Mtime of iemulators.com-inf-20180725-234242-8eh1g-00000.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,977 ERRO root Size of iemulators.com-inf-20180725-234242-8eh1g-meta.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,977 ERRO root Mtime of iemulators.com-inf-20180725-234242-8eh1g-meta.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,977 ERRO root Size of incels.net-inf-20180726-025800-drxa0-00000.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,977 ERRO root Mtime of incels.net-inf-20180726-025800-drxa0-00000.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,977 ERRO root Size of incels.net-inf-20180726-025800-drxa0-meta.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,977 ERRO root Mtime of incels.net-inf-20180726-025800-drxa0-meta.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,977 ERRO root Size of niketalk.com-inf-20180326-183642-24ihf-00165.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,977 ERRO root Mtime of niketalk.com-inf-20180326-183642-24ihf-00165.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,977 ERRO root Size of www.bgr.in-shallow-20180725-233841-42qt6-meta.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,978 ERRO root Mtime of www.bgr.in-shallow-20180725-233841-42qt6-meta.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,978 ERRO root Size of www.bookwitty.com-inf-20180624-212235-9f8s9-00017.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,978 ERRO root Mtime of www.bookwitty.com-inf-20180624-212235-9f8s9-00017.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,978 ERRO root Size of www.gob.mx-inf-20180628-234728-1fwh4-00121.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,978 ERRO root Mtime of www.gob.mx-inf-20180628-234728-1fwh4-00121.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,978 ERRO root Size of www.gog.com-shallow-20180726-004301-7a77a-00000.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,978 ERRO root Mtime of www.gog.com-shallow-20180726-004301-7a77a-00000.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,978 ERRO root Size of www.gog.com-shallow-20180726-004301-7a77a-meta.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,978 ERRO root Mtime of www.gog.com-shallow-20180726-004301-7a77a-meta.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,978 ERRO root Size of www.jamiiforums.com-inf-20180707-101128-8jgoz-00024.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,978 ERRO root Mtime of www.jamiiforums.com-inf-20180707-101128-8jgoz-00024.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,979 ERRO root Size of www.lowendtalk.com-inf-20180723-211306-6rh67-00009.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,979 ERRO root Mtime of www.lowendtalk.com-inf-20180723-211306-6rh67-00009.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,979 ERRO root Size of www.news24.com-shallow-20180726-025517-e4qkj-00000.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,979 ERRO root Mtime of www.news24.com-shallow-20180726-025517-e4qkj-00000.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,979 ERRO root Size of www.nine.com.au-inf-20180726-010918-bjeh1-00000.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,979 ERRO root Mtime of www.nine.com.au-inf-20180726-010918-bjeh1-00000.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,979 ERRO root Size of www.smh.com.au-shallow-20180726-025705-bg01a-00000.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,979 ERRO root Mtime of www.smh.com.au-shallow-20180726-025705-bg01a-00000.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,979 ERRO root Size of www.smh.com.au-shallow-20180726-025705-bg01a-meta.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,979 ERRO root Mtime of www.smh.com.au-shallow-20180726-025705-bg01a-meta.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,980 ERRO root Size of www.zophar.net-inf-20180725-050040-boigt-00050.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,980 ERRO root Mtime of www.zophar.net-inf-20180725-050040-boigt-00050.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,980 ERRO root Size of www.zophar.net-inf-20180725-050040-boigt-00057.warc.os.cdx.gz is missing
-2018-07-26 12:00:03,980 ERRO root Mtime of www.zophar.net-inf-20180725-050040-boigt-00057.warc.os.cdx.gz is missing
-2018-07-26 12:00:06,321 INFO root Processing item archiveteam_archivebot_go_20180726090002
-2018-07-26 12:00:06,322 INFO root Skipping archiveteam_archivebot_go_20180726090002_archive.torrent
-2018-07-26 12:00:06,322 INFO root Skipping archiveteam_archivebot_go_20180726090002_files.xml
-2018-07-26 12:00:06,322 INFO root Skipping archiveteam_archivebot_go_20180726090002_meta.sqlite
-2018-07-26 12:00:06,322 INFO root Skipping archiveteam_archivebot_go_20180726090002_meta.xml
-2018-07-26 12:00:06,512 INFO root Processing item astrid_archivebot_news_dailytoast_com_20180723
-2018-07-26 12:00:06,516 INFO root Skipping astrid_archivebot_news_dailytoast_com_20180723.cdx.idx
-2018-07-26 12:00:06,517 INFO root Skipping astrid_archivebot_news_dailytoast_com_20180723_archive.torrent
-2018-07-26 12:00:06,517 INFO root Skipping astrid_archivebot_news_dailytoast_com_20180723_files.xml
-2018-07-26 12:00:06,517 INFO root Skipping astrid_archivebot_news_dailytoast_com_20180723_meta.sqlite
-2018-07-26 12:00:06,517 INFO root Skipping astrid_archivebot_news_dailytoast_com_20180723_meta.xml
-2018-07-26 12:00:07,046 INFO root Processing item astrid_archivebot_pleroma_site_20180726
-2018-07-26 12:00:07,046 INFO root Skipping astrid_archivebot_pleroma_site_20180726.cdx.idx
-2018-07-26 12:00:07,046 INFO root Skipping astrid_archivebot_pleroma_site_20180726_archive.torrent
-2018-07-26 12:00:07,046 INFO root Skipping astrid_archivebot_pleroma_site_20180726_files.xml
-2018-07-26 12:00:07,046 INFO root Skipping astrid_archivebot_pleroma_site_20180726_meta.sqlite
-2018-07-26 12:00:07,046 INFO root Skipping astrid_archivebot_pleroma_site_20180726_meta.xml
-2018-07-26 12:00:07,227 INFO root Processing item astrid_archivebot_www_joyoshare_com_20180726
-2018-07-26 12:00:07,227 INFO root Skipping astrid_archivebot_www_joyoshare_com_20180726.cdx.idx
-2018-07-26 12:00:07,228 INFO root Skipping astrid_archivebot_www_joyoshare_com_20180726_archive.torrent
-2018-07-26 12:00:07,228 INFO root Skipping astrid_archivebot_www_joyoshare_com_20180726_files.xml
-2018-07-26 12:00:07,228 INFO root Skipping astrid_archivebot_www_joyoshare_com_20180726_meta.sqlite
-2018-07-26 12:00:07,228 INFO root Skipping astrid_archivebot_www_joyoshare_com_20180726_meta.xml
-2018-07-26 12:00:07,791 INFO root Processing item astrid_archivebot_www_philome_la_20180726
-2018-07-26 12:00:07,791 INFO root Skipping astrid_archivebot_www_philome_la_20180726.cdx.idx
-2018-07-26 12:00:07,792 INFO root Skipping astrid_archivebot_www_philome_la_20180726_archive.torrent
-2018-07-26 12:00:07,792 INFO root Skipping astrid_archivebot_www_philome_la_20180726_files.xml
-2018-07-26 12:00:07,792 INFO root Skipping astrid_archivebot_www_philome_la_20180726_meta.sqlite
-2018-07-26 12:00:07,792 INFO root Skipping astrid_archivebot_www_philome_la_20180726_meta.xml
-2018-07-26 12:00:08,189 INFO root Processing item astrid_archivebot_www_virped_org_20180726
-2018-07-26 12:00:08,189 INFO root Skipping astrid_archivebot_www_virped_org_20180726.cdx.idx
-2018-07-26 12:00:08,190 INFO root Skipping astrid_archivebot_www_virped_org_20180726_archive.torrent
-2018-07-26 12:00:08,190 INFO root Skipping astrid_archivebot_www_virped_org_20180726_files.xml
-2018-07-26 12:00:08,190 INFO root Skipping astrid_archivebot_www_virped_org_20180726_meta.sqlite
-2018-07-26 12:00:08,190 INFO root Skipping astrid_archivebot_www_virped_org_20180726_meta.xml
-2018-07-26 12:00:08,190 INFO root Writing last-update file
-2018-07-26 12:00:08,191 INFO root Done
+2018-07-26 18:00:02,238 DEBU root Last attempt: 2018-07-26T12:00:01Z
+2018-07-26 18:00:02,238 DEBU root Last success: 2018-07-26T12:00:01Z
+2018-07-26 18:00:02,239 INFO root Writing last-update file
+2018-07-26 18:00:02,239 INFO root Query: 'collection:archivebot oai_updatedate:[2018-07-26T12:00:01Z TO null]'
+2018-07-26 18:00:03,659 INFO root Processing item archiveteam_archivebot_go_20180726040001
+2018-07-26 18:00:03,660 INFO root Skipping archiveteam_archivebot_go_20180726040001.cdx.idx
+2018-07-26 18:00:03,660 INFO root Skipping archiveteam_archivebot_go_20180726040001_archive.torrent
+2018-07-26 18:00:03,660 INFO root Skipping archiveteam_archivebot_go_20180726040001_files.xml
+2018-07-26 18:00:03,660 INFO root Skipping archiveteam_archivebot_go_20180726040001_meta.sqlite
+2018-07-26 18:00:03,660 INFO root Skipping archiveteam_archivebot_go_20180726040001_meta.xml
+2018-07-26 18:00:03,841 INFO root Processing item archiveteam_archivebot_go_20180726090002
+2018-07-26 18:00:03,841 INFO root Skipping archiveteam_archivebot_go_20180726090002.cdx.idx
+2018-07-26 18:00:03,842 INFO root Skipping archiveteam_archivebot_go_20180726090002_archive.torrent
+2018-07-26 18:00:03,842 INFO root Skipping archiveteam_archivebot_go_20180726090002_files.xml
+2018-07-26 18:00:03,842 INFO root Skipping archiveteam_archivebot_go_20180726090002_meta.sqlite
+2018-07-26 18:00:03,842 INFO root Skipping archiveteam_archivebot_go_20180726090002_meta.xml
+2018-07-26 18:00:04,273 INFO root Processing item archiveteam_archivebot_go_20180726140001
+2018-07-26 18:00:04,274 INFO root Skipping archiveteam_archivebot_go_20180726140001_archive.torrent
+2018-07-26 18:00:04,274 INFO root Skipping archiveteam_archivebot_go_20180726140001_files.xml
+2018-07-26 18:00:04,274 INFO root Skipping archiveteam_archivebot_go_20180726140001_meta.sqlite
+2018-07-26 18:00:04,274 INFO root Skipping archiveteam_archivebot_go_20180726140001_meta.xml
+2018-07-26 18:00:04,482 INFO root Processing item astrid_archivebot_news_dailytoast_com_20180723
+2018-07-26 18:00:04,482 INFO root Skipping astrid_archivebot_news_dailytoast_com_20180723.cdx.idx
+2018-07-26 18:00:04,483 INFO root Skipping astrid_archivebot_news_dailytoast_com_20180723_archive.torrent
+2018-07-26 18:00:04,483 INFO root Skipping astrid_archivebot_news_dailytoast_com_20180723_files.xml
+2018-07-26 18:00:04,483 INFO root Skipping astrid_archivebot_news_dailytoast_com_20180723_meta.sqlite
+2018-07-26 18:00:04,483 INFO root Skipping astrid_archivebot_news_dailytoast_com_20180723_meta.xml
+2018-07-26 18:00:04,607 INFO root Processing item astrid_archivebot_play_google_com_20180726
+2018-07-26 18:00:04,607 INFO root Skipping astrid_archivebot_play_google_com_20180726.cdx.idx
+2018-07-26 18:00:04,608 INFO root Skipping astrid_archivebot_play_google_com_20180726_archive.torrent
+2018-07-26 18:00:04,608 INFO root Skipping astrid_archivebot_play_google_com_20180726_files.xml
+2018-07-26 18:00:04,608 INFO root Skipping astrid_archivebot_play_google_com_20180726_meta.sqlite
+2018-07-26 18:00:04,608 INFO root Skipping astrid_archivebot_play_google_com_20180726_meta.xml
+2018-07-26 18:00:04,737 INFO root Processing item astrid_archivebot_www_leftbrainct_com_20180726
+2018-07-26 18:00:04,737 INFO root Skipping astrid_archivebot_www_leftbrainct_com_20180726.cdx.idx
+2018-07-26 18:00:04,737 INFO root Skipping astrid_archivebot_www_leftbrainct_com_20180726_archive.torrent
+2018-07-26 18:00:04,737 INFO root Skipping astrid_archivebot_www_leftbrainct_com_20180726_files.xml
+2018-07-26 18:00:04,737 INFO root Skipping astrid_archivebot_www_leftbrainct_com_20180726_meta.sqlite
+2018-07-26 18:00:04,737 INFO root Skipping astrid_archivebot_www_leftbrainct_com_20180726_meta.xml
+2018-07-26 18:00:04,738 INFO root Writing last-update file
+2018-07-26 18:00:04,738 INFO root Done
