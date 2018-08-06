@@ -1,34 +1,103 @@
-2018-08-05 18:00:02,190 DEBU root Last attempt: 2018-08-05T12:00:02Z
-2018-08-05 18:00:02,191 DEBU root Last success: 2018-08-05T12:00:02Z
-2018-08-05 18:00:02,191 INFO root Writing last-update file
-2018-08-05 18:00:02,192 INFO root Query: 'collection:archivebot oai_updatedate:[2018-08-05T12:00:02Z TO null]'
-2018-08-05 18:00:03,349 INFO root Processing item archiveteam_archivebot_go_20180804230001
-2018-08-05 18:00:03,350 INFO root Skipping archiveteam_archivebot_go_20180804230001.cdx.idx
-2018-08-05 18:00:03,350 INFO root Skipping archiveteam_archivebot_go_20180804230001_archive.torrent
-2018-08-05 18:00:03,350 INFO root Skipping archiveteam_archivebot_go_20180804230001_files.xml
-2018-08-05 18:00:03,350 INFO root Skipping archiveteam_archivebot_go_20180804230001_meta.sqlite
-2018-08-05 18:00:03,350 INFO root Skipping archiveteam_archivebot_go_20180804230001_meta.xml
-2018-08-05 18:00:03,683 INFO root Processing item archiveteam_archivebot_go_20180805060002
-2018-08-05 18:00:03,683 INFO root Skipping archiveteam_archivebot_go_20180805060002.cdx.idx
-2018-08-05 18:00:03,684 INFO root Skipping archiveteam_archivebot_go_20180805060002_archive.torrent
-2018-08-05 18:00:03,684 INFO root Skipping archiveteam_archivebot_go_20180805060002_files.xml
-2018-08-05 18:00:03,684 INFO root Skipping archiveteam_archivebot_go_20180805060002_meta.sqlite
-2018-08-05 18:00:03,684 INFO root Skipping archiveteam_archivebot_go_20180805060002_meta.xml
-2018-08-05 18:00:03,952 INFO root Processing item archiveteam_archivebot_go_20180805130001
-2018-08-05 18:00:03,952 INFO root Skipping archiveteam_archivebot_go_20180805130001_archive.torrent
-2018-08-05 18:00:03,953 INFO root Skipping archiveteam_archivebot_go_20180805130001_files.xml
-2018-08-05 18:00:03,953 INFO root Skipping archiveteam_archivebot_go_20180805130001_meta.sqlite
-2018-08-05 18:00:03,953 INFO root Skipping archiveteam_archivebot_go_20180805130001_meta.xml
-2018-08-05 18:00:04,114 INFO root Processing item archiveteam_archivebot_go_20180805160003
-2018-08-05 18:00:04,114 INFO root Skipping archiveteam_archivebot_go_20180805160003_archive.torrent
-2018-08-05 18:00:04,114 INFO root Skipping archiveteam_archivebot_go_20180805160003_files.xml
-2018-08-05 18:00:04,115 INFO root Skipping archiveteam_archivebot_go_20180805160003_meta.sqlite
-2018-08-05 18:00:04,115 INFO root Skipping archiveteam_archivebot_go_20180805160003_meta.xml
-2018-08-05 18:00:04,485 INFO root Processing item astrid_archivebot_news_dailytoast_com_20180723
-2018-08-05 18:00:04,486 INFO root Skipping astrid_archivebot_news_dailytoast_com_20180723.cdx.idx
-2018-08-05 18:00:04,486 INFO root Skipping astrid_archivebot_news_dailytoast_com_20180723_archive.torrent
-2018-08-05 18:00:04,486 INFO root Skipping astrid_archivebot_news_dailytoast_com_20180723_files.xml
-2018-08-05 18:00:04,486 INFO root Skipping astrid_archivebot_news_dailytoast_com_20180723_meta.sqlite
-2018-08-05 18:00:04,486 INFO root Skipping astrid_archivebot_news_dailytoast_com_20180723_meta.xml
-2018-08-05 18:00:04,490 INFO root Writing last-update file
-2018-08-05 18:00:04,491 INFO root Done
+2018-08-06 00:00:02,305 DEBU root Last attempt: 2018-08-05T18:00:02Z
+2018-08-06 00:00:02,306 DEBU root Last success: 2018-08-05T18:00:02Z
+2018-08-06 00:00:02,306 INFO root Writing last-update file
+2018-08-06 00:00:02,306 INFO root Query: 'collection:archivebot oai_updatedate:[2018-08-05T18:00:02Z TO null]'
+2018-08-06 00:00:09,009 INFO root Processing item archiveteam_archivebot_go_20180805130001
+2018-08-06 00:00:09,009 INFO root Skipping archiveteam_archivebot_go_20180805130001.cdx.idx
+2018-08-06 00:00:09,009 INFO root Skipping archiveteam_archivebot_go_20180805130001_archive.torrent
+2018-08-06 00:00:09,009 INFO root Skipping archiveteam_archivebot_go_20180805130001_files.xml
+2018-08-06 00:00:09,009 INFO root Skipping archiveteam_archivebot_go_20180805130001_meta.sqlite
+2018-08-06 00:00:09,010 INFO root Skipping archiveteam_archivebot_go_20180805130001_meta.xml
+2018-08-06 00:00:09,417 INFO root Processing item archiveteam_archivebot_go_20180805160003
+2018-08-06 00:00:09,418 ERRO root Size of addons.mozilla.org-inf-20180729-181049-xew9s-00022.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,418 ERRO root Mtime of addons.mozilla.org-inf-20180729-181049-xew9s-00022.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,418 ERRO root Size of alexreynard.electricsquirrel.net-inf-20180805-143858-aeidz-00000.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,418 ERRO root Mtime of alexreynard.electricsquirrel.net-inf-20180805-143858-aeidz-00000.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,418 ERRO root Size of alexreynard.electricsquirrel.net-inf-20180805-143858-aeidz-meta.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,418 ERRO root Mtime of alexreynard.electricsquirrel.net-inf-20180805-143858-aeidz-meta.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,418 INFO root Skipping archiveteam_archivebot_go_20180805160003_archive.torrent
+2018-08-06 00:00:09,418 INFO root Skipping archiveteam_archivebot_go_20180805160003_files.xml
+2018-08-06 00:00:09,419 INFO root Skipping archiveteam_archivebot_go_20180805160003_meta.sqlite
+2018-08-06 00:00:09,419 INFO root Skipping archiveteam_archivebot_go_20180805160003_meta.xml
+2018-08-06 00:00:09,419 ERRO root Size of attrition.org-inf-20180804-204008-9k8kk-00002.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,419 ERRO root Mtime of attrition.org-inf-20180804-204008-9k8kk-00002.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,419 ERRO root Size of attrition.org-inf-20180804-204008-9k8kk-00003.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,419 ERRO root Mtime of attrition.org-inf-20180804-204008-9k8kk-00003.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,419 ERRO root Size of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00227.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,419 ERRO root Mtime of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00227.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,419 ERRO root Size of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00229.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,419 ERRO root Mtime of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00229.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,419 ERRO root Size of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00230.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,419 ERRO root Mtime of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00230.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,420 ERRO root Size of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00231.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,420 ERRO root Mtime of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00231.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,420 ERRO root Size of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00232.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,420 ERRO root Mtime of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00232.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,420 ERRO root Size of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00233.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,420 ERRO root Mtime of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00233.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,420 ERRO root Size of gnusocial.no-inf-20180619-225833-6sike-00136.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,420 ERRO root Mtime of gnusocial.no-inf-20180619-225833-6sike-00136.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,420 ERRO root Size of incolor.com-inf-20180805-132301-90yh1-00000.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,420 ERRO root Mtime of incolor.com-inf-20180805-132301-90yh1-00000.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,421 ERRO root Size of incolor.com-inf-20180805-132301-90yh1-meta.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,421 ERRO root Mtime of incolor.com-inf-20180805-132301-90yh1-meta.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,421 ERRO root Size of lab.andre-michelle.com-inf-20180805-142150-9uk24-00000.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,421 ERRO root Mtime of lab.andre-michelle.com-inf-20180805-142150-9uk24-00000.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,421 ERRO root Size of lab.andre-michelle.com-inf-20180805-142150-9uk24-meta.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,421 ERRO root Mtime of lab.andre-michelle.com-inf-20180805-142150-9uk24-meta.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,421 ERRO root Size of opuszczone-miejsca.pl-inf-20180805-141149-djqov-00000.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,421 ERRO root Mtime of opuszczone-miejsca.pl-inf-20180805-141149-djqov-00000.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,421 ERRO root Size of opuszczone-miejsca.pl-inf-20180805-141149-djqov-meta.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,421 ERRO root Mtime of opuszczone-miejsca.pl-inf-20180805-141149-djqov-meta.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,422 ERRO root Size of saynotograndpajoe.com-inf-20180805-141225-ns8xu-00000.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,422 ERRO root Mtime of saynotograndpajoe.com-inf-20180805-141225-ns8xu-00000.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,422 ERRO root Size of saynotograndpajoe.com-inf-20180805-141225-ns8xu-meta.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,422 ERRO root Mtime of saynotograndpajoe.com-inf-20180805-141225-ns8xu-meta.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,422 ERRO root Size of www.brookstone.com-inf-20180804-084008-6o1sp-00001.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,422 ERRO root Mtime of www.brookstone.com-inf-20180804-084008-6o1sp-00001.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,422 ERRO root Size of www.fox5krbk.com-inf-20180802-231438-e5xob-00017.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,422 ERRO root Mtime of www.fox5krbk.com-inf-20180802-231438-e5xob-00017.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,422 ERRO root Size of www.iridion2.com-inf-20180805-132631-1hzju-00000.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,422 ERRO root Mtime of www.iridion2.com-inf-20180805-132631-1hzju-00000.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,422 ERRO root Size of www.iridion2.com-inf-20180805-132631-1hzju-meta.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,423 ERRO root Mtime of www.iridion2.com-inf-20180805-132631-1hzju-meta.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,423 ERRO root Size of www.kirkanddonna.com-inf-20180805-064842-by489-00000.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,423 ERRO root Mtime of www.kirkanddonna.com-inf-20180805-064842-by489-00000.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,423 ERRO root Size of www.kirkanddonna.com-inf-20180805-064842-by489-meta.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,423 ERRO root Mtime of www.kirkanddonna.com-inf-20180805-064842-by489-meta.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,423 ERRO root Size of www.openculture.com-inf-20180729-104509-e7d93-00033.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,423 ERRO root Mtime of www.openculture.com-inf-20180729-104509-e7d93-00033.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,424 ERRO root Size of www.openculture.com-inf-20180729-104509-e7d93-00034.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,424 ERRO root Mtime of www.openculture.com-inf-20180729-104509-e7d93-00034.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,424 ERRO root Size of www.openculture.com-inf-20180729-104509-e7d93-00035.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,424 ERRO root Mtime of www.openculture.com-inf-20180729-104509-e7d93-00035.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,424 ERRO root Size of www.openculture.com-inf-20180729-104509-e7d93-00036.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,424 ERRO root Mtime of www.openculture.com-inf-20180729-104509-e7d93-00036.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,424 ERRO root Size of www.openculture.com-inf-20180729-104509-e7d93-00037.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,424 ERRO root Mtime of www.openculture.com-inf-20180729-104509-e7d93-00037.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,425 ERRO root Size of www.openculture.com-inf-20180729-104509-e7d93-00038.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,425 ERRO root Mtime of www.openculture.com-inf-20180729-104509-e7d93-00038.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,425 ERRO root Size of www.openculture.com-inf-20180729-104509-e7d93-00039.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,425 ERRO root Mtime of www.openculture.com-inf-20180729-104509-e7d93-00039.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,425 ERRO root Size of www.openculture.com-inf-20180729-104509-e7d93-00040.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,425 ERRO root Mtime of www.openculture.com-inf-20180729-104509-e7d93-00040.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,425 ERRO root Size of www.openculture.com-inf-20180729-104509-e7d93-00041.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,425 ERRO root Mtime of www.openculture.com-inf-20180729-104509-e7d93-00041.warc.os.cdx.gz is missing
+2018-08-06 00:00:09,581 INFO root Processing item archiveteam_archivebot_go_20180805190001
+2018-08-06 00:00:09,581 INFO root Skipping archiveteam_archivebot_go_20180805190001_files.xml
+2018-08-06 00:00:09,581 INFO root Skipping archiveteam_archivebot_go_20180805190001_meta.sqlite
+2018-08-06 00:00:09,582 INFO root Skipping archiveteam_archivebot_go_20180805190001_meta.xml
+2018-08-06 00:00:09,786 INFO root Processing item astrid_archivebot_news_dailytoast_com_20180723
+2018-08-06 00:00:09,786 INFO root Skipping astrid_archivebot_news_dailytoast_com_20180723.cdx.idx
+2018-08-06 00:00:09,786 INFO root Skipping astrid_archivebot_news_dailytoast_com_20180723_archive.torrent
+2018-08-06 00:00:09,787 INFO root Skipping astrid_archivebot_news_dailytoast_com_20180723_files.xml
+2018-08-06 00:00:09,787 INFO root Skipping astrid_archivebot_news_dailytoast_com_20180723_meta.sqlite
+2018-08-06 00:00:09,787 INFO root Skipping astrid_archivebot_news_dailytoast_com_20180723_meta.xml
+2018-08-06 00:00:09,930 INFO root Processing item astrid_archivebot_urls-transfer_sh-nine_com_au_20180726
+2018-08-06 00:00:09,931 INFO root Skipping astrid_archivebot_urls-transfer_sh-nine_com_au_20180726.cdx.idx
+2018-08-06 00:00:09,931 INFO root Skipping astrid_archivebot_urls-transfer_sh-nine_com_au_20180726_archive.torrent
+2018-08-06 00:00:09,931 INFO root Skipping astrid_archivebot_urls-transfer_sh-nine_com_au_20180726_files.xml
+2018-08-06 00:00:09,931 INFO root Skipping astrid_archivebot_urls-transfer_sh-nine_com_au_20180726_meta.sqlite
+2018-08-06 00:00:09,932 INFO root Skipping astrid_archivebot_urls-transfer_sh-nine_com_au_20180726_meta.xml
+2018-08-06 00:00:09,932 INFO root Writing last-update file
+2018-08-06 00:00:09,932 INFO root Done
