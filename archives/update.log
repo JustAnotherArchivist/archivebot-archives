@@ -1,32 +1,62 @@
-2018-08-07 12:00:01,383 DEBU root Last attempt: 2018-08-07T06:00:01Z
-2018-08-07 12:00:01,383 DEBU root Last success: 2018-08-07T06:00:01Z
-2018-08-07 12:00:01,384 INFO root Writing last-update file
-2018-08-07 12:00:01,384 INFO root Query: 'collection:archivebot oai_updatedate:[2018-08-07T06:00:01Z TO null]'
-2018-08-07 12:00:03,125 INFO root Processing item archiveteam_archivebot_go_20180807000001
-2018-08-07 12:00:03,125 INFO root Skipping archiveteam_archivebot_go_20180807000001_archive.torrent
-2018-08-07 12:00:03,126 INFO root Skipping archiveteam_archivebot_go_20180807000001_files.xml
-2018-08-07 12:00:03,126 INFO root Skipping archiveteam_archivebot_go_20180807000001_meta.sqlite
-2018-08-07 12:00:03,126 INFO root Skipping archiveteam_archivebot_go_20180807000001_meta.xml
-2018-08-07 12:00:03,244 INFO root Processing item archiveteam_archivebot_go_20180807050001
-2018-08-07 12:00:03,244 INFO root Skipping archiveteam_archivebot_go_20180807050001_files.xml
-2018-08-07 12:00:03,244 INFO root Skipping archiveteam_archivebot_go_20180807050001_meta.sqlite
-2018-08-07 12:00:03,244 INFO root Skipping archiveteam_archivebot_go_20180807050001_meta.xml
-2018-08-07 12:00:03,357 INFO root Processing item archiveteam_archivebot_go_20180807090001
-2018-08-07 12:00:03,358 INFO root Skipping archiveteam_archivebot_go_20180807090001_archive.torrent
-2018-08-07 12:00:03,358 INFO root Skipping archiveteam_archivebot_go_20180807090001_files.xml
-2018-08-07 12:00:03,358 INFO root Skipping archiveteam_archivebot_go_20180807090001_meta.sqlite
-2018-08-07 12:00:03,358 INFO root Skipping archiveteam_archivebot_go_20180807090001_meta.xml
-2018-08-07 12:00:03,899 INFO root Processing item astrid_archivebot_urls-transfer_sh-nine_com_au_20180726
-2018-08-07 12:00:03,900 INFO root Skipping astrid_archivebot_urls-transfer_sh-nine_com_au_20180726.cdx.idx
-2018-08-07 12:00:03,900 INFO root Skipping astrid_archivebot_urls-transfer_sh-nine_com_au_20180726_archive.torrent
-2018-08-07 12:00:03,900 INFO root Skipping astrid_archivebot_urls-transfer_sh-nine_com_au_20180726_files.xml
-2018-08-07 12:00:03,900 INFO root Skipping astrid_archivebot_urls-transfer_sh-nine_com_au_20180726_meta.sqlite
-2018-08-07 12:00:03,900 INFO root Skipping astrid_archivebot_urls-transfer_sh-nine_com_au_20180726_meta.xml
-2018-08-07 12:00:04,055 INFO root Processing item astrid_archivebot_urls-transfer_sh-sarahjeong-tweets_20180806
-2018-08-07 12:00:04,055 INFO root Skipping astrid_archivebot_urls-transfer_sh-sarahjeong-tweets_20180806.cdx.idx
-2018-08-07 12:00:04,055 INFO root Skipping astrid_archivebot_urls-transfer_sh-sarahjeong-tweets_20180806_archive.torrent
-2018-08-07 12:00:04,055 INFO root Skipping astrid_archivebot_urls-transfer_sh-sarahjeong-tweets_20180806_files.xml
-2018-08-07 12:00:04,056 INFO root Skipping astrid_archivebot_urls-transfer_sh-sarahjeong-tweets_20180806_meta.sqlite
-2018-08-07 12:00:04,056 INFO root Skipping astrid_archivebot_urls-transfer_sh-sarahjeong-tweets_20180806_meta.xml
-2018-08-07 12:00:04,056 INFO root Writing last-update file
-2018-08-07 12:00:04,057 INFO root Done
+2018-08-07 18:00:01,908 DEBU root Last attempt: 2018-08-07T12:00:01Z
+2018-08-07 18:00:01,909 DEBU root Last success: 2018-08-07T12:00:01Z
+2018-08-07 18:00:01,909 INFO root Writing last-update file
+2018-08-07 18:00:01,909 INFO root Query: 'collection:archivebot oai_updatedate:[2018-08-07T12:00:01Z TO null]'
+2018-08-07 18:00:04,960 INFO root Processing item archiveteam_archivebot_go_20180807000001
+2018-08-07 18:00:04,961 INFO root Skipping archiveteam_archivebot_go_20180807000001.cdx.idx
+2018-08-07 18:00:04,961 INFO root Skipping archiveteam_archivebot_go_20180807000001_archive.torrent
+2018-08-07 18:00:04,961 INFO root Skipping archiveteam_archivebot_go_20180807000001_files.xml
+2018-08-07 18:00:04,961 INFO root Skipping archiveteam_archivebot_go_20180807000001_meta.sqlite
+2018-08-07 18:00:04,962 INFO root Skipping archiveteam_archivebot_go_20180807000001_meta.xml
+2018-08-07 18:00:05,732 INFO root Processing item archiveteam_archivebot_go_20180807050001
+2018-08-07 18:00:05,732 INFO root Skipping archiveteam_archivebot_go_20180807050001_archive.torrent
+2018-08-07 18:00:05,733 INFO root Skipping archiveteam_archivebot_go_20180807050001_files.xml
+2018-08-07 18:00:05,733 INFO root Skipping archiveteam_archivebot_go_20180807050001_meta.sqlite
+2018-08-07 18:00:05,733 INFO root Skipping archiveteam_archivebot_go_20180807050001_meta.xml
+2018-08-07 18:00:06,675 INFO root Processing item archiveteam_archivebot_go_20180807090001
+2018-08-07 18:00:06,677 ERRO root Size of addons.mozilla.org-inf-20180729-181049-xew9s-00027.warc.os.cdx.gz is missing
+2018-08-07 18:00:06,677 ERRO root Mtime of addons.mozilla.org-inf-20180729-181049-xew9s-00027.warc.os.cdx.gz is missing
+2018-08-07 18:00:06,677 INFO root Skipping archiveteam_archivebot_go_20180807090001_archive.torrent
+2018-08-07 18:00:06,678 INFO root Skipping archiveteam_archivebot_go_20180807090001_files.xml
+2018-08-07 18:00:06,678 INFO root Skipping archiveteam_archivebot_go_20180807090001_meta.sqlite
+2018-08-07 18:00:06,679 INFO root Skipping archiveteam_archivebot_go_20180807090001_meta.xml
+2018-08-07 18:00:06,679 ERRO root Size of arhivach.cf-inf-20180803-012549-8guux-00033.warc.os.cdx.gz is missing
+2018-08-07 18:00:06,679 ERRO root Mtime of arhivach.cf-inf-20180803-012549-8guux-00033.warc.os.cdx.gz is missing
+2018-08-07 18:00:06,679 ERRO root Size of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00318.warc.os.cdx.gz is missing
+2018-08-07 18:00:06,685 ERRO root Mtime of cdaweb.sci.gsfc.nasa.gov-inf-20180718-082018-cc433-00318.warc.os.cdx.gz is missing
+2018-08-07 18:00:06,685 ERRO root Size of cetv2.ddns.net-inf-20180806-193137-5q7om-00018.warc.os.cdx.gz is missing
+2018-08-07 18:00:06,685 ERRO root Mtime of cetv2.ddns.net-inf-20180806-193137-5q7om-00018.warc.os.cdx.gz is missing
+2018-08-07 18:00:06,685 ERRO root Size of cetv2.ddns.net-inf-20180806-193137-5q7om-00019.warc.os.cdx.gz is missing
+2018-08-07 18:00:06,685 ERRO root Mtime of cetv2.ddns.net-inf-20180806-193137-5q7om-00019.warc.os.cdx.gz is missing
+2018-08-07 18:00:06,686 ERRO root Size of forums.tesla.com-inf-20180806-220815-czlak-00001.warc.os.cdx.gz is missing
+2018-08-07 18:00:06,686 ERRO root Mtime of forums.tesla.com-inf-20180806-220815-czlak-00001.warc.os.cdx.gz is missing
+2018-08-07 18:00:06,859 INFO root Processing item archiveteam_archivebot_go_20180807140002
+2018-08-07 18:00:06,860 INFO root Skipping archiveteam_archivebot_go_20180807140002_files.xml
+2018-08-07 18:00:06,860 INFO root Skipping archiveteam_archivebot_go_20180807140002_meta.sqlite
+2018-08-07 18:00:06,860 INFO root Skipping archiveteam_archivebot_go_20180807140002_meta.xml
+2018-08-07 18:00:07,070 INFO root Processing item astrid_archivebot_urls-transfer_sh-nine_com_au_20180726
+2018-08-07 18:00:07,071 INFO root Skipping astrid_archivebot_urls-transfer_sh-nine_com_au_20180726.cdx.idx
+2018-08-07 18:00:07,071 INFO root Skipping astrid_archivebot_urls-transfer_sh-nine_com_au_20180726_archive.torrent
+2018-08-07 18:00:07,071 INFO root Skipping astrid_archivebot_urls-transfer_sh-nine_com_au_20180726_files.xml
+2018-08-07 18:00:07,071 INFO root Skipping astrid_archivebot_urls-transfer_sh-nine_com_au_20180726_meta.sqlite
+2018-08-07 18:00:07,071 INFO root Skipping astrid_archivebot_urls-transfer_sh-nine_com_au_20180726_meta.xml
+2018-08-07 18:00:07,956 INFO root Processing item astrid_archivebot_urls-transfer_sh-sarahjeong-tweets_20180806
+2018-08-07 18:00:07,957 INFO root Skipping astrid_archivebot_urls-transfer_sh-sarahjeong-tweets_20180806.cdx.idx
+2018-08-07 18:00:07,957 INFO root Skipping astrid_archivebot_urls-transfer_sh-sarahjeong-tweets_20180806_archive.torrent
+2018-08-07 18:00:07,957 INFO root Skipping astrid_archivebot_urls-transfer_sh-sarahjeong-tweets_20180806_files.xml
+2018-08-07 18:00:07,957 INFO root Skipping astrid_archivebot_urls-transfer_sh-sarahjeong-tweets_20180806_meta.sqlite
+2018-08-07 18:00:07,958 INFO root Skipping astrid_archivebot_urls-transfer_sh-sarahjeong-tweets_20180806_meta.xml
+2018-08-07 18:00:08,267 INFO root Processing item astrid_archivebot_www_reddit_com_20180807
+2018-08-07 18:00:08,268 INFO root Skipping astrid_archivebot_www_reddit_com_20180807.cdx.idx
+2018-08-07 18:00:08,268 INFO root Skipping astrid_archivebot_www_reddit_com_20180807_archive.torrent
+2018-08-07 18:00:08,268 INFO root Skipping astrid_archivebot_www_reddit_com_20180807_files.xml
+2018-08-07 18:00:08,269 INFO root Skipping astrid_archivebot_www_reddit_com_20180807_meta.sqlite
+2018-08-07 18:00:08,269 INFO root Skipping astrid_archivebot_www_reddit_com_20180807_meta.xml
+2018-08-07 18:00:08,983 INFO root Processing item astrid_archivebot_your435_com_20180807
+2018-08-07 18:00:08,984 INFO root Skipping astrid_archivebot_your435_com_20180807.cdx.idx
+2018-08-07 18:00:08,984 INFO root Skipping astrid_archivebot_your435_com_20180807_archive.torrent
+2018-08-07 18:00:08,984 INFO root Skipping astrid_archivebot_your435_com_20180807_files.xml
+2018-08-07 18:00:08,984 INFO root Skipping astrid_archivebot_your435_com_20180807_meta.sqlite
+2018-08-07 18:00:08,984 INFO root Skipping astrid_archivebot_your435_com_20180807_meta.xml
+2018-08-07 18:00:08,985 INFO root Writing last-update file
+2018-08-07 18:00:08,985 INFO root Done
