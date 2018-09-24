@@ -1,15 +1,108 @@
-2018-09-24 00:00:02,191 DEBU root Last attempt: 2018-09-23T18:00:01Z
-2018-09-24 00:00:02,191 DEBU root Last success: 2018-09-23T18:00:01Z
-2018-09-24 00:00:02,191 INFO root Writing last-update file
-2018-09-24 00:00:02,192 INFO root Query: 'collection:archivebot oai_updatedate:[2018-09-23T18:00:01Z TO null]'
-2018-09-24 00:00:03,506 INFO root Processing item archiveteam_archivebot_go_20180923150001
-2018-09-24 00:00:03,506 INFO root Skipping archiveteam_archivebot_go_20180923150001_archive.torrent
-2018-09-24 00:00:03,507 INFO root Skipping archiveteam_archivebot_go_20180923150001_files.xml
-2018-09-24 00:00:03,507 INFO root Skipping archiveteam_archivebot_go_20180923150001_meta.sqlite
-2018-09-24 00:00:03,507 INFO root Skipping archiveteam_archivebot_go_20180923150001_meta.xml
-2018-09-24 00:00:03,708 INFO root Processing item archiveteam_archivebot_go_20180923190001
-2018-09-24 00:00:03,709 INFO root Skipping archiveteam_archivebot_go_20180923190001_files.xml
-2018-09-24 00:00:03,709 INFO root Skipping archiveteam_archivebot_go_20180923190001_meta.sqlite
-2018-09-24 00:00:03,709 INFO root Skipping archiveteam_archivebot_go_20180923190001_meta.xml
-2018-09-24 00:00:03,710 INFO root Writing last-update file
-2018-09-24 00:00:03,710 INFO root Done
+2018-09-24 06:00:02,217 DEBU root Last attempt: 2018-09-24T00:00:02Z
+2018-09-24 06:00:02,217 DEBU root Last success: 2018-09-24T00:00:02Z
+2018-09-24 06:00:02,218 INFO root Writing last-update file
+2018-09-24 06:00:02,218 INFO root Query: 'collection:archivebot oai_updatedate:[2018-09-24T00:00:02Z TO null]'
+2018-09-24 06:00:04,732 INFO root Processing item archiveteam_archivebot_go_20180923110002
+2018-09-24 06:00:04,733 INFO root Skipping archiveteam_archivebot_go_20180923110002.cdx.idx
+2018-09-24 06:00:04,733 INFO root Skipping archiveteam_archivebot_go_20180923110002_archive.torrent
+2018-09-24 06:00:04,733 INFO root Skipping archiveteam_archivebot_go_20180923110002_files.xml
+2018-09-24 06:00:04,733 INFO root Skipping archiveteam_archivebot_go_20180923110002_meta.sqlite
+2018-09-24 06:00:04,733 INFO root Skipping archiveteam_archivebot_go_20180923110002_meta.xml
+2018-09-24 06:00:04,987 INFO root Processing item archiveteam_archivebot_go_20180923150001
+2018-09-24 06:00:04,987 ERRO root Size of 100hourboard.org-inf-20180923-005919-d8r8s-00000.warc.os.cdx.gz is missing
+2018-09-24 06:00:04,987 ERRO root Mtime of 100hourboard.org-inf-20180923-005919-d8r8s-00000.warc.os.cdx.gz is missing
+2018-09-24 06:00:04,987 INFO root Skipping archiveteam_archivebot_go_20180923150001_archive.torrent
+2018-09-24 06:00:04,987 INFO root Skipping archiveteam_archivebot_go_20180923150001_files.xml
+2018-09-24 06:00:04,987 INFO root Skipping archiveteam_archivebot_go_20180923150001_meta.sqlite
+2018-09-24 06:00:04,987 INFO root Skipping archiveteam_archivebot_go_20180923150001_meta.xml
+2018-09-24 06:00:04,987 ERRO root Size of balkandigitalnomads.com-shallow-20180923-113208-56xvp-meta.warc.os.cdx.gz is missing
+2018-09-24 06:00:04,988 ERRO root Mtime of balkandigitalnomads.com-shallow-20180923-113208-56xvp-meta.warc.os.cdx.gz is missing
+2018-09-24 06:00:04,988 ERRO root Size of blog.sina.com.cn-inf-20180921-092015-f0aku-00001.warc.os.cdx.gz is missing
+2018-09-24 06:00:04,988 ERRO root Mtime of blog.sina.com.cn-inf-20180921-092015-f0aku-00001.warc.os.cdx.gz is missing
+2018-09-24 06:00:04,988 ERRO root Size of gbatemp.net-inf-20180831-013152-b7dc5-00049.warc.os.cdx.gz is missing
+2018-09-24 06:00:04,988 ERRO root Mtime of gbatemp.net-inf-20180831-013152-b7dc5-00049.warc.os.cdx.gz is missing
+2018-09-24 06:00:05,943 INFO root Processing item archiveteam_archivebot_go_20180923190001
+2018-09-24 06:00:05,943 INFO root Skipping archiveteam_archivebot_go_20180923190001.cdx.idx
+2018-09-24 06:00:05,943 INFO root Skipping archiveteam_archivebot_go_20180923190001_archive.torrent
+2018-09-24 06:00:05,943 INFO root Skipping archiveteam_archivebot_go_20180923190001_files.xml
+2018-09-24 06:00:05,943 INFO root Skipping archiveteam_archivebot_go_20180923190001_meta.sqlite
+2018-09-24 06:00:05,943 INFO root Skipping archiveteam_archivebot_go_20180923190001_meta.xml
+2018-09-24 06:00:06,122 INFO root Processing item archiveteam_archivebot_go_20180924000002
+2018-09-24 06:00:06,122 INFO root Skipping archiveteam_archivebot_go_20180924000002_archive.torrent
+2018-09-24 06:00:06,122 INFO root Skipping archiveteam_archivebot_go_20180924000002_files.xml
+2018-09-24 06:00:06,122 INFO root Skipping archiveteam_archivebot_go_20180924000002_meta.sqlite
+2018-09-24 06:00:06,122 INFO root Skipping archiveteam_archivebot_go_20180924000002_meta.xml
+2018-09-24 06:00:06,123 ERRO root Size of blog.cryptographyengineering.com-shallow-20180923-225238-docr6-00000.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,123 ERRO root Mtime of blog.cryptographyengineering.com-shallow-20180923-225238-docr6-00000.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,123 ERRO root Size of blog.mozilla.org-shallow-20180923-214045-17nev-meta.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,123 ERRO root Mtime of blog.mozilla.org-shallow-20180923-214045-17nev-meta.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,123 ERRO root Size of blogs.harvard.edu-inf-20180923-041456-8w024-00001.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,123 ERRO root Mtime of blogs.harvard.edu-inf-20180923-041456-8w024-00001.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,123 ERRO root Size of botbot.me-inf-20180914-182713-6afwa-00009.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,123 ERRO root Mtime of botbot.me-inf-20180914-182713-6afwa-00009.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,124 ERRO root Size of cdn-r.luerzersarchive.com-shallow-20180923-221354-9ehqr-00000.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,124 ERRO root Mtime of cdn-r.luerzersarchive.com-shallow-20180923-221354-9ehqr-00000.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,124 ERRO root Size of cdn-r.luerzersarchive.com-shallow-20180923-221354-9ehqr-meta.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,124 ERRO root Mtime of cdn-r.luerzersarchive.com-shallow-20180923-221354-9ehqr-meta.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,124 ERRO root Size of desuarchive.org-inf-20180910-195703-6r1cp-00041.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,124 ERRO root Mtime of desuarchive.org-inf-20180910-195703-6r1cp-00041.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,124 ERRO root Size of dustri.org-shallow-20180923-214022-18sim-00000.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,124 ERRO root Mtime of dustri.org-shallow-20180923-214022-18sim-00000.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,124 ERRO root Size of dustri.org-shallow-20180923-214022-18sim-meta.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,124 ERRO root Mtime of dustri.org-shallow-20180923-214022-18sim-meta.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,125 ERRO root Size of forums-archive.eveonline.com-inf-20180907-122523-7vnte-00025.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,125 ERRO root Mtime of forums-archive.eveonline.com-inf-20180907-122523-7vnte-00025.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,125 ERRO root Size of forums.stevehoffman.tv-inf-20180831-050917-7jqw5-00054.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,125 ERRO root Mtime of forums.stevehoffman.tv-inf-20180831-050917-7jqw5-00054.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,125 ERRO root Size of gbatemp.net-inf-20180831-013152-b7dc5-00050.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,125 ERRO root Mtime of gbatemp.net-inf-20180831-013152-b7dc5-00050.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,125 ERRO root Size of jihadology.net-inf-20180923-141310-es61n-00010.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,125 ERRO root Mtime of jihadology.net-inf-20180923-141310-es61n-00010.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,125 ERRO root Size of jihadology.net-inf-20180923-141310-es61n-00011.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,125 ERRO root Mtime of jihadology.net-inf-20180923-141310-es61n-00011.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,125 ERRO root Size of legacy.zam.com-inf-20180914-182710-10rv3-00020.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,126 ERRO root Mtime of legacy.zam.com-inf-20180914-182710-10rv3-00020.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,126 ERRO root Size of old.reddit.com-inf-20180923-130853-dvrqq-00003.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,126 ERRO root Mtime of old.reddit.com-inf-20180923-130853-dvrqq-00003.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,126 ERRO root Size of old.reddit.com-inf-20180923-130853-dvrqq-00004.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,126 ERRO root Mtime of old.reddit.com-inf-20180923-130853-dvrqq-00004.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,126 ERRO root Size of old.reddit.com-inf-20180923-130853-dvrqq-00005.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,126 ERRO root Mtime of old.reddit.com-inf-20180923-130853-dvrqq-00005.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,126 ERRO root Size of old.reddit.com-inf-20180923-130853-dvrqq-00006.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,126 ERRO root Mtime of old.reddit.com-inf-20180923-130853-dvrqq-00006.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,126 ERRO root Size of oldforums.eveonline.com-inf-20180906-230508-85kqg-00013.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,126 ERRO root Mtime of oldforums.eveonline.com-inf-20180906-230508-85kqg-00013.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,127 ERRO root Size of oldforums.eveonline.com-inf-20180906-230508-85kqg-meta.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,127 ERRO root Mtime of oldforums.eveonline.com-inf-20180906-230508-85kqg-meta.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,127 ERRO root Size of urls-transfer.sh-wikidata-instagram-29k.txt-shallow-20180922-161524-cvlxe-00019.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,127 ERRO root Mtime of urls-transfer.sh-wikidata-instagram-29k.txt-shallow-20180922-161524-cvlxe-00019.warc.os.cdx.gz is missing
+2018-09-24 06:00:06,235 INFO root Processing item archiveteam_archivebot_go_20180924030002
+2018-09-24 06:00:06,235 INFO root Skipping archiveteam_archivebot_go_20180924030002_files.xml
+2018-09-24 06:00:06,235 INFO root Skipping archiveteam_archivebot_go_20180924030002_meta.sqlite
+2018-09-24 06:00:06,235 INFO root Skipping archiveteam_archivebot_go_20180924030002_meta.xml
+2018-09-24 06:00:06,334 INFO root Processing item astrid_archivebot_www_eclipseglasses_com_20170819
+2018-09-24 06:00:06,334 INFO root Skipping astrid_archivebot_www_eclipseglasses_com_20170819.cdx.idx
+2018-09-24 06:00:06,334 INFO root Skipping astrid_archivebot_www_eclipseglasses_com_20170819_archive.torrent
+2018-09-24 06:00:06,334 INFO root Skipping astrid_archivebot_www_eclipseglasses_com_20170819_files.xml
+2018-09-24 06:00:06,334 INFO root Skipping astrid_archivebot_www_eclipseglasses_com_20170819_meta.sqlite
+2018-09-24 06:00:06,335 INFO root Skipping astrid_archivebot_www_eclipseglasses_com_20170819_meta.xml
+2018-09-24 06:00:06,457 INFO root Processing item falconk_archivebot_cortecs_org_20171016
+2018-09-24 06:00:06,458 INFO root Skipping falconk_archivebot_cortecs_org_20171016.cdx.idx
+2018-09-24 06:00:06,458 INFO root Skipping falconk_archivebot_cortecs_org_20171016_archive.torrent
+2018-09-24 06:00:06,458 INFO root Skipping falconk_archivebot_cortecs_org_20171016_files.xml
+2018-09-24 06:00:06,458 INFO root Skipping falconk_archivebot_cortecs_org_20171016_meta.sqlite
+2018-09-24 06:00:06,458 INFO root Skipping falconk_archivebot_cortecs_org_20171016_meta.xml
+2018-09-24 06:00:06,551 INFO root Processing item falconk_archivebot_forum_ciphershed_org_20170222
+2018-09-24 06:00:06,551 INFO root Skipping falconk_archivebot_forum_ciphershed_org_20170222.cdx.idx
+2018-09-24 06:00:06,552 INFO root Skipping falconk_archivebot_forum_ciphershed_org_20170222_archive.torrent
+2018-09-24 06:00:06,552 INFO root Skipping falconk_archivebot_forum_ciphershed_org_20170222_files.xml
+2018-09-24 06:00:06,552 INFO root Skipping falconk_archivebot_forum_ciphershed_org_20170222_meta.sqlite
+2018-09-24 06:00:06,552 INFO root Skipping falconk_archivebot_forum_ciphershed_org_20170222_meta.xml
+2018-09-24 06:00:06,750 INFO root Processing item falconk_archivebot_www_bbc_com_20170901
+2018-09-24 06:00:06,750 INFO root Skipping falconk_archivebot_www_bbc_com_20170901.cdx.idx
+2018-09-24 06:00:06,751 INFO root Skipping falconk_archivebot_www_bbc_com_20170901_archive.torrent
+2018-09-24 06:00:06,751 INFO root Skipping falconk_archivebot_www_bbc_com_20170901_files.xml
+2018-09-24 06:00:06,751 INFO root Skipping falconk_archivebot_www_bbc_com_20170901_meta.sqlite
+2018-09-24 06:00:06,751 INFO root Skipping falconk_archivebot_www_bbc_com_20170901_meta.xml
+2018-09-24 06:00:06,751 INFO root Writing last-update file
+2018-09-24 06:00:06,751 INFO root Done
