@@ -1,336 +1,240 @@
-2018-10-04 00:00:02,267 DEBU root Last attempt: 2018-10-03T18:00:01Z
-2018-10-04 00:00:02,268 DEBU root Last success: 2018-10-03T18:00:01Z
-2018-10-04 00:00:02,268 INFO root Writing last-update file
-2018-10-04 00:00:02,269 INFO root Query: 'collection:archivebot oai_updatedate:[2018-10-03T18:00:01Z TO null]'
-2018-10-04 00:00:05,241 INFO root Processing item archiveteam_archivebot_go_20181002200002
-2018-10-04 00:00:05,241 INFO root Skipping archiveteam_archivebot_go_20181002200002.cdx.idx
-2018-10-04 00:00:05,241 INFO root Skipping archiveteam_archivebot_go_20181002200002_archive.torrent
-2018-10-04 00:00:05,242 INFO root Skipping archiveteam_archivebot_go_20181002200002_files.xml
-2018-10-04 00:00:05,242 INFO root Skipping archiveteam_archivebot_go_20181002200002_meta.sqlite
-2018-10-04 00:00:05,242 INFO root Skipping archiveteam_archivebot_go_20181002200002_meta.xml
-2018-10-04 00:00:05,456 INFO root Processing item archiveteam_archivebot_go_20181003040001
-2018-10-04 00:00:05,456 ERRO root Size of 2nd.geocities.jp-inf-20181003-003414-2uy1o-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,456 ERRO root Mtime of 2nd.geocities.jp-inf-20181003-003414-2uy1o-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,456 ERRO root Size of 2nd.geocities.jp-inf-20181003-003414-2uy1o-meta.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,456 ERRO root Mtime of 2nd.geocities.jp-inf-20181003-003414-2uy1o-meta.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,457 ERRO root Size of annefleetwood.wordpress.com-inf-20181002-184204-bnzmw-00002.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,457 ERRO root Mtime of annefleetwood.wordpress.com-inf-20181002-184204-bnzmw-00002.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,457 ERRO root Size of annefleetwood.wordpress.com-inf-20181002-184204-bnzmw-meta.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,457 ERRO root Mtime of annefleetwood.wordpress.com-inf-20181002-184204-bnzmw-meta.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,457 INFO root Skipping archiveteam_archivebot_go_20181003040001_archive.torrent
-2018-10-04 00:00:05,457 INFO root Skipping archiveteam_archivebot_go_20181003040001_files.xml
-2018-10-04 00:00:05,457 INFO root Skipping archiveteam_archivebot_go_20181003040001_meta.sqlite
-2018-10-04 00:00:05,457 INFO root Skipping archiveteam_archivebot_go_20181003040001_meta.xml
-2018-10-04 00:00:05,457 ERRO root Size of blogs.harvard.edu-inf-20180923-041456-8w024-00052.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,457 ERRO root Mtime of blogs.harvard.edu-inf-20180923-041456-8w024-00052.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,458 ERRO root Size of botbot.me-inf-20180914-182713-6afwa-00028.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,458 ERRO root Mtime of botbot.me-inf-20180914-182713-6afwa-00028.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,458 ERRO root Size of chezychamps.com-inf-20181003-002900-b1q4y-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,458 ERRO root Mtime of chezychamps.com-inf-20181003-002900-b1q4y-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,458 ERRO root Size of chezychamps.com-inf-20181003-002900-b1q4y-meta.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,458 ERRO root Mtime of chezychamps.com-inf-20181003-002900-b1q4y-meta.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,458 ERRO root Size of deletionpedia.org-inf-20180910-192340-6npfo-00065.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,458 ERRO root Mtime of deletionpedia.org-inf-20180910-192340-6npfo-00065.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,458 ERRO root Size of edjimy.tian.yam.com-inf-20180930-121100-b0h9h-00023.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,458 ERRO root Mtime of edjimy.tian.yam.com-inf-20180930-121100-b0h9h-00023.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,459 ERRO root Size of edjimy.tian.yam.com-inf-20180930-121100-b0h9h-00024.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,459 ERRO root Mtime of edjimy.tian.yam.com-inf-20180930-121100-b0h9h-00024.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,459 ERRO root Size of edjimy.tian.yam.com-inf-20180930-121100-b0h9h-00025.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,459 ERRO root Mtime of edjimy.tian.yam.com-inf-20180930-121100-b0h9h-00025.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,459 ERRO root Size of edjimy.tian.yam.com-inf-20180930-121100-b0h9h-00026.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,459 ERRO root Mtime of edjimy.tian.yam.com-inf-20180930-121100-b0h9h-00026.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,459 ERRO root Size of esperanto.fidelis.work-inf-20181003-025253-b83xx-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,459 ERRO root Mtime of esperanto.fidelis.work-inf-20181003-025253-b83xx-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,459 ERRO root Size of esperanto.fidelis.work-inf-20181003-025253-b83xx-meta.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,459 ERRO root Mtime of esperanto.fidelis.work-inf-20181003-025253-b83xx-meta.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,460 ERRO root Size of forums-archive.eveonline.com-inf-20180907-122523-7vnte-00032.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,460 ERRO root Mtime of forums-archive.eveonline.com-inf-20180907-122523-7vnte-00032.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,460 ERRO root Size of forums.cracked.com-inf-20180924-073735-1plur-00110.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,460 ERRO root Mtime of forums.cracked.com-inf-20180924-073735-1plur-00110.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,460 ERRO root Size of motherboard.vice.com-shallow-20181003-013317-11lzo-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,460 ERRO root Mtime of motherboard.vice.com-shallow-20181003-013317-11lzo-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,460 ERRO root Size of motherboard.vice.com-shallow-20181003-013317-11lzo-meta.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,460 ERRO root Mtime of motherboard.vice.com-shallow-20181003-013317-11lzo-meta.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,460 ERRO root Size of motherboard.vice.com-shallow-20181003-022314-bjio6-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,461 ERRO root Mtime of motherboard.vice.com-shallow-20181003-022314-bjio6-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,461 ERRO root Size of motherboard.vice.com-shallow-20181003-022314-bjio6-meta.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,461 ERRO root Mtime of motherboard.vice.com-shallow-20181003-022314-bjio6-meta.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,461 ERRO root Size of primeraair.be-inf-20181003-024208-a6t6x-aborted-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,461 ERRO root Mtime of primeraair.be-inf-20181003-024208-a6t6x-aborted-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,461 ERRO root Size of primeraair.be-inf-20181003-024640-5y6jl-aborted-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,461 ERRO root Mtime of primeraair.be-inf-20181003-024640-5y6jl-aborted-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,461 ERRO root Size of primeraair.ca-inf-20181003-021322-1hdtz-aborted-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,461 ERRO root Mtime of primeraair.ca-inf-20181003-021322-1hdtz-aborted-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,462 ERRO root Size of primeraair.ca-inf-20181003-024612-49mlf-aborted-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,462 ERRO root Mtime of primeraair.ca-inf-20181003-024612-49mlf-aborted-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,462 ERRO root Size of primeraair.co.uk-inf-20181003-020702-73eej-aborted-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,462 ERRO root Mtime of primeraair.co.uk-inf-20181003-020702-73eej-aborted-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,462 ERRO root Size of primeraair.com-inf-20181002-184155-1jzg6-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,462 ERRO root Mtime of primeraair.com-inf-20181002-184155-1jzg6-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,462 ERRO root Size of primeraair.com-inf-20181002-184155-1jzg6-meta.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,462 ERRO root Mtime of primeraair.com-inf-20181002-184155-1jzg6-meta.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,462 ERRO root Size of primeraair.com-inf-20181003-024706-ediz2-aborted-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,463 ERRO root Mtime of primeraair.com-inf-20181003-024706-ediz2-aborted-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,463 ERRO root Size of primeraair.com-inf-20181003-024708-lpmld-aborted-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,463 ERRO root Mtime of primeraair.com-inf-20181003-024708-lpmld-aborted-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,463 ERRO root Size of primeraair.dk-inf-20181003-024244-ef849-aborted-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,463 ERRO root Mtime of primeraair.dk-inf-20181003-024244-ef849-aborted-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,463 ERRO root Size of primeraair.es-inf-20181003-024538-6yv0p-aborted-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,463 ERRO root Mtime of primeraair.es-inf-20181003-024538-6yv0p-aborted-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,463 ERRO root Size of primeraair.fi-inf-20181003-024407-9smoc-aborted-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,464 ERRO root Mtime of primeraair.fi-inf-20181003-024407-9smoc-aborted-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,464 ERRO root Size of primeraair.fr-inf-20181003-024135-cvzxh-aborted-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,464 ERRO root Mtime of primeraair.fr-inf-20181003-024135-cvzxh-aborted-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,464 ERRO root Size of primeraair.is-inf-20181003-024323-3p4vs-aborted-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,464 ERRO root Mtime of primeraair.is-inf-20181003-024323-3p4vs-aborted-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,464 ERRO root Size of primeraair.it-inf-20181003-024546-dbo68-aborted-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,464 ERRO root Mtime of primeraair.it-inf-20181003-024546-dbo68-aborted-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,464 ERRO root Size of primeraair.lv-inf-20181003-024447-bq3eg-aborted-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,464 ERRO root Mtime of primeraair.lv-inf-20181003-024447-bq3eg-aborted-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,465 ERRO root Size of primeraair.no-inf-20181003-024402-3ygsa-aborted-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,465 ERRO root Mtime of primeraair.no-inf-20181003-024402-3ygsa-aborted-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,465 ERRO root Size of primeraair.se-inf-20181003-024243-4cjca-aborted-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,465 ERRO root Mtime of primeraair.se-inf-20181003-024243-4cjca-aborted-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,465 ERRO root Size of resultats.dgeq.org-inf-20181003-031733-4oeug-aborted-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,465 ERRO root Mtime of resultats.dgeq.org-inf-20181003-031733-4oeug-aborted-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,465 ERRO root Size of runescape.wikia.com-inf-20180929-232416-780ml-00007.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,465 ERRO root Mtime of runescape.wikia.com-inf-20180929-232416-780ml-00007.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,465 ERRO root Size of sky.geocities.jp-inf-20181003-004236-5rch9-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,465 ERRO root Mtime of sky.geocities.jp-inf-20181003-004236-5rch9-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,466 ERRO root Size of sky.geocities.jp-inf-20181003-004236-5rch9-meta.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,466 ERRO root Mtime of sky.geocities.jp-inf-20181003-004236-5rch9-meta.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,466 ERRO root Size of sky.geocities.jp-inf-20181003-025559-ef472-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,466 ERRO root Mtime of sky.geocities.jp-inf-20181003-025559-ef472-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,466 ERRO root Size of sky.geocities.jp-inf-20181003-025559-ef472-meta.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,466 ERRO root Mtime of sky.geocities.jp-inf-20181003-025559-ef472-meta.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,466 ERRO root Size of torrentfreak.com-shallow-20181003-022623-9q3bl-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,467 ERRO root Mtime of torrentfreak.com-shallow-20181003-022623-9q3bl-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,467 ERRO root Size of udcf.gla.ac.uk-inf-20181003-014507-7sstv-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,467 ERRO root Mtime of udcf.gla.ac.uk-inf-20181003-014507-7sstv-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,467 ERRO root Size of udcf.gla.ac.uk-inf-20181003-014507-7sstv-meta.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,467 ERRO root Mtime of udcf.gla.ac.uk-inf-20181003-014507-7sstv-meta.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,467 ERRO root Size of urls-pastebin.com-CGJh4wEW-inf-20180930-185749-8afgh-00013.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,467 ERRO root Mtime of urls-pastebin.com-CGJh4wEW-inf-20180930-185749-8afgh-00013.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,467 ERRO root Size of urls-pastebin.com-CGJh4wEW-inf-20180930-185749-8afgh-00014.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,467 ERRO root Mtime of urls-pastebin.com-CGJh4wEW-inf-20180930-185749-8afgh-00014.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,468 ERRO root Size of urls-pastebin.com-CGJh4wEW-inf-20180930-185749-8afgh-00015.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,468 ERRO root Mtime of urls-pastebin.com-CGJh4wEW-inf-20180930-185749-8afgh-00015.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,468 ERRO root Size of urls-pastebin.com-CGJh4wEW-inf-20180930-185749-8afgh-00016.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,468 ERRO root Mtime of urls-pastebin.com-CGJh4wEW-inf-20180930-185749-8afgh-00016.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,468 ERRO root Size of urls-pastebin.com-Dp3PfUFw-inf-20180930-184155-45v10-00008.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,468 ERRO root Mtime of urls-pastebin.com-Dp3PfUFw-inf-20180930-184155-45v10-00008.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,468 ERRO root Size of urls-pastebin.com-QQgd3Mnw-inf-20181001-062849-j5tuw-00036.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,468 ERRO root Mtime of urls-pastebin.com-QQgd3Mnw-inf-20181001-062849-j5tuw-00036.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,469 ERRO root Size of urls-pastebin.com-jLAswcDh-inf-20181001-051032-3umi2-00006.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,469 ERRO root Mtime of urls-pastebin.com-jLAswcDh-inf-20181001-051032-3umi2-00006.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,469 ERRO root Size of voat.co-inf-20180912-032959-8n20d-00068.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,469 ERRO root Mtime of voat.co-inf-20180912-032959-8n20d-00068.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,469 ERRO root Size of wsd.net-inf-20180925-135320-4fhjn-00014.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,469 ERRO root Mtime of wsd.net-inf-20180925-135320-4fhjn-00014.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,469 ERRO root Size of www.asta.aero-inf-20181003-024735-8o9lq-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,469 ERRO root Mtime of www.asta.aero-inf-20181003-024735-8o9lq-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,469 ERRO root Size of www.asta.aero-inf-20181003-024735-8o9lq-meta.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,469 ERRO root Mtime of www.asta.aero-inf-20181003-024735-8o9lq-meta.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,470 ERRO root Size of www.bay12forums.com-inf-20180923-091105-ab2ji-00039.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,470 ERRO root Mtime of www.bay12forums.com-inf-20180923-091105-ab2ji-00039.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,470 ERRO root Size of www.bigfooty.com-inf-20180907-112839-d19bs-00104.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,470 ERRO root Mtime of www.bigfooty.com-inf-20180907-112839-d19bs-00104.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,470 ERRO root Size of www.freeroms.com-inf-20180816-234655-4ln71-00224.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,470 ERRO root Mtime of www.freeroms.com-inf-20180816-234655-4ln71-00224.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,470 ERRO root Size of www.frostwire.com-inf-20181002-144813-5h5kl-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,470 ERRO root Mtime of www.frostwire.com-inf-20181002-144813-5h5kl-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,628 INFO root Processing item archiveteam_archivebot_go_20181003120001
-2018-10-04 00:00:05,629 INFO root Skipping archiveteam_archivebot_go_20181003120001_archive.torrent
-2018-10-04 00:00:05,629 INFO root Skipping archiveteam_archivebot_go_20181003120001_files.xml
-2018-10-04 00:00:05,629 INFO root Skipping archiveteam_archivebot_go_20181003120001_meta.sqlite
-2018-10-04 00:00:05,629 INFO root Skipping archiveteam_archivebot_go_20181003120001_meta.xml
-2018-10-04 00:00:05,629 ERRO root Size of blogs.harvard.edu-inf-20180923-041456-8w024-00053.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,629 ERRO root Mtime of blogs.harvard.edu-inf-20180923-041456-8w024-00053.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,629 ERRO root Size of edjimy.tian.yam.com-inf-20180930-121100-b0h9h-00029.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,630 ERRO root Mtime of edjimy.tian.yam.com-inf-20180930-121100-b0h9h-00029.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,630 ERRO root Size of edjimy.tian.yam.com-inf-20180930-121100-b0h9h-00030.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,630 ERRO root Mtime of edjimy.tian.yam.com-inf-20180930-121100-b0h9h-00030.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,630 ERRO root Size of puu.sh-shallow-20181003-090250-es7oh-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,630 ERRO root Mtime of puu.sh-shallow-20181003-090250-es7oh-00000.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,630 ERRO root Size of puu.sh-shallow-20181003-090250-es7oh-meta.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,630 ERRO root Mtime of puu.sh-shallow-20181003-090250-es7oh-meta.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,630 ERRO root Size of www.geocities.jp-inf-20181003-091845-9necs-meta.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,631 ERRO root Mtime of www.geocities.jp-inf-20181003-091845-9necs-meta.warc.os.cdx.gz is missing
-2018-10-04 00:00:05,738 INFO root Processing item archiveteam_archivebot_go_20181003150001
-2018-10-04 00:00:05,738 INFO root Skipping archiveteam_archivebot_go_20181003150001_archive.torrent
-2018-10-04 00:00:05,739 INFO root Skipping archiveteam_archivebot_go_20181003150001_files.xml
-2018-10-04 00:00:05,739 INFO root Skipping archiveteam_archivebot_go_20181003150001_meta.sqlite
-2018-10-04 00:00:05,739 INFO root Skipping archiveteam_archivebot_go_20181003150001_meta.xml
-2018-10-04 00:00:05,856 INFO root Processing item archiveteam_archivebot_go_20181003180001
-2018-10-04 00:00:05,856 INFO root Skipping archiveteam_archivebot_go_20181003180001_archive.torrent
-2018-10-04 00:00:05,857 INFO root Skipping archiveteam_archivebot_go_20181003180001_files.xml
-2018-10-04 00:00:05,857 INFO root Skipping archiveteam_archivebot_go_20181003180001_meta.sqlite
-2018-10-04 00:00:05,857 INFO root Skipping archiveteam_archivebot_go_20181003180001_meta.xml
-2018-10-04 00:00:05,963 INFO root Processing item archiveteam_archivebot_go_20181003210002
-2018-10-04 00:00:05,964 INFO root Skipping archiveteam_archivebot_go_20181003210002_files.xml
-2018-10-04 00:00:05,964 INFO root Skipping archiveteam_archivebot_go_20181003210002_meta.sqlite
-2018-10-04 00:00:05,964 INFO root Skipping archiveteam_archivebot_go_20181003210002_meta.xml
-2018-10-04 00:00:06,056 INFO root Processing item archiveteam_archivebot_go_media_greenpeace_org_20170126
-2018-10-04 00:00:06,056 INFO root Skipping archiveteam_archivebot_go_media_greenpeace_org_20170126.cdx.idx
-2018-10-04 00:00:06,056 INFO root Skipping archiveteam_archivebot_go_media_greenpeace_org_20170126_archive.torrent
-2018-10-04 00:00:06,056 INFO root Skipping archiveteam_archivebot_go_media_greenpeace_org_20170126_files.xml
-2018-10-04 00:00:06,057 INFO root Skipping archiveteam_archivebot_go_media_greenpeace_org_20170126_meta.sqlite
-2018-10-04 00:00:06,057 INFO root Skipping archiveteam_archivebot_go_media_greenpeace_org_20170126_meta.xml
-2018-10-04 00:00:06,337 INFO root Processing item falconk_archivebot_abc7_com_20170714
-2018-10-04 00:00:06,337 INFO root Skipping falconk_archivebot_abc7_com_20170714.cdx.idx
-2018-10-04 00:00:06,337 INFO root Skipping falconk_archivebot_abc7_com_20170714_archive.torrent
-2018-10-04 00:00:06,337 INFO root Skipping falconk_archivebot_abc7_com_20170714_files.xml
-2018-10-04 00:00:06,337 INFO root Skipping falconk_archivebot_abc7_com_20170714_meta.sqlite
-2018-10-04 00:00:06,337 INFO root Skipping falconk_archivebot_abc7_com_20170714_meta.xml
-2018-10-04 00:00:06,432 INFO root Processing item falconk_archivebot_agr_wa_gov_20170130
-2018-10-04 00:00:06,433 INFO root Skipping falconk_archivebot_agr_wa_gov_20170130.cdx.idx
-2018-10-04 00:00:06,433 INFO root Skipping falconk_archivebot_agr_wa_gov_20170130_archive.torrent
-2018-10-04 00:00:06,433 INFO root Skipping falconk_archivebot_agr_wa_gov_20170130_files.xml
-2018-10-04 00:00:06,433 INFO root Skipping falconk_archivebot_agr_wa_gov_20170130_meta.sqlite
-2018-10-04 00:00:06,433 INFO root Skipping falconk_archivebot_agr_wa_gov_20170130_meta.xml
-2018-10-04 00:00:06,652 INFO root Processing item falconk_archivebot_blog_hipchat_com_20170424
-2018-10-04 00:00:06,653 INFO root Skipping falconk_archivebot_blog_hipchat_com_20170424.cdx.idx
-2018-10-04 00:00:06,653 INFO root Skipping falconk_archivebot_blog_hipchat_com_20170424_archive.torrent
-2018-10-04 00:00:06,653 INFO root Skipping falconk_archivebot_blog_hipchat_com_20170424_files.xml
-2018-10-04 00:00:06,653 INFO root Skipping falconk_archivebot_blog_hipchat_com_20170424_meta.sqlite
-2018-10-04 00:00:06,653 INFO root Skipping falconk_archivebot_blog_hipchat_com_20170424_meta.xml
-2018-10-04 00:00:06,744 INFO root Processing item falconk_archivebot_citizensagainstmonopoly_org_20170831
-2018-10-04 00:00:06,745 INFO root Skipping falconk_archivebot_citizensagainstmonopoly_org_20170831.cdx.idx
-2018-10-04 00:00:06,745 INFO root Skipping falconk_archivebot_citizensagainstmonopoly_org_20170831_archive.torrent
-2018-10-04 00:00:06,745 INFO root Skipping falconk_archivebot_citizensagainstmonopoly_org_20170831_files.xml
-2018-10-04 00:00:06,745 INFO root Skipping falconk_archivebot_citizensagainstmonopoly_org_20170831_meta.sqlite
-2018-10-04 00:00:06,745 INFO root Skipping falconk_archivebot_citizensagainstmonopoly_org_20170831_meta.xml
-2018-10-04 00:00:06,864 INFO root Processing item falconk_archivebot_en_rocketnews24_com_20170708
-2018-10-04 00:00:06,865 INFO root Skipping falconk_archivebot_en_rocketnews24_com_20170708.cdx.idx
-2018-10-04 00:00:06,865 INFO root Skipping falconk_archivebot_en_rocketnews24_com_20170708_archive.torrent
-2018-10-04 00:00:06,865 INFO root Skipping falconk_archivebot_en_rocketnews24_com_20170708_files.xml
-2018-10-04 00:00:06,865 INFO root Skipping falconk_archivebot_en_rocketnews24_com_20170708_meta.sqlite
-2018-10-04 00:00:06,865 INFO root Skipping falconk_archivebot_en_rocketnews24_com_20170708_meta.xml
-2018-10-04 00:00:06,955 INFO root Processing item falconk_archivebot_help_altvr_com_20170730
-2018-10-04 00:00:06,957 INFO root Skipping falconk_archivebot_help_altvr_com_20170730.cdx.idx
-2018-10-04 00:00:06,957 INFO root Skipping falconk_archivebot_help_altvr_com_20170730_archive.torrent
-2018-10-04 00:00:06,957 INFO root Skipping falconk_archivebot_help_altvr_com_20170730_files.xml
-2018-10-04 00:00:06,957 INFO root Skipping falconk_archivebot_help_altvr_com_20170730_meta.sqlite
-2018-10-04 00:00:06,957 INFO root Skipping falconk_archivebot_help_altvr_com_20170730_meta.xml
-2018-10-04 00:00:07,048 INFO root Processing item falconk_archivebot_hex_pp_ua_20170127
-2018-10-04 00:00:07,048 INFO root Skipping falconk_archivebot_hex_pp_ua_20170127.cdx.idx
-2018-10-04 00:00:07,049 INFO root Skipping falconk_archivebot_hex_pp_ua_20170127_archive.torrent
-2018-10-04 00:00:07,049 INFO root Skipping falconk_archivebot_hex_pp_ua_20170127_files.xml
-2018-10-04 00:00:07,049 INFO root Skipping falconk_archivebot_hex_pp_ua_20170127_meta.sqlite
-2018-10-04 00:00:07,049 INFO root Skipping falconk_archivebot_hex_pp_ua_20170127_meta.xml
-2018-10-04 00:00:07,138 INFO root Processing item falconk_archivebot_libretaxi_org_20170131
-2018-10-04 00:00:07,139 INFO root Skipping falconk_archivebot_libretaxi_org_20170131.cdx.idx
-2018-10-04 00:00:07,139 INFO root Skipping falconk_archivebot_libretaxi_org_20170131_archive.torrent
-2018-10-04 00:00:07,139 INFO root Skipping falconk_archivebot_libretaxi_org_20170131_files.xml
-2018-10-04 00:00:07,139 INFO root Skipping falconk_archivebot_libretaxi_org_20170131_meta.sqlite
-2018-10-04 00:00:07,139 INFO root Skipping falconk_archivebot_libretaxi_org_20170131_meta.xml
-2018-10-04 00:00:07,264 INFO root Processing item falconk_archivebot_lol-meme_dreamwidth_org_20161107
-2018-10-04 00:00:07,265 INFO root Skipping falconk_archivebot_lol-meme_dreamwidth_org_20161107.cdx.idx
-2018-10-04 00:00:07,265 INFO root Skipping falconk_archivebot_lol-meme_dreamwidth_org_20161107_archive.torrent
-2018-10-04 00:00:07,265 INFO root Skipping falconk_archivebot_lol-meme_dreamwidth_org_20161107_files.xml
-2018-10-04 00:00:07,265 INFO root Skipping falconk_archivebot_lol-meme_dreamwidth_org_20161107_meta.sqlite
-2018-10-04 00:00:07,265 INFO root Skipping falconk_archivebot_lol-meme_dreamwidth_org_20161107_meta.xml
-2018-10-04 00:00:07,353 INFO root Processing item falconk_archivebot_m_signalvnoise_com_20170326
-2018-10-04 00:00:07,353 INFO root Skipping falconk_archivebot_m_signalvnoise_com_20170326.cdx.idx
-2018-10-04 00:00:07,353 INFO root Skipping falconk_archivebot_m_signalvnoise_com_20170326_archive.torrent
-2018-10-04 00:00:07,353 INFO root Skipping falconk_archivebot_m_signalvnoise_com_20170326_files.xml
-2018-10-04 00:00:07,354 INFO root Skipping falconk_archivebot_m_signalvnoise_com_20170326_meta.sqlite
-2018-10-04 00:00:07,354 INFO root Skipping falconk_archivebot_m_signalvnoise_com_20170326_meta.xml
-2018-10-04 00:00:07,445 INFO root Processing item falconk_archivebot_news_mit_edu_20170730
-2018-10-04 00:00:07,445 INFO root Skipping falconk_archivebot_news_mit_edu_20170730.cdx.idx
-2018-10-04 00:00:07,445 INFO root Skipping falconk_archivebot_news_mit_edu_20170730_archive.torrent
-2018-10-04 00:00:07,446 INFO root Skipping falconk_archivebot_news_mit_edu_20170730_files.xml
-2018-10-04 00:00:07,446 INFO root Skipping falconk_archivebot_news_mit_edu_20170730_meta.sqlite
-2018-10-04 00:00:07,446 INFO root Skipping falconk_archivebot_news_mit_edu_20170730_meta.xml
-2018-10-04 00:00:07,651 INFO root Processing item falconk_archivebot_proudautisticliving_com_20170328
-2018-10-04 00:00:07,652 INFO root Skipping falconk_archivebot_proudautisticliving_com_20170328.cdx.idx
-2018-10-04 00:00:07,652 INFO root Skipping falconk_archivebot_proudautisticliving_com_20170328_archive.torrent
-2018-10-04 00:00:07,652 INFO root Skipping falconk_archivebot_proudautisticliving_com_20170328_files.xml
-2018-10-04 00:00:07,652 INFO root Skipping falconk_archivebot_proudautisticliving_com_20170328_meta.sqlite
-2018-10-04 00:00:07,652 INFO root Skipping falconk_archivebot_proudautisticliving_com_20170328_meta.xml
-2018-10-04 00:00:07,738 INFO root Processing item falconk_archivebot_publicdomainreview_org_20170622
-2018-10-04 00:00:07,739 INFO root Skipping falconk_archivebot_publicdomainreview_org_20170622.cdx.idx
-2018-10-04 00:00:07,739 INFO root Skipping falconk_archivebot_publicdomainreview_org_20170622_archive.torrent
-2018-10-04 00:00:07,739 INFO root Skipping falconk_archivebot_publicdomainreview_org_20170622_files.xml
-2018-10-04 00:00:07,739 INFO root Skipping falconk_archivebot_publicdomainreview_org_20170622_meta.sqlite
-2018-10-04 00:00:07,739 INFO root Skipping falconk_archivebot_publicdomainreview_org_20170622_meta.xml
-2018-10-04 00:00:08,161 INFO root Processing item falconk_archivebot_ultra64_ca_20170926
-2018-10-04 00:00:08,162 INFO root Skipping falconk_archivebot_ultra64_ca_20170926.cdx.idx
-2018-10-04 00:00:08,162 INFO root Skipping falconk_archivebot_ultra64_ca_20170926_archive.torrent
-2018-10-04 00:00:08,162 INFO root Skipping falconk_archivebot_ultra64_ca_20170926_files.xml
-2018-10-04 00:00:08,162 INFO root Skipping falconk_archivebot_ultra64_ca_20170926_meta.sqlite
-2018-10-04 00:00:08,162 INFO root Skipping falconk_archivebot_ultra64_ca_20170926_meta.xml
-2018-10-04 00:00:08,420 INFO root Processing item falconk_archivebot_www_airlinepilotforums_com_20170321
-2018-10-04 00:00:08,421 INFO root Skipping falconk_archivebot_www_airlinepilotforums_com_20170321.cdx.idx
-2018-10-04 00:00:08,421 INFO root Skipping falconk_archivebot_www_airlinepilotforums_com_20170321_archive.torrent
-2018-10-04 00:00:08,421 INFO root Skipping falconk_archivebot_www_airlinepilotforums_com_20170321_files.xml
-2018-10-04 00:00:08,421 INFO root Skipping falconk_archivebot_www_airlinepilotforums_com_20170321_meta.sqlite
-2018-10-04 00:00:08,421 INFO root Skipping falconk_archivebot_www_airlinepilotforums_com_20170321_meta.xml
-2018-10-04 00:00:08,650 INFO root Processing item falconk_archivebot_www_amazon_com_20170304
-2018-10-04 00:00:08,650 INFO root Skipping falconk_archivebot_www_amazon_com_20170304.cdx.idx
-2018-10-04 00:00:08,651 INFO root Skipping falconk_archivebot_www_amazon_com_20170304_archive.torrent
-2018-10-04 00:00:08,651 INFO root Skipping falconk_archivebot_www_amazon_com_20170304_files.xml
-2018-10-04 00:00:08,651 INFO root Skipping falconk_archivebot_www_amazon_com_20170304_meta.sqlite
-2018-10-04 00:00:08,651 INFO root Skipping falconk_archivebot_www_amazon_com_20170304_meta.xml
-2018-10-04 00:00:08,842 INFO root Processing item falconk_archivebot_www_camelot_co_jp_20170131
-2018-10-04 00:00:08,843 INFO root Skipping falconk_archivebot_www_camelot_co_jp_20170131.cdx.idx
-2018-10-04 00:00:08,843 INFO root Skipping falconk_archivebot_www_camelot_co_jp_20170131_archive.torrent
-2018-10-04 00:00:08,843 INFO root Skipping falconk_archivebot_www_camelot_co_jp_20170131_files.xml
-2018-10-04 00:00:08,843 INFO root Skipping falconk_archivebot_www_camelot_co_jp_20170131_meta.sqlite
-2018-10-04 00:00:08,843 INFO root Skipping falconk_archivebot_www_camelot_co_jp_20170131_meta.xml
-2018-10-04 00:00:09,076 INFO root Processing item falconk_archivebot_www_esperanto-sumoo_strefa_pl_20170312
-2018-10-04 00:00:09,077 INFO root Skipping falconk_archivebot_www_esperanto-sumoo_strefa_pl_20170312.cdx.idx
-2018-10-04 00:00:09,077 INFO root Skipping falconk_archivebot_www_esperanto-sumoo_strefa_pl_20170312_archive.torrent
-2018-10-04 00:00:09,077 INFO root Skipping falconk_archivebot_www_esperanto-sumoo_strefa_pl_20170312_files.xml
-2018-10-04 00:00:09,077 INFO root Skipping falconk_archivebot_www_esperanto-sumoo_strefa_pl_20170312_meta.sqlite
-2018-10-04 00:00:09,077 INFO root Skipping falconk_archivebot_www_esperanto-sumoo_strefa_pl_20170312_meta.xml
-2018-10-04 00:00:09,287 INFO root Processing item falconk_archivebot_www_independent_co_uk_20161214
-2018-10-04 00:00:09,287 INFO root Skipping falconk_archivebot_www_independent_co_uk_20161214.cdx.idx
-2018-10-04 00:00:09,287 INFO root Skipping falconk_archivebot_www_independent_co_uk_20161214_archive.torrent
-2018-10-04 00:00:09,287 INFO root Skipping falconk_archivebot_www_independent_co_uk_20161214_files.xml
-2018-10-04 00:00:09,287 INFO root Skipping falconk_archivebot_www_independent_co_uk_20161214_meta.sqlite
-2018-10-04 00:00:09,288 INFO root Skipping falconk_archivebot_www_independent_co_uk_20161214_meta.xml
-2018-10-04 00:00:09,376 INFO root Processing item falconk_archivebot_www_itsaquestionofbalance_com_20170220
-2018-10-04 00:00:09,376 INFO root Skipping falconk_archivebot_www_itsaquestionofbalance_com_20170220.cdx.idx
-2018-10-04 00:00:09,376 INFO root Skipping falconk_archivebot_www_itsaquestionofbalance_com_20170220_archive.torrent
-2018-10-04 00:00:09,377 INFO root Skipping falconk_archivebot_www_itsaquestionofbalance_com_20170220_files.xml
-2018-10-04 00:00:09,377 INFO root Skipping falconk_archivebot_www_itsaquestionofbalance_com_20170220_meta.sqlite
-2018-10-04 00:00:09,377 INFO root Skipping falconk_archivebot_www_itsaquestionofbalance_com_20170220_meta.xml
-2018-10-04 00:00:09,478 INFO root Processing item falconk_archivebot_www_mediapart_fr_20170316
-2018-10-04 00:00:09,478 INFO root Skipping falconk_archivebot_www_mediapart_fr_20170316.cdx.idx
-2018-10-04 00:00:09,478 INFO root Skipping falconk_archivebot_www_mediapart_fr_20170316_archive.torrent
-2018-10-04 00:00:09,480 INFO root Skipping falconk_archivebot_www_mediapart_fr_20170316_files.xml
-2018-10-04 00:00:09,480 INFO root Skipping falconk_archivebot_www_mediapart_fr_20170316_meta.sqlite
-2018-10-04 00:00:09,480 INFO root Skipping falconk_archivebot_www_mediapart_fr_20170316_meta.xml
-2018-10-04 00:00:09,573 INFO root Processing item falconk_archivebot_www_power2u_org_20170220
-2018-10-04 00:00:09,573 INFO root Skipping falconk_archivebot_www_power2u_org_20170220.cdx.idx
-2018-10-04 00:00:09,573 INFO root Skipping falconk_archivebot_www_power2u_org_20170220_archive.torrent
-2018-10-04 00:00:09,573 INFO root Skipping falconk_archivebot_www_power2u_org_20170220_files.xml
-2018-10-04 00:00:09,574 INFO root Skipping falconk_archivebot_www_power2u_org_20170220_meta.sqlite
-2018-10-04 00:00:09,574 INFO root Skipping falconk_archivebot_www_power2u_org_20170220_meta.xml
-2018-10-04 00:00:09,762 INFO root Processing item falconk_archivebot_www_reddit_com_20170525
-2018-10-04 00:00:09,762 INFO root Skipping falconk_archivebot_www_reddit_com_20170525.cdx.idx
-2018-10-04 00:00:09,763 INFO root Skipping falconk_archivebot_www_reddit_com_20170525_archive.torrent
-2018-10-04 00:00:09,763 INFO root Skipping falconk_archivebot_www_reddit_com_20170525_files.xml
-2018-10-04 00:00:09,763 INFO root Skipping falconk_archivebot_www_reddit_com_20170525_meta.sqlite
-2018-10-04 00:00:09,763 INFO root Skipping falconk_archivebot_www_reddit_com_20170525_meta.xml
-2018-10-04 00:00:09,850 INFO root Processing item falconk_archivebot_www_theatlantic_com_20161130
-2018-10-04 00:00:09,851 INFO root Skipping falconk_archivebot_www_theatlantic_com_20161130.cdx.idx
-2018-10-04 00:00:09,851 INFO root Skipping falconk_archivebot_www_theatlantic_com_20161130_archive.torrent
-2018-10-04 00:00:09,851 INFO root Skipping falconk_archivebot_www_theatlantic_com_20161130_files.xml
-2018-10-04 00:00:09,851 INFO root Skipping falconk_archivebot_www_theatlantic_com_20161130_meta.sqlite
-2018-10-04 00:00:09,851 INFO root Skipping falconk_archivebot_www_theatlantic_com_20161130_meta.xml
-2018-10-04 00:00:09,940 INFO root Processing item falconk_archivebot_www_theguardian_com_20170724
-2018-10-04 00:00:09,940 INFO root Skipping falconk_archivebot_www_theguardian_com_20170724.cdx.idx
-2018-10-04 00:00:09,940 INFO root Skipping falconk_archivebot_www_theguardian_com_20170724_archive.torrent
-2018-10-04 00:00:09,940 INFO root Skipping falconk_archivebot_www_theguardian_com_20170724_files.xml
-2018-10-04 00:00:09,940 INFO root Skipping falconk_archivebot_www_theguardian_com_20170724_meta.sqlite
-2018-10-04 00:00:09,941 INFO root Skipping falconk_archivebot_www_theguardian_com_20170724_meta.xml
-2018-10-04 00:00:10,204 INFO root Processing item falconk_archivebot_www_theregister_co_uk_20170201
-2018-10-04 00:00:10,205 INFO root Skipping falconk_archivebot_www_theregister_co_uk_20170201.cdx.idx
-2018-10-04 00:00:10,205 INFO root Skipping falconk_archivebot_www_theregister_co_uk_20170201_archive.torrent
-2018-10-04 00:00:10,205 INFO root Skipping falconk_archivebot_www_theregister_co_uk_20170201_files.xml
-2018-10-04 00:00:10,205 INFO root Skipping falconk_archivebot_www_theregister_co_uk_20170201_meta.sqlite
-2018-10-04 00:00:10,205 INFO root Skipping falconk_archivebot_www_theregister_co_uk_20170201_meta.xml
-2018-10-04 00:00:10,205 INFO root Writing last-update file
-2018-10-04 00:00:10,206 INFO root Done
+2018-10-04 06:00:01,732 DEBU root Last attempt: 2018-10-04T00:00:02Z
+2018-10-04 06:00:01,733 DEBU root Last success: 2018-10-04T00:00:02Z
+2018-10-04 06:00:01,733 INFO root Writing last-update file
+2018-10-04 06:00:01,734 INFO root Query: 'collection:archivebot oai_updatedate:[2018-10-04T00:00:02Z TO null]'
+2018-10-04 06:00:02,955 INFO root Processing item archiveteam_archivebot_go_20170525080002
+2018-10-04 06:00:02,955 INFO root Skipping archiveteam_archivebot_go_20170525080002.cdx.idx
+2018-10-04 06:00:02,956 INFO root Skipping archiveteam_archivebot_go_20170525080002_archive.torrent
+2018-10-04 06:00:02,956 INFO root Skipping archiveteam_archivebot_go_20170525080002_files.xml
+2018-10-04 06:00:02,956 INFO root Skipping archiveteam_archivebot_go_20170525080002_meta.sqlite
+2018-10-04 06:00:02,956 INFO root Skipping archiveteam_archivebot_go_20170525080002_meta.xml
+2018-10-04 06:00:03,225 INFO root Processing item archiveteam_archivebot_go_20181001130001
+2018-10-04 06:00:03,226 INFO root Skipping archiveteam_archivebot_go_20181001130001.cdx.idx
+2018-10-04 06:00:03,226 INFO root Skipping archiveteam_archivebot_go_20181001130001_archive.torrent
+2018-10-04 06:00:03,226 INFO root Skipping archiveteam_archivebot_go_20181001130001_files.xml
+2018-10-04 06:00:03,226 INFO root Skipping archiveteam_archivebot_go_20181001130001_meta.sqlite
+2018-10-04 06:00:03,226 INFO root Skipping archiveteam_archivebot_go_20181001130001_meta.xml
+2018-10-04 06:00:03,704 INFO root Processing item archiveteam_archivebot_go_20181002160002
+2018-10-04 06:00:03,704 INFO root Skipping archiveteam_archivebot_go_20181002160002.cdx.idx
+2018-10-04 06:00:03,704 INFO root Skipping archiveteam_archivebot_go_20181002160002_archive.torrent
+2018-10-04 06:00:03,705 INFO root Skipping archiveteam_archivebot_go_20181002160002_files.xml
+2018-10-04 06:00:03,705 INFO root Skipping archiveteam_archivebot_go_20181002160002_meta.sqlite
+2018-10-04 06:00:03,705 INFO root Skipping archiveteam_archivebot_go_20181002160002_meta.xml
+2018-10-04 06:00:04,025 INFO root Processing item archiveteam_archivebot_go_20181002230001
+2018-10-04 06:00:04,028 INFO root Skipping archiveteam_archivebot_go_20181002230001.cdx.idx
+2018-10-04 06:00:04,028 INFO root Skipping archiveteam_archivebot_go_20181002230001_archive.torrent
+2018-10-04 06:00:04,028 INFO root Skipping archiveteam_archivebot_go_20181002230001_files.xml
+2018-10-04 06:00:04,028 INFO root Skipping archiveteam_archivebot_go_20181002230001_meta.sqlite
+2018-10-04 06:00:04,029 INFO root Skipping archiveteam_archivebot_go_20181002230001_meta.xml
+2018-10-04 06:00:04,625 INFO root Processing item archiveteam_archivebot_go_20181003040001
+2018-10-04 06:00:04,625 INFO root Skipping archiveteam_archivebot_go_20181003040001.cdx.idx
+2018-10-04 06:00:04,626 INFO root Skipping archiveteam_archivebot_go_20181003040001_archive.torrent
+2018-10-04 06:00:04,626 INFO root Skipping archiveteam_archivebot_go_20181003040001_files.xml
+2018-10-04 06:00:04,626 INFO root Skipping archiveteam_archivebot_go_20181003040001_meta.sqlite
+2018-10-04 06:00:04,626 INFO root Skipping archiveteam_archivebot_go_20181003040001_meta.xml
+2018-10-04 06:00:05,205 INFO root Processing item archiveteam_archivebot_go_20181003080001
+2018-10-04 06:00:05,206 INFO root Skipping archiveteam_archivebot_go_20181003080001.cdx.idx
+2018-10-04 06:00:05,206 INFO root Skipping archiveteam_archivebot_go_20181003080001_archive.torrent
+2018-10-04 06:00:05,206 INFO root Skipping archiveteam_archivebot_go_20181003080001_files.xml
+2018-10-04 06:00:05,206 INFO root Skipping archiveteam_archivebot_go_20181003080001_meta.sqlite
+2018-10-04 06:00:05,206 INFO root Skipping archiveteam_archivebot_go_20181003080001_meta.xml
+2018-10-04 06:00:05,504 INFO root Processing item archiveteam_archivebot_go_20181003120001
+2018-10-04 06:00:05,505 INFO root Skipping archiveteam_archivebot_go_20181003120001.cdx.idx
+2018-10-04 06:00:05,505 INFO root Skipping archiveteam_archivebot_go_20181003120001_archive.torrent
+2018-10-04 06:00:05,505 INFO root Skipping archiveteam_archivebot_go_20181003120001_files.xml
+2018-10-04 06:00:05,505 INFO root Skipping archiveteam_archivebot_go_20181003120001_meta.sqlite
+2018-10-04 06:00:05,505 INFO root Skipping archiveteam_archivebot_go_20181003120001_meta.xml
+2018-10-04 06:00:05,725 INFO root Processing item archiveteam_archivebot_go_20181003150001
+2018-10-04 06:00:05,725 INFO root Skipping archiveteam_archivebot_go_20181003150001_archive.torrent
+2018-10-04 06:00:05,725 INFO root Skipping archiveteam_archivebot_go_20181003150001_files.xml
+2018-10-04 06:00:05,725 INFO root Skipping archiveteam_archivebot_go_20181003150001_meta.sqlite
+2018-10-04 06:00:05,726 INFO root Skipping archiveteam_archivebot_go_20181003150001_meta.xml
+2018-10-04 06:00:05,897 INFO root Processing item archiveteam_archivebot_go_20181003180001
+2018-10-04 06:00:05,897 INFO root Skipping archiveteam_archivebot_go_20181003180001_archive.torrent
+2018-10-04 06:00:05,898 INFO root Skipping archiveteam_archivebot_go_20181003180001_files.xml
+2018-10-04 06:00:05,898 INFO root Skipping archiveteam_archivebot_go_20181003180001_meta.sqlite
+2018-10-04 06:00:05,898 INFO root Skipping archiveteam_archivebot_go_20181003180001_meta.xml
+2018-10-04 06:00:06,017 INFO root Processing item archiveteam_archivebot_go_20181003210002
+2018-10-04 06:00:06,018 INFO root Skipping archiveteam_archivebot_go_20181003210002_archive.torrent
+2018-10-04 06:00:06,018 INFO root Skipping archiveteam_archivebot_go_20181003210002_files.xml
+2018-10-04 06:00:06,018 INFO root Skipping archiveteam_archivebot_go_20181003210002_meta.sqlite
+2018-10-04 06:00:06,018 INFO root Skipping archiveteam_archivebot_go_20181003210002_meta.xml
+2018-10-04 06:00:06,324 INFO root Processing item archiveteam_archivebot_go_20181004010001
+2018-10-04 06:00:06,325 INFO root Skipping archiveteam_archivebot_go_20181004010001_files.xml
+2018-10-04 06:00:06,325 INFO root Skipping archiveteam_archivebot_go_20181004010001_meta.sqlite
+2018-10-04 06:00:06,325 INFO root Skipping archiveteam_archivebot_go_20181004010001_meta.xml
+2018-10-04 06:00:06,503 INFO root Processing item archiveteam_archivebot_go_20181004040001
+2018-10-04 06:00:06,505 INFO root Skipping archiveteam_archivebot_go_20181004040001_archive.torrent
+2018-10-04 06:00:06,505 INFO root Skipping archiveteam_archivebot_go_20181004040001_files.xml
+2018-10-04 06:00:06,505 INFO root Skipping archiveteam_archivebot_go_20181004040001_meta.sqlite
+2018-10-04 06:00:06,505 INFO root Skipping archiveteam_archivebot_go_20181004040001_meta.xml
+2018-10-04 06:00:06,601 INFO root Processing item archiveteam_archivebot_go_electrickery_hosting_philpem_me_uk_20170102
+2018-10-04 06:00:06,601 INFO root Skipping archiveteam_archivebot_go_electrickery_hosting_philpem_me_uk_20170102.cdx.idx
+2018-10-04 06:00:06,602 INFO root Skipping archiveteam_archivebot_go_electrickery_hosting_philpem_me_uk_20170102_archive.torrent
+2018-10-04 06:00:06,602 INFO root Skipping archiveteam_archivebot_go_electrickery_hosting_philpem_me_uk_20170102_files.xml
+2018-10-04 06:00:06,602 INFO root Skipping archiveteam_archivebot_go_electrickery_hosting_philpem_me_uk_20170102_meta.sqlite
+2018-10-04 06:00:06,602 INFO root Skipping archiveteam_archivebot_go_electrickery_hosting_philpem_me_uk_20170102_meta.xml
+2018-10-04 06:00:06,817 INFO root Processing item astrid_archivebot_www_huffingtonpost_com_20170207
+2018-10-04 06:00:06,818 INFO root Skipping astrid_archivebot_www_huffingtonpost_com_20170207.cdx.idx
+2018-10-04 06:00:06,818 INFO root Skipping astrid_archivebot_www_huffingtonpost_com_20170207_archive.torrent
+2018-10-04 06:00:06,818 INFO root Skipping astrid_archivebot_www_huffingtonpost_com_20170207_files.xml
+2018-10-04 06:00:06,818 INFO root Skipping astrid_archivebot_www_huffingtonpost_com_20170207_meta.sqlite
+2018-10-04 06:00:06,818 INFO root Skipping astrid_archivebot_www_huffingtonpost_com_20170207_meta.xml
+2018-10-04 06:00:07,031 INFO root Processing item falconk_archivebot_65_112_68_31_20161129
+2018-10-04 06:00:07,031 INFO root Skipping falconk_archivebot_65_112_68_31_20161129.cdx.idx
+2018-10-04 06:00:07,031 INFO root Skipping falconk_archivebot_65_112_68_31_20161129_archive.torrent
+2018-10-04 06:00:07,031 INFO root Skipping falconk_archivebot_65_112_68_31_20161129_files.xml
+2018-10-04 06:00:07,031 INFO root Skipping falconk_archivebot_65_112_68_31_20161129_meta.sqlite
+2018-10-04 06:00:07,032 INFO root Skipping falconk_archivebot_65_112_68_31_20161129_meta.xml
+2018-10-04 06:00:07,146 INFO root Processing item falconk_archivebot_alienhippy_wordpress_com_20161202
+2018-10-04 06:00:07,146 INFO root Skipping falconk_archivebot_alienhippy_wordpress_com_20161202.cdx.idx
+2018-10-04 06:00:07,146 INFO root Skipping falconk_archivebot_alienhippy_wordpress_com_20161202_archive.torrent
+2018-10-04 06:00:07,146 INFO root Skipping falconk_archivebot_alienhippy_wordpress_com_20161202_files.xml
+2018-10-04 06:00:07,146 INFO root Skipping falconk_archivebot_alienhippy_wordpress_com_20161202_meta.sqlite
+2018-10-04 06:00:07,147 INFO root Skipping falconk_archivebot_alienhippy_wordpress_com_20161202_meta.xml
+2018-10-04 06:00:07,453 INFO root Processing item falconk_archivebot_correctrecord_org_20161109
+2018-10-04 06:00:07,454 INFO root Skipping falconk_archivebot_correctrecord_org_20161109.cdx.idx
+2018-10-04 06:00:07,454 INFO root Skipping falconk_archivebot_correctrecord_org_20161109_archive.torrent
+2018-10-04 06:00:07,454 INFO root Skipping falconk_archivebot_correctrecord_org_20161109_files.xml
+2018-10-04 06:00:07,454 INFO root Skipping falconk_archivebot_correctrecord_org_20161109_meta.sqlite
+2018-10-04 06:00:07,454 INFO root Skipping falconk_archivebot_correctrecord_org_20161109_meta.xml
+2018-10-04 06:00:07,545 INFO root Processing item falconk_archivebot_defcon_org_20170106
+2018-10-04 06:00:07,546 INFO root Skipping falconk_archivebot_defcon_org_20170106.cdx.idx
+2018-10-04 06:00:07,546 INFO root Skipping falconk_archivebot_defcon_org_20170106_archive.torrent
+2018-10-04 06:00:07,546 INFO root Skipping falconk_archivebot_defcon_org_20170106_files.xml
+2018-10-04 06:00:07,546 INFO root Skipping falconk_archivebot_defcon_org_20170106_meta.sqlite
+2018-10-04 06:00:07,546 INFO root Skipping falconk_archivebot_defcon_org_20170106_meta.xml
+2018-10-04 06:00:07,758 INFO root Processing item falconk_archivebot_eng_uber_com_20170225
+2018-10-04 06:00:07,759 INFO root Skipping falconk_archivebot_eng_uber_com_20170225.cdx.idx
+2018-10-04 06:00:07,759 INFO root Skipping falconk_archivebot_eng_uber_com_20170225_archive.torrent
+2018-10-04 06:00:07,759 INFO root Skipping falconk_archivebot_eng_uber_com_20170225_files.xml
+2018-10-04 06:00:07,759 INFO root Skipping falconk_archivebot_eng_uber_com_20170225_meta.sqlite
+2018-10-04 06:00:07,759 INFO root Skipping falconk_archivebot_eng_uber_com_20170225_meta.xml
+2018-10-04 06:00:07,853 INFO root Processing item falconk_archivebot_forum_xda-developers_com_20170101
+2018-10-04 06:00:07,853 INFO root Skipping falconk_archivebot_forum_xda-developers_com_20170101.cdx.idx
+2018-10-04 06:00:07,854 INFO root Skipping falconk_archivebot_forum_xda-developers_com_20170101_archive.torrent
+2018-10-04 06:00:07,854 INFO root Skipping falconk_archivebot_forum_xda-developers_com_20170101_files.xml
+2018-10-04 06:00:07,854 INFO root Skipping falconk_archivebot_forum_xda-developers_com_20170101_meta.sqlite
+2018-10-04 06:00:07,854 INFO root Skipping falconk_archivebot_forum_xda-developers_com_20170101_meta.xml
+2018-10-04 06:00:08,062 INFO root Processing item falconk_archivebot_imgur_com_20170615
+2018-10-04 06:00:08,063 INFO root Skipping falconk_archivebot_imgur_com_20170615.cdx.idx
+2018-10-04 06:00:08,063 INFO root Skipping falconk_archivebot_imgur_com_20170615_archive.torrent
+2018-10-04 06:00:08,063 INFO root Skipping falconk_archivebot_imgur_com_20170615_files.xml
+2018-10-04 06:00:08,063 INFO root Skipping falconk_archivebot_imgur_com_20170615_meta.sqlite
+2018-10-04 06:00:08,063 INFO root Skipping falconk_archivebot_imgur_com_20170615_meta.xml
+2018-10-04 06:00:08,152 INFO root Processing item falconk_archivebot_josh_com_20170110
+2018-10-04 06:00:08,153 INFO root Skipping falconk_archivebot_josh_com_20170110.cdx.idx
+2018-10-04 06:00:08,153 INFO root Skipping falconk_archivebot_josh_com_20170110_archive.torrent
+2018-10-04 06:00:08,153 INFO root Skipping falconk_archivebot_josh_com_20170110_files.xml
+2018-10-04 06:00:08,153 INFO root Skipping falconk_archivebot_josh_com_20170110_meta.sqlite
+2018-10-04 06:00:08,153 INFO root Skipping falconk_archivebot_josh_com_20170110_meta.xml
+2018-10-04 06:00:08,358 INFO root Processing item falconk_archivebot_midan_aljazeera_net_20170703
+2018-10-04 06:00:08,359 INFO root Skipping falconk_archivebot_midan_aljazeera_net_20170703.cdx.idx
+2018-10-04 06:00:08,359 INFO root Skipping falconk_archivebot_midan_aljazeera_net_20170703_archive.torrent
+2018-10-04 06:00:08,359 INFO root Skipping falconk_archivebot_midan_aljazeera_net_20170703_files.xml
+2018-10-04 06:00:08,359 INFO root Skipping falconk_archivebot_midan_aljazeera_net_20170703_meta.sqlite
+2018-10-04 06:00:08,359 INFO root Skipping falconk_archivebot_midan_aljazeera_net_20170703_meta.xml
+2018-10-04 06:00:08,562 INFO root Processing item falconk_archivebot_netsukuku_freaknet_org_20170105
+2018-10-04 06:00:08,563 INFO root Skipping falconk_archivebot_netsukuku_freaknet_org_20170105.cdx.idx
+2018-10-04 06:00:08,563 INFO root Skipping falconk_archivebot_netsukuku_freaknet_org_20170105_archive.torrent
+2018-10-04 06:00:08,563 INFO root Skipping falconk_archivebot_netsukuku_freaknet_org_20170105_files.xml
+2018-10-04 06:00:08,563 INFO root Skipping falconk_archivebot_netsukuku_freaknet_org_20170105_meta.sqlite
+2018-10-04 06:00:08,563 INFO root Skipping falconk_archivebot_netsukuku_freaknet_org_20170105_meta.xml
+2018-10-04 06:00:08,657 INFO root Processing item falconk_archivebot_patribotics_blog_20170511
+2018-10-04 06:00:08,657 INFO root Skipping falconk_archivebot_patribotics_blog_20170511.cdx.idx
+2018-10-04 06:00:08,657 INFO root Skipping falconk_archivebot_patribotics_blog_20170511_archive.torrent
+2018-10-04 06:00:08,658 INFO root Skipping falconk_archivebot_patribotics_blog_20170511_files.xml
+2018-10-04 06:00:08,658 INFO root Skipping falconk_archivebot_patribotics_blog_20170511_meta.sqlite
+2018-10-04 06:00:08,658 INFO root Skipping falconk_archivebot_patribotics_blog_20170511_meta.xml
+2018-10-04 06:00:08,876 INFO root Processing item falconk_archivebot_sparklermonthly_com_20170828
+2018-10-04 06:00:08,877 INFO root Skipping falconk_archivebot_sparklermonthly_com_20170828.cdx.idx
+2018-10-04 06:00:08,877 INFO root Skipping falconk_archivebot_sparklermonthly_com_20170828_archive.torrent
+2018-10-04 06:00:08,877 INFO root Skipping falconk_archivebot_sparklermonthly_com_20170828_files.xml
+2018-10-04 06:00:08,877 INFO root Skipping falconk_archivebot_sparklermonthly_com_20170828_meta.sqlite
+2018-10-04 06:00:08,877 INFO root Skipping falconk_archivebot_sparklermonthly_com_20170828_meta.xml
+2018-10-04 06:00:09,397 INFO root Processing item falconk_archivebot_steven-kraft_com_20170618
+2018-10-04 06:00:09,397 INFO root Skipping falconk_archivebot_steven-kraft_com_20170618.cdx.idx
+2018-10-04 06:00:09,398 INFO root Skipping falconk_archivebot_steven-kraft_com_20170618_archive.torrent
+2018-10-04 06:00:09,398 INFO root Skipping falconk_archivebot_steven-kraft_com_20170618_files.xml
+2018-10-04 06:00:09,398 INFO root Skipping falconk_archivebot_steven-kraft_com_20170618_meta.sqlite
+2018-10-04 06:00:09,398 INFO root Skipping falconk_archivebot_steven-kraft_com_20170618_meta.xml
+2018-10-04 06:00:09,610 INFO root Processing item falconk_archivebot_www_albertk12_org_20170913
+2018-10-04 06:00:09,610 INFO root Skipping falconk_archivebot_www_albertk12_org_20170913.cdx.idx
+2018-10-04 06:00:09,611 INFO root Skipping falconk_archivebot_www_albertk12_org_20170913_archive.torrent
+2018-10-04 06:00:09,611 INFO root Skipping falconk_archivebot_www_albertk12_org_20170913_files.xml
+2018-10-04 06:00:09,611 INFO root Skipping falconk_archivebot_www_albertk12_org_20170913_meta.sqlite
+2018-10-04 06:00:09,611 INFO root Skipping falconk_archivebot_www_albertk12_org_20170913_meta.xml
+2018-10-04 06:00:09,802 INFO root Processing item falconk_archivebot_www_azcentral_com_20170724
+2018-10-04 06:00:09,803 INFO root Skipping falconk_archivebot_www_azcentral_com_20170724.cdx.idx
+2018-10-04 06:00:09,803 INFO root Skipping falconk_archivebot_www_azcentral_com_20170724_archive.torrent
+2018-10-04 06:00:09,803 INFO root Skipping falconk_archivebot_www_azcentral_com_20170724_files.xml
+2018-10-04 06:00:09,803 INFO root Skipping falconk_archivebot_www_azcentral_com_20170724_meta.sqlite
+2018-10-04 06:00:09,803 INFO root Skipping falconk_archivebot_www_azcentral_com_20170724_meta.xml
+2018-10-04 06:00:10,004 INFO root Processing item falconk_archivebot_www_bethgrossman4da_com_20170516
+2018-10-04 06:00:10,004 INFO root Skipping falconk_archivebot_www_bethgrossman4da_com_20170516.cdx.idx
+2018-10-04 06:00:10,004 INFO root Skipping falconk_archivebot_www_bethgrossman4da_com_20170516_archive.torrent
+2018-10-04 06:00:10,004 INFO root Skipping falconk_archivebot_www_bethgrossman4da_com_20170516_files.xml
+2018-10-04 06:00:10,005 INFO root Skipping falconk_archivebot_www_bethgrossman4da_com_20170516_meta.sqlite
+2018-10-04 06:00:10,005 INFO root Skipping falconk_archivebot_www_bethgrossman4da_com_20170516_meta.xml
+2018-10-04 06:00:10,219 INFO root Processing item falconk_archivebot_www_f169bbs_com_20170106
+2018-10-04 06:00:10,219 INFO root Skipping falconk_archivebot_www_f169bbs_com_20170106.cdx.idx
+2018-10-04 06:00:10,219 INFO root Skipping falconk_archivebot_www_f169bbs_com_20170106_archive.torrent
+2018-10-04 06:00:10,220 INFO root Skipping falconk_archivebot_www_f169bbs_com_20170106_files.xml
+2018-10-04 06:00:10,220 INFO root Skipping falconk_archivebot_www_f169bbs_com_20170106_meta.sqlite
+2018-10-04 06:00:10,220 INFO root Skipping falconk_archivebot_www_f169bbs_com_20170106_meta.xml
+2018-10-04 06:00:11,223 INFO root Processing item falconk_archivebot_www_gnu_org_20170309
+2018-10-04 06:00:11,223 INFO root Skipping falconk_archivebot_www_gnu_org_20170309.cdx.idx
+2018-10-04 06:00:11,223 INFO root Skipping falconk_archivebot_www_gnu_org_20170309_archive.torrent
+2018-10-04 06:00:11,223 INFO root Skipping falconk_archivebot_www_gnu_org_20170309_files.xml
+2018-10-04 06:00:11,223 INFO root Skipping falconk_archivebot_www_gnu_org_20170309_meta.sqlite
+2018-10-04 06:00:11,223 INFO root Skipping falconk_archivebot_www_gnu_org_20170309_meta.xml
+2018-10-04 06:00:11,448 INFO root Processing item falconk_archivebot_www_k7adventures_com_20170614
+2018-10-04 06:00:11,448 INFO root Skipping falconk_archivebot_www_k7adventures_com_20170614.cdx.idx
+2018-10-04 06:00:11,448 INFO root Skipping falconk_archivebot_www_k7adventures_com_20170614_archive.torrent
+2018-10-04 06:00:11,448 INFO root Skipping falconk_archivebot_www_k7adventures_com_20170614_files.xml
+2018-10-04 06:00:11,448 INFO root Skipping falconk_archivebot_www_k7adventures_com_20170614_meta.sqlite
+2018-10-04 06:00:11,448 INFO root Skipping falconk_archivebot_www_k7adventures_com_20170614_meta.xml
+2018-10-04 06:00:11,665 INFO root Processing item falconk_archivebot_www_kt_rim_or_jp_20170104
+2018-10-04 06:00:11,666 INFO root Skipping falconk_archivebot_www_kt_rim_or_jp_20170104.cdx.idx
+2018-10-04 06:00:11,666 INFO root Skipping falconk_archivebot_www_kt_rim_or_jp_20170104_archive.torrent
+2018-10-04 06:00:11,666 INFO root Skipping falconk_archivebot_www_kt_rim_or_jp_20170104_files.xml
+2018-10-04 06:00:11,666 INFO root Skipping falconk_archivebot_www_kt_rim_or_jp_20170104_meta.sqlite
+2018-10-04 06:00:11,667 INFO root Skipping falconk_archivebot_www_kt_rim_or_jp_20170104_meta.xml
+2018-10-04 06:00:11,754 INFO root Processing item falconk_archivebot_www_oneillforda_com_20170516
+2018-10-04 06:00:11,754 INFO root Skipping falconk_archivebot_www_oneillforda_com_20170516.cdx.idx
+2018-10-04 06:00:11,754 INFO root Skipping falconk_archivebot_www_oneillforda_com_20170516_archive.torrent
+2018-10-04 06:00:11,754 INFO root Skipping falconk_archivebot_www_oneillforda_com_20170516_files.xml
+2018-10-04 06:00:11,754 INFO root Skipping falconk_archivebot_www_oneillforda_com_20170516_meta.sqlite
+2018-10-04 06:00:11,754 INFO root Skipping falconk_archivebot_www_oneillforda_com_20170516_meta.xml
+2018-10-04 06:00:11,971 INFO root Processing item falconk_archivebot_www_reddit_com_20170225
+2018-10-04 06:00:11,971 INFO root Skipping falconk_archivebot_www_reddit_com_20170225.cdx.idx
+2018-10-04 06:00:11,971 INFO root Skipping falconk_archivebot_www_reddit_com_20170225_archive.torrent
+2018-10-04 06:00:11,971 INFO root Skipping falconk_archivebot_www_reddit_com_20170225_files.xml
+2018-10-04 06:00:11,971 INFO root Skipping falconk_archivebot_www_reddit_com_20170225_meta.sqlite
+2018-10-04 06:00:11,971 INFO root Skipping falconk_archivebot_www_reddit_com_20170225_meta.xml
+2018-10-04 06:00:12,066 INFO root Processing item falconk_archivebot_www_slate_com_20170204
+2018-10-04 06:00:12,066 INFO root Skipping falconk_archivebot_www_slate_com_20170204.cdx.idx
+2018-10-04 06:00:12,066 INFO root Skipping falconk_archivebot_www_slate_com_20170204_archive.torrent
+2018-10-04 06:00:12,066 INFO root Skipping falconk_archivebot_www_slate_com_20170204_files.xml
+2018-10-04 06:00:12,067 INFO root Skipping falconk_archivebot_www_slate_com_20170204_meta.sqlite
+2018-10-04 06:00:12,067 INFO root Skipping falconk_archivebot_www_slate_com_20170204_meta.xml
+2018-10-04 06:00:12,366 INFO root Processing item falconk_archivebot_www_tariqforjustice_com_20170516
+2018-10-04 06:00:12,366 INFO root Skipping falconk_archivebot_www_tariqforjustice_com_20170516.cdx.idx
+2018-10-04 06:00:12,366 INFO root Skipping falconk_archivebot_www_tariqforjustice_com_20170516_archive.torrent
+2018-10-04 06:00:12,366 INFO root Skipping falconk_archivebot_www_tariqforjustice_com_20170516_files.xml
+2018-10-04 06:00:12,366 INFO root Skipping falconk_archivebot_www_tariqforjustice_com_20170516_meta.sqlite
+2018-10-04 06:00:12,366 INFO root Skipping falconk_archivebot_www_tariqforjustice_com_20170516_meta.xml
+2018-10-04 06:00:12,603 INFO root Processing item falconk_archivebot_www_unwatch_org_20170213
+2018-10-04 06:00:12,603 INFO root Skipping falconk_archivebot_www_unwatch_org_20170213.cdx.idx
+2018-10-04 06:00:12,604 INFO root Skipping falconk_archivebot_www_unwatch_org_20170213_archive.torrent
+2018-10-04 06:00:12,604 INFO root Skipping falconk_archivebot_www_unwatch_org_20170213_files.xml
+2018-10-04 06:00:12,604 INFO root Skipping falconk_archivebot_www_unwatch_org_20170213_meta.sqlite
+2018-10-04 06:00:12,604 INFO root Skipping falconk_archivebot_www_unwatch_org_20170213_meta.xml
+2018-10-04 06:00:12,798 INFO root Processing item falconk_archivebot_www_wsj_com_20170208
+2018-10-04 06:00:12,799 INFO root Skipping falconk_archivebot_www_wsj_com_20170208.cdx.idx
+2018-10-04 06:00:12,799 INFO root Skipping falconk_archivebot_www_wsj_com_20170208_archive.torrent
+2018-10-04 06:00:12,799 INFO root Skipping falconk_archivebot_www_wsj_com_20170208_files.xml
+2018-10-04 06:00:12,799 INFO root Skipping falconk_archivebot_www_wsj_com_20170208_meta.sqlite
+2018-10-04 06:00:12,799 INFO root Skipping falconk_archivebot_www_wsj_com_20170208_meta.xml
+2018-10-04 06:00:12,800 INFO root Writing last-update file
+2018-10-04 06:00:12,800 INFO root Done
