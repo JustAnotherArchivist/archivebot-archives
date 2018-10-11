@@ -1,298 +1,166 @@
-2018-10-11 00:00:01,947 DEBU root Last attempt: 2018-10-10T18:00:01Z
-2018-10-11 00:00:01,947 DEBU root Last success: 2018-10-10T18:00:01Z
-2018-10-11 00:00:01,947 INFO root Writing last-update file
-2018-10-11 00:00:01,948 INFO root Query: 'collection:archivebot oai_updatedate:[2018-10-10T18:00:01Z TO null]'
-2018-10-11 00:00:03,190 INFO root Processing item archiveteam_archivebot_go_20161118140001
-2018-10-11 00:00:03,190 INFO root Skipping archiveteam_archivebot_go_20161118140001.cdx.idx
-2018-10-11 00:00:03,190 INFO root Skipping archiveteam_archivebot_go_20161118140001_archive.torrent
-2018-10-11 00:00:03,190 INFO root Skipping archiveteam_archivebot_go_20161118140001_files.xml
-2018-10-11 00:00:03,190 INFO root Skipping archiveteam_archivebot_go_20161118140001_meta.sqlite
-2018-10-11 00:00:03,191 INFO root Skipping archiveteam_archivebot_go_20161118140001_meta.xml
-2018-10-11 00:00:03,361 INFO root Processing item archiveteam_archivebot_go_20170911190002
-2018-10-11 00:00:03,362 INFO root Skipping archiveteam_archivebot_go_20170911190002.cdx.idx
-2018-10-11 00:00:03,362 INFO root Skipping archiveteam_archivebot_go_20170911190002_archive.torrent
-2018-10-11 00:00:03,362 INFO root Skipping archiveteam_archivebot_go_20170911190002_files.xml
-2018-10-11 00:00:03,362 INFO root Skipping archiveteam_archivebot_go_20170911190002_meta.sqlite
-2018-10-11 00:00:03,362 INFO root Skipping archiveteam_archivebot_go_20170911190002_meta.xml
-2018-10-11 00:00:03,544 INFO root Processing item archiveteam_archivebot_go_20171023230002
-2018-10-11 00:00:03,544 INFO root Skipping archiveteam_archivebot_go_20171023230002.cdx.idx
-2018-10-11 00:00:03,545 INFO root Skipping archiveteam_archivebot_go_20171023230002_archive.torrent
-2018-10-11 00:00:03,545 INFO root Skipping archiveteam_archivebot_go_20171023230002_files.xml
-2018-10-11 00:00:03,545 INFO root Skipping archiveteam_archivebot_go_20171023230002_meta.sqlite
-2018-10-11 00:00:03,545 INFO root Skipping archiveteam_archivebot_go_20171023230002_meta.xml
-2018-10-11 00:00:03,651 INFO root Processing item archiveteam_archivebot_go_20171104140002
-2018-10-11 00:00:03,651 INFO root Skipping archiveteam_archivebot_go_20171104140002.cdx.idx
-2018-10-11 00:00:03,651 INFO root Skipping archiveteam_archivebot_go_20171104140002_archive.torrent
-2018-10-11 00:00:03,651 INFO root Skipping archiveteam_archivebot_go_20171104140002_files.xml
-2018-10-11 00:00:03,651 INFO root Skipping archiveteam_archivebot_go_20171104140002_meta.sqlite
-2018-10-11 00:00:03,651 INFO root Skipping archiveteam_archivebot_go_20171104140002_meta.xml
-2018-10-11 00:00:03,757 INFO root Processing item archiveteam_archivebot_go_20181009180001
-2018-10-11 00:00:03,758 INFO root Skipping archiveteam_archivebot_go_20181009180001.cdx.idx
-2018-10-11 00:00:03,758 INFO root Skipping archiveteam_archivebot_go_20181009180001_archive.torrent
-2018-10-11 00:00:03,758 INFO root Skipping archiveteam_archivebot_go_20181009180001_files.xml
-2018-10-11 00:00:03,758 INFO root Skipping archiveteam_archivebot_go_20181009180001_meta.sqlite
-2018-10-11 00:00:03,758 INFO root Skipping archiveteam_archivebot_go_20181009180001_meta.xml
-2018-10-11 00:00:04,006 INFO root Processing item archiveteam_archivebot_go_20181010030001
-2018-10-11 00:00:04,006 INFO root Skipping archiveteam_archivebot_go_20181010030001.cdx.idx
-2018-10-11 00:00:04,006 INFO root Skipping archiveteam_archivebot_go_20181010030001_archive.torrent
-2018-10-11 00:00:04,007 INFO root Skipping archiveteam_archivebot_go_20181010030001_files.xml
-2018-10-11 00:00:04,007 INFO root Skipping archiveteam_archivebot_go_20181010030001_meta.sqlite
-2018-10-11 00:00:04,007 INFO root Skipping archiveteam_archivebot_go_20181010030001_meta.xml
-2018-10-11 00:00:04,275 INFO root Processing item archiveteam_archivebot_go_20181010080001
-2018-10-11 00:00:04,275 INFO root Skipping archiveteam_archivebot_go_20181010080001.cdx.idx
-2018-10-11 00:00:04,275 INFO root Skipping archiveteam_archivebot_go_20181010080001_archive.torrent
-2018-10-11 00:00:04,276 INFO root Skipping archiveteam_archivebot_go_20181010080001_files.xml
-2018-10-11 00:00:04,276 INFO root Skipping archiveteam_archivebot_go_20181010080001_meta.sqlite
-2018-10-11 00:00:04,276 INFO root Skipping archiveteam_archivebot_go_20181010080001_meta.xml
-2018-10-11 00:00:04,475 INFO root Processing item archiveteam_archivebot_go_20181010140001
-2018-10-11 00:00:04,476 INFO root Skipping archiveteam_archivebot_go_20181010140001.cdx.idx
-2018-10-11 00:00:04,476 INFO root Skipping archiveteam_archivebot_go_20181010140001_archive.torrent
-2018-10-11 00:00:04,477 INFO root Skipping archiveteam_archivebot_go_20181010140001_files.xml
-2018-10-11 00:00:04,477 INFO root Skipping archiveteam_archivebot_go_20181010140001_meta.sqlite
-2018-10-11 00:00:04,477 INFO root Skipping archiveteam_archivebot_go_20181010140001_meta.xml
-2018-10-11 00:00:04,681 INFO root Processing item archiveteam_archivebot_go_20181010170002
-2018-10-11 00:00:04,681 INFO root Skipping archiveteam_archivebot_go_20181010170002_archive.torrent
-2018-10-11 00:00:04,682 INFO root Skipping archiveteam_archivebot_go_20181010170002_files.xml
-2018-10-11 00:00:04,682 INFO root Skipping archiveteam_archivebot_go_20181010170002_meta.sqlite
-2018-10-11 00:00:04,682 INFO root Skipping archiveteam_archivebot_go_20181010170002_meta.xml
-2018-10-11 00:00:04,945 INFO root Processing item archiveteam_archivebot_go_20181010190002
-2018-10-11 00:00:04,946 INFO root Skipping archiveteam_archivebot_go_20181010190002_archive.torrent
-2018-10-11 00:00:04,946 INFO root Skipping archiveteam_archivebot_go_20181010190002_files.xml
-2018-10-11 00:00:04,946 INFO root Skipping archiveteam_archivebot_go_20181010190002_meta.sqlite
-2018-10-11 00:00:04,946 INFO root Skipping archiveteam_archivebot_go_20181010190002_meta.xml
-2018-10-11 00:00:05,402 INFO root Processing item archiveteam_archivebot_go_blogo_ermitejo_com_20170104
-2018-10-11 00:00:05,402 INFO root Skipping archiveteam_archivebot_go_blogo_ermitejo_com_20170104.cdx.idx
-2018-10-11 00:00:05,403 INFO root Skipping archiveteam_archivebot_go_blogo_ermitejo_com_20170104_archive.torrent
-2018-10-11 00:00:05,403 INFO root Skipping archiveteam_archivebot_go_blogo_ermitejo_com_20170104_files.xml
-2018-10-11 00:00:05,403 INFO root Skipping archiveteam_archivebot_go_blogo_ermitejo_com_20170104_meta.sqlite
-2018-10-11 00:00:05,403 INFO root Skipping archiveteam_archivebot_go_blogo_ermitejo_com_20170104_meta.xml
-2018-10-11 00:00:05,641 INFO root Processing item archiveteam_archivebot_go_www_page_sannet_ne_jp_20170104
-2018-10-11 00:00:05,641 INFO root Skipping archiveteam_archivebot_go_www_page_sannet_ne_jp_20170104.cdx.idx
-2018-10-11 00:00:05,642 INFO root Skipping archiveteam_archivebot_go_www_page_sannet_ne_jp_20170104_archive.torrent
-2018-10-11 00:00:05,642 INFO root Skipping archiveteam_archivebot_go_www_page_sannet_ne_jp_20170104_files.xml
-2018-10-11 00:00:05,642 INFO root Skipping archiveteam_archivebot_go_www_page_sannet_ne_jp_20170104_meta.sqlite
-2018-10-11 00:00:05,642 INFO root Skipping archiveteam_archivebot_go_www_page_sannet_ne_jp_20170104_meta.xml
-2018-10-11 00:00:05,754 INFO root Processing item astrid_archivebot_labs_cooperhewitt_org_20170324
-2018-10-11 00:00:05,755 INFO root Skipping astrid_archivebot_labs_cooperhewitt_org_20170324.cdx.idx
-2018-10-11 00:00:05,755 INFO root Skipping astrid_archivebot_labs_cooperhewitt_org_20170324_archive.torrent
-2018-10-11 00:00:05,755 INFO root Skipping astrid_archivebot_labs_cooperhewitt_org_20170324_files.xml
-2018-10-11 00:00:05,755 INFO root Skipping astrid_archivebot_labs_cooperhewitt_org_20170324_meta.sqlite
-2018-10-11 00:00:05,755 INFO root Skipping astrid_archivebot_labs_cooperhewitt_org_20170324_meta.xml
-2018-10-11 00:00:06,009 INFO root Processing item astrid_archivebot_twitter_com_20170929
-2018-10-11 00:00:06,010 INFO root Skipping astrid_archivebot_twitter_com_20170929.cdx.idx
-2018-10-11 00:00:06,010 INFO root Skipping astrid_archivebot_twitter_com_20170929_archive.torrent
-2018-10-11 00:00:06,010 INFO root Skipping astrid_archivebot_twitter_com_20170929_files.xml
-2018-10-11 00:00:06,010 INFO root Skipping astrid_archivebot_twitter_com_20170929_meta.sqlite
-2018-10-11 00:00:06,010 INFO root Skipping astrid_archivebot_twitter_com_20170929_meta.xml
-2018-10-11 00:00:06,208 INFO root Processing item falconk_archivebot_1711141131131_xyz_20170629
-2018-10-11 00:00:06,209 INFO root Skipping falconk_archivebot_1711141131131_xyz_20170629.cdx.idx
-2018-10-11 00:00:06,209 INFO root Skipping falconk_archivebot_1711141131131_xyz_20170629_archive.torrent
-2018-10-11 00:00:06,209 INFO root Skipping falconk_archivebot_1711141131131_xyz_20170629_files.xml
-2018-10-11 00:00:06,209 INFO root Skipping falconk_archivebot_1711141131131_xyz_20170629_meta.sqlite
-2018-10-11 00:00:06,209 INFO root Skipping falconk_archivebot_1711141131131_xyz_20170629_meta.xml
-2018-10-11 00:00:06,323 INFO root Processing item falconk_archivebot_adorablesleep_tumblr_com_20161105
-2018-10-11 00:00:06,323 INFO root Skipping falconk_archivebot_adorablesleep_tumblr_com_20161105.cdx.idx
-2018-10-11 00:00:06,324 INFO root Skipping falconk_archivebot_adorablesleep_tumblr_com_20161105_archive.torrent
-2018-10-11 00:00:06,324 INFO root Skipping falconk_archivebot_adorablesleep_tumblr_com_20161105_files.xml
-2018-10-11 00:00:06,324 INFO root Skipping falconk_archivebot_adorablesleep_tumblr_com_20161105_meta.sqlite
-2018-10-11 00:00:06,324 INFO root Skipping falconk_archivebot_adorablesleep_tumblr_com_20161105_meta.xml
-2018-10-11 00:00:06,527 INFO root Processing item falconk_archivebot_bugs_launchpad_net_20170629
-2018-10-11 00:00:06,528 INFO root Skipping falconk_archivebot_bugs_launchpad_net_20170629.cdx.idx
-2018-10-11 00:00:06,528 INFO root Skipping falconk_archivebot_bugs_launchpad_net_20170629_archive.torrent
-2018-10-11 00:00:06,528 INFO root Skipping falconk_archivebot_bugs_launchpad_net_20170629_files.xml
-2018-10-11 00:00:06,528 INFO root Skipping falconk_archivebot_bugs_launchpad_net_20170629_meta.sqlite
-2018-10-11 00:00:06,528 INFO root Skipping falconk_archivebot_bugs_launchpad_net_20170629_meta.xml
-2018-10-11 00:00:06,763 INFO root Processing item falconk_archivebot_coulls_blogspot_com_20170612
-2018-10-11 00:00:06,767 INFO root Skipping falconk_archivebot_coulls_blogspot_com_20170612.cdx.idx
-2018-10-11 00:00:06,767 INFO root Skipping falconk_archivebot_coulls_blogspot_com_20170612_archive.torrent
-2018-10-11 00:00:06,767 INFO root Skipping falconk_archivebot_coulls_blogspot_com_20170612_files.xml
-2018-10-11 00:00:06,768 INFO root Skipping falconk_archivebot_coulls_blogspot_com_20170612_meta.sqlite
-2018-10-11 00:00:06,768 INFO root Skipping falconk_archivebot_coulls_blogspot_com_20170612_meta.xml
-2018-10-11 00:00:06,975 INFO root Processing item falconk_archivebot_edition_cnn_com_20170705
-2018-10-11 00:00:06,976 INFO root Skipping falconk_archivebot_edition_cnn_com_20170705.cdx.idx
-2018-10-11 00:00:06,976 INFO root Skipping falconk_archivebot_edition_cnn_com_20170705_archive.torrent
-2018-10-11 00:00:06,976 INFO root Skipping falconk_archivebot_edition_cnn_com_20170705_files.xml
-2018-10-11 00:00:06,976 INFO root Skipping falconk_archivebot_edition_cnn_com_20170705_meta.sqlite
-2018-10-11 00:00:06,976 INFO root Skipping falconk_archivebot_edition_cnn_com_20170705_meta.xml
-2018-10-11 00:00:07,236 INFO root Processing item falconk_archivebot_f-droid_org_20170428
-2018-10-11 00:00:07,236 INFO root Skipping falconk_archivebot_f-droid_org_20170428.cdx.idx
-2018-10-11 00:00:07,237 INFO root Skipping falconk_archivebot_f-droid_org_20170428_archive.torrent
-2018-10-11 00:00:07,237 INFO root Skipping falconk_archivebot_f-droid_org_20170428_files.xml
-2018-10-11 00:00:07,237 INFO root Skipping falconk_archivebot_f-droid_org_20170428_meta.sqlite
-2018-10-11 00:00:07,237 INFO root Skipping falconk_archivebot_f-droid_org_20170428_meta.xml
-2018-10-11 00:00:07,335 INFO root Processing item falconk_archivebot_forums_digitalspy_co_uk_20170106
-2018-10-11 00:00:07,336 INFO root Skipping falconk_archivebot_forums_digitalspy_co_uk_20170106.cdx.idx
-2018-10-11 00:00:07,336 INFO root Skipping falconk_archivebot_forums_digitalspy_co_uk_20170106_archive.torrent
-2018-10-11 00:00:07,336 INFO root Skipping falconk_archivebot_forums_digitalspy_co_uk_20170106_files.xml
-2018-10-11 00:00:07,336 INFO root Skipping falconk_archivebot_forums_digitalspy_co_uk_20170106_meta.sqlite
-2018-10-11 00:00:07,336 INFO root Skipping falconk_archivebot_forums_digitalspy_co_uk_20170106_meta.xml
-2018-10-11 00:00:07,442 INFO root Processing item falconk_archivebot_heatst_com_20161109
-2018-10-11 00:00:07,442 INFO root Skipping falconk_archivebot_heatst_com_20161109.cdx.idx
-2018-10-11 00:00:07,442 INFO root Skipping falconk_archivebot_heatst_com_20161109_archive.torrent
-2018-10-11 00:00:07,442 INFO root Skipping falconk_archivebot_heatst_com_20161109_files.xml
-2018-10-11 00:00:07,442 INFO root Skipping falconk_archivebot_heatst_com_20161109_meta.sqlite
-2018-10-11 00:00:07,443 INFO root Skipping falconk_archivebot_heatst_com_20161109_meta.xml
-2018-10-11 00:00:07,628 INFO root Processing item falconk_archivebot_heterocyclist_com_20170415
-2018-10-11 00:00:07,629 INFO root Skipping falconk_archivebot_heterocyclist_com_20170415.cdx.idx
-2018-10-11 00:00:07,629 INFO root Skipping falconk_archivebot_heterocyclist_com_20170415_archive.torrent
-2018-10-11 00:00:07,629 INFO root Skipping falconk_archivebot_heterocyclist_com_20170415_files.xml
-2018-10-11 00:00:07,629 INFO root Skipping falconk_archivebot_heterocyclist_com_20170415_meta.sqlite
-2018-10-11 00:00:07,629 INFO root Skipping falconk_archivebot_heterocyclist_com_20170415_meta.xml
-2018-10-11 00:00:07,725 INFO root Processing item falconk_archivebot_learnpythonthehardway_org_20170707
-2018-10-11 00:00:07,725 INFO root Skipping falconk_archivebot_learnpythonthehardway_org_20170707.cdx.idx
-2018-10-11 00:00:07,725 INFO root Skipping falconk_archivebot_learnpythonthehardway_org_20170707_archive.torrent
-2018-10-11 00:00:07,725 INFO root Skipping falconk_archivebot_learnpythonthehardway_org_20170707_files.xml
-2018-10-11 00:00:07,726 INFO root Skipping falconk_archivebot_learnpythonthehardway_org_20170707_meta.sqlite
-2018-10-11 00:00:07,726 INFO root Skipping falconk_archivebot_learnpythonthehardway_org_20170707_meta.xml
-2018-10-11 00:00:07,918 INFO root Processing item falconk_archivebot_markforged_com_20170317
-2018-10-11 00:00:07,919 INFO root Skipping falconk_archivebot_markforged_com_20170317.cdx.idx
-2018-10-11 00:00:07,919 INFO root Skipping falconk_archivebot_markforged_com_20170317_archive.torrent
-2018-10-11 00:00:07,919 INFO root Skipping falconk_archivebot_markforged_com_20170317_files.xml
-2018-10-11 00:00:07,919 INFO root Skipping falconk_archivebot_markforged_com_20170317_meta.sqlite
-2018-10-11 00:00:07,919 INFO root Skipping falconk_archivebot_markforged_com_20170317_meta.xml
-2018-10-11 00:00:08,087 INFO root Processing item falconk_archivebot_pics_yougave_me_20170714
-2018-10-11 00:00:08,088 INFO root Skipping falconk_archivebot_pics_yougave_me_20170714.cdx.idx
-2018-10-11 00:00:08,088 INFO root Skipping falconk_archivebot_pics_yougave_me_20170714_archive.torrent
-2018-10-11 00:00:08,088 INFO root Skipping falconk_archivebot_pics_yougave_me_20170714_files.xml
-2018-10-11 00:00:08,088 INFO root Skipping falconk_archivebot_pics_yougave_me_20170714_meta.sqlite
-2018-10-11 00:00:08,088 INFO root Skipping falconk_archivebot_pics_yougave_me_20170714_meta.xml
-2018-10-11 00:00:08,262 INFO root Processing item falconk_archivebot_thealternativehypothesis_org_20170110
-2018-10-11 00:00:08,262 INFO root Skipping falconk_archivebot_thealternativehypothesis_org_20170110.cdx.idx
-2018-10-11 00:00:08,262 INFO root Skipping falconk_archivebot_thealternativehypothesis_org_20170110_archive.torrent
-2018-10-11 00:00:08,263 INFO root Skipping falconk_archivebot_thealternativehypothesis_org_20170110_files.xml
-2018-10-11 00:00:08,263 INFO root Skipping falconk_archivebot_thealternativehypothesis_org_20170110_meta.sqlite
-2018-10-11 00:00:08,263 INFO root Skipping falconk_archivebot_thealternativehypothesis_org_20170110_meta.xml
-2018-10-11 00:00:08,457 INFO root Processing item falconk_archivebot_time_com_20170331
-2018-10-11 00:00:08,457 INFO root Skipping falconk_archivebot_time_com_20170331.cdx.idx
-2018-10-11 00:00:08,457 INFO root Skipping falconk_archivebot_time_com_20170331_archive.torrent
-2018-10-11 00:00:08,457 INFO root Skipping falconk_archivebot_time_com_20170331_files.xml
-2018-10-11 00:00:08,457 INFO root Skipping falconk_archivebot_time_com_20170331_meta.sqlite
-2018-10-11 00:00:08,457 INFO root Skipping falconk_archivebot_time_com_20170331_meta.xml
-2018-10-11 00:00:08,550 INFO root Processing item falconk_archivebot_twitter_com_20170305
-2018-10-11 00:00:08,551 INFO root Skipping falconk_archivebot_twitter_com_20170305.cdx.idx
-2018-10-11 00:00:08,551 INFO root Skipping falconk_archivebot_twitter_com_20170305_archive.torrent
-2018-10-11 00:00:08,551 INFO root Skipping falconk_archivebot_twitter_com_20170305_files.xml
-2018-10-11 00:00:08,551 INFO root Skipping falconk_archivebot_twitter_com_20170305_meta.sqlite
-2018-10-11 00:00:08,551 INFO root Skipping falconk_archivebot_twitter_com_20170305_meta.xml
-2018-10-11 00:00:08,736 INFO root Processing item falconk_archivebot_www_agbmusic_com_20170727
-2018-10-11 00:00:08,736 INFO root Skipping falconk_archivebot_www_agbmusic_com_20170727.cdx.idx
-2018-10-11 00:00:08,736 INFO root Skipping falconk_archivebot_www_agbmusic_com_20170727_archive.torrent
-2018-10-11 00:00:08,737 INFO root Skipping falconk_archivebot_www_agbmusic_com_20170727_files.xml
-2018-10-11 00:00:08,737 INFO root Skipping falconk_archivebot_www_agbmusic_com_20170727_meta.sqlite
-2018-10-11 00:00:08,737 INFO root Skipping falconk_archivebot_www_agbmusic_com_20170727_meta.xml
-2018-10-11 00:00:08,832 INFO root Processing item falconk_archivebot_www_apnewsarchive_com_20170517
-2018-10-11 00:00:08,832 INFO root Skipping falconk_archivebot_www_apnewsarchive_com_20170517.cdx.idx
-2018-10-11 00:00:08,832 INFO root Skipping falconk_archivebot_www_apnewsarchive_com_20170517_archive.torrent
-2018-10-11 00:00:08,833 INFO root Skipping falconk_archivebot_www_apnewsarchive_com_20170517_files.xml
-2018-10-11 00:00:08,833 INFO root Skipping falconk_archivebot_www_apnewsarchive_com_20170517_meta.sqlite
-2018-10-11 00:00:08,833 INFO root Skipping falconk_archivebot_www_apnewsarchive_com_20170517_meta.xml
-2018-10-11 00:00:09,057 INFO root Processing item falconk_archivebot_www_bbc_com_20170616
-2018-10-11 00:00:09,057 INFO root Skipping falconk_archivebot_www_bbc_com_20170616.cdx.idx
-2018-10-11 00:00:09,057 INFO root Skipping falconk_archivebot_www_bbc_com_20170616_archive.torrent
-2018-10-11 00:00:09,057 INFO root Skipping falconk_archivebot_www_bbc_com_20170616_files.xml
-2018-10-11 00:00:09,057 INFO root Skipping falconk_archivebot_www_bbc_com_20170616_meta.sqlite
-2018-10-11 00:00:09,057 INFO root Skipping falconk_archivebot_www_bbc_com_20170616_meta.xml
-2018-10-11 00:00:09,226 INFO root Processing item falconk_archivebot_www_cbc_ca_20170305
-2018-10-11 00:00:09,226 INFO root Skipping falconk_archivebot_www_cbc_ca_20170305.cdx.idx
-2018-10-11 00:00:09,226 INFO root Skipping falconk_archivebot_www_cbc_ca_20170305_archive.torrent
-2018-10-11 00:00:09,227 INFO root Skipping falconk_archivebot_www_cbc_ca_20170305_files.xml
-2018-10-11 00:00:09,227 INFO root Skipping falconk_archivebot_www_cbc_ca_20170305_meta.sqlite
-2018-10-11 00:00:09,227 INFO root Skipping falconk_archivebot_www_cbc_ca_20170305_meta.xml
-2018-10-11 00:00:09,447 INFO root Processing item falconk_archivebot_www_coventrysociety_org_uk_20170101
-2018-10-11 00:00:09,448 INFO root Skipping falconk_archivebot_www_coventrysociety_org_uk_20170101.cdx.idx
-2018-10-11 00:00:09,448 INFO root Skipping falconk_archivebot_www_coventrysociety_org_uk_20170101_archive.torrent
-2018-10-11 00:00:09,448 INFO root Skipping falconk_archivebot_www_coventrysociety_org_uk_20170101_files.xml
-2018-10-11 00:00:09,448 INFO root Skipping falconk_archivebot_www_coventrysociety_org_uk_20170101_meta.sqlite
-2018-10-11 00:00:09,448 INFO root Skipping falconk_archivebot_www_coventrysociety_org_uk_20170101_meta.xml
-2018-10-11 00:00:09,651 INFO root Processing item falconk_archivebot_www_eonet_ne_jp_20170120
-2018-10-11 00:00:09,651 INFO root Skipping falconk_archivebot_www_eonet_ne_jp_20170120.cdx.idx
-2018-10-11 00:00:09,651 INFO root Skipping falconk_archivebot_www_eonet_ne_jp_20170120_archive.torrent
-2018-10-11 00:00:09,651 INFO root Skipping falconk_archivebot_www_eonet_ne_jp_20170120_files.xml
-2018-10-11 00:00:09,651 INFO root Skipping falconk_archivebot_www_eonet_ne_jp_20170120_meta.sqlite
-2018-10-11 00:00:09,652 INFO root Skipping falconk_archivebot_www_eonet_ne_jp_20170120_meta.xml
-2018-10-11 00:00:09,750 INFO root Processing item falconk_archivebot_www_juicero_com_20170901
-2018-10-11 00:00:09,751 INFO root Skipping falconk_archivebot_www_juicero_com_20170901.cdx.idx
-2018-10-11 00:00:09,751 INFO root Skipping falconk_archivebot_www_juicero_com_20170901_archive.torrent
-2018-10-11 00:00:09,751 INFO root Skipping falconk_archivebot_www_juicero_com_20170901_files.xml
-2018-10-11 00:00:09,751 INFO root Skipping falconk_archivebot_www_juicero_com_20170901_meta.sqlite
-2018-10-11 00:00:09,751 INFO root Skipping falconk_archivebot_www_juicero_com_20170901_meta.xml
-2018-10-11 00:00:09,846 INFO root Processing item falconk_archivebot_www_lemmykoopa_com_20170611
-2018-10-11 00:00:09,847 INFO root Skipping falconk_archivebot_www_lemmykoopa_com_20170611.cdx.idx
-2018-10-11 00:00:09,847 INFO root Skipping falconk_archivebot_www_lemmykoopa_com_20170611_archive.torrent
-2018-10-11 00:00:09,847 INFO root Skipping falconk_archivebot_www_lemmykoopa_com_20170611_files.xml
-2018-10-11 00:00:09,847 INFO root Skipping falconk_archivebot_www_lemmykoopa_com_20170611_meta.sqlite
-2018-10-11 00:00:09,847 INFO root Skipping falconk_archivebot_www_lemmykoopa_com_20170611_meta.xml
-2018-10-11 00:00:09,940 INFO root Processing item falconk_archivebot_www_radvok_com_20170411
-2018-10-11 00:00:09,941 INFO root Skipping falconk_archivebot_www_radvok_com_20170411.cdx.idx
-2018-10-11 00:00:09,941 INFO root Skipping falconk_archivebot_www_radvok_com_20170411_archive.torrent
-2018-10-11 00:00:09,941 INFO root Skipping falconk_archivebot_www_radvok_com_20170411_files.xml
-2018-10-11 00:00:09,941 INFO root Skipping falconk_archivebot_www_radvok_com_20170411_meta.sqlite
-2018-10-11 00:00:09,941 INFO root Skipping falconk_archivebot_www_radvok_com_20170411_meta.xml
-2018-10-11 00:00:10,039 INFO root Processing item falconk_archivebot_www_reddit_com_20170203
-2018-10-11 00:00:10,039 INFO root Skipping falconk_archivebot_www_reddit_com_20170203.cdx.idx
-2018-10-11 00:00:10,039 INFO root Skipping falconk_archivebot_www_reddit_com_20170203_archive.torrent
-2018-10-11 00:00:10,039 INFO root Skipping falconk_archivebot_www_reddit_com_20170203_files.xml
-2018-10-11 00:00:10,040 INFO root Skipping falconk_archivebot_www_reddit_com_20170203_meta.sqlite
-2018-10-11 00:00:10,040 INFO root Skipping falconk_archivebot_www_reddit_com_20170203_meta.xml
-2018-10-11 00:00:10,142 INFO root Processing item falconk_archivebot_www_reddit_com_20170224
-2018-10-11 00:00:10,142 INFO root Skipping falconk_archivebot_www_reddit_com_20170224.cdx.idx
-2018-10-11 00:00:10,142 INFO root Skipping falconk_archivebot_www_reddit_com_20170224_archive.torrent
-2018-10-11 00:00:10,142 INFO root Skipping falconk_archivebot_www_reddit_com_20170224_files.xml
-2018-10-11 00:00:10,142 INFO root Skipping falconk_archivebot_www_reddit_com_20170224_meta.sqlite
-2018-10-11 00:00:10,143 INFO root Skipping falconk_archivebot_www_reddit_com_20170224_meta.xml
-2018-10-11 00:00:10,238 INFO root Processing item falconk_archivebot_www_rushlimbaugh_com_20170204
-2018-10-11 00:00:10,238 INFO root Skipping falconk_archivebot_www_rushlimbaugh_com_20170204.cdx.idx
-2018-10-11 00:00:10,238 INFO root Skipping falconk_archivebot_www_rushlimbaugh_com_20170204_archive.torrent
-2018-10-11 00:00:10,238 INFO root Skipping falconk_archivebot_www_rushlimbaugh_com_20170204_files.xml
-2018-10-11 00:00:10,239 INFO root Skipping falconk_archivebot_www_rushlimbaugh_com_20170204_meta.sqlite
-2018-10-11 00:00:10,239 INFO root Skipping falconk_archivebot_www_rushlimbaugh_com_20170204_meta.xml
-2018-10-11 00:00:10,334 INFO root Processing item falconk_archivebot_www_terra_com_br_20170629
-2018-10-11 00:00:10,335 INFO root Skipping falconk_archivebot_www_terra_com_br_20170629.cdx.idx
-2018-10-11 00:00:10,335 INFO root Skipping falconk_archivebot_www_terra_com_br_20170629_archive.torrent
-2018-10-11 00:00:10,335 INFO root Skipping falconk_archivebot_www_terra_com_br_20170629_files.xml
-2018-10-11 00:00:10,335 INFO root Skipping falconk_archivebot_www_terra_com_br_20170629_meta.sqlite
-2018-10-11 00:00:10,335 INFO root Skipping falconk_archivebot_www_terra_com_br_20170629_meta.xml
-2018-10-11 00:00:10,568 INFO root Processing item falconk_archivebot_www_theblaze_com_20170331
-2018-10-11 00:00:10,568 INFO root Skipping falconk_archivebot_www_theblaze_com_20170331.cdx.idx
-2018-10-11 00:00:10,569 INFO root Skipping falconk_archivebot_www_theblaze_com_20170331_archive.torrent
-2018-10-11 00:00:10,569 INFO root Skipping falconk_archivebot_www_theblaze_com_20170331_files.xml
-2018-10-11 00:00:10,569 INFO root Skipping falconk_archivebot_www_theblaze_com_20170331_meta.sqlite
-2018-10-11 00:00:10,569 INFO root Skipping falconk_archivebot_www_theblaze_com_20170331_meta.xml
-2018-10-11 00:00:10,666 INFO root Processing item falconk_archivebot_www_theguardian_com_20170214
-2018-10-11 00:00:10,666 INFO root Skipping falconk_archivebot_www_theguardian_com_20170214.cdx.idx
-2018-10-11 00:00:10,666 INFO root Skipping falconk_archivebot_www_theguardian_com_20170214_archive.torrent
-2018-10-11 00:00:10,666 INFO root Skipping falconk_archivebot_www_theguardian_com_20170214_files.xml
-2018-10-11 00:00:10,666 INFO root Skipping falconk_archivebot_www_theguardian_com_20170214_meta.sqlite
-2018-10-11 00:00:10,666 INFO root Skipping falconk_archivebot_www_theguardian_com_20170214_meta.xml
-2018-10-11 00:00:10,758 INFO root Processing item falconk_archivebot_www_yahoo_com_20170514
-2018-10-11 00:00:10,759 INFO root Skipping falconk_archivebot_www_yahoo_com_20170514.cdx.idx
-2018-10-11 00:00:10,759 INFO root Skipping falconk_archivebot_www_yahoo_com_20170514_archive.torrent
-2018-10-11 00:00:10,759 INFO root Skipping falconk_archivebot_www_yahoo_com_20170514_files.xml
-2018-10-11 00:00:10,759 INFO root Skipping falconk_archivebot_www_yahoo_com_20170514_meta.sqlite
-2018-10-11 00:00:10,759 INFO root Skipping falconk_archivebot_www_yahoo_com_20170514_meta.xml
-2018-10-11 00:00:10,853 INFO root Processing item falconk_archivebot_www_youtube_com_20170324
-2018-10-11 00:00:10,854 INFO root Skipping falconk_archivebot_www_youtube_com_20170324.cdx.idx
-2018-10-11 00:00:10,854 INFO root Skipping falconk_archivebot_www_youtube_com_20170324_archive.torrent
-2018-10-11 00:00:10,854 INFO root Skipping falconk_archivebot_www_youtube_com_20170324_files.xml
-2018-10-11 00:00:10,854 INFO root Skipping falconk_archivebot_www_youtube_com_20170324_meta.sqlite
-2018-10-11 00:00:10,854 INFO root Skipping falconk_archivebot_www_youtube_com_20170324_meta.xml
-2018-10-11 00:00:10,955 INFO root Processing item falconk_archivebot_www_youtube_com_20170818
-2018-10-11 00:00:10,955 INFO root Skipping falconk_archivebot_www_youtube_com_20170818.cdx.idx
-2018-10-11 00:00:10,955 INFO root Skipping falconk_archivebot_www_youtube_com_20170818_archive.torrent
-2018-10-11 00:00:10,955 INFO root Skipping falconk_archivebot_www_youtube_com_20170818_files.xml
-2018-10-11 00:00:10,955 INFO root Skipping falconk_archivebot_www_youtube_com_20170818_meta.sqlite
-2018-10-11 00:00:10,955 INFO root Skipping falconk_archivebot_www_youtube_com_20170818_meta.xml
-2018-10-11 00:00:11,054 INFO root Processing item falconk_archivebot_www_zdnet_com_20170609
-2018-10-11 00:00:11,054 INFO root Skipping falconk_archivebot_www_zdnet_com_20170609.cdx.idx
-2018-10-11 00:00:11,054 INFO root Skipping falconk_archivebot_www_zdnet_com_20170609_archive.torrent
-2018-10-11 00:00:11,054 INFO root Skipping falconk_archivebot_www_zdnet_com_20170609_files.xml
-2018-10-11 00:00:11,054 INFO root Skipping falconk_archivebot_www_zdnet_com_20170609_meta.sqlite
-2018-10-11 00:00:11,055 INFO root Skipping falconk_archivebot_www_zdnet_com_20170609_meta.xml
-2018-10-11 00:00:11,159 INFO root Processing item falconk_archivebot_www_zerohedge_com_20170123
-2018-10-11 00:00:11,159 INFO root Skipping falconk_archivebot_www_zerohedge_com_20170123.cdx.idx
-2018-10-11 00:00:11,160 INFO root Skipping falconk_archivebot_www_zerohedge_com_20170123_archive.torrent
-2018-10-11 00:00:11,160 INFO root Skipping falconk_archivebot_www_zerohedge_com_20170123_files.xml
-2018-10-11 00:00:11,160 INFO root Skipping falconk_archivebot_www_zerohedge_com_20170123_meta.sqlite
-2018-10-11 00:00:11,160 INFO root Skipping falconk_archivebot_www_zerohedge_com_20170123_meta.xml
-2018-10-11 00:00:11,160 INFO root Writing last-update file
-2018-10-11 00:00:11,161 INFO root Done
+2018-10-11 06:00:01,674 DEBU root Last attempt: 2018-10-11T00:00:01Z
+2018-10-11 06:00:01,675 DEBU root Last success: 2018-10-11T00:00:01Z
+2018-10-11 06:00:01,675 INFO root Writing last-update file
+2018-10-11 06:00:01,676 INFO root Query: 'collection:archivebot oai_updatedate:[2018-10-11T00:00:01Z TO null]'
+2018-10-11 06:00:02,844 INFO root Processing item archiveteam_archivebot_go_20170704170001
+2018-10-11 06:00:02,844 INFO root Skipping archiveteam_archivebot_go_20170704170001.cdx.idx
+2018-10-11 06:00:02,844 INFO root Skipping archiveteam_archivebot_go_20170704170001_archive.torrent
+2018-10-11 06:00:02,844 INFO root Skipping archiveteam_archivebot_go_20170704170001_files.xml
+2018-10-11 06:00:02,845 INFO root Skipping archiveteam_archivebot_go_20170704170001_meta.sqlite
+2018-10-11 06:00:02,845 INFO root Skipping archiveteam_archivebot_go_20170704170001_meta.xml
+2018-10-11 06:00:02,961 INFO root Processing item archiveteam_archivebot_go_20170707220002
+2018-10-11 06:00:02,962 INFO root Skipping archiveteam_archivebot_go_20170707220002.cdx.idx
+2018-10-11 06:00:02,962 INFO root Skipping archiveteam_archivebot_go_20170707220002_archive.torrent
+2018-10-11 06:00:02,962 INFO root Skipping archiveteam_archivebot_go_20170707220002_files.xml
+2018-10-11 06:00:02,962 INFO root Skipping archiveteam_archivebot_go_20170707220002_meta.sqlite
+2018-10-11 06:00:02,962 INFO root Skipping archiveteam_archivebot_go_20170707220002_meta.xml
+2018-10-11 06:00:03,070 INFO root Processing item archiveteam_archivebot_go_20171106060001
+2018-10-11 06:00:03,071 INFO root Skipping archiveteam_archivebot_go_20171106060001.cdx.idx
+2018-10-11 06:00:03,071 INFO root Skipping archiveteam_archivebot_go_20171106060001_archive.torrent
+2018-10-11 06:00:03,071 INFO root Skipping archiveteam_archivebot_go_20171106060001_files.xml
+2018-10-11 06:00:03,071 INFO root Skipping archiveteam_archivebot_go_20171106060001_meta.sqlite
+2018-10-11 06:00:03,071 INFO root Skipping archiveteam_archivebot_go_20171106060001_meta.xml
+2018-10-11 06:00:03,369 INFO root Processing item archiveteam_archivebot_go_20181010110002
+2018-10-11 06:00:03,370 INFO root Skipping archiveteam_archivebot_go_20181010110002.cdx.idx
+2018-10-11 06:00:03,370 INFO root Skipping archiveteam_archivebot_go_20181010110002_archive.torrent
+2018-10-11 06:00:03,370 INFO root Skipping archiveteam_archivebot_go_20181010110002_files.xml
+2018-10-11 06:00:03,370 INFO root Skipping archiveteam_archivebot_go_20181010110002_meta.sqlite
+2018-10-11 06:00:03,370 INFO root Skipping archiveteam_archivebot_go_20181010110002_meta.xml
+2018-10-11 06:00:03,819 INFO root Processing item archiveteam_archivebot_go_20181010170002
+2018-10-11 06:00:03,819 INFO root Skipping archiveteam_archivebot_go_20181010170002.cdx.idx
+2018-10-11 06:00:03,819 INFO root Skipping archiveteam_archivebot_go_20181010170002_archive.torrent
+2018-10-11 06:00:03,819 INFO root Skipping archiveteam_archivebot_go_20181010170002_files.xml
+2018-10-11 06:00:03,820 INFO root Skipping archiveteam_archivebot_go_20181010170002_meta.sqlite
+2018-10-11 06:00:03,820 INFO root Skipping archiveteam_archivebot_go_20181010170002_meta.xml
+2018-10-11 06:00:04,091 INFO root Processing item archiveteam_archivebot_go_20181010190002
+2018-10-11 06:00:04,092 INFO root Skipping archiveteam_archivebot_go_20181010190002_archive.torrent
+2018-10-11 06:00:04,092 INFO root Skipping archiveteam_archivebot_go_20181010190002_files.xml
+2018-10-11 06:00:04,092 INFO root Skipping archiveteam_archivebot_go_20181010190002_meta.sqlite
+2018-10-11 06:00:04,092 INFO root Skipping archiveteam_archivebot_go_20181010190002_meta.xml
+2018-10-11 06:00:04,211 INFO root Processing item archiveteam_archivebot_go_20181010220002
+2018-10-11 06:00:04,211 INFO root Skipping archiveteam_archivebot_go_20181010220002_archive.torrent
+2018-10-11 06:00:04,211 INFO root Skipping archiveteam_archivebot_go_20181010220002_files.xml
+2018-10-11 06:00:04,212 INFO root Skipping archiveteam_archivebot_go_20181010220002_meta.sqlite
+2018-10-11 06:00:04,212 INFO root Skipping archiveteam_archivebot_go_20181010220002_meta.xml
+2018-10-11 06:00:04,332 INFO root Processing item archiveteam_archivebot_go_userweb_shikoku_ne_jp_20170104
+2018-10-11 06:00:04,333 INFO root Skipping archiveteam_archivebot_go_userweb_shikoku_ne_jp_20170104.cdx.idx
+2018-10-11 06:00:04,333 INFO root Skipping archiveteam_archivebot_go_userweb_shikoku_ne_jp_20170104_archive.torrent
+2018-10-11 06:00:04,333 INFO root Skipping archiveteam_archivebot_go_userweb_shikoku_ne_jp_20170104_files.xml
+2018-10-11 06:00:04,333 INFO root Skipping archiveteam_archivebot_go_userweb_shikoku_ne_jp_20170104_meta.sqlite
+2018-10-11 06:00:04,333 INFO root Skipping archiveteam_archivebot_go_userweb_shikoku_ne_jp_20170104_meta.xml
+2018-10-11 06:00:04,543 INFO root Processing item archiveteam_archivebot_go_www_gq_com_20170119
+2018-10-11 06:00:04,544 INFO root Skipping archiveteam_archivebot_go_www_gq_com_20170119.cdx.idx
+2018-10-11 06:00:04,544 INFO root Skipping archiveteam_archivebot_go_www_gq_com_20170119_archive.torrent
+2018-10-11 06:00:04,544 INFO root Skipping archiveteam_archivebot_go_www_gq_com_20170119_files.xml
+2018-10-11 06:00:04,544 INFO root Skipping archiveteam_archivebot_go_www_gq_com_20170119_meta.sqlite
+2018-10-11 06:00:04,544 INFO root Skipping archiveteam_archivebot_go_www_gq_com_20170119_meta.xml
+2018-10-11 06:00:04,644 INFO root Processing item archiveteam_archivebot_go_www_nhc_ac_uk_20170118
+2018-10-11 06:00:04,645 INFO root Skipping archiveteam_archivebot_go_www_nhc_ac_uk_20170118.cdx.idx
+2018-10-11 06:00:04,645 INFO root Skipping archiveteam_archivebot_go_www_nhc_ac_uk_20170118_archive.torrent
+2018-10-11 06:00:04,645 INFO root Skipping archiveteam_archivebot_go_www_nhc_ac_uk_20170118_files.xml
+2018-10-11 06:00:04,645 INFO root Skipping archiveteam_archivebot_go_www_nhc_ac_uk_20170118_meta.sqlite
+2018-10-11 06:00:04,645 INFO root Skipping archiveteam_archivebot_go_www_nhc_ac_uk_20170118_meta.xml
+2018-10-11 06:00:04,743 INFO root Processing item archiveteam_archivebot_go_www_washingtonpost_com_20170127
+2018-10-11 06:00:04,744 INFO root Skipping archiveteam_archivebot_go_www_washingtonpost_com_20170127.cdx.idx
+2018-10-11 06:00:04,744 INFO root Skipping archiveteam_archivebot_go_www_washingtonpost_com_20170127_archive.torrent
+2018-10-11 06:00:04,744 INFO root Skipping archiveteam_archivebot_go_www_washingtonpost_com_20170127_files.xml
+2018-10-11 06:00:04,744 INFO root Skipping archiveteam_archivebot_go_www_washingtonpost_com_20170127_meta.sqlite
+2018-10-11 06:00:04,745 INFO root Skipping archiveteam_archivebot_go_www_washingtonpost_com_20170127_meta.xml
+2018-10-11 06:00:04,848 INFO root Processing item falconk_archivebot_antipodean-resistance_info_20161204
+2018-10-11 06:00:04,849 INFO root Skipping falconk_archivebot_antipodean-resistance_info_20161204.cdx.idx
+2018-10-11 06:00:04,849 INFO root Skipping falconk_archivebot_antipodean-resistance_info_20161204_archive.torrent
+2018-10-11 06:00:04,849 INFO root Skipping falconk_archivebot_antipodean-resistance_info_20161204_files.xml
+2018-10-11 06:00:04,849 INFO root Skipping falconk_archivebot_antipodean-resistance_info_20161204_meta.sqlite
+2018-10-11 06:00:04,849 INFO root Skipping falconk_archivebot_antipodean-resistance_info_20161204_meta.xml
+2018-10-11 06:00:04,942 INFO root Processing item falconk_archivebot_jope_fi_20170120
+2018-10-11 06:00:04,942 INFO root Skipping falconk_archivebot_jope_fi_20170120.cdx.idx
+2018-10-11 06:00:04,943 INFO root Skipping falconk_archivebot_jope_fi_20170120_archive.torrent
+2018-10-11 06:00:04,943 INFO root Skipping falconk_archivebot_jope_fi_20170120_files.xml
+2018-10-11 06:00:04,943 INFO root Skipping falconk_archivebot_jope_fi_20170120_meta.sqlite
+2018-10-11 06:00:04,943 INFO root Skipping falconk_archivebot_jope_fi_20170120_meta.xml
+2018-10-11 06:00:05,050 INFO root Processing item falconk_archivebot_prism-break_org_20161125
+2018-10-11 06:00:05,051 INFO root Skipping falconk_archivebot_prism-break_org_20161125.cdx.idx
+2018-10-11 06:00:05,051 INFO root Skipping falconk_archivebot_prism-break_org_20161125_archive.torrent
+2018-10-11 06:00:05,051 INFO root Skipping falconk_archivebot_prism-break_org_20161125_files.xml
+2018-10-11 06:00:05,051 INFO root Skipping falconk_archivebot_prism-break_org_20161125_meta.sqlite
+2018-10-11 06:00:05,051 INFO root Skipping falconk_archivebot_prism-break_org_20161125_meta.xml
+2018-10-11 06:00:05,277 INFO root Processing item falconk_archivebot_sulley_cah_ucf_edu_20161126
+2018-10-11 06:00:05,277 INFO root Skipping falconk_archivebot_sulley_cah_ucf_edu_20161126.cdx.idx
+2018-10-11 06:00:05,277 INFO root Skipping falconk_archivebot_sulley_cah_ucf_edu_20161126_archive.torrent
+2018-10-11 06:00:05,278 INFO root Skipping falconk_archivebot_sulley_cah_ucf_edu_20161126_files.xml
+2018-10-11 06:00:05,278 INFO root Skipping falconk_archivebot_sulley_cah_ucf_edu_20161126_meta.sqlite
+2018-10-11 06:00:05,278 INFO root Skipping falconk_archivebot_sulley_cah_ucf_edu_20161126_meta.xml
+2018-10-11 06:00:05,493 INFO root Processing item falconk_archivebot_thehill_com_20170612
+2018-10-11 06:00:05,493 INFO root Skipping falconk_archivebot_thehill_com_20170612.cdx.idx
+2018-10-11 06:00:05,493 INFO root Skipping falconk_archivebot_thehill_com_20170612_archive.torrent
+2018-10-11 06:00:05,493 INFO root Skipping falconk_archivebot_thehill_com_20170612_files.xml
+2018-10-11 06:00:05,494 INFO root Skipping falconk_archivebot_thehill_com_20170612_meta.sqlite
+2018-10-11 06:00:05,494 INFO root Skipping falconk_archivebot_thehill_com_20170612_meta.xml
+2018-10-11 06:00:05,594 INFO root Processing item falconk_archivebot_theoutline_com_20170621
+2018-10-11 06:00:05,594 INFO root Skipping falconk_archivebot_theoutline_com_20170621.cdx.idx
+2018-10-11 06:00:05,594 INFO root Skipping falconk_archivebot_theoutline_com_20170621_archive.torrent
+2018-10-11 06:00:05,594 INFO root Skipping falconk_archivebot_theoutline_com_20170621_files.xml
+2018-10-11 06:00:05,594 INFO root Skipping falconk_archivebot_theoutline_com_20170621_meta.sqlite
+2018-10-11 06:00:05,594 INFO root Skipping falconk_archivebot_theoutline_com_20170621_meta.xml
+2018-10-11 06:00:05,788 INFO root Processing item falconk_archivebot_twitter_com_20170209
+2018-10-11 06:00:05,789 INFO root Skipping falconk_archivebot_twitter_com_20170209.cdx.idx
+2018-10-11 06:00:05,789 INFO root Skipping falconk_archivebot_twitter_com_20170209_archive.torrent
+2018-10-11 06:00:05,789 INFO root Skipping falconk_archivebot_twitter_com_20170209_files.xml
+2018-10-11 06:00:05,789 INFO root Skipping falconk_archivebot_twitter_com_20170209_meta.sqlite
+2018-10-11 06:00:05,789 INFO root Skipping falconk_archivebot_twitter_com_20170209_meta.xml
+2018-10-11 06:00:05,888 INFO root Processing item falconk_archivebot_verysmartbrothas_com_20161201
+2018-10-11 06:00:05,889 INFO root Skipping falconk_archivebot_verysmartbrothas_com_20161201.cdx.idx
+2018-10-11 06:00:05,889 INFO root Skipping falconk_archivebot_verysmartbrothas_com_20161201_archive.torrent
+2018-10-11 06:00:05,889 INFO root Skipping falconk_archivebot_verysmartbrothas_com_20161201_files.xml
+2018-10-11 06:00:05,889 INFO root Skipping falconk_archivebot_verysmartbrothas_com_20161201_meta.sqlite
+2018-10-11 06:00:05,889 INFO root Skipping falconk_archivebot_verysmartbrothas_com_20161201_meta.xml
+2018-10-11 06:00:05,988 INFO root Processing item falconk_archivebot_whitegenocide_info_20170703
+2018-10-11 06:00:05,989 INFO root Skipping falconk_archivebot_whitegenocide_info_20170703.cdx.idx
+2018-10-11 06:00:05,989 INFO root Skipping falconk_archivebot_whitegenocide_info_20170703_archive.torrent
+2018-10-11 06:00:05,989 INFO root Skipping falconk_archivebot_whitegenocide_info_20170703_files.xml
+2018-10-11 06:00:05,989 INFO root Skipping falconk_archivebot_whitegenocide_info_20170703_meta.sqlite
+2018-10-11 06:00:05,989 INFO root Skipping falconk_archivebot_whitegenocide_info_20170703_meta.xml
+2018-10-11 06:00:06,091 INFO root Processing item falconk_archivebot_www_classiccmp_org_20170825
+2018-10-11 06:00:06,092 INFO root Skipping falconk_archivebot_www_classiccmp_org_20170825.cdx.idx
+2018-10-11 06:00:06,092 INFO root Skipping falconk_archivebot_www_classiccmp_org_20170825_archive.torrent
+2018-10-11 06:00:06,092 INFO root Skipping falconk_archivebot_www_classiccmp_org_20170825_files.xml
+2018-10-11 06:00:06,092 INFO root Skipping falconk_archivebot_www_classiccmp_org_20170825_meta.sqlite
+2018-10-11 06:00:06,093 INFO root Skipping falconk_archivebot_www_classiccmp_org_20170825_meta.xml
+2018-10-11 06:00:06,293 INFO root Processing item falconk_archivebot_www_kvoa_com_20170502
+2018-10-11 06:00:06,293 INFO root Skipping falconk_archivebot_www_kvoa_com_20170502.cdx.idx
+2018-10-11 06:00:06,293 INFO root Skipping falconk_archivebot_www_kvoa_com_20170502_archive.torrent
+2018-10-11 06:00:06,294 INFO root Skipping falconk_archivebot_www_kvoa_com_20170502_files.xml
+2018-10-11 06:00:06,294 INFO root Skipping falconk_archivebot_www_kvoa_com_20170502_meta.sqlite
+2018-10-11 06:00:06,294 INFO root Skipping falconk_archivebot_www_kvoa_com_20170502_meta.xml
+2018-10-11 06:00:06,544 INFO root Processing item falconk_archivebot_www_mixcloud_com_20170822
+2018-10-11 06:00:06,551 INFO root Skipping falconk_archivebot_www_mixcloud_com_20170822.cdx.idx
+2018-10-11 06:00:06,551 INFO root Skipping falconk_archivebot_www_mixcloud_com_20170822_archive.torrent
+2018-10-11 06:00:06,552 INFO root Skipping falconk_archivebot_www_mixcloud_com_20170822_files.xml
+2018-10-11 06:00:06,552 INFO root Skipping falconk_archivebot_www_mixcloud_com_20170822_meta.sqlite
+2018-10-11 06:00:06,552 INFO root Skipping falconk_archivebot_www_mixcloud_com_20170822_meta.xml
+2018-10-11 06:00:06,805 INFO root Processing item falconk_archivebot_www_peacehealthlabs_org_20170403
+2018-10-11 06:00:06,805 INFO root Skipping falconk_archivebot_www_peacehealthlabs_org_20170403.cdx.idx
+2018-10-11 06:00:06,805 INFO root Skipping falconk_archivebot_www_peacehealthlabs_org_20170403_archive.torrent
+2018-10-11 06:00:06,805 INFO root Skipping falconk_archivebot_www_peacehealthlabs_org_20170403_files.xml
+2018-10-11 06:00:06,805 INFO root Skipping falconk_archivebot_www_peacehealthlabs_org_20170403_meta.sqlite
+2018-10-11 06:00:06,806 INFO root Skipping falconk_archivebot_www_peacehealthlabs_org_20170403_meta.xml
+2018-10-11 06:00:07,002 INFO root Processing item falconk_archivebot_www_reddit_com_20170125
+2018-10-11 06:00:07,002 INFO root Skipping falconk_archivebot_www_reddit_com_20170125.cdx.idx
+2018-10-11 06:00:07,002 INFO root Skipping falconk_archivebot_www_reddit_com_20170125_archive.torrent
+2018-10-11 06:00:07,003 INFO root Skipping falconk_archivebot_www_reddit_com_20170125_files.xml
+2018-10-11 06:00:07,003 INFO root Skipping falconk_archivebot_www_reddit_com_20170125_meta.sqlite
+2018-10-11 06:00:07,003 INFO root Skipping falconk_archivebot_www_reddit_com_20170125_meta.xml
+2018-10-11 06:00:07,100 INFO root Processing item falconk_archivebot_www_reddit_com_20170228
+2018-10-11 06:00:07,100 INFO root Skipping falconk_archivebot_www_reddit_com_20170228.cdx.idx
+2018-10-11 06:00:07,100 INFO root Skipping falconk_archivebot_www_reddit_com_20170228_archive.torrent
+2018-10-11 06:00:07,100 INFO root Skipping falconk_archivebot_www_reddit_com_20170228_files.xml
+2018-10-11 06:00:07,100 INFO root Skipping falconk_archivebot_www_reddit_com_20170228_meta.sqlite
+2018-10-11 06:00:07,100 INFO root Skipping falconk_archivebot_www_reddit_com_20170228_meta.xml
+2018-10-11 06:00:07,331 INFO root Processing item falconk_archivebot_www_zebu_org_br_20170629
+2018-10-11 06:00:07,332 INFO root Skipping falconk_archivebot_www_zebu_org_br_20170629.cdx.idx
+2018-10-11 06:00:07,332 INFO root Skipping falconk_archivebot_www_zebu_org_br_20170629_archive.torrent
+2018-10-11 06:00:07,332 INFO root Skipping falconk_archivebot_www_zebu_org_br_20170629_files.xml
+2018-10-11 06:00:07,332 INFO root Skipping falconk_archivebot_www_zebu_org_br_20170629_meta.sqlite
+2018-10-11 06:00:07,332 INFO root Skipping falconk_archivebot_www_zebu_org_br_20170629_meta.xml
+2018-10-11 06:00:07,332 INFO root Writing last-update file
+2018-10-11 06:00:07,333 INFO root Done
